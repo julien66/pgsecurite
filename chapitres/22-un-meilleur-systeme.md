@@ -2,7 +2,7 @@
 
 ### Cartographier les accidents. Détecter les sites et les secteurs les plus générateurs d’accidents
 
-Les statistiques (françaises et généralistes à des fins d’assurance principalement) dont nous disposons actuellement font état de la répartition suivante des accidents : ⅓ d’accident au décollage, ⅓ en l’air et le dernier tiers à l’atterrissage.
+Les statistiques (françaises et généralistes à des fins d’assurance principalement) dont nous disposons actuellement font état de la répartition suivante des accidents : ⅓ d’accident au décollage, ⅓ en l’air et le dernier tiers à l’atterrissage. **[BROUILLON À RELIRE]** Les déclarations de 2024 et 2025 précisent ce tableau : l’atterrissage et l’approche pèsent plus de 40 % des accidents, le décollage environ un tiers, et le vol un sur cinq à un sur quatre (voir « Qui compte nos morts ? »). **[FIN DU BROUILLON]**
 
 A travers ce travail de cartographie, les décollages et les atterrissages les plus générateurs d’accidents (il y en a \!) pourraient être signalés aux gestionnaires de site concernés. Je connais des terrains d’atterrissage qui produisent des statistiques effroyables, certains dans des endroits parfois “réputés”. Dans certains cas, il n’y a pas d’autres alternatives foncières et alors le problème devient épineux. Occasionnellement, au contraire il y a des alternatives et nous devrions faire l’effort d’échanger ou d’aménager le terrain habituel. Partout où les statistiques sont mauvaises et dans l'hypothèse où le décollage / atterrissage ne peut pas être changé, nous pouvons signaler un site à caractère hautement accidentogène par une forme de balisage.
 

@@ -6,7 +6,7 @@ Chapitre polémique mais néanmoins indispensable. **[BROUILLON À RELIRE]** Il 
 
 D’un côté, il y a le pilote autonome. Il a choisi le vol libre, il s’est formé, il a accepté peu à peu la part de risque et de péril qui fait l’essence de l’activité. C’est lui qui vit la liberté ultime et l’ordalie dont nous avons parlé. C’est son voyage du héros.
 
-De l’autre, il y a le passager d’un biplace ou le stagiaire d’un baptême ou d’une initiation. La grande majorité ne reviendra pas [SOURCE À TROUVER : taux de fidélisation après un biplace ou un stage d’initiation]. Il vient chercher une sensation, un souvenir, une belle photo. Il n’a pas choisi l’ordalie et n’a souvent même pas idée qu’elle existe. On lui a dit : « Bien encadré, ça ne risque rien ».
+De l’autre, il y a le passager d’un biplace ou le stagiaire d’un baptême ou d’une initiation. La grande majorité ne reviendra pas [SOURCE À TROUVER : taux de fidélisation après un biplace ou un stage d’initiation]. Il vient chercher une sensation, un souvenir, une belle photo. Les licenciés FFVL déclarent environ 130 accidents de biplace chaque année, et la moitié des accidents déclarés surviennent en pratique encadrée (voir « Qui compte nos morts ? »). Il n’a pas choisi l’ordalie et n’a souvent même pas idée qu’elle existe. On lui a dit : « Bien encadré, ça ne risque rien ».
 
 Ces deux publics relèvent de deux logiques de sécurité opposées. Le premier peut revendiquer le droit de prendre des risques pour lui-même. Le second a confié sa vie à un professionnel et attend, à juste titre, un niveau de sécurité proche de celui d’un transport de passagers.
 

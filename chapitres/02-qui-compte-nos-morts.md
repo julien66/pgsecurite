@@ -22,6 +22,23 @@ Néanmoins les publications restent rares, les efforts récents et dispersés. C
 
 L’argument avancé est presque toujours le même : la protection des données personnelles. Il est réel, et il mérite d’être pris au sérieux. Mais il ne tient pas comme raison de ne rien publier. D’autres milieux à risque publient sans exposer personne. Les autorités d’enquête aéronautiques publient des rapports d’accidents détaillés. La communauté du base jump tient depuis 1981 une liste publique de ses morts, assez précise pour servir de base à des travaux scientifiques[^c-base]. Des statistiques anonymisées, des analyses par familles d’accidents et des rapports sans nom ne menacent la vie privée de personne. Ce qui empêche de publier, c’est moins le droit que notre culture.
 
+### Ce que disent les déclarations d’accidents
+
+**[BROUILLON À RELIRE]**
+
+Les morts ne sont que la partie visible. Les licenciés FFVL déclarent chaque année plus de 700 accidents : 728 en 2024 et 721 en 2025, à plus de 90 % en parapente[^c-ffvl-export]. Ce sont des déclarations volontaires, faites le plus souvent par le pilote lui-même ou par son moniteur. Le nombre réel d’accidents est forcément plus élevé.
+
+Ces déclarations disent plusieurs choses.
+
+- **Un accident sur trois est grave.** Le pilote est gravement blessé ou tué dans 242 déclarations sur 728 en 2024, et dans 231 sur 721 en 2025.
+- **Un accident sur deux survient en pratique encadrée.** École, biplace, club ou structure : 367 déclarations sur 728 en 2024, 364 sur 721 en 2025. Le biplace représente à lui seul environ 130 déclarations par an. Ces accidents encadrés sont, il faut le dire, nettement moins graves : environ un sur cinq conduit à des blessures graves ou à la mort, contre près d’un sur deux hors encadrement.
+- **On se blesse surtout près du sol, mais on meurt surtout en l’air.** Quand la phase est renseignée, plus de 40 % des accidents surviennent à l’atterrissage ou en approche, environ un tiers au décollage, et seulement un sur cinq à un sur quatre en vol. Mais sur les décès dont la phase est connue, 7 sur 10 en 2024 et 6 sur 7 en 2025 surviennent en vol.
+- **Les collisions entre ailes ne sont pas rares.** 33 collisions avec un autre parapente ou un deltaplane ont été déclarées en 2024, et 22 en 2025.
+
+[À COMPLÉTER : ce que ces chiffres t’inspirent, et ce qu’ils ne disent pas (heures de vol, nombre de pratiquants).]
+
+**[FIN DU BROUILLON]**
+
 ### Ne pas compter, c’est déjà une réponse
 
 Je ne vais donc pas ouvrir ce livre par un tableau de chiffres définitifs, parce qu’ils n’existent pas. Ce manque est en lui-même une réponse. Une communauté qui ne compte pas ses morts peut continuer de croire que son activité est sûre. Elle peut traiter chaque accident comme un cas isolé, une erreur individuelle, Un "Pilotenfehler" de plus, une bétise ou une exception.  Pourvu qu'elle n’ait jamais à se confronter au total.
@@ -39,6 +56,8 @@ Je ne vais donc pas ouvrir ce livre par un tableau de chiffres définitifs, parc
 [^c-masters-forum]:  Voir par exemple ce fil de discussion du Paragliding Forum : https://www.paraglidingforum.com/viewtopic.php?t=42084
 
 [^c-ffvl-dc]:  Liste des accidents mortels de licenciés FFVL, tenue par l’association SecuParapente en collaboration avec la FFVL, consultée le 25 octobre 2026 : https://docs.google.com/spreadsheets/d/1wxVhd0yYPexm0K1kTjykO-dWz9CoVrVmmgAS2jh-m3Y
+
+[^c-ffvl-export]:  Exports des déclarations d’accidents des licenciés FFVL pour 2024 et 2025, communiqués à l’auteur. Calculs de l’auteur ; seuls des totaux anonymes sont cités.
 
 [^c-shv-2025]:  Beni Stocker, analyse des accidents 2025, Swiss Glider n° 05/06, 2026, Fédération Suisse de Vol Libre : https://www.shv-fsvl.ch/fileadmin/files/redakteure/Allgemein/Sicherheit/Unfallmeldungen/Unfallanalysen/2025.pdf
 
