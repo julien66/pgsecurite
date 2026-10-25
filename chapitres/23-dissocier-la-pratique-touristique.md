@@ -37,7 +37,7 @@ Ce mentor n’est pas un moniteur biplaceur. C’est un maître Jedi, un expert 
 
 **Un armement.** Le parrain et le mentor accompagnent le héros, mais ils ne voleront pas à sa place. Une fois en l’air, il est seul. Il serait donc sage de l’équiper de ce qu’il lui faut pour espérer réussir son voyage : des provisions, et quelques armes un peu magiques, comme celles que les elfes confient au héros avant son départ, au cas où. Il ne s’en servira peut-être jamais. Mais le jour où il en aura besoin, il n’aura pas le temps d’aller les chercher.
 
-Cet armement n’est pas le même pour tous. Il est directement lié à la pratique que le héros a choisie. On ne s’équipe pas de la même façon pour des vols de soirée sur son site, pour un grand cross en montagne ou pour une traversée en paralpinisme. C’est au mentor de l’aider à constituer le sien, et à le compléter à chaque nouvelle étape de la quête. Car l’armement se construit comme le voyage : chaque nouvelle épreuve ajoute ses armes à celles de la précédente.
+Cet armement n’est pas le même pour tous. Il est directement lié à la pratique que le héros a choisie. On ne s’équipe pas de la même façon pour des vols de soirée sur son site, pour un grand cross en montagne ou pour une traversée en paralpinisme. C’est au mentor de l’aider à constituer le sien, et à le compléter à chaque nouvelle étape de la quête. Le plus souvent, l’armement se construit comme le voyage : chaque nouvelle épreuve ajoute ses armes à celles de la précédente.
 
 **Le socle : le vol sur site.** Tant que le pilote reste à finesse d’un atterrissage, il emporte :
 
@@ -54,7 +54,7 @@ Cet armement n’est pas le même pour tous. Il est directement lié à la prati
 - une corde et un descendeur, pour descendre d’un arbre ou d’une barre ;
 - une couverture de survie, pour attendre les secours.
 
-**Le paralpinisme.** Le paralpiniste emporte l’armement du cross, mais il voyage plus loin et plus longtemps hors de toute aide. Deux pièces y deviennent l’essentiel : une boussole ou un GPS pour s’orienter quand le terrain et la météo se referment, et un traqueur par satellite, parce que le réseau GSM y est l’exception plutôt que la règle.
+**Le paralpinisme.** Ici, la logique s’inverse. Le paralpiniste porte tout sur son dos, à pied comme en vol, et chaque gramme compte : il veut voler léger. Son armement se réduit donc au strict nécessaire, une boussole ou un GPS pour s’orienter. Et s’il ne devait embarquer qu’une seule arme, ce serait un traqueur par satellite : là où il va, le réseau GSM est l’exception, et c’est souvent la seule chose qui permettra de le retrouver.
 
 [À COMPLÉTER : l’armement des autres pratiques (voltige, course…), et ce qui relève des provisions (savoirs, entraînement) plutôt que des armes.]
 
