@@ -16,15 +16,13 @@ C’est peut-être la leçon la plus dérangeante. Il a fallu un adversaire déc
 
 ### Des données rares et fermées
 
-Depuis quelques années, les choses bougent un peu. La FFVL diffuse depuis 2017 une liste des accidents mortels de ses licenciés, tenue par l’association SecuParapente en collaboration avec la fédération[^c-ffvl-dc]. Elle recense 18 accidents mortels en 2023, 15 en 2024, 15 en 2025, et déjà 18 en 2026 à la fin du mois d’octobre. Le parapente représente l’immense majorité de ces décès. La grande majorité survient en vol, et non au décollage ou à l’atterrissage. Et la pratique encadrée n’est pas épargnée : en 2024, 8 des 15 accidents mortels sont survenus en école ou en biplace. Plus de la moitié. En 2025, 3 accidents en pratique encadrée ont fait 5 morts : deux d’entre eux ont tué à la fois le pilote et son passager. En 2026, on en compte de nouveau 3, dont un accident de biplace en deltaplane qui a coûté la vie au pilote et à son passager. Voilà qui sonne étrangement face au discours « Bien encadré, ça ne risque rien ». La même liste tient à part, de façon non exhaustive, les décès de pilotes non licenciés sur le territoire français. En 2026, il y en a eu 13. Treize ! Cela fait au moins 31 morts en vol libre en France en dix mois, dont plus de quatre sur dix échappent aux statistiques fédérales. Quelques fédérations publient une analyse annuelle de leurs accidents. La fédération suisse, par exemple, a recensé 107 déclarations d’accidents en 2025, dont 98 en parapente, et 13 décès en parapente sur 17 décès en vol libre. Elle précise elle-même que le nombre réel d’accidents est bien plus élevé que le nombre déclaré[^c-shv-2025]. La fédération allemande (DHV), l'union des fédération Européene (EHPU) et même récement la commisison internationale de vol libre (CIVL) ont tous des bases de données accidents. 
+Depuis quelques années, les choses bougent un peu. La FFVL diffuse depuis 2017 une liste des accidents mortels de ses licenciés, tenue par l’association SecuParapente en collaboration avec la fédération[^c-ffvl-dc]. Elle recense 18 accidents mortels en 2023, 15 en 2024, 15 en 2025, et déjà 18 en 2026 à la fin du mois d’octobre. Le parapente représente l’immense majorité de ces décès. La grande majorité survient en vol, et non au décollage ou à l’atterrissage. Et la pratique encadrée n’est pas épargnée : en 2024, 8 des 15 accidents mortels sont survenus en école ou en biplace. Plus de la moitié. En 2025, 3 accidents en pratique encadrée ont fait 5 morts : deux d’entre eux ont tué à la fois le pilote et son passager. En 2026, on en compte de nouveau 3, dont un accident de biplace en deltaplane qui a coûté la vie au pilote et à son passager. Voilà qui sonne étrangement face au discours « Bien encadré, ça ne risque rien ». La même liste tient à part, de façon non exhaustive, les décès de pilotes non licenciés sur le territoire français. En 2026, il y en a eu 13. Treize ! Cela fait au moins 31 morts en vol libre en France en dix mois, dont plus de quatre sur dix échappent aux statistiques fédérales. Quelques fédérations publient une analyse annuelle de leurs accidents. La fédération suisse, par exemple, a recensé 107 déclarations d’accidents en 2025, dont 98 en parapente, et 13 décès en parapente sur 17 décès en vol libre. Elle précise elle-même que le nombre réel d’accidents est bien plus élevé que le nombre déclaré[^c-shv-2025]. La fédération allemande (DHV), l'union des fédérations Européenes (EHPU) et même récement la commisison internationale de vol libre (CIVL) ont tous des bases de données accidents. 
 
-Néanmoins les publications restent rares, les efforts récents et dispersés. Chaque fédération compte à sa façon, quand elle compte. Aucune base commune n’existe à l’échelle internationale. Et la plupart des données restent fermées.
+Néanmoins les publications restent rares, les efforts trop récents et dispersés. Chaque fédération compte à sa façon, quand elle compte. Aucune base commune n’existe à l’échelle internationale. Et la plupart des données restent fermées.
 
 L’argument avancé est presque toujours le même : la protection des données personnelles. Il est réel, et il mérite d’être pris au sérieux. Mais il ne tient pas comme raison de ne rien publier. D’autres milieux à risque publient sans exposer personne. Les autorités d’enquête aéronautiques publient des rapports d’accidents détaillés. La communauté du base jump tient depuis 1981 une liste publique de ses morts, assez précise pour servir de base à des travaux scientifiques[^c-base]. Des statistiques anonymisées, des analyses par familles d’accidents et des rapports sans nom ne menacent la vie privée de personne. Ce qui empêche de publier, c’est moins le droit que notre culture.
 
 ### Ce que disent les déclarations d’accidents
-
-**[BROUILLON À RELIRE]**
 
 Les morts ne sont que la partie visible. Les licenciés FFVL déclarent chaque année plus de 700 accidents : 728 en 2024 et 721 en 2025, à plus de 90 % en parapente[^c-ffvl-export]. Ce sont des déclarations volontaires, faites le plus souvent par le pilote lui-même ou par son moniteur. Le nombre réel d’accidents est forcément plus élevé.
 
@@ -35,17 +33,13 @@ Ces déclarations disent plusieurs choses.
 - **On se blesse surtout près du sol, mais on meurt surtout en l’air.** Quand la phase est renseignée, plus de 40 % des accidents surviennent à l’atterrissage ou en approche, environ un tiers au décollage, et seulement un sur cinq à un sur quatre en vol. Mais sur les décès dont la phase est connue, 7 sur 10 en 2024 et 6 sur 7 en 2025 surviennent en vol.
 - **Les collisions entre ailes ne sont pas rares.** 33 collisions avec un autre parapente ou un deltaplane ont été déclarées en 2024, et 22 en 2025.
 
-[À COMPLÉTER : ce que ces chiffres t’inspirent, et ce qu’ils ne disent pas (heures de vol, nombre de pratiquants).]
-
-**[FIN DU BROUILLON]**
+A ce stade l'impact individuel et social (sans mauvais jeux de mot) n'est pas complètement négligeable. Il devrait interroger en priorité les victimes de ces accidents et la communauté libériste dans son ensemble. A cet effet, j'ai essayé de traduire ces chiffres autrement. Sur un an et une population de licencié on peine souvent à comprendre ce que les statistiques signifient. Essayons autrement.
 
 ### Une carrière de pilote
 
-**[BROUILLON À RELIRE]**
-
 Rapportons ces chiffres au nombre de pratiquants. La FFVL comptait en 2024 14 989 pilotes de parapente pratiquants, hors stagiaires et primo-licenciés, et 15 486 en 2025[^c-ffvl-licences]. Ces mêmes années, les pilotes licenciés autonomes, c’est-à-dire hors école, biplace et stage SIV, ont déclaré 363 puis 365 accidents. Chaque année, environ 2,4 % des pilotes autonomes déclarent donc un accident, et environ 1 % est gravement blessé ou tué.
 
-Ces pourcentages paraissent faibles. Ils ne le sont plus à l’échelle d’une vie de pilote. Si ce risque restait constant d’une année sur l’autre :
+Ces pourcentages paraissent faibles. Toutefois... si ce risque restait constant d’une année sur l’autre et si nous l'envisagions à l’échelle d’une vie de pilote voici donc ce qui nous attend :
 
 | Sur une carrière de… | 10 ans | 20 ans |
 | :---- | :---- | :---- |
@@ -55,9 +49,7 @@ Ces pourcentages paraissent faibles. Ils ne le sont plus à l’échelle d’une
 
 Autrement dit, un pilote qui vole vingt ans a à peine plus d’une chance sur trois de déclarer au moins un accident, et une sur cinq d’être gravement blessé ou tué. Dans un club de cent pilotes fidèles, une vingtaine seront gravement blessés ou tués en vingt ans, et l’un d’eux y laissera probablement la vie.
 
-Ces chiffres sont prudents. Beaucoup d’accidents ne sont jamais déclarés : si un accident sur deux seulement l’était, près des deux tiers des pilotes en auraient au moins un en vingt ans. Le calcul suppose aussi un risque identique pour tous, alors qu’il varie selon la pratique, l’expérience et l’engagement. À l’inverse, quelques accidents déclarés concernent des pilotes en première année, absents du nombre de pratiquants, ce qui majore légèrement le taux. Pour les décès, l’estimation repose sur une vingtaine de cas en deux ans : elle donne un ordre de grandeur, pas une mesure précise.
-
-**[FIN DU BROUILLON]**
+Ces chiffres sont prudents. Beaucoup d’accidents ne sont jamais déclarés : si un accident sur deux seulement l’était, près des deux tiers des pilotes en auraient au moins un en vingt ans. Le calcul suppose aussi un risque identique pour tous, alors qu’il varie probablement selon la pratique, l’expérience et l’engagement. À l’inverse, quelques accidents déclarés concernent des pilotes en première année, absents du nombre de pratiquants, ce qui majore légèrement le taux. Pour les décès, l’estimation repose sur une vingtaine de cas en deux ans : elle donne un ordre de grandeur, pas une mesure précise.
 
 ### Ne pas compter, c’est déjà une réponse
 
