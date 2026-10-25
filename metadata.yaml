@@ -1,6 +1,7 @@
 ---
 title: "Titre à trouver"
 author: "Julien Garcia"
+rights: "© 2026 Julien Garcia. Licence CC BY-NC-ND 4.0 : https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr"
 lang: fr-FR
 documentclass: book
 classoption:
@@ -12,4 +13,11 @@ mainfont: "DejaVu Serif"
 toc: true
 toc-depth: 2
 toc-title: "Sommaire"
+# Couverture en première page du PDF (build/couverture.pdf, produite par `make couverture`).
+header-includes:
+  - |
+    ```{=latex}
+    \usepackage{pdfpages}
+    \AtBeginDocument{\includepdf[pages=1]{build/couverture.pdf}}
+    ```
 ---
