@@ -51,13 +51,11 @@ Autrement dit, un pilote qui vole trente ans a plus d’une chance sur deux de d
 
 Ces chiffres sont prudents. Beaucoup d’accidents ne sont jamais déclarés : si un accident sur deux seulement l’était, près des deux tiers des pilotes en auraient au moins un en vingt ans. Le calcul suppose aussi un risque identique pour tous, alors qu’il varie probablement selon la pratique, l’expérience et l’engagement. À l’inverse, quelques accidents déclarés concernent des pilotes en première année, absents du nombre de pratiquants, ce qui majore légèrement le taux. Pour les décès, l’estimation repose sur une vingtaine de cas en deux ans : elle donne un ordre de grandeur, pas une mesure précise.
 
+Les chiffres présentés ainsi paraissent invraisemblables mais les mathématiques sont ce qu'ils sont. Si vous volez depuis une trentaine d'année, à l'échelle de votre petit club, le plus probable est que vous ayez déjà perdu un membre. Environ 1 sur 60. Si ce n'est pas votre cas, alors c'est peut-etre simplement deux dans le club voisin... J'ai eu un parcours compétitif qui a mixé de nombreux petits clubs, ligue, structure et même quelques pays. Comme vous l'avez vu en hommage mon dénominateur est malheureusement beaucoup grand que 60. Je n'ai pas perdu qu'un seul ami. C'est le cas de beaucoup de survivants de notre activité.   
+
 ### Ne pas compter, c’est déjà une réponse
 
 Je ne vais donc pas ouvrir ce livre par un tableau de chiffres définitifs, parce qu’ils n’existent pas. Ce manque est en lui-même une réponse. Une communauté qui ne compte pas ses morts peut continuer de croire que son activité est sûre. Elle peut traiter chaque accident comme un cas isolé, une erreur individuelle, Un "Pilotenfehler" de plus, une bétise ou une exception.  Pourvu qu'elle n’ait jamais à se confronter au total.
-
-[À COMPLÉTER : les chiffres français que tu peux citer (FFVL, assurance, préfectures), avec leurs limites.]
-
-**[FIN DU BROUILLON]**
 
 [^c-masters-blog]:  Rick Masters, blog « Ghosts of Wind and Cloud » : https://rickmasters.substack.com
 
