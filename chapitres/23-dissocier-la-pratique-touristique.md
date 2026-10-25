@@ -49,12 +49,12 @@ Cet armement n’est pas le même pour tous. Il est directement lié à la prati
 
 **Le cross.** Dès que le pilote quitte l’autonomie de l’atterrissage du site, il peut se poser n’importe où : dans un arbre, dans une combe isolée, loin de tout secours. Au socle s’ajoutent :
 
-- une boussole ;
+- une boussole, pour garder un cap dans un nuage ;
 - un traqueur principal sur réseau GSM, et un traqueur de secours par satellite, pour être retrouvé là où le téléphone ne passe plus ;
 - une corde et un descendeur, pour descendre d’un arbre ou d’une barre ;
 - une couverture de survie, pour attendre les secours.
 
-**Le paralpinisme.** Ici, la logique s’inverse. Le paralpiniste porte tout sur son dos, à pied comme en vol, et chaque gramme compte : il veut voler léger. Son armement se réduit donc au strict nécessaire, une boussole ou un GPS pour s’orienter. Et s’il ne devait embarquer qu’une seule arme, ce serait un traqueur par satellite : là où il va, le réseau GSM est l’exception, et c’est souvent la seule chose qui permettra de le retrouver.
+**Le paralpinisme.** Ici, la logique s’inverse. Le paralpiniste porte tout sur son dos, à pied comme en vol, et chaque gramme compte : il veut voler léger. Son armement se réduit donc au strict nécessaire : un traqueur par satellite, et une boussole pour garder un cap s’il se fait avaler par un nuage. S’il ne devait embarquer qu’une seule arme, ce serait le traqueur : là où il va, le réseau GSM est l’exception, et c’est souvent la seule chose qui permettra de le retrouver.
 
 [À COMPLÉTER : l’armement des autres pratiques (voltige, course…), et ce qui relève des provisions (savoirs, entraînement) plutôt que des armes.]
 
