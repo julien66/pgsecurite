@@ -39,7 +39,17 @@ Ce mentor n’est pas un moniteur biplaceur. C’est un maître Jedi, un expert 
 
 Cet armement n’est pas le même pour tous. Il est directement lié à la pratique que le héros a choisie. On ne s’équipe pas de la même façon pour des vols de soirée sur son site, pour un grand cross en montagne ou pour la voltige. C’est au mentor de l’aider à constituer le sien, et à le compléter à chaque nouvelle étape de la quête.
 
-[À COMPLÉTER : le contenu de l’armement pour chaque pratique. Ce qui relève des provisions et ce qui relève des armes magiques. Pistes à confirmer ou écarter : connaissances en météo et aérologie, maîtrise au sol, stage de pilotage ou SIV, parachute de secours monté et lancé au moins une fois en conditions réelles, radio et balise, gestes de premier secours.]
+Prenons le cross, dès que le pilote quitte l’autonomie de l’atterrissage du site. Son armement comprend :
+
+- un vario et un GPS ;
+- une boussole ;
+- un traqueur principal sur réseau GSM, et un traqueur de secours par satellite ;
+- un parachute de secours ;
+- un coupe-suspente ;
+- une corde et un descendeur ;
+- une couverture de survie.
+
+[À COMPLÉTER : l’armement des autres pratiques (vol de site, voltige, course…), et ce qui relève des provisions (savoirs, entraînement) plutôt que des armes.]
 
 [À COMPLÉTER : comment le dispositif fonctionnerait en pratique : combien d’apprentis par mentor, qui le finance, à quel moment du parcours il commence et quand il s’arrête.]
 
