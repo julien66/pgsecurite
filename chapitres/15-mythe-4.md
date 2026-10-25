@@ -17,6 +17,20 @@ Nous devons nous rendre à l’évidence et analyser un peu plus objectivement c
 
 C’est ce que sont nos engins et je n’ai même pas parlé des sellettes. Appréhendés sous cet angle, il devient difficile de cacher leur aspect essentiellement rudimentaire. Pas une once d'assistance électronique au pilotage, pas de capteurs, pas de pilote automatique. Pilotage actif quasi permanent, pour la majorité des pratiquants, répondre à la radio ou prendre une simple photo n’est pas tout le temps possible.  Pourtant nous adorons utiliser nos voiles ou les voir dans des aventures sans limite. Je ne sais pas trop comment comparer ce que nous faisons avec le monde du nautisme mais j’ai parfois l’impression que l’on cherche à traverser l’océan Atlantique à la manière d’Alain Bombard[^15].
 
+### Une solidité trompeuse
+
+**[BROUILLON À RELIRE]**
+
+Il faut pourtant le reconnaître : nos voiles d’aujourd’hui n’ont plus grand-chose à voir avec celles des pionniers. En trente ans, le confort et la performance ont énormément progressé. Une voile moderne paraît tendue, homogène, presque rigide sous le bras. Elle encaisse des turbulences qui auraient fait fermer une aile des années 1990, et elle donne au pilote une impression de stabilité et de solidité que ses aînés n’ont jamais connue. C’est un progrès réel, et il serait malhonnête de le nier.
+
+Mais cette impression est en partie trompeuse. La fragilité reste réelle : l’engin est toujours souple, toujours tenu par sa seule pression interne, et il peut toujours se fermer. Ce qui a changé, c’est la manière dont il se ferme. L’exemple le plus parlant est le passage aux voiles à deux lignes, avec deux rangées de suspentes seulement, A et B, au lieu de trois ou quatre. Cette architecture vient de la compétition [À VÉRIFIER : date d’apparition des deux-lignes en compétition et date de leur diffusion dans les classes EN C et D]. Avec moins de suspentes, des joncs et un profil mieux tenu, la voile est plus difficile à fermer. Mais quand elle finit par céder, l’événement est plus profond. La fermeture est plus grande, plus brutale, plus énergique, et elle demande un pilote capable de la gérer en une fraction de seconde.
+
+Autrement dit, nous avons échangé des incidents fréquents et plutôt bénins contre des incidents rares et plus graves. C’est un marché que l’on peut accepter, mais à condition de le savoir. Or un pilote qui n’a jamais vu sa voile fermer finit par croire qu’elle ne fermera jamais. Il s’habitue à voler dans des conditions plus fortes, et le jour où l’incident arrive, il n’y est pas préparé. La stabilité de la voile ne supprime pas le risque : elle le rend plus rare, donc plus difficile à imaginer.
+
+[À COMPLÉTER : un exemple ou une anecdote de fermeture profonde sur une voile réputée stable.]
+
+**[FIN DU BROUILLON]**
+
 ### Le rejet de l’aléa et de l’incertitude
 
 On se moque aussi souvent des incultes qui parlent de “trou d’air” et de “rabattants” parce que chacun sait dans notre communauté que cela n’existe pas et que rien ne peut mettre une voile “en torche”... Par extension l’évocation d’un quelconque phénomène exceptionnel ou aléatoire menaçant ne manquera pas de susciter le plus grand scepticisme de nos spécialistes. Une zone thermique infréquentable ? Un rouleau à cet endroit là ? Du cisaillement dis-tu ? Récits douteux, avec la bonne technique ça doit passer \! 
