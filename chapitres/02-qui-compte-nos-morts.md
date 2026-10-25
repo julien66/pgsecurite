@@ -39,6 +39,26 @@ Ces déclarations disent plusieurs choses.
 
 **[FIN DU BROUILLON]**
 
+### Une carrière de pilote
+
+**[BROUILLON À RELIRE]**
+
+Rapportons ces chiffres au nombre de pratiquants. La FFVL comptait 34 170 licenciés en parapente en 2024 et 35 612 en 2025[^c-ffvl-licences]. Cette même année, 682 puis 668 accidents de parapente ont été déclarés. Chaque année, environ 2 % des licenciés parapente déclarent donc un accident, 0,6 % une blessure grave ou mortelle, et 0,04 % meurent.
+
+Ces pourcentages paraissent faibles. Ils ne le sont plus à l’échelle d’une vie de pilote. Si ce risque restait constant d’une année sur l’autre :
+
+| Sur une carrière de… | 10 ans | 20 ans |
+| :---- | :---- | :---- |
+| Au moins un accident déclaré | 1 pilote sur 6 | 1 pilote sur 3 |
+| Au moins une blessure grave ou mortelle | 1 pilote sur 17 | 1 pilote sur 9 |
+| Mort en parapente | 1 pilote sur 260 | 1 pilote sur 130 |
+
+Autrement dit, un pilote qui vole vingt ans a deux chances sur trois de ne jamais déclarer d’accident, et une sur trois d’en déclarer au moins un. Dans un club de cent pilotes fidèles, une dizaine seront gravement blessés ou tués en vingt ans.
+
+Ces chiffres sont des minimums. Beaucoup d’accidents ne sont jamais déclarés : si un accident sur deux seulement l’était, plus de la moitié des pilotes en auraient au moins un en vingt ans. Le calcul suppose aussi un risque identique pour tous, alors qu’il varie selon la pratique, l’expérience et l’engagement. Enfin, les licenciés comptent des élèves qui ne volent qu’une saison ; les pilotes qui restent et qui s’engagent davantage sont sans doute plus exposés que la moyenne.
+
+**[FIN DU BROUILLON]**
+
 ### Ne pas compter, c’est déjà une réponse
 
 Je ne vais donc pas ouvrir ce livre par un tableau de chiffres définitifs, parce qu’ils n’existent pas. Ce manque est en lui-même une réponse. Une communauté qui ne compte pas ses morts peut continuer de croire que son activité est sûre. Elle peut traiter chaque accident comme un cas isolé, une erreur individuelle, Un "Pilotenfehler" de plus, une bétise ou une exception.  Pourvu qu'elle n’ait jamais à se confronter au total.
@@ -58,6 +78,8 @@ Je ne vais donc pas ouvrir ce livre par un tableau de chiffres définitifs, parc
 [^c-ffvl-dc]:  Liste des accidents mortels de licenciés FFVL, tenue par l’association SecuParapente en collaboration avec la FFVL, consultée le 25 octobre 2026 : https://docs.google.com/spreadsheets/d/1wxVhd0yYPexm0K1kTjykO-dWz9CoVrVmmgAS2jh-m3Y
 
 [^c-ffvl-export]:  Exports des déclarations d’accidents des licenciés FFVL pour 2024 et 2025, communiqués à l’auteur. Calculs de l’auteur ; seuls des totaux anonymes sont cités.
+
+[^c-ffvl-licences]:  Nombre de licenciés parapente FFVL en 2024 et 2025, communiqué par la FFVL à l’auteur. [SOURCE À TROUVER : référence publique, par exemple le rapport d’activité.] Les probabilités sont calculées par l’auteur sur les deux années cumulées, avec un risque annuel supposé constant.
 
 [^c-shv-2025]:  Beni Stocker, analyse des accidents 2025, Swiss Glider n° 05/06, 2026, Fédération Suisse de Vol Libre : https://www.shv-fsvl.ch/fileadmin/files/redakteure/Allgemein/Sicherheit/Unfallmeldungen/Unfallanalysen/2025.pdf
 
