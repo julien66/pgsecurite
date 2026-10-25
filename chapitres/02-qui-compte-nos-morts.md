@@ -41,13 +41,13 @@ Rapportons ces chiffres au nombre de pratiquants. La FFVL comptait en 2024 14 98
 
 Ces pourcentages paraissent faibles. Toutefois... si ce risque restait constant d’une année sur l’autre et si nous l'envisagions à l’échelle d’une vie de pilote voici donc ce qui nous attend :
 
-| Sur une carrière de… | 10 ans | 20 ans |
-| :---- | :---- | :---- |
-| Au moins un accident déclaré | 1 pilote sur 5 | 1 pilote sur 3 (38 %) |
-| Au moins une blessure grave ou mortelle | 1 pilote sur 10 | 1 pilote sur 5 |
-| Mort en parapente | environ 1 pilote sur 170 | environ 1 pilote sur 90 |
+| Sur une carrière de… | 10 ans | 20 ans | 30 ans |
+| :---- | :---- | :---- | :---- |
+| Au moins un accident déclaré | 1 pilote sur 5 | 1 pilote sur 3 (38 %) | 1 pilote sur 2 (52 %) |
+| Au moins une blessure grave ou mortelle | 1 pilote sur 10 | 1 pilote sur 5 | 1 pilote sur 4 |
+| Mort en parapente | environ 1 pilote sur 170 | environ 1 pilote sur 90 | environ 1 pilote sur 60 |
 
-Autrement dit, un pilote qui vole vingt ans a à peine plus d’une chance sur trois de déclarer au moins un accident, et une sur cinq d’être gravement blessé ou tué. Dans un club de cent pilotes fidèles, une vingtaine seront gravement blessés ou tués en vingt ans, et l’un d’eux y laissera probablement la vie.
+Autrement dit, un pilote qui vole trente ans a plus d’une chance sur deux de déclarer au moins un accident, et une sur quatre d’être gravement blessé ou tué. Dans un club de cent pilotes fidèles, une vingtaine seront gravement blessés ou tués en vingt ans, et l’un d’eux y laissera probablement la vie.
 
 Ces chiffres sont prudents. Beaucoup d’accidents ne sont jamais déclarés : si un accident sur deux seulement l’était, près des deux tiers des pilotes en auraient au moins un en vingt ans. Le calcul suppose aussi un risque identique pour tous, alors qu’il varie probablement selon la pratique, l’expérience et l’engagement. À l’inverse, quelques accidents déclarés concernent des pilotes en première année, absents du nombre de pratiquants, ce qui majore légèrement le taux. Pour les décès, l’estimation repose sur une vingtaine de cas en deux ans : elle donne un ordre de grandeur, pas une mesure précise.
 
