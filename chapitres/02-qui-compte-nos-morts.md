@@ -18,7 +18,7 @@ C’est peut-être la leçon la plus dérangeante. Il a fallu un adversaire déc
 
 ### Des données rares et fermées
 
-Depuis, les choses bougent un peu. La FFVL tient une liste des pilotes décédés depuis quelques années seulement [À COMPLÉTER : depuis quelle année, et où elle est consultable]. Quelques fédérations publient une analyse annuelle de leurs accidents. La fédération suisse, par exemple, a recensé 107 déclarations d’accidents en 2025, dont 98 en parapente, et 13 décès en parapente sur 17 décès en vol libre. Elle précise elle-même que le nombre réel d’accidents est bien plus élevé que le nombre déclaré[^c-shv-2025]. [SOURCE À TROUVER : ce que publient le DHV allemand et la CIVL.]
+Depuis, les choses bougent un peu. La FFVL publie depuis quelques années seulement une liste des accidents mortels de ses licenciés, tenue par l’association SecuParapente en collaboration avec la fédération[^c-ffvl-dc]. Elle recense 18 accidents mortels en 2023, 15 en 2024, 15 en 2025, et déjà 18 en 2026 à la fin du mois d’octobre. Le parapente représente l’immense majorité de ces décès. La grande majorité survient en vol, et non au décollage ou à l’atterrissage. Une part importante concerne une pratique encadrée, en école ou en biplace [À VÉRIFIER : 8 décès sur 15 en 2024, 4 sur 15 en 2025 et 3 sur 18 en 2026 selon une première lecture du tableau]. La même liste tient à part, de façon non exhaustive, les accidents mortels de pilotes non licenciés en France. [À VÉRIFIER : depuis quelle année exactement la liste existe (un onglet évoque des données depuis 2017).] Quelques fédérations publient une analyse annuelle de leurs accidents. La fédération suisse, par exemple, a recensé 107 déclarations d’accidents en 2025, dont 98 en parapente, et 13 décès en parapente sur 17 décès en vol libre. Elle précise elle-même que le nombre réel d’accidents est bien plus élevé que le nombre déclaré[^c-shv-2025]. [SOURCE À TROUVER : ce que publient le DHV allemand et la CIVL.]
 
 Mais ces efforts restent rares, récents et dispersés. Chaque fédération compte à sa façon, quand elle compte. Aucune base commune n’existe à l’échelle internationale. Et la plupart des données restent fermées.
 
@@ -39,6 +39,8 @@ Je ne vais donc pas ouvrir ce livre par un tableau de chiffres définitifs, parc
 [^c-masters-impossible]:  Rick Masters, « It’s impossible to die like this on a real aircraft », 28 août 2022 : https://rickmasters.substack.com/p/its-impossible-to-die-like-this-on
 
 [^c-masters-forum]:  Voir par exemple ce fil de discussion du Paragliding Forum : https://www.paraglidingforum.com/viewtopic.php?t=42084
+
+[^c-ffvl-dc]:  Liste des accidents mortels de licenciés FFVL, tenue par l’association SecuParapente en collaboration avec la FFVL, consultée le 25 octobre 2026 : https://docs.google.com/spreadsheets/d/1wxVhd0yYPexm0K1kTjykO-dWz9CoVrVmmgAS2jh-m3Y
 
 [^c-shv-2025]:  Beni Stocker, analyse des accidents 2025, Swiss Glider n° 05/06, 2026, Fédération Suisse de Vol Libre : https://www.shv-fsvl.ch/fileadmin/files/redakteure/Allgemein/Sicherheit/Unfallmeldungen/Unfallanalysen/2025.pdf
 
