@@ -30,18 +30,24 @@ Dans un paradigme moins cognitiviste et davantage basé sur les théories des sy
 Les accidents ne sont pas dus à des erreurs humaines.  
 Ce sont éventuellement des erreurs humaines qui ont mal tourné.  
     
-*A étoffer*  
-Et même autre chose qu’une erreur humaine \!
+Dire « erreur », c’est déjà juger. Le mot suppose une norme connue d’avance : une bonne action que le pilote aurait dû produire et qu’il n’a pas produite. Or cette norme, nous ne la connaissons le plus souvent qu’après coup, une fois l’issue connue. Sur le moment, le pilote a pris la décision qui lui semblait sensée, avec les informations dont il disposait, la fatigue qui était la sienne et la pression du groupe ou de la journée. Sidney Dekker invite justement à chercher pourquoi l’action du pilote avait du sens pour lui au moment où il l’a faite[^c-dekker-fg].
+
+Ce que nous appelons « erreur » est souvent une adaptation ordinaire. Elle fonctionne cent fois et, la cent-unième, elle rencontre une configuration défavorable : un thermique plus violent, un gradient, un autre pilote au mauvais endroit. Erik Hollnagel décrit ces compromis permanents entre efficacité et minutie que chacun de nous fait sans y penser[^c-hollnagel]. La même décision fait de nous un bon pilote un jour et un « inconscient » le lendemain, selon l’issue.
 
 D’ailleurs il y a de nombreuses erreurs qui ne mènent pas à l’accident. Certaines sont parfois extrêmement grossières et l’on se dit que pour le coup, le pilote l’a vraiment échappé belle \! Nous avons aussi tous en tête tel exemple de pratiquant à qui il arrive toujours quelque chose depuis près de 30 ans et qui pourtant n’en a jamais réellement subi aucune conséquence. Tout cela contribue à l’illusion d’un sport qui pardonne. Des erreurs, grossières ou répétées, ne mènent pas à l’accident.
 
 A côté de cela, nous voyons des victimes rater pour la toute première fois un décollage et chuter mortellement. Ce qui transforme l’erreur en accident mortel est le fait que la situation tourne mal. Parfois cela peut être imputé à un mauvais hasard, au fait des choses, parfois non. 
 
-En tout cas, ici les accidents ne sont pas dus à des erreurs humaines. Les erreurs humaines arrivent tout le temps et sont plutôt des constantes de notre système humain. Elles sont présentes à n’importe quel niveau d’expérience et de pratique et arriveront qu’on le veuille ou non y compris avec toute la connaissance de soi et toute la prévention du monde.
+Et puis il existe même des cas, où il n'y pas d'erreur du tout !
+Des moments où tu subis les erreurs des autres, des accidents liés au matériel (si si!), des défauts en tout genre liés au système : un mauvais cable signalé nul part, une course non stoppée qui dégénère sous un orage.
+
+En tout cas, il est une vision ou les accidents ne sont pas seulement dus à des erreurs humaines. Les erreurs humaines arrivent tout le temps et sont plutôt des constantes de notre système humain. Elles sont présentes à n’importe quel niveau d’expérience et de pratique et arriveront qu’on le veuille ou non y compris avec toute la connaissance de soi et toute la prévention du monde.
 
 Cette déclaration ne manquera pas de sonner “fataliste” aux tenants du paradigme actuel. “Alors on ne peut rien faire ?”. Ce malentendu provient justement de leur incapacité à comprendre la possibilité d’action offerte en plus de l’humain, par le système. Pour une catégorie identifiée d’erreur, un système de protection collectif peut empêcher son émergence en amont. Et même en aval, c'est-à-dire après son occurrence, il est encore possible de solidifier la pratique pour éviter qu’une bêtise effectivement commise ne dégénère dans d’horribles circonstances.
 
-*Threat and Error Management*
+L’aviation de ligne a tiré les conséquences de ce constat avec le *Threat and Error Management* (TEM), développé à la fin des années 1990 par l’équipe de Robert Helmreich à l’Université du Texas, puis repris par l’Organisation de l’aviation civile internationale[^c-tem]. Le principe est simple. Les menaces (météo, relief, trafic, fatigue, matériel…) et les erreurs sont considérées comme normales et inévitables. L’enjeu n’est plus de les supprimer mais de les détecter tôt, de les gérer, et d’éviter qu’elles ne conduisent à un « état indésirable » de l’appareil, puis à l’accident.
+
+Transposé au parapente : une rafale au décollage est une menace, un gonflage mal contrôlé une erreur, une voile partie de travers au ras de la pente un état indésirable. À chaque étape, il existe des protections possibles. Certaines sont individuelles, mais beaucoup sont collectives : une aire de décollage dégagée, une manche à air bien placée, un pilote qui assiste, une règle d’usage du site. C’est ce regard qui nous manque.
 
 ### Deux conceptions de l’accident
 
@@ -97,7 +103,15 @@ L’étude des facteurs humains est avant tout l’occasion de comprendre les fo
 
 Je crois que nous gagnerions à changer de paradigme et à abandonner pour de bon la croyance de l’accident due à une erreur humaine. Cette approche exclut la recherche de causes externes et systémiques alors qu’à l’inverse une recherche plus globalisée sur les conditions d'émergence des erreurs des pilotes n’exclut pas d’envisager ni les parcours de formation ni les facteurs humains.
 
- *A étoffer*
+Changer de paradigme ne signifie pas déresponsabiliser les pilotes. Cela signifie changer la question que nous posons après un accident. Au lieu de « qu’a-t-il raté ? », demander « qu’est-ce qui a rendu cette erreur possible, et qu’est-ce qui aurait pu en limiter les conséquences ? ». La première question produit un coupable et un sentiment de sécurité pour ceux qui restent. La seconde produit des pistes d’action : un site à réaménager, une information à diffuser, un usage à changer, un matériel à améliorer, un contenu de formation à revoir.
+
+En matière de gestion de la sécurité, cela implique trois choses :
+
+- Collecter les accidents et les incidents sans chercher de faute, sinon personne ne parlera.
+- Analyser ces événements par familles plutôt qu’un par un, pour repérer les scénarios qui reviennent.
+- Répartir les remédiations entre tous les acteurs : pilotes, moniteurs, fabricants, gestionnaires de sites, organisateurs, fédérations.
+
+La formation y garde toute sa place, mais elle cesse d’être notre seule réponse.
 
 ### Le modèle de James Reason
 
@@ -135,3 +149,9 @@ Avant d’aller plus loin dans l’étude des croyances et de l’imaginaire de 
 [^11]:  Le dindon n’est pas le meilleur des volatiles
 
 [^12]:  Lettre au comité directeur de la FFVL 30 Juillet 2011\.
+
+[^c-dekker-fg]:  Sidney Dekker en 2006 : The Field Guide to Understanding Human Error (troisième édition en 2014).
+
+[^c-hollnagel]:  Erik Hollnagel en 2009 : The ETTO Principle: Efficiency-Thoroughness Trade-Off.
+
+[^c-tem]:  Voir notamment OACI, Doc 9803 : Line Operations Safety Audit (LOSA), 2002, qui présente le modèle TEM.

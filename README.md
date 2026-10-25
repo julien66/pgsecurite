@@ -12,7 +12,7 @@ metadata.yaml  titre, auteur, langue et mise en page pour Pandoc
 Makefile     commandes de compilation
 ```
 
-La numérotation des fichiers suit les parties : `0x` pour l'ouverture, `1x` pour la partie 1, `2x` pour la partie 2, `3x` pour la partie 3. Pour insérer un chapitre, il suffit de choisir un numéro libre entre deux autres (par exemple `125-…md` entre `12` et `13`) : les fichiers sont assemblés par ordre alphabétique.
+La numérotation des fichiers suit les parties : `0x` pour l'ouverture, `1x` pour la partie 1, `2x` pour la partie 2. La compétition fera l'objet d'un second livre : ses chapitres sont rangés dans `notes/livre-competition/`, hors du livre compilé. Pour insérer un chapitre, il suffit de choisir un numéro libre entre deux autres (par exemple `125-…md` entre `12` et `13`) : les fichiers sont assemblés par ordre alphabétique.
 
 Les notes de bas de page sont placées à la fin du chapitre qui les appelle. Elles gardent leur numéro d'origine dans les fichiers, mais Pandoc les renumérote automatiquement dans le livre compilé.
 
