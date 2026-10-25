@@ -1,46 +1,35 @@
 # État du manuscrit (25 octobre 2026)
 
-Environ 24 000 mots, 91 pages au format A5 une fois compilé.
+Environ 25 500 mots une fois compilé. Le livre est désormais **un livre général** sur la sécurité en vol libre. La compétition fera l'objet d'un **second livre** : le chapitre compétition et les notes de l'ancienne partie 3 sont rangés dans [livre-competition/](livre-competition/), hors du livre compilé.
+
+## Comment relire
+
+Les passages rédigés par Claude sont encadrés par **[BROUILLON À RELIRE]** et **[FIN DU BROUILLON]**, visibles dans le PDF. Une fois un passage validé ou réécrit, il suffit de supprimer ces deux marqueurs.
+
+Les passages entre crochets (`[À COMPLÉTER : …]`, `[SOURCE À TROUVER : …]`, `[À CONFIRMER : …]`, `[ANECDOTE À AJOUTER : …]`) attendent ton apport : ton expérience, une anecdote ou une source vérifiée. Aucun chiffre ni aucune citation n'a été inventé.
 
 ## Les chapitres
 
 | Fichier | Contenu | État |
 | :-- | :-- | :-- |
-| 00 Préambule | Titre seul | Vide |
-| 01 Des accidents | Pourquoi ce livre : les amis disparus, une communauté « étanche » à son accidentalité | Rédigé |
-| 10 Partie 1 : Cadre conceptuel | Annonce des mythes fondateurs et du changement de paradigme (Kuhn) | Rédigé |
-| 11 Mythe #1 | « Le parapente n'est pas très risqué si l'on respecte un cadre » : analyse de l'activité, classement en sport à risque | Rédigé |
-| 12 Mythe #2 | « Les accidents sont dus à des erreurs humaines » : biais rétrospectif, bouc émissaire, deux conceptions de l'accident, modèle de Reason | Rédigé, deux « *A étoffer* » |
-| 13 La liberté du Vol Libre | Émancipation, accessibilité, affranchissement, liberté ultime et ordalie | Rédigé |
-| 14 Mythe #3 | « La sécurité est une affaire individuelle » : le commandant de bord | Rédigé |
-| 15 Mythe #4 | « Il n'existe pas de conditions trop fortes dans l'absolu » : matériel rudimentaire, aléa | Rédigé |
-| 16 Mythe #5 | L'homéostasie du risque de Wilde mal interprétée | Rédigé |
-| 17 À vos risques et périls | Risque contre péril, collisions en thermique | Rédigé |
-| 18 La force de nos croyances | Histoire de la sécurisation, Icare, voyage du héros, démocratisation | Rédigé |
-| 19 Conclusion (partie 1) | « Rester petit » ou « devenir grand » | Rédigé |
-| 20 Partie 2 : Propositions | Titre de partie seul | Pas d'introduction |
-| 21 Accueillir les accidents | Transparence, culture juste, RETEX, liste des victimes, association d'aide | En partie |
-| 22 Un meilleur système | Cartographie des accidents, échelle WAT, niveau référé, sites, balises, VHF, BMS, secours bénévoles, veille, EPI | En grande partie rédigé |
-| 23 Dissocier la pratique touristique | Une phrase coupée | À écrire |
-| 24 Pour la compétition de course | Le milieu de la compétition « bon élève », scénarios d'accident récurrents | En partie |
-| 30 Partie 3 : Feuille de route | Plan sous forme de listes et de mots-clés | Notes de travail |
+| 00 Préambule | Ce que le livre est et n'est pas | Brouillon à relire |
+| 01 Des accidents | Pourquoi ce livre | Rédigé, dernière phrase en brouillon (nouveau périmètre) |
+| 02 Qui compte nos morts ? | Rick Masters, données rares et fermées, protection des données | Nouveau, brouillon à relire |
+| 10 à 19 Partie 1 | Les cinq mythes, liberté, péril, croyances, conclusion | Rédigé ; mythe #2 étoffé en brouillon (erreur, TEM, implications) |
+| 20 Partie 2 | Introduction et tableau des propositions selon leur coût pour la liberté | Brouillon à relire |
+| 21 Accueillir les accidents | Transparence, culture juste, RETEX, liste des victimes, association | Culture juste en brouillon |
+| 22 Un meilleur système | Cartographie, WAT, niveau référé, sites, balises, VHF, BMS, secours, veille, EPI, règles de circulation | Fin de « Matériel et EPI » et « Réglementation du vol à vue » en brouillon |
+| 23 Dissocier la pratique touristique | Deux pratiques sous un même nom | Brouillon à relire |
+| 29 Conclusion | Conclusion générale | Brouillon à relire |
 
-## Passages inachevés repérés
+## Ce qui reste à faire
 
-- **Titre** : cinq propositions dans [titres-envisages.md](titres-envisages.md), aucune retenue.
-- **Préambule** : vide.
-- **Mythe #2** : deux mentions « *A étoffer* » (après « Les accidents ne sont pas dus à des erreurs humaines » et à la fin de « Implication en terme de gestion de la sécurité »), et « *Threat and Error Management* » posé seul comme pense-bête.
-- **Promouvoir la culture juste** : seulement « Just Culture !! ».
-- **Matériel et EPI** : s'arrête sur la présentation du groupe WG6, sans la suite annoncée sur les limites des tests d'homologation.
-- **Une réglementation du vol à vue et des usages obsolètes** : titre seul.
-- **Dissocier la pratique touristique** : s'arrête au milieu de la phrase « Il nous ».
-- **Une culture du rejet ?** (compétition) : titre seul.
-- **Fin du chapitre compétition** : « J'ai exposé les raisons » et « 1) La considération individuelle et subjective du risque » sont des amorces sans suite.
-- **Partie 3** : à rédiger à partir des notes.
+1. Relire et réécrire à ta main les brouillons (9 chapitres touchés).
+2. Remplir les 13 passages entre crochets.
+3. Sourcer les chiffres de ton propre texte qui n'ont pas de référence : la croissance de 10 % par an des licenciés (chapitre 18), le taux de fidélisation sous les 5 % (chapitre 18), la répartition en tiers des accidents (chapitre 22), les 500 décès de la liste base jump en 2025 (chapitre 21).
+4. Choisir le titre parmi [titres-envisages.md](titres-envisages.md).
+5. Optionnel : resserrer la partie 1 (références, répétitions entre mythes) et adoucir quelques piques.
 
-## Points relevés en passant (non corrigés)
+## Points toujours ouverts
 
-- Chapitre 22, cartographie : « ⅓ d'accident au décollage, ⅓ en l'air et le dernier tiers au décollage ». Le dernier « décollage » devrait sans doute être « atterrissage ».
-- Chapitre 24 : le texte parle du « mythe #3 de conditions surmontables en fonction du niveau personnel », qui correspond au mythe #4 de la partie 1.
 - La note 13 (Freud, 1915) n'est appelée nulle part dans le texte. Elle est conservée dans [notes-non-appelees.md](notes-non-appelees.md).
-- Le tableau de l'échelle WAT n'a pas de ligne d'en-tête dans l'export : sa première ligne (niveau 0) s'affiche comme un en-tête.

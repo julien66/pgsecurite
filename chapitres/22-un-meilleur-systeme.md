@@ -123,6 +123,35 @@ Il n’y a pas si longtemps j’ai vu une vidéo sur Instagram d’une pauvre pi
 
 Perso, je ne perçois pas bien ce qu’elle aurait fait de mal. En fait il s’avère que la voile est une petite taille non homologuée d’une marque pourtant réputée qu’elle ne volera sans doute plus jamais. Des histoires comme celle-ci sont pléthoriques. Les extrémités de taille (XXS et XXL) des modèles de voile (même populaires) sont réalisées à partir d'homothétie. La taille M ou celle que peut voler l’équipe de recherche et développement concentre tous les efforts, tandis que les autres tailles sont généralement des déclinaisons de la principale. Évidemment, plus on s’éloigne des tailles spécialement mises au point par le designer et ses pilotes tests et moins le résultat est bon. Non seulement, les plus petites tailles (ou les plus grandes), pour lesquelles le marché n’est pas suffisant, ne sont pas testées, mais en plus elles ne sont  pas homologuées. Et il en va de même pour tous les produits qui peinent à entrer dans la définition actuelle de la norme.
 
-Lorsqu’ils existent, les tests d’homologation affichent des limites importantes. La norme actuelle EN sur les voiles et les sellettes est définie par un groupe de travail (experts) qui s’appelle le Working Group 6 \- WG6.  
+Lorsqu’ils existent, les tests d’homologation affichent des limites importantes. La norme actuelle EN sur les voiles et les sellettes est définie par un groupe de travail (experts) qui s’appelle le Working Group 6 \- WG6.
+
+**[BROUILLON À RELIRE]**
+
+[SOURCE À TROUVER : référence exacte du groupe de travail du CEN et des normes EN 926-1 et EN 926-2 dans leur version en vigueur.]
+
+Ces tests ont des limites qu’il faut connaître. Ils sont réalisés sur une voile neuve, en air calme, par un pilote d’essai qui provoque les incidents de façon standardisée. Une fermeture déclenchée à la main au-dessus d’un lac ne ressemble pas à une fermeture provoquée par un thermique de fin de journée au ras d’une crête. La classification décrit donc le comportement d’une voile lors de manœuvres codifiées, pas son comportement dans la turbulence réelle. Elle ne dit rien non plus de l’évolution de la voile avec le temps : porosité du tissu, allongement des suspentes, calage qui dérive.
+
+[À COMPLÉTER : les limites que tu voulais détailler sur le WG6 et les tests, avec tes exemples.]
+
+Rien de tout cela ne retire leur valeur aux tests. Ils restent une plaque essentielle du modèle de Reason. Mais une plaque a des trous, et nous devrions les montrer au lieu de laisser croire qu’une voile homologuée « pardonne » en toute circonstance. Quelques pistes :
+
+- Indiquer clairement, à la vente, les tailles et les modèles non homologués.
+- Publier les rapports de tests sous une forme lisible par un pilote moyen.
+- Encourager les contrôles réguliers du matériel et en rappeler l’échéance.
+- Faire remonter les défauts de fabrication dans la même base que les accidents.
+
+**[FIN DU BROUILLON]**
 
 ### Une réglementation du vol à vue et des usages obsolètes
+
+**[BROUILLON À RELIRE]**
+
+[À CONFIRMER : les textes exacts. En Europe, les règles de l’air relèvent du règlement SERA (règlement d’exécution (UE) n° 923/2012) ; vérifier ce qui s’applique précisément aux parapentes.]
+
+Nos règles de circulation en l’air sont celles du vol à vue, pensées pour des avions qui se croisent à des centaines de kilomètres par heure. Elles s’appliquent mal à ce que nous faisons réellement : tourner à vingt ou à cinquante dans le même thermique, à quelques mètres les uns des autres, au ras du relief. Pour combler ce vide, la communauté s’est donné des usages : même sens de rotation que le premier pilote entré dans le thermique, priorité au pilote le plus bas, priorité à celui qui a la pente à sa droite en vol de pente. Ces usages se transmettent oralement, varient selon les sites et les pays, et ne sont pas toujours connus des pilotes venus d’ailleurs.
+
+Certains sont même discutables. La priorité au pilote le plus bas est peut-être un héritage du deltaplane [SOURCE À TROUVER : origine de cet usage]. Est-elle encore adaptée à des grappes de parapentes très denses ? Nous avons vu que la collision en thermique est l’un des grands périls de notre activité. Il serait logique qu’une communauté qui la connaît si bien réexamine ses règles de circulation avec méthode : partir des collisions et des quasi-collisions recensées, vérifier ce qui fonctionne, puis proposer des règles écrites, simples et communes à tous les sites.
+
+[À COMPLÉTER : les autres « usages obsolètes » que tu avais en tête.]
+
+**[FIN DU BROUILLON]**
