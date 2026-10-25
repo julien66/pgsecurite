@@ -37,33 +37,24 @@ Ce mentor n’est pas un moniteur biplaceur. C’est un maître Jedi, un expert 
 
 **Un armement.** Le parrain et le mentor accompagnent le héros, mais ils ne voleront pas à sa place. Une fois en l’air, il est seul. Il serait donc sage de l’équiper de ce qu’il lui faut pour espérer réussir son voyage : des provisions, et quelques armes un peu magiques, comme celles que les elfes confient au héros avant son départ, au cas où. Il ne s’en servira peut-être jamais. Mais le jour où il en aura besoin, il n’aura pas le temps d’aller les chercher.
 
-Cet armement n’est pas le même pour tous. Il est directement lié à la pratique que le héros a choisie. On ne s’équipe pas de la même façon pour des vols de soirée sur son site, pour un grand cross en montagne ou pour la voltige. C’est au mentor de l’aider à constituer le sien, et à le compléter à chaque nouvelle étape de la quête.
+Cet armement n’est pas le même pour tous. Il est directement lié à la pratique que le héros a choisie. On ne s’équipe pas de la même façon pour des vols de soirée sur son site, pour un grand cross en montagne ou pour une traversée en paralpinisme. C’est au mentor de l’aider à constituer le sien, et à le compléter à chaque nouvelle étape de la quête. Car l’armement se construit comme le voyage : chaque nouvelle épreuve ajoute ses armes à celles de la précédente.
 
-Pour le vol sur site, tant que le pilote reste à finesse d’un atterrissage, l’armement comprend :
+**Le socle : le vol sur site.** Tant que le pilote reste à finesse d’un atterrissage, il emporte :
 
-- un parachute de secours ;
-- un coupe-suspente ;
+- un parachute de secours, pour le jour où la voile ne vole plus ;
+- un coupe-suspente, pour se libérer quand la voile devient un piège ;
 - un vario et un GPS.
 
-Pour le soaring en bord de mer, l’armement change de nature :
+**Le soaring en bord de mer.** Au-dessus de l’eau, le danger change de nature. Au socle s’ajoute un gilet de sauvetage autogonflant. Le coupe-suspente y devient vital : à l’eau, la voile et ses suspentes peuvent entraîner le pilote par le fond.
 
-- un gilet de sauvetage autogonflant ;
-- un coupe-suspente.
+**Le cross.** Dès que le pilote quitte l’autonomie de l’atterrissage du site, il peut se poser n’importe où : dans un arbre, dans une combe isolée, loin de tout secours. Au socle s’ajoutent :
 
-Pour le cross, dès que le pilote quitte l’autonomie de l’atterrissage du site, l’armement s’étoffe :
-
-- un vario et un GPS ;
 - une boussole ;
-- un traqueur principal sur réseau GSM, et un traqueur de secours par satellite ;
-- un parachute de secours ;
-- un coupe-suspente ;
-- une corde et un descendeur ;
-- une couverture de survie.
+- un traqueur principal sur réseau GSM, et un traqueur de secours par satellite, pour être retrouvé là où le téléphone ne passe plus ;
+- une corde et un descendeur, pour descendre d’un arbre ou d’une barre ;
+- une couverture de survie, pour attendre les secours.
 
-Pour le paralpinisme, l’armement se resserre sur l’essentiel :
-
-- une boussole ou un GPS ;
-- un traqueur par satellite.
+**Le paralpinisme.** Le paralpiniste emporte l’armement du cross, mais il voyage plus loin et plus longtemps hors de toute aide. Deux pièces y deviennent l’essentiel : une boussole ou un GPS pour s’orienter quand le terrain et la météo se referment, et un traqueur par satellite, parce que le réseau GSM y est l’exception plutôt que la règle.
 
 [À COMPLÉTER : l’armement des autres pratiques (voltige, course…), et ce qui relève des provisions (savoirs, entraînement) plutôt que des armes.]
 
