@@ -43,21 +43,19 @@ Ces déclarations disent plusieurs choses.
 
 **[BROUILLON À RELIRE]**
 
-Rapportons ces chiffres au nombre de pratiquants. La FFVL comptait 34 170 licenciés en parapente en 2024 et 35 612 en 2025[^c-ffvl-licences]. Si l’on écarte les déclarations qui concernent des pilotes non licenciés, 620 accidents de parapente de licenciés ont été déclarés en 2024 et 623 en 2025. Chaque année, environ 1,8 % des licenciés parapente déclarent donc un accident, 0,6 % une blessure grave ou mortelle, et 0,04 % meurent.
+Rapportons ces chiffres au nombre de pratiquants. La FFVL comptait en 2024 14 989 pilotes de parapente pratiquants, hors stagiaires et primo-licenciés, et 15 486 en 2025[^c-ffvl-licences]. Ces mêmes années, les pilotes licenciés autonomes, c’est-à-dire hors école, biplace et stage SIV, ont déclaré 363 puis 365 accidents. Chaque année, environ 2,4 % des pilotes autonomes déclarent donc un accident, et environ 1 % est gravement blessé ou tué.
 
 Ces pourcentages paraissent faibles. Ils ne le sont plus à l’échelle d’une vie de pilote. Si ce risque restait constant d’une année sur l’autre :
 
 | Sur une carrière de… | 10 ans | 20 ans |
 | :---- | :---- | :---- |
-| Au moins un accident déclaré | 1 pilote sur 6 | 1 pilote sur 3 |
-| Au moins une blessure grave ou mortelle | 1 pilote sur 18 | 1 pilote sur 9 |
-| Mort en parapente | 1 pilote sur 260 | 1 pilote sur 130 |
+| Au moins un accident déclaré | 1 pilote sur 5 | 1 pilote sur 3 (38 %) |
+| Au moins une blessure grave ou mortelle | 1 pilote sur 10 | 1 pilote sur 5 |
+| Mort en parapente | environ 1 pilote sur 170 | environ 1 pilote sur 90 |
 
-Ce tableau couvre toute la pratique des licenciés, y compris les élèves et les biplaces. Si l’on ne garde que les accidents de pilotes autonomes, hors école, biplace et stage SIV, on obtient encore 1 pilote sur 5 accidenté et 1 sur 11 gravement blessé ou tué en vingt ans. Ce second calcul est un plancher : il rapporte les accidents des seuls pilotes autonomes à l’ensemble des licenciés, élèves compris, faute de connaître le nombre exact de pilotes autonomes.
+Autrement dit, un pilote qui vole vingt ans a à peine plus d’une chance sur trois de déclarer au moins un accident, et une sur cinq d’être gravement blessé ou tué. Dans un club de cent pilotes fidèles, une vingtaine seront gravement blessés ou tués en vingt ans, et l’un d’eux y laissera probablement la vie.
 
-Autrement dit, un pilote qui vole vingt ans a deux chances sur trois de ne jamais déclarer d’accident, et une sur trois d’en déclarer au moins un. Dans un club de cent pilotes fidèles, une dizaine seront gravement blessés ou tués en vingt ans.
-
-Ces chiffres sont des minimums. Beaucoup d’accidents ne sont jamais déclarés : si un accident sur deux seulement l’était, plus de la moitié des pilotes en auraient au moins un en vingt ans. Le calcul suppose aussi un risque identique pour tous, alors qu’il varie selon la pratique, l’expérience et l’engagement. Enfin, les licenciés comptent des élèves qui ne volent qu’une saison ; les pilotes qui restent et qui s’engagent davantage sont sans doute plus exposés que la moyenne.
+Ces chiffres sont prudents. Beaucoup d’accidents ne sont jamais déclarés : si un accident sur deux seulement l’était, près des deux tiers des pilotes en auraient au moins un en vingt ans. Le calcul suppose aussi un risque identique pour tous, alors qu’il varie selon la pratique, l’expérience et l’engagement. À l’inverse, quelques accidents déclarés concernent des pilotes en première année, absents du nombre de pratiquants, ce qui majore légèrement le taux. Pour les décès, l’estimation repose sur une vingtaine de cas en deux ans : elle donne un ordre de grandeur, pas une mesure précise.
 
 **[FIN DU BROUILLON]**
 
@@ -81,7 +79,7 @@ Je ne vais donc pas ouvrir ce livre par un tableau de chiffres définitifs, parc
 
 [^c-ffvl-export]:  Exports des déclarations d’accidents des licenciés FFVL pour 2024 et 2025, communiqués à l’auteur. Calculs de l’auteur ; seuls des totaux anonymes sont cités.
 
-[^c-ffvl-licences]:  Nombre de licenciés parapente FFVL en 2024 et 2025, communiqué par la FFVL à l’auteur. [SOURCE À TROUVER : référence publique, par exemple le rapport d’activité.] Les probabilités sont calculées par l’auteur sur les deux années cumulées, avec un risque annuel supposé constant.
+[^c-ffvl-licences]:  Nombre de pilotes de parapente pratiquants FFVL (hors stagiaires et primo-licenciés) en 2024 et 2025, communiqué à l’auteur. [SOURCE À TROUVER : référence publique, par exemple le rapport d’activité.] Les probabilités sont calculées par l’auteur sur les deux années cumulées, avec un risque annuel supposé constant. Pour les décès, l’auteur retient entre 16 et 19 décès de pilotes autonomes sur 2024 et 2025, selon que l’on s’appuie sur les déclarations ou sur la liste des accidents mortels.
 
 [^c-shv-2025]:  Beni Stocker, analyse des accidents 2025, Swiss Glider n° 05/06, 2026, Fédération Suisse de Vol Libre : https://www.shv-fsvl.ch/fileadmin/files/redakteure/Allgemein/Sicherheit/Unfallmeldungen/Unfallanalysen/2025.pdf
 
