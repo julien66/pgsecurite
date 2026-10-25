@@ -17,7 +17,9 @@ toc-title: "Sommaire"
 header-includes:
   - |
     ```{=latex}
-    \usepackage{pdfpages}
-    \AtBeginDocument{\includepdf[pages=1]{build/couverture.pdf}}
+    \usepackage{graphicx}
+    \AtBeginDocument{\newgeometry{margin=0pt}\thispagestyle{empty}%
+      \noindent\includegraphics[width=\paperwidth,height=\paperheight]{build/couverture.pdf}%
+      \restoregeometry\clearpage}
     ```
 ---

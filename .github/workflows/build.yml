@@ -16,7 +16,6 @@ jobs:
           docker run --rm -v "$PWD:/data" -w /data --entrypoint sh pandoc/extra:3.5 -c '
             set -e
             apk add --no-cache make font-dejavu rsvg-convert
-            kpsewhich pdfpages.sty >/dev/null || tlmgr install pdfpages
             make site'
       - uses: actions/upload-artifact@v4
         with:
