@@ -1,0 +1,15 @@
+---
+title: "Titre à trouver"
+author: "Julien Garcia"
+lang: fr-FR
+documentclass: book
+classoption:
+  - openany
+papersize: a5
+geometry:
+  - margin=2cm
+mainfont: "DejaVu Serif"
+toc: true
+toc-depth: 2
+toc-title: "Sommaire"
+---
