@@ -1,6 +1,6 @@
 ## Pour la compétition de course
 
-## La milieu de la compétition, bon élève ?
+### Le milieu de la compétition, bon élève ?
 
 Par bien des aspects, l’ensemble des acteurs de la compétition de course de parapente (pilotes, organisateurs, institutions) se sont fortement structurés en parvenant à dépasser les grands mythes communautaires énoncés ci-dessus \! 
 
@@ -21,13 +21,13 @@ Le mythe \#1 d’une activité maîtrisable passe mal en compétition tant il he
 
 Le mythe \#2 \-qui considère que les accidents sont dus à des erreurs ou de mauvaises décisions des pilotes- ne tient pas davantage en compétition. Cela fait maintenant des décennies que les meilleurs pilotes du monde tombent. Les histoires se transmettent et la rationalisation a posteriori de leurs erreurs n’a aidé personne. Si je vois régulièrement des pilotes meilleurs que moi subir les conséquences de leurs insuffisances, qu’est-ce que cela évoque quant à mes propres probabilités d’accident ?
 
-Le mythe \#3 de conditions surmontables en fonction du niveau personnel de pratique ne trouve aucun écho lorsque tu peux voler avec les meilleurs et t’apercevoir en temps réel des limites de chacun, de leur discours et de la réalité de ce qu’est l’engagement. Loin des légendes et des réseaux sociaux, il est plus clair que notre aéronef et ses pilotes sont en fait limités et ne peuvent parfois sauver leur vie qu’à une seule condition : renoncer.
+Le mythe \#4 de conditions surmontables en fonction du niveau personnel de pratique ne trouve aucun écho lorsque tu peux voler avec les meilleurs et t’apercevoir en temps réel des limites de chacun, de leur discours et de la réalité de ce qu’est l’engagement. Loin des légendes et des réseaux sociaux, il est plus clair que notre aéronef et ses pilotes sont en fait limités et ne peuvent parfois sauver leur vie qu’à une seule condition : renoncer.
 
-Je crois que c’est exactement cette sensibilité différente à ces mythes qui conduit la plupart des compétiteurs à accepter des contraintes institutionnelles fortes et successives en matière de sécurité. Il est généralement assez clair que la course de parapente est un sport très risqué (\#1), que nous pouvons tous faire des erreurs (\#2) et que personne n’est un oiseau (\#3).
+Je crois que c’est exactement cette sensibilité différente à ces mythes qui conduit la plupart des compétiteurs à accepter des contraintes institutionnelles fortes et successives en matière de sécurité. Il est généralement assez clair que la course de parapente est un sport très risqué (\#1), que nous pouvons tous faire des erreurs (\#2) et que personne n’est un oiseau (\#4).
 
-## Une culture du rejet ?
+### Une culture du rejet ?
 
-## Des scénarios d’accident récurrents
+### Des scénarios d’accident récurrents
 
 - Fermeture au relief  
   Cheminement accéléré.  

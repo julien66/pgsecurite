@@ -2,7 +2,7 @@
 
 ### Cartographier les accidents. Détecter les sites et les secteurs les plus générateurs d’accidents
 
-Les statistiques (françaises et généralistes à des fins d’assurance principalement) dont nous disposons actuellement font état de la répartition suivante des accidents : ⅓ d’accident au décollage, ⅓ en l’air et le dernier tiers au décollage.
+Les statistiques (françaises et généralistes à des fins d’assurance principalement) dont nous disposons actuellement font état de la répartition suivante des accidents : ⅓ d’accident au décollage, ⅓ en l’air et le dernier tiers à l’atterrissage.
 
 A travers ce travail de cartographie, les décollages et les atterrissages les plus générateurs d’accidents (il y en a \!) pourraient être signalés aux gestionnaires de site concernés. Je connais des terrains d’atterrissage qui produisent des statistiques effroyables, certains dans des endroits parfois “réputés”. Dans certains cas, il n’y a pas d’autres alternatives foncières et alors le problème devient épineux. Occasionnellement, au contraire il y a des alternatives et nous devrions faire l’effort d’échanger ou d’aménager le terrain habituel. Partout où les statistiques sont mauvaises et dans l'hypothèse où le décollage / atterrissage ne peut pas être changé, nous pouvons signaler un site à caractère hautement accidentogène par une forme de balisage.
 
@@ -27,8 +27,9 @@ W : La vitesse du vent maximale rencontré en kilomètre / heure.
 A : L’ascendance maximale rencontrée en mètre par seconde intégrée sur 20 secondes.  
 T : Le niveau de turbulence maximal rencontré sur une échelle de 0 à 3\.
 
-| 0 | Stable \- Laminaire | Pilotage non nécessaire en toute circonstance. Pendule stable. |
+| Niveau | Qualificatif | Description |
 | :---- | :---- | :---- |
+| 0 | Stable \- Laminaire | Pilotage non nécessaire en toute circonstance. Pendule stable. |
 | 1 | Convectif \- Standard | Pilotage pendulaire rarement nécessaire. Quelques temporisations / freinage. Amplitude de commande modérée. |
 | 2 | Turbulent | Pilotage actif. Entrée et sortie de thermique à piloter, écoulement perturbé. Amplitude de commande profonde. |
 | 3 | Sévère | Incident de vol probable en dépit du pilotage actif. Masse d’air hachée y compris hors ascendances. Réactions réflexes aux amorces d’incidents.  |
