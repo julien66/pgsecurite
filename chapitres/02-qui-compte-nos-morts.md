@@ -8,6 +8,12 @@ Le premier à avoir vraiment essayé n’est pas une institution. C’est un hom
 
 Ses raisons ne sont pas les miennes. Rick Masters est convaincu que le parapente est mal conçu par nature : une aile sans structure rigide, qui peut se fermer et laisser tomber son pilote. « Il est stupide de voler sur quelque chose qui peut faire ça », écrit-il[^c-masters-747]. Il oppose le parapente au deltaplane, qui a une structure, et accuse la communauté parapente d’être dans le déni. Ses messages ont souvent été reçus comme des provocations, ses statistiques contestées, sa personne rejetée[^c-masters-forum].
 
+**[BROUILLON À RELIRE]**
+
+Avec le recul, il est un peu dur de constater que tout n’était pas dénué de sens chez lui. Rick Masters parle du parapente comme d’un aéronef *frameless*, sans structure, et il décrit depuis longtemps une « zone de la mort » : la tranche d’air proche du sol où une fermeture ne laisse ni le temps de récupérer la voile ni celui de faire ouvrir un secours [À VÉRIFIER : terme exact employé par Rick Masters et référence du billet]. En 2026, huit accidents mortels sont survenus en cross sur des fermetures proches du sol. On peut rejeter ses conclusions sur le parapente, mais pas son constat : cette zone existe, et nous y perdons des pilotes chaque année.
+
+**[FIN DU BROUILLON]**
+
 [À COMPLÉTER : ce que montre le fil du Paragliding Forum sur l’accueil réservé à Rick Masters.]
 
 Et pourtant. En 2022, son décompte, qu’il qualifie lui-même d’incomplet, atteignait 2 150 pilotes de parapente morts depuis le premier décès qu’il recense, en 1986[^c-masters-impossible]. En 2023, il parlait de plus de 2 250 décès, et comparait ce total aux passagers de plusieurs Boeing 747[^c-masters-747]. On peut discuter sa méthode, ses intentions et ses conclusions. Mais il a fait ce que nous n’avons jamais fait collectivement : regarder le nombre.
