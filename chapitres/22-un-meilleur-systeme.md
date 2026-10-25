@@ -2,7 +2,7 @@
 
 ### Cartographier les accidents. Détecter les sites et les secteurs les plus générateurs d’accidents
 
-Les statistiques (françaises et généralistes à des fins d’assurance principalement) dont nous disposons actuellement font état de la répartition suivante des accidents : ⅓ d’accident au décollage, ⅓ en l’air et le dernier tiers à l’atterrissage. **[BROUILLON À RELIRE]** Les déclarations de 2024 et 2025 précisent ce tableau : l’atterrissage et l’approche pèsent plus de 40 % des accidents, le décollage environ un tiers, et le vol un sur cinq à un sur quatre (voir « Qui compte nos morts ? »). **[FIN DU BROUILLON]**
+Les statistiques (françaises et généralistes à des fins d’assurance principalement) dont nous disposons actuellement font état de la répartition suivante des accidents : ⅓ d’accident au décollage, ⅓ en l’air et le dernier tiers à l’atterrissage. Les déclarations de 2024 et 2025 précisent ce tableau : l’atterrissage et l’approche pèsent plus de 40 % des accidents, le décollage environ un tiers, et le vol un sur cinq à un sur quatre (voir « Qui compte nos morts ? »).
 
 A travers ce travail de cartographie, les décollages et les atterrissages les plus générateurs d’accidents (il y en a \!) pourraient être signalés aux gestionnaires de site concernés. Je connais des terrains d’atterrissage qui produisent des statistiques effroyables, certains dans des endroits parfois “réputés”. Dans certains cas, il n’y a pas d’autres alternatives foncières et alors le problème devient épineux. Occasionnellement, au contraire il y a des alternatives et nous devrions faire l’effort d’échanger ou d’aménager le terrain habituel. Partout où les statistiques sont mauvaises et dans l'hypothèse où le décollage / atterrissage ne peut pas être changé, nous pouvons signaler un site à caractère hautement accidentogène par une forme de balisage.
 
@@ -125,8 +125,6 @@ Perso, je ne perçois pas bien ce qu’elle aurait fait de mal. En fait il s’a
 
 Lorsqu’ils existent, les tests d’homologation affichent des limites importantes. La norme actuelle EN sur les voiles et les sellettes est définie par un groupe de travail (experts) qui s’appelle le Working Group 6 \- WG6.
 
-**[BROUILLON À RELIRE]**
-
 [SOURCE À TROUVER : référence exacte du groupe de travail du CEN et des normes EN 926-1 et EN 926-2 dans leur version en vigueur.]
 
 Ces tests ont des limites qu’il faut connaître. Ils sont réalisés sur une voile neuve, en air calme, par un pilote d’essai qui provoque les incidents de façon standardisée. Une fermeture déclenchée à la main au-dessus d’un lac ne ressemble pas à une fermeture provoquée par un thermique de fin de journée au ras d’une crête. La classification décrit donc le comportement d’une voile lors de manœuvres codifiées, pas son comportement dans la turbulence réelle. Elle ne dit rien non plus de l’évolution de la voile avec le temps : porosité du tissu, allongement des suspentes, calage qui dérive.
@@ -140,11 +138,7 @@ Rien de tout cela ne retire leur valeur aux tests. Ils restent une plaque essent
 - Encourager les contrôles réguliers du matériel et en rappeler l’échéance.
 - Faire remonter les défauts de fabrication dans la même base que les accidents.
 
-**[FIN DU BROUILLON]**
-
 ### Une réglementation du vol à vue et des usages obsolètes
-
-**[BROUILLON À RELIRE]**
 
 [À CONFIRMER : les textes exacts. En Europe, les règles de l’air relèvent du règlement SERA (règlement d’exécution (UE) n° 923/2012) ; vérifier ce qui s’applique précisément aux parapentes.]
 
@@ -153,5 +147,3 @@ Nos règles de circulation en l’air sont celles du vol à vue, pensées pour d
 Certains sont même discutables. La priorité au pilote le plus bas est peut-être un héritage du deltaplane [SOURCE À TROUVER : origine de cet usage]. Est-elle encore adaptée à des grappes de parapentes très denses ? Nous avons vu que la collision en thermique est l’un des grands périls de notre activité. Il serait logique qu’une communauté qui la connaît si bien réexamine ses règles de circulation avec méthode : partir des collisions et des quasi-collisions recensées, vérifier ce qui fonctionne, puis proposer des règles écrites, simples et communes à tous les sites.
 
 [À COMPLÉTER : les autres « usages obsolètes » que tu avais en tête.]
-
-**[FIN DU BROUILLON]**
