@@ -43,15 +43,17 @@ Ces déclarations disent plusieurs choses.
 
 **[BROUILLON À RELIRE]**
 
-Rapportons ces chiffres au nombre de pratiquants. La FFVL comptait 34 170 licenciés en parapente en 2024 et 35 612 en 2025[^c-ffvl-licences]. Cette même année, 682 puis 668 accidents de parapente ont été déclarés. Chaque année, environ 2 % des licenciés parapente déclarent donc un accident, 0,6 % une blessure grave ou mortelle, et 0,04 % meurent.
+Rapportons ces chiffres au nombre de pratiquants. La FFVL comptait 34 170 licenciés en parapente en 2024 et 35 612 en 2025[^c-ffvl-licences]. Si l’on écarte les déclarations qui concernent des pilotes non licenciés, 620 accidents de parapente de licenciés ont été déclarés en 2024 et 623 en 2025. Chaque année, environ 1,8 % des licenciés parapente déclarent donc un accident, 0,6 % une blessure grave ou mortelle, et 0,04 % meurent.
 
 Ces pourcentages paraissent faibles. Ils ne le sont plus à l’échelle d’une vie de pilote. Si ce risque restait constant d’une année sur l’autre :
 
 | Sur une carrière de… | 10 ans | 20 ans |
 | :---- | :---- | :---- |
 | Au moins un accident déclaré | 1 pilote sur 6 | 1 pilote sur 3 |
-| Au moins une blessure grave ou mortelle | 1 pilote sur 17 | 1 pilote sur 9 |
+| Au moins une blessure grave ou mortelle | 1 pilote sur 18 | 1 pilote sur 9 |
 | Mort en parapente | 1 pilote sur 260 | 1 pilote sur 130 |
+
+Ce tableau couvre toute la pratique des licenciés, y compris les élèves et les biplaces. Si l’on ne garde que les accidents de pilotes autonomes, hors école, biplace et stage SIV, on obtient encore 1 pilote sur 5 accidenté et 1 sur 11 gravement blessé ou tué en vingt ans. Ce second calcul est un plancher : il rapporte les accidents des seuls pilotes autonomes à l’ensemble des licenciés, élèves compris, faute de connaître le nombre exact de pilotes autonomes.
 
 Autrement dit, un pilote qui vole vingt ans a deux chances sur trois de ne jamais déclarer d’accident, et une sur trois d’en déclarer au moins un. Dans un club de cent pilotes fidèles, une dizaine seront gravement blessés ou tués en vingt ans.
 
