@@ -35,7 +35,11 @@ Si l’apprenti pilote ne doit plus être traité comme un touriste, que lui off
 
 Ce mentor n’est pas un moniteur biplaceur. C’est un maître Jedi, un expert incontesté de la discipline, reconnu comme tel par tous. Il est titulaire du diplôme d’État supérieur (DES) et possède une très grande expérience du vol, en particulier en compétition : cross, voltige, course. Il a vu les limites de près, chez les autres et chez lui-même. C’est précisément ce qui lui permet d’aider un apprenti à choisir sa quête sans se tromper d’épreuve.
 
-[À COMPLÉTER : les autres éléments que tu veux fournir à l’apprenti pour son voyage.]
+**Un armement.** Le parrain et le mentor accompagnent le héros, mais ils ne voleront pas à sa place. Une fois en l’air, il est seul. Il serait donc sage de l’équiper de ce qu’il lui faut pour espérer réussir son voyage : des provisions, et quelques armes un peu magiques, comme celles que les elfes confient au héros avant son départ, au cas où. Il ne s’en servira peut-être jamais. Mais le jour où il en aura besoin, il n’aura pas le temps d’aller les chercher.
+
+Cet armement n’est pas le même pour tous. Il est directement lié à la pratique que le héros a choisie. On ne s’équipe pas de la même façon pour des vols de soirée sur son site, pour un grand cross en montagne ou pour la voltige. C’est au mentor de l’aider à constituer le sien, et à le compléter à chaque nouvelle étape de la quête.
+
+[À COMPLÉTER : le contenu de l’armement pour chaque pratique. Ce qui relève des provisions et ce qui relève des armes magiques. Pistes à confirmer ou écarter : connaissances en météo et aérologie, maîtrise au sol, stage de pilotage ou SIV, parachute de secours monté et lancé au moins une fois en conditions réelles, radio et balise, gestes de premier secours.]
 
 [À COMPLÉTER : comment le dispositif fonctionnerait en pratique : combien d’apprentis par mentor, qui le finance, à quel moment du parcours il commence et quand il s’arrête.]
 
