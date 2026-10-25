@@ -25,15 +25,13 @@ Dissocier, ce n’est ni interdire ni condamner les professionnels, qui font viv
 
 ### Accompagner le voyage du héros
 
-**[BROUILLON À RELIRE]**
-
 Si l’apprenti pilote ne doit plus être traité comme un touriste, que lui offrir à la place ? Je crois que nous pouvons reprendre le voyage du héros à notre compte. Dans le récit de Campbell, le héros ne part jamais vraiment seul : quelqu’un l’appelle à l’aventure, et quelqu’un d’autre le guide au moment de franchir le seuil. Notre pratique encadrée pourrait offrir la même chose à chaque apprenti.
 
-**Un parrain.** Le parrain est facultatif. C’est la personne qui prend la lourde responsabilité de l’appel : celle qui fait entrer l’apprenti dans le vol libre et dans sa communauté. La relation est bénévole, mais elle compte. Le parrain est un premier soutien, quelqu’un avec qui l’on peut parler de son parcours, de ses doutes et des astuces que la communauté transmet de bouche à oreille. Accepter de parrainer quelqu’un, c’est reconnaître qu’on ne fait pas entrer un ami dans une activité à risque vital à la légère.
+**Un parrain.** Le parrain me parait pouvoir rester facultatif mais c’est la personne qui prend la lourde responsabilité de l’appel : celle qui fait entrer l’apprenti dans le vol libre et dans sa communauté. J'imagine une relation bénévole, de protecteur et de passeur. Une relation qui compte. Le parrain est un premier soutien, quelqu’un avec qui l’on peut parler de son parcours, de ses doutes et des usages que la communauté transmet de bouche à oreille. Accepter de parrainer quelqu’un, c’est reconnaître qu’on ne fait pas entrer un ami dans une activité à risque vital à la légère.
 
-**Un mentor.** Le mentor est un responsable de formation. C’est lui qui coordonne le parcours de l’apprenti d’un bout à l’autre. Aujourd’hui, la formation est souvent morcelée : un stage dans une école, un autre ailleurs, une voile achetée sur les conseils d’un copain, une progression que personne ne voit dans son ensemble. Le mentor, lui, suit scrupuleusement son élève dans son voyage. Ensemble, ils discutent de la quête et des meilleurs moyens de l’atteindre : les stages à suivre, y compris dans d’autres écoles, les changements de voile, les étapes de la progression. Tout cela se construit avec lui.
+**Un mentor.** Le mentor est le catalyseur de compétences. C'est le chargé de formations des jeunes Padawan d'un secteur. Il coordonne le parcours de l’apprenti d’un bout à l’autre. Aujourd’hui, la formation est souvent morcelée : un stage dans une école, un autre ailleurs, une voile achetée sur les conseils d’un copain, une progression que personne ne voit dans son ensemble. Il manque Gandalf ou maître Yoda. Quelqu'un qui connait bien le héro et qui suit scrupuleusement son élève dans son voyage. Ensemble, ils discutent de la quête, des raisons du voayge et des meilleurs moyens d'atteindre les objectifs : les stages à suivre, y compris dans d’autres écoles, les changements de voile, les "moments conso" et les étapes de la progression. Tout cela doit se construire avec un mentor parceque les pièges sont trop nombreux et difficiles à gérer seul.
 
-Ce mentor n’est pas un moniteur biplaceur. C’est un maître Jedi, un expert incontesté de la discipline, reconnu comme tel par tous. Il est titulaire du diplôme d’État supérieur (DES) et possède une très grande expérience du vol, en particulier en compétition : cross, voltige, course. Il a vu les limites de près, chez les autres et chez lui-même. C’est précisément ce qui lui permet d’aider un apprenti à choisir sa quête sans se tromper d’épreuve.
+Ce mentor n’est pas le moniteur ou biplaceur que l'on peut croiser souvent. C’est un grand maître, un expert incontesté de la discipline, reconnu comme tel par tous. Il possède une très grande expérience du vol, sur une décennie de pratique dans des milieus extremement exigeants comme la compétition : cross, voltige, course. Il a vu les limites de près, chez les autres et chez lui-même. C’est précisément ce qui lui permet d’aider un apprenti à choisir sa quête sans se tromper d’épreuve.
 
 **Un armement.** Le parrain et le mentor accompagnent le héros, mais ils ne voleront pas à sa place. Une fois en l’air, il est seul. Il serait donc sage de l’équiper de ce qu’il lui faut pour espérer réussir son voyage : des provisions, et quelques armes un peu magiques, comme celles que les elfes confient au héros avant son départ, au cas où. Il ne s’en servira peut-être jamais. Mais le jour où il en aura besoin, il n’aura pas le temps d’aller les chercher.
 
@@ -60,7 +58,6 @@ Cet armement n’est pas le même pour tous. Il est directement lié à la prati
 
 [À COMPLÉTER : comment le dispositif fonctionnerait en pratique : combien d’apprentis par mentor, qui le finance, à quel moment du parcours il commence et quand il s’arrête.]
 
-**[FIN DU BROUILLON]**
 
 ### Préserver la liberté du pilote autonome
 
