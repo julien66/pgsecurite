@@ -8,8 +8,6 @@ L’heure est aux réseaux sociaux et à la recherche (parfois rapide) de respon
 
 ### Promouvoir la culture juste
 
-**[BROUILLON À RELIRE]**
-
 La culture juste (*Just Culture*) est née dans l’aviation et l’industrie à risque. James Reason l’a décrite dès 1997[^c-reason97] et Sidney Dekker en a fait un ouvrage de référence[^c-dekker-jc]. Elle repose sur une idée simple : on ne peut pas apprendre de ses erreurs si ceux qui les commettent ont peur d’en parler.
 
 Une culture juste n’est pas une culture de l’impunité. Elle distingue l’erreur honnête, que tout humain commet et qui ne doit pas être sanctionnée, des comportements délibérément dangereux ou des négligences graves, qui restent condamnables. Entre les deux, elle cherche à comprendre plutôt qu’à punir.
@@ -26,7 +24,6 @@ Chez nous, c’est l’inverse. Nous avons vu à quel point la victime devient u
 
 [ANECDOTE À AJOUTER : un incident que tu as vu caché, ou au contraire partagé et utile à tous.]
 
-**[FIN DU BROUILLON]**
 
 ### RETEX et base de données accident
 
