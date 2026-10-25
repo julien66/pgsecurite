@@ -60,6 +60,11 @@ Pour le cross, dès que le pilote quitte l’autonomie de l’atterrissage du si
 - une corde et un descendeur ;
 - une couverture de survie.
 
+Pour le paralpinisme, l’armement se resserre sur l’essentiel :
+
+- une boussole ou un GPS ;
+- un traqueur par satellite.
+
 [À COMPLÉTER : l’armement des autres pratiques (voltige, course…), et ce qui relève des provisions (savoirs, entraînement) plutôt que des armes.]
 
 [À COMPLÉTER : comment le dispositif fonctionnerait en pratique : combien d’apprentis par mentor, qui le finance, à quel moment du parcours il commence et quand il s’arrête.]
