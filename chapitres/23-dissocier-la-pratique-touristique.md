@@ -23,6 +23,24 @@ Dissocier, ce n’est ni interdire ni condamner les professionnels, qui font viv
 - **Une information honnête.** Le passager a le droit de savoir qu’il pratique une activité aérienne qui comporte un risque réel. Le dire n’éloignera pas les clients, et cela protégera les professionnels le jour où un accident survient.
 - **Une formation qui ne se vend pas comme un loisir de plein air.** Le stagiaire qui veut devenir pilote doit entendre dès le début ce qu’il s’apprête à faire et ce que signifie être autonome.
 
+### Accompagner le voyage du héros
+
+**[BROUILLON À RELIRE]**
+
+Si l’apprenti pilote ne doit plus être traité comme un touriste, que lui offrir à la place ? Je crois que nous pouvons reprendre le voyage du héros à notre compte. Dans le récit de Campbell, le héros ne part jamais vraiment seul : quelqu’un l’appelle à l’aventure, et quelqu’un d’autre le guide au moment de franchir le seuil. Notre pratique encadrée pourrait offrir la même chose à chaque apprenti.
+
+**Un parrain.** Le parrain est facultatif. C’est la personne qui prend la lourde responsabilité de l’appel : celle qui fait entrer l’apprenti dans le vol libre et dans sa communauté. La relation est bénévole, mais elle compte. Le parrain est un premier soutien, quelqu’un avec qui l’on peut parler de son parcours, de ses doutes et des astuces que la communauté transmet de bouche à oreille. Accepter de parrainer quelqu’un, c’est reconnaître qu’on ne fait pas entrer un ami dans une activité à risque vital à la légère.
+
+**Un mentor.** Le mentor est un responsable de formation. C’est lui qui coordonne le parcours de l’apprenti d’un bout à l’autre. Aujourd’hui, la formation est souvent morcelée : un stage dans une école, un autre ailleurs, une voile achetée sur les conseils d’un copain, une progression que personne ne voit dans son ensemble. Le mentor, lui, suit scrupuleusement son élève dans son voyage. Ensemble, ils discutent de la quête et des meilleurs moyens de l’atteindre : les stages à suivre, y compris dans d’autres écoles, les changements de voile, les étapes de la progression. Tout cela se construit avec lui.
+
+Ce mentor n’est pas un moniteur biplaceur. C’est un maître Jedi, un expert incontesté de la discipline, reconnu comme tel par tous. Il est titulaire du diplôme d’État supérieur (DES) et possède une très grande expérience du vol, en particulier en compétition : cross, voltige, course. Il a vu les limites de près, chez les autres et chez lui-même. C’est précisément ce qui lui permet d’aider un apprenti à choisir sa quête sans se tromper d’épreuve.
+
+[À COMPLÉTER : les autres éléments que tu veux fournir à l’apprenti pour son voyage.]
+
+[À COMPLÉTER : comment le dispositif fonctionnerait en pratique : combien d’apprentis par mentor, qui le finance, à quel moment du parcours il commence et quand il s’arrête.]
+
+**[FIN DU BROUILLON]**
+
 ### Préserver la liberté du pilote autonome
 
 En contrepartie, sortir le tourisme de la logique du pilote autonome permet de mieux respecter celle-ci. Si le passager est protégé par un cadre propre, il n’est plus nécessaire de prétendre que tout le vol libre est sûr. Le pilote autonome peut alors être informé honnêtement du risque qu’il prend, et garder la liberté de le prendre. C’est peut-être la seule façon de « devenir grand » sans tuer ce qui fait le vol libre.
