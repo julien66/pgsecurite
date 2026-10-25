@@ -45,6 +45,11 @@ Pour le vol sur site, tant que le pilote reste à finesse d’un atterrissage, l
 - un coupe-suspente ;
 - un vario et un GPS.
 
+Pour le soaring en bord de mer, l’armement change de nature :
+
+- un gilet de sauvetage autogonflant ;
+- un coupe-suspente.
+
 Pour le cross, dès que le pilote quitte l’autonomie de l’atterrissage du site, l’armement s’étoffe :
 
 - un vario et un GPS ;
