@@ -12,6 +12,8 @@ Ses raisons ne sont pas les miennes. Rick Masters est convaincu que le parapente
 
 Avec le recul, il est un peu dur de constater que tout n’était pas dénué de sens chez lui. Rick Masters parle du parapente comme d’un aéronef *frameless*, sans structure, et il décrit depuis longtemps une « zone de la mort » : la tranche d’air proche du sol où une fermeture ne laisse ni le temps de récupérer la voile ni celui de faire ouvrir un secours [À VÉRIFIER : terme exact employé par Rick Masters et référence du billet]. En 2026, huit accidents mortels sont survenus en cross sur des fermetures proches du sol, sans possibilité de secours : les pilotes n’ont pas eu le temps de le lancer. On peut rejeter ses conclusions sur le parapente, mais pas son constat : cette zone existe, et nous y perdons des pilotes chaque année.
 
+Pour lui répondre, nous avons même fabriqué un petit mythe de plus : la fermeture serait un gage de sécurité. Si la voile peut fermer, c’est qu’elle plie au lieu de casser. Avec un peu de recul, l’argument est complètement illogique. Il oppose deux défaillances comme s’il fallait choisir entre elles, alors qu’un aéronef bien conçu ne devrait connaître ni l’une ni l’autre dans son domaine de vol. Surtout, il présente la fermeture comme une soupape, alors qu’elle est précisément la défaillance : une aile fermée ne porte plus, et le pilote tombe. Qu’elle « ne casse pas » ne change rien pour lui quand l’événement survient à trente mètres du sol. Nous avons transformé le défaut principal de notre engin en qualité, parce qu’il fallait bien répondre à quelqu’un qui avait mis le doigt dessus.
+
 **[FIN DU BROUILLON]**
 
 [À COMPLÉTER : ce que montre le fil du Paragliding Forum sur l’accueil réservé à Rick Masters.]
