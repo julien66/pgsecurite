@@ -1,6 +1,6 @@
 ## Dissocier la pratique touristique
 
-Chapitre polémique mais néanmoins indispensable. **[BROUILLON À RELIRE]** Il nous faut sortir d’une ambiguïté qui traverse toute notre activité : nous vendons la même chose à deux publics qui n’ont rien en commun.
+Chapitre polémique mais néanmoins indispensable. Il nous faut sortir d’une ambiguïté qui traverse toute notre activité : nous vendons la même chose à deux publics qui n’ont rien en commun.
 
 ### Deux pratiques sous un même nom
 
@@ -28,5 +28,3 @@ Dissocier, ce n’est ni interdire ni condamner les professionnels, qui font viv
 En contrepartie, sortir le tourisme de la logique du pilote autonome permet de mieux respecter celle-ci. Si le passager est protégé par un cadre propre, il n’est plus nécessaire de prétendre que tout le vol libre est sûr. Le pilote autonome peut alors être informé honnêtement du risque qu’il prend, et garder la liberté de le prendre. C’est peut-être la seule façon de « devenir grand » sans tuer ce qui fait le vol libre.
 
 [À COMPLÉTER : ton regard de terrain sur les professionnels et les sites de biplace très fréquentés.]
-
-**[FIN DU BROUILLON]**
