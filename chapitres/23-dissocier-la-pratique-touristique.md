@@ -33,29 +33,6 @@ Si l’apprenti pilote ne doit plus être traité comme un touriste, que lui off
 
 Ce mentor n’est pas le moniteur ou biplaceur que l'on peut croiser souvent. C’est un grand maître, un expert incontesté de la discipline, reconnu comme tel par tous. Il possède une très grande expérience du vol, sur une décennie de pratique dans des milieus extremement exigeants comme la compétition : cross, voltige, course. Il a vu les limites de près, chez les autres et chez lui-même. C’est précisément ce qui lui permet d’aider un apprenti à choisir sa quête sans se tromper d’épreuve.
 
-**Un armement.** Le parrain et le mentor accompagnent le héros, mais ils ne voleront pas à sa place. Une fois en l’air, il est seul. Il serait donc sage de l’équiper de ce qu’il lui faut pour espérer réussir son voyage : des provisions, et quelques armes un peu magiques, comme celles que les elfes confient au héros avant son départ, au cas où. Il ne s’en servira peut-être jamais. Mais le jour où il en aura besoin, il n’aura pas le temps d’aller les chercher.
-
-Cet armement n’est pas le même pour tous. Il est directement lié à la pratique que le héros a choisie. On ne s’équipe pas de la même façon pour des vols de soirée sur son site, pour un grand cross en montagne ou pour une traversée en paralpinisme. C’est au mentor de l’aider à constituer le sien, et à le compléter à chaque nouvelle étape de la quête. Le plus souvent, l’armement se construit comme le voyage : chaque nouvelle épreuve ajoute ses armes à celles de la précédente.
-
-**Le socle : le vol sur site.** Tant que le pilote reste à finesse d’un atterrissage, il emporte :
-
-- un parachute de secours, pour le jour où la voile ne vole plus ;
-- un coupe-suspente, pour se libérer quand la voile devient un piège ;
-- un vario et un GPS.
-
-**Le soaring en bord de mer.** Au-dessus de l’eau, le danger change de nature. Au socle s’ajoute un gilet de sauvetage autogonflant. Le coupe-suspente y devient vital : à l’eau, la voile et ses suspentes peuvent entraîner le pilote par le fond.
-
-**Le cross.** Dès que le pilote quitte l’autonomie de l’atterrissage du site, il peut se poser n’importe où : dans un arbre, dans une combe isolée, loin de tout secours. Au socle s’ajoutent :
-
-- une boussole, pour garder un cap dans un nuage ;
-- un traqueur principal sur réseau GSM, et un traqueur de secours par satellite, pour être retrouvé là où le téléphone ne passe plus ;
-- une corde et un descendeur, pour descendre d’un arbre ou d’une barre ;
-- une couverture de survie, pour attendre les secours.
-
-**Le paralpinisme.** Ici, la logique s’inverse. Le paralpiniste porte tout sur son dos, à pied comme en vol, et chaque gramme compte : il veut voler léger. Son armement se réduit donc au strict nécessaire : un traqueur par satellite, et une boussole pour garder un cap s’il se fait avaler par un nuage. S’il ne devait embarquer qu’une seule arme, ce serait le traqueur : là où il va, le réseau GSM est l’exception, et c’est souvent la seule chose qui permettra de le retrouver.
-
-[À COMPLÉTER : l’armement des autres pratiques (voltige, course…), et ce qui relève des provisions (savoirs, entraînement) plutôt que des armes.]
-
 [À COMPLÉTER : comment le dispositif fonctionnerait en pratique : combien d’apprentis par mentor, qui le finance, à quel moment du parcours il commence et quand il s’arrête.]
 
 

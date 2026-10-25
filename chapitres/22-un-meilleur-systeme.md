@@ -138,6 +138,35 @@ Rien de tout cela ne retire leur valeur aux tests. Ils restent une plaque essent
 - Encourager les contrôles réguliers du matériel et en rappeler l’échéance.
 - Faire remonter les défauts de fabrication dans la même base que les accidents.
 
+### Un équipement de sécurité adapté à chaque pratique
+
+**[BROUILLON À RELIRE]**
+
+Les EPI ne s’arrêtent pas à la voile et à la sellette. Une fois en l’air, le pilote est seul, et ce qu’il a emporté décide souvent de l’issue d’un incident. La plupart de ces objets ne serviront peut-être jamais. Mais le jour où l’on en a besoin, il n’est plus temps d’aller les chercher.
+
+Or nous parlons de « l’équipement du pilote » comme s’il n’y en avait qu’un. L’équipement de sécurité est directement lié à la pratique : on ne s’équipe pas de la même façon pour des vols de soirée sur son site, pour un grand cross en montagne ou pour une traversée en paralpinisme. Un système de sécurité digne de ce nom devrait le dire clairement, pratique par pratique, et l’enseigner dès la formation. Le mentor de formation que je propose plus loin (voir « Dissocier la pratique touristique ») est bien placé pour aider chaque pilote à constituer le sien et à le compléter à chaque étape de sa progression.
+
+**Le socle : le vol sur site.** Tant que le pilote reste à finesse d’un atterrissage, il emporte :
+
+- un parachute de secours, pour le jour où la voile ne vole plus ;
+- un coupe-suspente, pour se libérer quand la voile devient un piège ;
+- un vario et un GPS.
+
+**Le soaring en bord de mer.** Au-dessus de l’eau, le danger change de nature. Au socle s’ajoute un gilet de sauvetage autogonflant. Le coupe-suspente y devient vital : à l’eau, la voile et ses suspentes peuvent entraîner le pilote par le fond.
+
+**Le cross.** Dès que le pilote quitte l’autonomie de l’atterrissage du site, il peut se poser n’importe où : dans un arbre, dans une combe isolée, loin de tout secours. Au socle s’ajoutent :
+
+- une boussole, pour garder un cap dans un nuage ;
+- un traqueur principal sur réseau GSM, et un traqueur de secours par satellite, pour être retrouvé là où le téléphone ne passe plus ;
+- une corde et un descendeur, pour descendre d’un arbre ou d’une barre ;
+- une couverture de survie, pour attendre les secours.
+
+**Le paralpinisme.** Ici, la logique s’inverse. Le paralpiniste porte tout sur son dos, à pied comme en vol, et chaque gramme compte : il veut voler léger. Son équipement se réduit donc au strict nécessaire : un traqueur par satellite, et une boussole pour garder un cap s’il se fait avaler par un nuage. S’il ne devait embarquer qu’un seul objet, ce serait le traqueur : là où il va, le réseau GSM est l’exception, et c’est souvent la seule chose qui permettra de le retrouver.
+
+[À COMPLÉTER : l’équipement des autres pratiques (voltige, course…), et les savoirs et l’entraînement qui vont avec (savoir lancer son secours, se servir de sa corde, etc.).]
+
+**[FIN DU BROUILLON]**
+
 ### Une réglementation du vol à vue et des usages obsolètes
 
 [À CONFIRMER : les textes exacts. En Europe, les règles de l’air relèvent du règlement SERA (règlement d’exécution (UE) n° 923/2012) ; vérifier ce qui s’applique précisément aux parapentes.]
