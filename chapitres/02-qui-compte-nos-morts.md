@@ -10,7 +10,7 @@ Ses raisons ne sont pas les miennes. Rick Masters est convaincu que le parapente
 
 **[BROUILLON À RELIRE]**
 
-Avec le recul, il est un peu dur de constater que tout n’était pas dénué de sens chez lui. Rick Masters parle du parapente comme d’un aéronef *frameless*, sans structure, et il décrit depuis longtemps une « zone de la mort » : la tranche d’air proche du sol où une fermeture ne laisse ni le temps de récupérer la voile ni celui de faire ouvrir un secours [À VÉRIFIER : terme exact employé par Rick Masters et référence du billet]. En 2026, huit accidents mortels sont survenus en cross sur des fermetures proches du sol. On peut rejeter ses conclusions sur le parapente, mais pas son constat : cette zone existe, et nous y perdons des pilotes chaque année.
+Avec le recul, il est un peu dur de constater que tout n’était pas dénué de sens chez lui. Rick Masters parle du parapente comme d’un aéronef *frameless*, sans structure, et il décrit depuis longtemps une « zone de la mort » : la tranche d’air proche du sol où une fermeture ne laisse ni le temps de récupérer la voile ni celui de faire ouvrir un secours [À VÉRIFIER : terme exact employé par Rick Masters et référence du billet]. En 2026, huit accidents mortels sont survenus en cross sur des fermetures proches du sol, sans possibilité de secours : les pilotes n’ont pas eu le temps de le lancer. On peut rejeter ses conclusions sur le parapente, mais pas son constat : cette zone existe, et nous y perdons des pilotes chaque année.
 
 **[FIN DU BROUILLON]**
 
