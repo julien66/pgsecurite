@@ -1,7 +1,7 @@
 ## Un meilleur système
 
 
-Les propositions qui suivent sont regroupées en cinq blocs : connaître nos accidents, mieux informer, équiper et former, veiller et secourir, et revoir nos règles de circulation.
+Les propositions qui suivent sont regroupées en quatre blocs : connaître nos accidents, mieux informer, équiper et former, veiller et secourir.
 
 ### Connaître nos accidents
 
@@ -259,20 +259,6 @@ Autre emprunt au monde nautique \! Si ce sont des personnels civils et militaire
 Sous nos latitudes, la saison du parapente démarre au printemps et se poursuit l’été avant de doucement s’éteindre avec l’arrivée de l’automne puis de l’hiver. Néanmoins, la communauté aime voyager et la saison ressemble de plus en plus à une succession de rassemblements ritualisés autour du globe sur des spots fameux : septembre dans le Val di Fassa en Italie, octobre en Turquie à Oludeniz, novembre à Bir en Inde, décembre à Tenerife, janvier-février en Colombie dans la Valle del Cauca ou au Mexique à Valle de Bravo, etc. Souvent, le bassin de pratique recense au-delà de 300 pilotes de loisir par jour. Tout le monde vole et vit au rythme local. Personne n’a sans doute jamais consacré une seule journée de son temps à surveiller et coordonner des secours pour les copains partis voler. Comment le pourrait-on ? Absolument rien n’est prévu pour cela. Dans les pays les plus exotiques, où la coordination des secours et l’alerte sont encore des processus complexes ou inhabituels, nous pourrions organiser des stations éphémères munies d’un poste radio, d’un numéro d’urgence et offrir un relais direct avec les autorités. Avoir une paire de bénévoles formés consacrant une journée sur le temps de leur séjour serait enrichissant. Sans doute même que nous serions contents de financer ce genre d’initiatives si nous avions à le faire et si elles étaient entreprises sur le plan local. Nous payons déjà des billets d’avion, des gîtes, des accès et des remontées au décollage sans parler des bières d’après vol. Nous devons prendre conscience que ce genre de dispositif de secours servirait à protéger des pratiquants de vol libre. C'est-à-dire nous-mêmes. Continuer de faire comme si tout allait bien se passer alors que l’on sait d’année en année, de semaine en semaine ou de jour en jour que ce n’est pas le cas, est une attitude irresponsable.
 
 Dans la même lignée, serait-il difficile d’imaginer une paire de bénévoles dédiés à la surveillance du live-tracking les belles journées ? Avec une plateforme de type PureTrack dédiée à la détection, à la levée de doute et à l’alerte ? Avec d’autres coachs de la Fédération Française de Vol Libre, nous passons beaucoup de temps à observer les performances et les traces de pilotes sur différents secteurs. Cela fait plusieurs fois que nous nous enquérons de l’état d’un pilote visiblement accidenté au tracking. Trouver son numéro, le contacter, lever le doute et le cas échéant donner l’alerte puis contacter ses proches n’est jamais une mince affaire. Le sentiment d’impuissance est parfois terrible et change une expérience apparemment anodine en un cauchemar. Pour autant, la communauté peut décider d’organiser cette surveillance très facilement. Cela demande un peu de temps, de la volonté et quelques protocoles mais rien de plus. J’ai la chance d’avoir accès à un intranet fédéral avec des numéros de téléphone et des contacts d’urgence pour de nombreux pratiquants. Cela m’a déjà servi plusieurs fois avec bonheur. Que ferez-vous lorsque vous me verrez m’écraser en live lors de la prochaine tentative de record de distance de l'Équipe de France ? Qui appellerez-vous ? Comment passerez-vous l’alerte à des milliers ou des centaines de kilomètres de mon crash ? Ce sont des questions que nous pouvons et devons élucider rapidement.
-
-### Revoir nos règles de circulation
-
-Enfin, les règles qui organisent le partage du ciel entre pilotes méritent elles aussi d’être revues. 
-
-#### Une réglementation du vol à vue et des usages obsolètes
-
-[À CONFIRMER : les textes exacts. En Europe, les règles de l’air relèvent du règlement SERA (règlement d’exécution (UE) n° 923/2012) ; vérifier ce qui s’applique précisément aux parapentes.]
-
-Nos règles de circulation en l’air sont celles du vol à vue, pensées pour des avions qui se croisent à des centaines de kilomètres par heure. Elles s’appliquent mal à ce que nous faisons réellement : tourner à vingt ou à cinquante dans le même thermique, à quelques mètres les uns des autres, au ras du relief. Pour combler ce vide, la communauté s’est donné des usages : même sens de rotation que le premier pilote entré dans le thermique, priorité au pilote le plus bas, priorité à celui qui a la pente à sa droite en vol de pente. Ces usages se transmettent oralement, varient selon les sites et les pays, et ne sont pas toujours connus des pilotes venus d’ailleurs.
-
-Certains sont même discutables. La priorité au pilote le plus bas est peut-être un héritage du deltaplane [SOURCE À TROUVER : origine de cet usage]. Est-elle encore adaptée à des grappes de parapentes très denses ? Nous avons vu que la collision en thermique est l’un des grands périls de notre activité. Il serait logique qu’une communauté qui la connaît si bien réexamine ses règles de circulation avec méthode : partir des collisions et des quasi-collisions recensées, vérifier ce qui fonctionne, puis proposer des règles écrites, simples et communes à tous les sites.
-
-[À COMPLÉTER : les autres « usages obsolètes » que tu avais en tête.]
 
 [^c-en926-2]:  EN 926-2:2013, *Équipement pour le parapente — Parapentes — Partie 2 : Exigences et méthodes d’essai pour la classification des caractéristiques de sécurité en vol*, adoptée par le CEN le 14 septembre 2013 (remplace l’EN 926-2:2005), § 5.4 « Conditions d’essai » et § 5.5.6 « Dimensions du harnais ».
 
