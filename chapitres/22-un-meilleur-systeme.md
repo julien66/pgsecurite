@@ -183,7 +183,7 @@ Le parcours de formation doit donc être revu en fonction du type de pratique vi
 
 Ni cet équipement par pratique ni ces formations adaptées n’ont vocation à devenir des obligations. L’idée n’est pas de contraindre, mais de les inscrire dans une charte fédérale. Une charte est une convention collective : celle des adhérents qui partagent une vision de ce que doit être l’activité et de la manière d’y accéder. Chacun reste libre de s’en affranchir, mais son usage donne le cadre et le sens commun. Le pilote qui part en cross sans traqueur ni connaissance des espaces aériens ne commet aucune infraction. Il sait simplement qu’il s’écarte de ce que la communauté considère comme une pratique raisonnable.
 
-Enfreindre la charte n’expose à aucune sanction. Faut-il pour autant la croire sans effet ? Une fois ses règles et ses usages de sécurité acceptés, la communauté est assez farouche pour les défendre elle-même. Faites une belle vidéo en volant sans casque sur Instagram, et vous verrez[^c-genovese]. Le casque n’est imposé par aucune sanction fédérale au pilote autonome [À VÉRIFIER], et pourtant presque personne ne vole sans. La pression des pairs fait ce que le règlement ne fait pas. Une charte s’appuie sur cette force-là : elle ne punit pas, elle donne à la communauté un repère commun à défendre.
+Enfreindre la charte n’expose à aucune sanction. Faut-il pour autant la croire sans effet ? Une fois ses règles et ses usages de sécurité acceptés, la communauté est assez farouche pour les défendre elle-même. Faites une belle vidéo en volant sans casque sur Instagram, et vous verrez. Le casque n’est imposé par aucune sanction fédérale au pilote autonome [À VÉRIFIER], et pourtant presque personne ne vole sans. La pression des pairs fait ce que le règlement ne fait pas. Une charte s’appuie sur cette force-là : elle ne punit pas, elle donne à la communauté un repère commun à défendre.
 
 Une charte a un autre avantage sur la réglementation : elle peut évoluer vite. Elle suit l’activité, les publics et les connaissances que nous accumulons sur nos disciplines, sans attendre une réforme. C’est sans doute la forme la plus fidèle à l’esprit du vol libre : un engagement partagé plutôt qu’une règle imposée, qui préserve la liberté du pilote tout en lui disant clairement ce que nous savons.
 
@@ -249,8 +249,6 @@ Nos règles de circulation en l’air sont celles du vol à vue, pensées pour d
 Certains sont même discutables. La priorité au pilote le plus bas est peut-être un héritage du deltaplane [SOURCE À TROUVER : origine de cet usage]. Est-elle encore adaptée à des grappes de parapentes très denses ? Nous avons vu que la collision en thermique est l’un des grands périls de notre activité. Il serait logique qu’une communauté qui la connaît si bien réexamine ses règles de circulation avec méthode : partir des collisions et des quasi-collisions recensées, vérifier ce qui fonctionne, puis proposer des règles écrites, simples et communes à tous les sites.
 
 [À COMPLÉTER : les autres « usages obsolètes » que tu avais en tête.]
-
-[^c-genovese]: Laurie Genovese, échange avec l’auteur [À CONFIRMER : contexte, date, et accord pour être citée].
 
 [^c-ffvl-amerrissage]: Exports des déclarations d’accidents FFVL 2024 et 2025 communiqués à l’auteur, accidents dont le retour au sol est déclaré « eau ». Agrégats calculés par l’auteur. Les accidents non déclarés, notamment ceux de pilotes non licenciés ou étrangers, n’y figurent pas.
 
