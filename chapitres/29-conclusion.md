@@ -1,7 +1,5 @@
 # Conclusion
 
-**[BROUILLON À RELIRE]**
-
 Le parapente n’est pas un sport sûr à risque maîtrisable. C’est une activité magnifique, où l’on peut mourir, et c’est précisément pour cela qu’elle nous rend si libres. Tant que nous refuserons de le dire, nous continuerons de faire porter nos accidents à ceux qui en sont victimes, et nous continuerons d’enterrer nos amis en nous répétant qu’ils avaient fait une erreur.
 
 ### Ce que nous croyons
@@ -38,6 +36,3 @@ Rien de cela n’oblige à surcharger la réglementation. La plupart de ces mesu
 J’ai commencé ce livre par des prénoms. Je le termine en pensant à eux. Je ne crois pas qu’ils soient morts parce qu’ils étaient moins bons que nous. Je crois qu’ils sont morts dans une activité qui comporte des périls, au sein d’une communauté qui n’a pas encore construit tout ce qu’elle pourrait pour les protéger. Le meilleur hommage que nous puissions leur rendre, c’est d’apprendre de ce qui leur est arrivé.
 
 Nous continuerons de voler à nos risques. Faisons en sorte de ne plus être seuls face à nos périls.
-
-[À COMPLÉTER : un dernier mot personnel, si tu le souhaites.]
-
