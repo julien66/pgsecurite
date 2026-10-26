@@ -166,11 +166,28 @@ Or nous parlons de « l’équipement du pilote » comme s’il n’y en avait q
 - une boussole, pour garder un cap dans un nuage ;
 - un traqueur principal sur réseau GSM, et un traqueur de secours par satellite, pour être retrouvé là où le téléphone ne passe plus ;
 - une corde et un descendeur, pour descendre d’un arbre ou d’une barre ;
-- une couverture de survie, pour attendre les secours.
+- une couverture de survie, pour attendre les secours ;
+- un dispositif de visibilité électronique, pour être vu des autres aéronefs (voir ci-dessous).
 
 **Le paralpinisme.** Ici, la logique s’inverse. Le paralpiniste porte tout sur son dos, à pied comme en vol, et chaque gramme compte : il veut voler léger. Son équipement se réduit donc au strict nécessaire : un traqueur par satellite, et une boussole pour garder un cap s’il se fait avaler par un nuage. S’il ne devait embarquer qu’un seul objet, ce serait le traqueur : là où il va, le réseau GSM est l’exception, et c’est souvent la seule chose qui permettra de le retrouver.
 
 [À COMPLÉTER : l’équipement des autres pratiques (voltige, course…), et les savoirs et l’entraînement qui vont avec (savoir lancer son secours, se servir de sa corde, etc.).]
+
+**[FIN DU BROUILLON]**
+
+#### Être vu : la visibilité électronique entre aéronefs
+
+**[BROUILLON À RELIRE]**
+
+Tant que nous tournons au-dessus de notre site, nous partageons le ciel surtout entre nous. Dès que nous partons en cross, nous entrons dans un espace que d’autres utilisent aussi : planeurs, ULM, avions de tourisme, hélicoptères de secours ou militaires en vol à basse altitude. Leur vitesse n’a rien à voir avec la nôtre. Un planeur qui spirale à 120 km/h, un hélicoptère qui remonte une vallée : à ces vitesses, le principe « voir et éviter » qui fonde nos règles du vol à vue ne laisse que quelques secondes. Et une voile vue de face, sur un fond de montagne, est l’une des choses les plus difficiles à repérer dans le ciel.
+
+D’autres l’ont compris avant nous. Le vol à voile s’est massivement équipé de FLARM, un système qui émet la position de l’aéronef et alerte le pilote quand une trajectoire menace de croiser la sienne [SOURCE À TROUVER : taux d’équipement des planeurs en FLARM, en France ou en Europe]. Le vol libre dispose aujourd’hui de plusieurs solutions : certains instruments intègrent un émetteur FLARM, d’autres le protocole ouvert FANET, et des applications sur téléphone relaient la position du pilote vers les autres usagers. Des réseaux de récepteurs au sol, comme l’Open Glider Network, rendent ces positions visibles en temps réel, ce qui sert aussi à retrouver un pilote après un accident.
+
+Le problème est que ces systèmes ne se parlent pas toujours entre eux. Un FANET ne se voit pas forcément sur l’écran d’un FLARM, et ni l’un ni l’autre n’apparaît sur le transpondeur d’un avion de ligne ou dans le cockpit d’un hélicoptère qui n’en est pas équipé [À VÉRIFIER : compatibilité réelle entre FLARM, FANET et ADS-B dans les appareils actuels]. Être équipé ne protège que si l’autre l’est aussi, et avec le même langage. Il y a aussi des limites propres à notre pratique : dans une grappe de vingt voiles en thermique, un système d’alerte conçu pour des planeurs sonnerait sans arrêt. Ce qui compte pour nous, c’est d’abord d’être vus.
+
+C’est donc un chantier collectif plus qu’individuel. Il faudrait que les fédérations, les fabricants d’instruments et les autres usagers de l’espace aérien s’accordent sur un standard commun, ou au moins sur des passerelles entre les standards existants. Il faudrait aussi recommander clairement, dès le brevet de pilote, qu’un pilote qui part en cross emporte un dispositif de visibilité électronique, au même titre que son traqueur.
+
+[À COMPLÉTER : ton expérience ou un incident vécu avec un planeur, un hélicoptère ou un avion en cross.]
 
 **[FIN DU BROUILLON]**
 
