@@ -45,7 +45,7 @@ Ce n’est qu’un exemple de parcours. Je n'ai pas tout mentionné parce qu'il 
 
 Je ne raconte pas tout cela pour me faire plaindre, ni pour qu’on me juge. Certains le feront quand même, et ce réflexe est justement celui que ce livre décrit. Je publie mon historique parce que je suis encore là. Entre le coach et pilote reconnu que je suis devenu et le pilote mort dans ses jeunes années que j’aurais pu être, il y a quand même la chance. Ce que nous attribuons volontiers à notre compétence doit beaucoup au hasard (voir « Le succès des uns, l’erreur des autres »). Non seulement c'est de là d'où je viens mais c'est aussi ce que j'ai vu. De nombreux pilotes de l'équipe de France ont eu de la chance et ne sont pas morts dans des situations où ils auraient pu.
 
-Publions nos historiques. Stars, pilotes lambda. Crevons l'abcès et aidons la communauté entière à déplacer son regard. Premièrement je n'ai pas à avoir honte de m'être encastré. Ensuite la communauté a sans doute beaucoup à apprendre de ce qui m'est arrivé.
+Publions nos historiques. Stars, pilotes lambda. Crevons l'abcès et aidons la communauté entière à déplacer son regard. Premièrement je n'ai pas à avoir honte de m'être encastré. Ensuite la communauté a sans doute beaucoup à apprendre de ce qui m'est arrivé. #ICRASHEDTOO
 
 ### Écouter les voix qui dérangent
 
