@@ -29,9 +29,9 @@ Les propositions de la seconde partie ne reposent pas sur une seule épaule. C�
 | Les clubs et les gestionnaires de sites | Cartographier les accidents de leurs sites, équiper et signaler les terrains (y compris le risque d’amerrissage), installer des balises, afficher les bulletins de sécurité, organiser la veille et les secours bénévoles dans les grands bassins de pratique. |
 | Les fabricants et les laboratoires | Signaler les tailles et les modèles non homologués, publier des rapports de tests lisibles, faire remonter les défauts de fabrication, innover sur le parachute de secours et sur la protection près du sol. |
 | Les mentors et les coachs | Suivre les pilotes dans la durée, les aider à choisir leur quête, leur équipement et leurs modules de formation, et rester une voix désintéressée. |
-| Chaque pilote | S’équiper et se former selon sa pratique, voler avec un traqueur et une radio, veiller sur les autres, déclarer ses accidents et ses incidents, et raconter ce qui lui est arrivé sans honte. |
+| Chaque pilote | Se former selon sa pratique, signer la charte de pratique. S'équiper et voler avec un matériel adapté à sa pratique, veiller sur les autres, déclarer ses accidents et ses incidents, et raconter ce qui lui est arrivé sans honte. |
 
-Rien de cela n’oblige à mettre l’oiseau en cage. La plupart de ces mesures nous rendront même plus libres, parce que nous saurons que si le pire arrive, quelqu’un nous cherchera, nous trouvera et apprendra de ce qui nous est arrivé.
+Rien de cela n’oblige à surcharger la réglementation. La plupart de ces mesures nous rendront même plus libres, parce que nous saurons que si le pire arrive, quelqu’un nous cherchera, nous trouvera et apprendra de ce qui nous est arrivé.
 
 ### Pour ceux qui sont tombés
 
@@ -41,4 +41,3 @@ Nous continuerons de voler à nos risques. Faisons en sorte de ne plus être seu
 
 [À COMPLÉTER : un dernier mot personnel, si tu le souhaites.]
 
-**[FIN DU BROUILLON]**
