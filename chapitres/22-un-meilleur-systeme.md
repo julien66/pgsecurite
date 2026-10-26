@@ -10,6 +10,28 @@ Il y a des reliefs, des combes ou des crêtes réputés pour la désorganisation
 
 Nous pouvons également croiser l’apparition des accidents avec des conditions météorologiques ou aérologiques particulières sur un secteur donné. La force du vent en terrain montagneux est réputée pour être un mauvais catalyseur d’accidents. Prouvons-le et prévenons- le.
 
+### Lire nos accidents les plus fréquents avec la TEM
+
+Cartographier ne suffit pas : il faut aussi comprendre comment nos accidents se construisent. La méthode TEM présentée plus haut (voir « Mythe #2 ») offre une grille simple. Pour chaque scénario, on cherche les **menaces** (ce qui vient de l’environnement ou du matériel et que le pilote ne contrôle pas), les **erreurs** (ce que le pilote fait ou omet), les **états indésirables** (la situation dégradée qui précède l’accident) et les **parades** (ce qui permet de détecter et de corriger avant qu’il soit trop tard). L’intérêt n’est pas de désigner un fautif, mais de voir où le système peut agir.
+
+Les chiffres qui suivent viennent des 1 449 déclarations d’accidents faites à la FFVL en 2024 et 2025. Ils sont partiels, puisque tous les accidents ne sont pas déclarés, mais ils donnent un ordre de grandeur[^c-ffvl-export-tem].
+
+#### En deltaplane : l’atterrissage, puis le décollage
+
+Les accidents de deltaplane sont rares dans les déclarations (49 en deux ans pour 350 licenciés), mais leur répartition est nette : 32 relèvent de l’atterrissage, dont 13 chocs de trapèze, et 11 du décollage, dont 8 retours dans la pente.
+
+- **Atterrissage.** *Menaces* : gradient de vent, turbulence de terrain, vent arrière ou de travers, terrain court ou en pente. *Erreurs* : approche trop lente, arrondi trop tôt ou trop tard, virage au ras du sol, mauvaise évaluation du vent. *État indésirable* : aile en sous-vitesse à quelques mètres du sol, sans marge pour reprendre de la vitesse. *Parades* : drag chute, approche codifiée avec une vitesse minimale, choix d’un terrain aménagé, entraînement à l’arrondi, roues sur le trapèze, terrain à finesse en permanence. 
+- **Décollage.** *Menaces* : vent de travers, rafales, pente faible. *Erreurs* : course d’élan insuffisante, aile mal tenue, départ en sous-vitesse. *État indésirable* : aile qui ne vole pas encore alors que le pilote a quitté le sol. *Parades* : aménagement du décollage, visite prévol et lecture du vent rigoureuses, renoncement accepté, entraînement en pente école.
+
+#### En parapente : trois scénarios qui tuent
+
+- **Les fermetures près du sol.** C’est le premier scénario mortel : sur les 23 décès en parapente déclarés en 2024 et 2025, 10 sont des fermetures en vol. Sur 148 accidents liés à une fermeture, près de la moitié se terminent par des blessures graves ou un décès. Et lorsque la hauteur est renseignée, les premiers signes apparaissent sous 100 mètres dans plus de huit cas sur dix (76 sur 89), là où le secours n’a pas le temps de s’ouvrir. C’est la « zone de la mort ». *Menaces* : turbulence thermique ou dynamique près du relief, brise forte, voile exigeante. *Erreurs* : voler trop près du relief dans des conditions fortes, pilotage passif, voile au-dessus de son niveau. *État indésirable* : voile fermée sans hauteur pour récupérer. *Parades* : Travail d'innovation sur le parachute de secours, largage automatique, garder une marge de hauteur et de distance au relief proportionnée aux conditions, choisir une voile adaptée à son niveau réel, s’entraîner à tirer.
+- **Les amérissages.** Ils sont rares mais très graves : 11 déclarations en deux ans, dont 3 décès. *Menaces* : lac ou rivière sur la trajectoire, atterrissage en bord d’eau, vent qui pousse vers l’eau, dynamique qui faiblit sans atterissage. *Erreurs* : mauvaise gestion du plan de vol ou du plan d’approche, sous-estimation du danger de l’eau. *État indésirable* : pilote à l’eau, attaché à sa sellette, sous la voile et les suspentes. *Parades* : gilet de sauvetage autogonflant et coupe-suspente accessible, savoir se détacher vite, formation spécifique, sécu bateau envisageable.
+- **Les oublis d’accroche.** Ils sont très peu déclarés (3 en deux ans, dont un décès), probablement parce qu’ils sont souvent rattrapés de justesse ou jamais racontés. *Menaces* : interruption pendant la préparation, décollage chargé, fatigue. *Erreurs* : cuissardes ou ventrale non fermées, mousqueton mal verrouillé. *État indésirable* : pilote en l’air qui n’est plus tenu par sa sellette. *Parades* : visite prévol systématique et toujours dans le même ordre, sellettes qui empêchent de décoller sans être attaché, contrôle croisé entre pilotes.
+
+
+[^c-ffvl-export-tem]:  Exports des déclarations d’accidents FFVL 2024 et 2025, comptages réalisés par l’auteur sur les déclarations, toutes pratiques confondues (1 350 en parapente, 49 en deltaplane).
+
 ### Une échelle de Beaufort pour le vol libre
 
 A propos de pouvoir communiquer efficacement au sujet d’un danger avéré en l’air, il est amusant de constater qu’après 40 ans d’existence, nous n’avons toujours pas d’échelle commune pour parler des conditions rencontrées dans le ciel. Comment j’avertis mes collègues au sol de ce que je vis en ce moment même en l’air ? Comment je parle des conditions ici alors qu’ils sont encore une transition derrière moi ?
@@ -111,9 +133,9 @@ Aussi absurde que cela puisse paraître, la couleur de la voile a un impact sur 
 
 Pour autant ce chapitre ne va pas se contenter de parler cosmétique mais entend entrer dans le détail de la conception à la production en passant par les tests de nos fabuleux engins. La communauté aime rappeler à qui voudra l’entendre qu’il n’existe plus d’accident lié au matériel. Cette assertion est une grosse bêtise et à bien plus d’un titre. Même en considérant l’accident matériel uniquement et strictement comme un défaut structurel et une partie qui “casse” durant l'exécution du vol, certains accidents récents entrent encore pleinement dans cette catégorie.  Un maillon, un écarteur de biplace, une sangle de secours, des suspentes, des pattes d’attache… Bien sûr que certains d’entre nous sont encore parfois affectés par la casse \! C’est une énorme malchance bien entendu. L’usure, une utilisation non conforme mais encore des soucis de production peuvent conduire à des erreurs et in fine à des ruptures de matériel en vol. C’est tout à fait marginal mais lorsque cela survient, cela compte. Les constructeurs font régulièrement des rappels au point de faire passer quelques célèbres compagnies proches de la banqueroute.
 
-Tout se passe comme si l’on oubliait que le système de qualité était assuré par le manufacturier lui-même. Il n’y a pas d’intermédiaire de vérification individualisé entre le fabricant / producteur et le consommateur / pilote. Quelqu’un à l’usine se charge la plupart du temps de déclarer votre voile conforme et bonne à propre à la vente. Ces processus industriels sont internes. Généralement ils sont parfaits mais j’ai déjà reçu une machine neuve avec une suspente 7 cm trop longue et une autre avec des freins bien trop courts il y a plus longtemps.
+Tout se passe comme si l’on oubliait que le système de qualité était assuré par le manufacturier lui-même. Il n’y a pas d’intermédiaire de vérification individualisé entre le fabricant / producteur et le consommateur / pilote. Quelqu’un à l’usine se charge la plupart du temps de déclarer votre voile conforme et propre à la vente. Ces processus industriels sont internes. Généralement ils sont parfaits mais j’ai déjà reçu une machine neuve avec une suspente 7 cm trop longue et une autre avec des freins bien trop courts.
 
-La structure même de votre voile est probablement découpée au laser mais reste cousue à la main. En compétition, nous savons qu’il est difficile d’avoir deux voiles identiques. Les moindres petits détails ont une influence sur la vitesse, le comportement. Et là je parle de manufacturiers qui font le travail, qui conçoivent, qui testent et qui homologuent. Il n’y a rien qui les y obligent. Dans la majorité des pays du monde, c'est-à-dire en dehors du marché germanique (qui est plus réglementé), rien n’oblige un fabricant à quoi que ce soit. Il peut externaliser la conception, la production, les tests et même décider de ne pas faire du tout homologuer son matériel. 
+La structure même de votre voile est probablement découpée au laser mais reste cousue à la main. En compétition, nous savons qu’il est difficile d’avoir deux voiles identiques. Les moindres petits détails ont une influence sur la vitesse, le comportement. Et là je parle de manufacturiers qui font le travail, qui conçoivent, qui testent et qui homologuent. Il n’y a rien qui les y obligent. Dans la majorité des pays du monde, c'est-à-dire en dehors du marché germanique (qui est plus réglementé), rien n’oblige un fabricant à quoi que ce soit. Il peut externaliser la conception, la production, les tests et même décider de ne pas faire du tout homologuer son matériel.
 
 Il n’y a pas si longtemps j’ai vu une vidéo sur Instagram d’une pauvre pilote qui décolle parfait d’un sommet herbeux, plane 100m au-dessus d’une piste de ski et se prend une fermeture frontale totale à 50m / sol sans signe avant coureur perceptible. Elle s’écrase sans trop de bobo mais bien choquée. Evidemment, les commentaires sur la toile la lynchent abondamment.
 
@@ -121,7 +143,7 @@ Il n’y a pas si longtemps j’ai vu une vidéo sur Instagram d’une pauvre pi
 - “Pourquoi t’as pas contré ? ”  
 - “Faut aller faire un SIV là” 
 
-Perso, je ne perçois pas bien ce qu’elle aurait fait de mal. En fait il s’avère que la voile est une petite taille non homologuée d’une marque pourtant réputée qu’elle ne volera sans doute plus jamais. Des histoires comme celle-ci sont pléthoriques. Les extrémités de taille (XXS et XXL) des modèles de voile (même populaires) sont réalisées à partir d'homothétie. La taille M ou celle que peut voler l’équipe de recherche et développement concentre tous les efforts, tandis que les autres tailles sont généralement des déclinaisons de la principale. Évidemment, plus on s’éloigne des tailles spécialement mises au point par le designer et ses pilotes tests et moins le résultat est bon. Non seulement, les plus petites tailles (ou les plus grandes), pour lesquelles le marché n’est pas suffisant, ne sont pas testées, mais en plus elles ne sont  pas homologuées. Et il en va de même pour tous les produits qui peinent à entrer dans la définition actuelle de la norme.
+Perso, je ne perçois pas bien ce qu’elle a fait de mal. En fait il s’avère que la voile est une petite taille non homologuée d’une marque pourtant réputée qu’elle ne volera sans doute plus jamais. Des histoires comme celle-ci sont pléthoriques. Les extrémités de taille (XXS et XXL) des modèles de voile (même populaires) sont réalisées à partir d'homothétie. La taille M ou celle que peut voler l’équipe de recherche et développement concentre tous les efforts, tandis que les autres tailles sont généralement des déclinaisons de la principale. Évidemment, plus on s’éloigne des tailles spécialement mises au point par le designer et ses pilotes tests et moins le résultat est bon. Non seulement, les plus petites tailles (ou les plus grandes), pour lesquelles le marché n’est pas suffisant, ne sont pas testées, mais en plus elles ne sont pas homologuées. Et il en va de même pour tous les produits qui peinent à entrer dans la définition actuelle de la norme.
 
 Lorsqu’ils existent, les tests d’homologation affichent des limites importantes. La norme actuelle EN sur les voiles et les sellettes est définie par un groupe de travail (experts) qui s’appelle le Working Group 6 \- WG6.
 
@@ -137,6 +159,35 @@ Rien de tout cela ne retire leur valeur aux tests. Ils restent une plaque essent
 - Publier les rapports de tests sous une forme lisible par un pilote moyen.
 - Encourager les contrôles réguliers du matériel et en rappeler l’échéance.
 - Faire remonter les défauts de fabrication dans la même base que les accidents.
+
+### Un équipement de sécurité adapté à chaque pratique
+
+**[BROUILLON À RELIRE]**
+
+Les EPI ne s’arrêtent pas à la voile et à la sellette. Une fois en l’air, le pilote est seul, et ce qu’il a emporté décide souvent de l’issue d’un incident. La plupart de ces objets ne serviront peut-être jamais. Mais le jour où l’on en a besoin, il n’est plus temps d’aller les chercher.
+
+Or nous parlons de « l’équipement du pilote » comme s’il n’y en avait qu’un. L’équipement de sécurité est directement lié à la pratique : on ne s’équipe pas de la même façon pour des vols de soirée sur son site, pour un grand cross en montagne ou pour une traversée en paralpinisme. Un système de sécurité digne de ce nom devrait le dire clairement, pratique par pratique, et l’enseigner dès la formation. Le mentor de formation que je propose plus loin (voir « Dissocier la pratique touristique ») est bien placé pour aider chaque pilote à constituer le sien et à le compléter à chaque étape de sa progression.
+
+**Le socle : le vol sur site.** Tant que le pilote reste à finesse d’un atterrissage, il emporte :
+
+- un parachute de secours, pour le jour où la voile ne vole plus ;
+- un coupe-suspente, pour se libérer quand la voile devient un piège ;
+- un vario et un GPS.
+
+**Le soaring en bord de mer.** Au-dessus de l’eau, le danger change de nature. Au socle s’ajoute un gilet de sauvetage autogonflant. Le coupe-suspente y devient vital : à l’eau, la voile et ses suspentes peuvent entraîner le pilote par le fond.
+
+**Le cross.** Dès que le pilote quitte l’autonomie de l’atterrissage du site, il peut se poser n’importe où : dans un arbre, dans une combe isolée, loin de tout secours. Au socle s’ajoutent :
+
+- une boussole, pour garder un cap dans un nuage ;
+- un traqueur principal sur réseau GSM, et un traqueur de secours par satellite, pour être retrouvé là où le téléphone ne passe plus ;
+- une corde et un descendeur, pour descendre d’un arbre ou d’une barre ;
+- une couverture de survie, pour attendre les secours.
+
+**Le paralpinisme.** Ici, la logique s’inverse. Le paralpiniste porte tout sur son dos, à pied comme en vol, et chaque gramme compte : il veut voler léger. Son équipement se réduit donc au strict nécessaire : un traqueur par satellite, et une boussole pour garder un cap s’il se fait avaler par un nuage. S’il ne devait embarquer qu’un seul objet, ce serait le traqueur : là où il va, le réseau GSM est l’exception, et c’est souvent la seule chose qui permettra de le retrouver.
+
+[À COMPLÉTER : l’équipement des autres pratiques (voltige, course…), et les savoirs et l’entraînement qui vont avec (savoir lancer son secours, se servir de sa corde, etc.).]
+
+**[FIN DU BROUILLON]**
 
 ### Une réglementation du vol à vue et des usages obsolètes
 

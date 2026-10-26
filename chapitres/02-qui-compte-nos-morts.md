@@ -8,9 +8,9 @@ Le premier à avoir vraiment essayé n’est pas une institution. C’est un hom
 
 Ses raisons ne sont pas les miennes. Rick Masters est convaincu que le parapente est mal conçu par nature : une aile sans structure rigide, qui peut se fermer et laisser tomber son pilote. « Il est stupide de voler sur quelque chose qui peut faire ça », écrit-il[^c-masters-747]. Il oppose le parapente au deltaplane, qui a une structure, et accuse la communauté parapente d’être dans le déni. Ses messages ont souvent été reçus comme des provocations, ses statistiques contestées, sa personne rejetée[^c-masters-forum].
 
-[À COMPLÉTER : ce que montre le fil du Paragliding Forum sur l’accueil réservé à Rick Masters.]
+Je dois admettre des années plus tard que ses arguments principaux font sens. Rick Masters parle du parapente comme d’un aéronef *frameless*, sans structure, et il décrit depuis longtemps une « zone de la mort » de 400 pieds (120 mètres) : la tranche proche du sol où une fermeture ne laisse ni le temps de récupérer la voile ni celui de faire ouvrir un secours. En 2026 en France, huit accidents mortels sont survenus en cross sur des fermetures proches du sol, sans extraction du parachute de secours : les pilotes n’ont pas eu le temps de le lancer. On peut rejeter les conclusions de Rick et son entêtement à considérer son engin préféré (le deltaplane) comme plus sûr... mais son constat de base sur le parapente tient : il existe une zone problématique et nous y perdons des pilotes chaque année. NB : Je sais qu'un parachute de secours peut parfois s'ouvrir sous 50m sol. Nous verrons que je préfère considérer que si beaucoup de pilotes n'y parviennent pas dans les faits alors, nous avons un sujet.
 
-Et pourtant. En 2022, son décompte, qu’il qualifie lui-même d’incomplet, atteignait 2 150 pilotes de parapente morts depuis le premier décès qu’il recense, en 1986[^c-masters-impossible]. En 2023, il parlait de plus de 2 250 décès, et comparait ce total aux passagers de plusieurs Boeing 747[^c-masters-747]. On peut discuter sa méthode, ses intentions et ses conclusions. Mais il a fait ce que nous n’avons jamais fait collectivement : regarder le nombre.
+Rick Masters, comme d'autres acteurs affrontant la pensée mainstream de la communauté ne s'est fait pas fait beaucoup d'amis. Ses arguments ont été démontés, sa personne raillée ou insultée, son eviction de la communauté organisée. Et pourtant. En 2022, son décompte, qu’il qualifie lui-même d’incomplet, atteignait 2 150 pilotes de parapente morts depuis le premier décès qu’il recense, en 1986[^c-masters-impossible]. En 2023, il parlait de plus de 2 250 décès, et comparait ce total aux passagers de plusieurs Boeing 747[^c-masters-747]. On peut discuter sa méthode, ses intentions et ses conclusions. Mais il a fait ce que nous n’avons jamais fait collectivement : regarder le nombre.
 
 C’est peut-être la leçon la plus dérangeante. Il a fallu un adversaire déclaré du parapente pour que quelqu’un tienne la liste de nos morts. Et notre réflexe a été de disqualifier le messager plutôt que d’établir nous-mêmes un meilleur décompte. Tourner au ridicule et caricaturer des arguments qui méritent aujourd'hui encore une analyse attentive.
 
@@ -33,13 +33,13 @@ Ces déclarations disent plusieurs choses.
 - **On se blesse surtout près du sol, mais on meurt surtout en l’air.** Quand la phase est renseignée, plus de 40 % des accidents surviennent à l’atterrissage ou en approche, environ un tiers au décollage, et seulement un sur cinq à un sur quatre en vol. Mais sur les décès dont la phase est connue, 7 sur 10 en 2024 et 6 sur 7 en 2025 surviennent en vol.
 - **Les collisions entre ailes ne sont pas rares.** 33 collisions avec un autre parapente ou un deltaplane ont été déclarées en 2024, et 22 en 2025.
 
-A ce stade l'impact individuel et social (sans mauvais jeux de mot) n'est pas complètement négligeable. Il devrait interroger en priorité les victimes de ces accidents et la communauté libériste dans son ensemble. A cet effet, j'ai essayé de traduire ces chiffres autrement. Sur un an et une population de licencié on peine souvent à comprendre ce que les statistiques signifient. Essayons autrement.
+A ce stade l'impact individuel et social (sans mauvais jeux de mot) n'est pas complètement négligeable. Il devrait interroger en priorité les victimes de ces accidents et la communauté libériste dans son ensemble. A cet effet, j'ai essayé de traduire ces chiffres autrement. Sur une année et en prenant une population de licencié, on peine souvent à comprendre ce que les statistiques signifient. Alors essayons autrement.
 
 ### Une carrière de pilote
 
 Rapportons ces chiffres au nombre de pratiquants. La FFVL comptait en 2024 14 989 pilotes de parapente pratiquants, hors stagiaires et primo-licenciés, et 15 486 en 2025[^c-ffvl-licences]. Ces mêmes années, les pilotes licenciés autonomes, c’est-à-dire hors école, biplace et stage SIV, ont déclaré 363 puis 365 accidents. Chaque année, environ 2,4 % des pilotes autonomes déclarent donc un accident, et environ 1 % est gravement blessé ou tué.
 
-Ces pourcentages paraissent faibles. Toutefois... si ce risque restait constant d’une année sur l’autre et si nous l'envisagions à l’échelle d’une vie de pilote voici donc ce qui nous attend :
+Ces pourcentages paraissent faibles. Toutefois... si ce risque restait constant d’une année sur l’autre et si nous l'envisagions à l’échelle d’une vie de pilote voici ce qui nous attendrait :
 
 | Sur une carrière de… | 10 ans | 20 ans | 30 ans |
 | :---- | :---- | :---- | :---- |
@@ -51,11 +51,26 @@ Autrement dit, un pilote qui vole trente ans a plus d’une chance sur deux de d
 
 Ces chiffres sont prudents. Beaucoup d’accidents ne sont jamais déclarés : si un accident sur deux seulement l’était, près des deux tiers des pilotes en auraient au moins un en vingt ans. Le calcul suppose aussi un risque identique pour tous, alors qu’il varie probablement selon la pratique, l’expérience et l’engagement. À l’inverse, quelques accidents déclarés concernent des pilotes en première année, absents du nombre de pratiquants, ce qui majore légèrement le taux. Pour les décès, l’estimation repose sur une vingtaine de cas en deux ans : elle donne un ordre de grandeur, pas une mesure précise.
 
-Les chiffres présentés ainsi paraissent invraisemblables mais les mathématiques sont ce qu'ils sont. Si vous volez depuis une trentaine d'année, à l'échelle de votre petit club, le plus probable est que vous ayez déjà perdu un membre. Environ 1 sur 60. Si ce n'est pas votre cas, alors c'est peut-etre simplement deux dans le club voisin... J'ai eu un parcours compétitif qui a mixé de nombreux petits clubs, ligue, structure et même quelques pays. Comme vous l'avez vu en hommage mon dénominateur est malheureusement beaucoup grand que 60. Je n'ai pas perdu qu'un seul ami. C'est le cas de beaucoup de survivants de notre activité.   
+**[BROUILLON À RELIRE]**
+
+Et le deltaplane ? La communauté est beaucoup plus petite : environ 350 licenciés FFVL [À CONFIRMER : s’agit-il de pratiquants hors stagiaires et primo-licenciés, comme pour le parapente, ou de l’ensemble des licenciés delta ?]. Les pilotes de delta autonomes ont déclaré 18 accidents en 2024 et 17 en 2025, dont 8 graves en deux ans, et aucun mortel. Chaque année, environ 5 % des pilotes de delta déclarent donc un accident, deux fois plus qu’en parapente, et environ 1,1 % est gravement blessé, presque autant qu’en parapente.
+
+| Sur une carrière de… | 10 ans | 20 ans | 30 ans |
+| :---- | :---- | :---- | :---- |
+| Delta : au moins un accident déclaré | 2 pilotes sur 5 | 2 pilotes sur 3 (64 %) | 4 pilotes sur 5 |
+| Parapente : au moins un accident déclaré | 1 pilote sur 5 | 1 pilote sur 3 (38 %) | 1 pilote sur 2 (52 %) |
+| Delta : au moins une blessure grave ou mortelle | 1 pilote sur 10 | 1 pilote sur 5 | près de 3 pilotes sur 10 |
+| Parapente : au moins une blessure grave ou mortelle | 1 pilote sur 10 | 1 pilote sur 5 | 1 pilote sur 4 |
+
+Le deltiste a donc beaucoup plus d’accidents, mais ils sont en moyenne moins graves : un accident sur quatre environ est grave, contre deux sur cinq en parapente. C’est cohérent avec ce que l’on voit sur le terrain : la plupart des accidents de delta ont lieu à l’atterrissage, avec beaucoup de casse matérielle et souvent peu de blessures. Il faut cependant lire ces chiffres avec une grande prudence. Avec si peu de pilotes, quelques accidents de plus ou de moins changent tout : avec 8 accidents graves en deux ans, le taux annuel réel peut se situer n’importe où entre 0,5 % et 2,3 %. Quant au risque de décès, un seul accident mortel de delta a été déclaré en deux ans, en pratique encadrée : c’est beaucoup trop peu pour en tirer un taux.
+
+**[FIN DU BROUILLON]**
+
+Les chiffres présentés ainsi paraissent invraisemblables mais les mathématiques sont ce qu'ils sont. Si vous volez depuis une trentaine d'année, à l'échelle de votre petit club, le plus probable est que vous ayez déjà perdu un membre et ami cher. Environ 1 sur 60. Si ce n'est pas votre cas, alors c'est peut-etre simplement deux dans le club voisin. J'ai eu un parcours compétitif qui a mixé de nombreux petits clubs, ligue, structure et même quelques pays. Comme vous l'avez vu en hommage mon dénominateur est malheureusement beaucoup grand que 60. Comme beaucoup, dans cette fabuleuse aventure, je n'ai pas perdu qu'un seul ami. L'expression de "survivants" de notre activité est exagérée mais sans plus.
 
 ### Ne pas compter, c’est déjà une réponse
 
-Je ne vais donc pas ouvrir ce livre par un tableau de chiffres définitifs, parce qu’ils n’existent pas. Ce manque est en lui-même une réponse. Une communauté qui ne compte pas ses morts peut continuer de croire que son activité est sûre. Elle peut traiter chaque accident comme un cas isolé, une erreur individuelle, Un "Pilotenfehler" de plus, une bétise ou une exception.  Pourvu qu'elle n’ait jamais à se confronter au total.
+Je ne vais donc pas ouvrir ce livre par un tableau de chiffres définitifs, parce qu’ils n’existent pas. Ce manque est en lui-même une réponse. Une communauté qui ne compte pas ses morts peut continuer de croire que son activité est sûre. Elle peut traiter chaque accident comme un cas isolé, une erreur individuelle, Un "Pilotenfehler" de plus (comme l'indique le résumé web des enquêtes accidents du DHV), une bêtise donc, ou une exception. En aucun cas, notre communauté n’a jamais à se confronter au total.
 
 [^c-masters-blog]:  Rick Masters, blog « Ghosts of Wind and Cloud » : https://rickmasters.substack.com
 
