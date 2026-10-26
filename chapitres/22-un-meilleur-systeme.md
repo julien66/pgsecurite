@@ -258,7 +258,7 @@ Certains sont même discutables. La priorité au pilote le plus bas est peut-êt
 
 [^c-cen-wg6]: Air Turquoise, laboratoire d’essai membre du groupe, page « CEN/TC136/WG6 » : https://para-test.com/cen-tc136-wg6, consultée en octobre 2026.
 
-[^c-wg6]: CEN, groupe de travail WG6, « Qu’est-ce que le test de vol en parapente (EN 926-2) – Un guide du WG6 pour les pilotes », traduction française [LIEN / DATE À VÉRIFIER].
+[^c-wg6]: WG6, « The EN 926-2 flight safety characteristics Standard – a WG6 guide for pilots », publié sur le site de l’EHPU : https://www.ehpu.org/standards, consulté en octobre 2026. Traduction française de l’auteur.
 
 [^c-ffvl-amerrissage]: Exports des déclarations d’accidents FFVL 2024 et 2025 communiqués à l’auteur, accidents dont le retour au sol est déclaré « eau ». Agrégats calculés par l’auteur. Les accidents non déclarés, notamment ceux de pilotes non licenciés ou étrangers, n’y figurent pas.
 
