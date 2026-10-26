@@ -126,9 +126,9 @@ Perso, je ne perçois pas bien ce qu’elle a fait de mal. En fait il s’avère
 
 Lorsqu’ils existent, les tests d’homologation affichent des limites importantes. La norme actuelle EN sur les voiles et les sellettes est définie par un groupe de travail (experts) qui s’appelle le Working Group 6 \- WG6.
 
-**[BROUILLON À RELIRE]** Ce groupe réunit, au sein du Comité européen de normalisation (CEN), des représentants des fabricants, des laboratoires d’essai et des fédérations nationales. L’AFNOR en coordonne les travaux et l’EHPU finance la partie administrative. Il rédige les normes EN 926-1 (résistance des voiles), EN 926-2 (comportement en vol), EN 1651 (sellettes) et EN 12491 (parachutes de secours)[^c-wg6]. Ces normes sont volontaires : un fabricant peut choisir de ne pas y soumettre son matériel. **[FIN DU BROUILLON]**
+**[BROUILLON À RELIRE]** Son nom complet est CEN/TC 136/WG 6 : c’est le groupe « équipements de parapente » du comité technique consacré aux sports au sein du Comité européen de normalisation (CEN)[^c-cen-wg6]. Il réunit des représentants des fabricants, des laboratoires d’essai et des fédérations nationales. L’AFNOR en coordonne les travaux et l’EHPU finance la partie administrative. Il rédige les normes EN 926-1 (résistance des voiles), EN 926-2 (comportement en vol), EN 1651 (sellettes) et EN 12491 (parachutes de secours)[^c-wg6]. Ces normes sont volontaires : un fabricant peut choisir de ne pas y soumettre son matériel. **[FIN DU BROUILLON]**
 
-[SOURCE À TROUVER : numéro du comité technique du CEN et version en vigueur de la norme EN 926-2.]
+[À VÉRIFIER : version en vigueur de la norme EN 926-2.]
 
 Ces tests ont des limites qu’il faut connaître. Ils sont réalisés sur une voile neuve, en air calme, par un pilote d’essai qui provoque les incidents de façon standardisée. Une fermeture déclenchée à la main au-dessus d’un lac ne ressemble pas à une fermeture provoquée par un thermique de fin de journée au ras d’une crête. La classification décrit donc le comportement d’une voile lors de manœuvres codifiées, pas son comportement dans la turbulence réelle. Elle ne dit rien non plus de l’évolution de la voile avec le temps : porosité du tissu, allongement des suspentes, calage qui dérive.
 
@@ -255,6 +255,8 @@ Nos règles de circulation en l’air sont celles du vol à vue, pensées pour d
 Certains sont même discutables. La priorité au pilote le plus bas est peut-être un héritage du deltaplane [SOURCE À TROUVER : origine de cet usage]. Est-elle encore adaptée à des grappes de parapentes très denses ? Nous avons vu que la collision en thermique est l’un des grands périls de notre activité. Il serait logique qu’une communauté qui la connaît si bien réexamine ses règles de circulation avec méthode : partir des collisions et des quasi-collisions recensées, vérifier ce qui fonctionne, puis proposer des règles écrites, simples et communes à tous les sites.
 
 [À COMPLÉTER : les autres « usages obsolètes » que tu avais en tête.]
+
+[^c-cen-wg6]: Air Turquoise, laboratoire d’essai membre du groupe, page « CEN/TC136/WG6 » : https://para-test.com/cen-tc136-wg6, consultée en octobre 2026.
 
 [^c-wg6]: CEN, groupe de travail WG6, « Qu’est-ce que le test de vol en parapente (EN 926-2) – Un guide du WG6 pour les pilotes », traduction française [LIEN / DATE À VÉRIFIER].
 
