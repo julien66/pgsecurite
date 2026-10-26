@@ -179,8 +179,6 @@ Je propose une liste d'équipement pas tout à fait farfelue mais qui reste fict
 - un traqueur par satellite ;
 - une boussole pour garder un cap s’il se fait avaler par un nuage.
 
-[À COMPLÉTER : phrase inachevée] supplémentaire mais l'activité peut l'exiger.
-
 **La voltige.** Au socle s’ajoutent :
 
 - un coupe-suspente : ici aussi, pouvoir dégager une suspente est primordial ;
