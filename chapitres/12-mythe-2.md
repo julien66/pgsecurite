@@ -146,6 +146,12 @@ Il faut aller plus loin, car même le travail sur les facteurs humains a été d
 
 En parapente, nous avons gardé les mots et inversé le sens. Les facteurs humains sont devenus un catalogue de biais et de pièges mentaux : la pression de l’objectif, l’excès de confiance, l’effet de groupe, la fatigue, la lecture sélective de la météo. Ce travail est précieux pour se connaître, et il a fait progresser la formation. Mais dans le débriefing d’un accident, il sert le plus souvent à une seule chose : expliquer ce que la victime aurait dû voir en elle-même. Le pilote n’est plus seulement coupable de son erreur, il est aussi coupable de ne pas avoir su déjouer ses propres biais. La connaissance qui devait le protéger sert désormais à l’accabler.
 
+Ce discours se diffuse aujourd’hui bien au-delà des écoles, jusque sur les réseaux sociaux, où des coachs et des pilotes reconnus partagent leurs conseils avec beaucoup de sincérité. Le compte Instagram « Ariintheair » de Dereck Despein en donne un exemple parlant[^c-despein] :
+
+> « The key to fly and not dying: the best pilots in the world manage their psychology very intentionally, and the difference between someone who flies a long fulfilling career and someone who crashes and hurts themselves and dies can often be just one momentary lapse in their psychological, physiological or emotional states. »
+
+Autrement dit : la clé pour voler sans mourir, c’est que les meilleurs pilotes du monde gèrent leur psychologie de façon très délibérée, et la différence entre celui qui vit une longue et belle carrière et celui qui s’écrase, se blesse ou se tue tient souvent à un seul instant d’égarement psychologique, physiologique ou émotionnel. Le conseil est bon, et chaque pilote gagne à le suivre. Mais la conclusion implicite est vertigineuse : si la vie tient à un seul moment d’inattention, alors notre système de sécurité ne laisse aucune marge à l’humain. Un système bien conçu ferait exactement l’inverse. Il accepterait que ces moments d’égarement arrivent, puisqu’ils arriveront, et ferait en sorte qu’ils ne suffisent plus à tuer.
+
 Sidney Dekker décrit précisément ce glissement. Dans ce qu’il appelle l’« ancienne vision », l’erreur humaine est la cause de l’accident, et le travail consiste à trouver qui s’est trompé. Dans la « nouvelle vision », l’erreur humaine est le symptôme d’un problème plus profond du système, et le travail commence là où l’enquête de l’ancienne vision s’arrête[^c-dekker-fg]. Nous utilisons les outils de la nouvelle vision au service de l’ancienne.
 
 Utilisés fidèlement à leur nature, les facteurs humains devraient nous conduire à une autre question. Puisque nous savons que les pilotes sont sensibles à la pression de l’objectif, qu’ils lisent mal la météo quand ils ont fait deux heures de route, qu’ils se laissent entraîner par le groupe, que pouvons-nous changer autour d’eux pour que ces pièges se referment moins souvent ? C’est cela, aider le pilote systémiquement : non pas lui demander d’être plus fort que sa nature, mais construire un système qui la prend en compte.
@@ -169,3 +175,5 @@ Avant d’aller plus loin dans l’étude des croyances et de l’imaginaire de 
 [^c-fitts]:  Paul M. Fitts et Richard E. Jones en 1947 : Analysis of factors contributing to 460 « pilot-error » experiences in operating aircraft controls, US Army Air Forces, Aero Medical Laboratory.
 
 [^c-tem]:  Voir notamment OACI, Doc 9803 : Line Operations Safety Audit (LOSA), 2002, qui présente le modèle TEM.
+
+[^c-despein]:  Dereck Despein, compte Instagram « Ariintheair » [À CONFIRMER : orthographe du nom et du compte] [LIEN / DATE À VÉRIFIER]. Seules les fautes de frappe évidentes de la citation ont été corrigées ; traduction de l’auteur.
