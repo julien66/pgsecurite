@@ -2,6 +2,8 @@
 
 Chapitre polémique mais néanmoins indispensable. Il nous faut sortir d’une ambiguïté qui traverse toute notre activité : nous vendons la même chose à deux publics qui n’ont rien en commun.
 
+**[BROUILLON À RELIRE]** Ma proposition tient en une phrase : séparer les « enseignements » et les instructeurs touristiques de la véritable poursuite de formation des pilotes dans l’activité. Pour ceux qui s’y mettent vraiment, il faut un mentor au long cours, et un vrai. **[FIN DU BROUILLON]**
+
 ### Deux pratiques sous un même nom
 
 D’un côté, il y a le pilote autonome. Il a choisi le vol libre, il s’est formé, il a accepté peu à peu la part de risque et de péril qui fait l’essence de l’activité. C’est lui qui vit la liberté ultime et l’ordalie dont nous avons parlé. C’est son voyage du héros.
@@ -35,11 +37,11 @@ Dissocier, ce n’est ni interdire ni condamner les professionnels, qui font viv
 - **Une exigence de transport de passagers.** Des marges météo plus larges que celles d’un pilote solo, des sites et des terrains choisis et aménagés pour cet usage, un matériel suivi selon un calendrier strict.
 - **Un retour d’expérience propre.** Les accidents de biplaces commerciaux devraient être recensés et analysés à part, et partagés entre professionnels selon les principes de la culture juste.
 - **Une information honnête.** Le passager a le droit de savoir qu’il pratique une activité aérienne qui comporte un risque réel. Le dire n’éloignera pas les clients, et cela protégera les professionnels le jour où un accident survient.
-- **Une formation qui ne se vend pas comme un loisir de plein air.** Le stagiaire qui veut devenir pilote doit entendre dès le début ce qu’il s’apprête à faire et ce que signifie être autonome.
+- **Une formation qui ne se vend pas comme un loisir de plein air.** Le stagiaire qui veut devenir pilote doit entendre dès le début ce qu’il s’apprête à faire et ce que signifie être autonome. **[BROUILLON À RELIRE]** Les stages de découverte et d’initiation peuvent rester du côté touristique. La poursuite de formation du pilote, elle, relève d’une autre filière, avec ses propres instructeurs et un suivi au long cours. **[FIN DU BROUILLON]**
 
 ### Accompagner le voyage du héros
 
-Si l’apprenti pilote ne doit plus être traité comme un touriste, que lui offrir à la place ? Je crois que nous pouvons reprendre le voyage du héros à notre compte. Dans le récit de Campbell, le héros ne part jamais vraiment seul : quelqu’un l’appelle à l’aventure, et quelqu’un d’autre le guide au moment de franchir le seuil. Notre pratique encadrée pourrait offrir la même chose à chaque apprenti.
+Si l’apprenti pilote ne doit plus être traité comme un touriste, que lui offrir à la place ? **[BROUILLON À RELIRE]** Pour celui qui s’y met vraiment, un mentor au long cours, et un vrai. **[FIN DU BROUILLON]** Je crois que nous pouvons reprendre le voyage du héros à notre compte. Dans le récit de Campbell, le héros ne part jamais vraiment seul : quelqu’un l’appelle à l’aventure, et quelqu’un d’autre le guide au moment de franchir le seuil. Notre pratique encadrée pourrait offrir la même chose à chaque apprenti.
 
 **Un parrain.** Le parrain me parait pouvoir rester facultatif mais c’est la personne qui prend la lourde responsabilité de l’appel : celle qui fait entrer l’apprenti dans le vol libre et dans sa communauté. J'imagine une relation bénévole, de protecteur et de passeur. Une relation qui compte. Le parrain est un premier soutien, quelqu’un avec qui l’on peut parler de son parcours, de ses doutes et des usages que la communauté transmet de bouche à oreille. Accepter de parrainer quelqu’un, c’est reconnaître qu’on ne fait pas entrer un ami dans une activité à risque vital à la légère.
 
