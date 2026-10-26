@@ -17,11 +17,11 @@
 
   <!-- Titre -->
   <g font-family="DejaVu Serif" fill="#ffffff" text-anchor="middle">
-    <text x="740" y="300" font-size="64" letter-spacing="10" fill="#f2c38b">PARAPENTE</text>
-    <text x="740" y="500" font-size="128" font-weight="bold">Sécurité</text>
-    <text x="740" y="630" font-size="58" font-style="italic" fill="#e8edf5">en finir avec les mythes</text>
+    <text x="740" y="400" font-size="128" font-weight="bold">Sécurité</text>
+    <text x="740" y="530" font-size="96" font-weight="bold">en parapente</text>
+    <text x="740" y="720" font-size="64" font-style="italic" fill="#f2c38b">À nos risques et périls ?</text>
   </g>
-  <rect x="640" y="345" width="200" height="4" fill="#f2c38b"/>
+  <rect x="640" y="600" width="200" height="4" fill="#f2c38b"/>
 
   <!-- Parapente : voile en arc, suspentes et pilote -->
   <g transform="translate(980 1000) rotate(-8)">
