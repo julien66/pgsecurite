@@ -1,11 +1,11 @@
 ## Un meilleur système
 
 
-**[BROUILLON À RELIRE]** Les propositions qui suivent sont regroupées en cinq blocs : connaître nos accidents, mieux informer, équiper et former, veiller et secourir, et revoir nos règles de circulation. **[FIN DU BROUILLON]**
+Les propositions qui suivent sont regroupées en cinq blocs : connaître nos accidents, mieux informer, équiper et former, veiller et secourir, et revoir nos règles de circulation.
 
 ### Connaître nos accidents
 
-**[BROUILLON À RELIRE]** Avant d’agir, il faut savoir ce qui nous arrive : où, comment, et selon quels scénarios. **[FIN DU BROUILLON]**
+Avant d’agir, il faut savoir ce qui nous arrive : où, comment, et selon quels scénarios.
 
 #### Cartographier les accidents. Détecter les sites et les secteurs les plus générateurs d’accidents
 
@@ -41,7 +41,7 @@ Les accidents de deltaplane sont rares dans les déclarations (49 en deux ans po
 
 ### Mieux informer
 
-**[BROUILLON À RELIRE]** Une bonne part de nos accidents commence par une information qui n’a pas circulé. Partager ce que l’on observe, en l’air comme au sol, ne coûte presque rien à la liberté du pilote. **[FIN DU BROUILLON]**
+Une bonne part de nos accidents commence par une information qui n’a pas circulé. Partager ce que l’on observe, en l’air comme au sol, ne coûte presque rien à la liberté du pilote.
 
 #### Une échelle de Beaufort pour le vol libre
 
@@ -90,7 +90,7 @@ En mer, lorsque la prévision de Météo France dépasse force 6 sur l’échell
 
 ### Équiper et former
 
-**[BROUILLON À RELIRE]** Viennent ensuite les sites, le matériel et ce que le pilote emporte et apprend, selon la pratique qu’il a choisie. **[FIN DU BROUILLON]**
+Viennent ensuite les sites, le matériel et ce que le pilote emporte et apprend, selon la pratique qu’il a choisie.
 
 #### L’équipement des terrains de pratique 
 
@@ -172,23 +172,19 @@ Le parcours de formation doit donc être revu en fonction du type de pratique vi
 
 [À COMPLÉTER : les modules que tu verrais pour les autres pratiques (paralpinisme, voltige, compétition), et ce que prévoient aujourd’hui les brevets fédéraux sur ces points.]
 
-**[FIN DU BROUILLON]**
-
 #### Une charte plutôt qu’une obligation
 
-**[BROUILLON À RELIRE]**
 
 Ni cet équipement par pratique ni ces formations adaptées n’ont vocation à devenir des obligations. L’idée n’est pas de contraindre, mais de les inscrire dans une charte fédérale. Une charte est une convention collective : celle des adhérents qui partagent une vision de ce que doit être l’activité et de la manière d’y accéder. Chacun reste libre de s’en affranchir, mais son usage donne le cadre et le sens commun. Le pilote qui part en cross sans traqueur ni connaissance des espaces aériens ne commet aucune infraction. Il sait simplement qu’il s’écarte de ce que la communauté considère comme une pratique raisonnable.
 
-Enfreindre la charte n’expose à aucune sanction. Faut-il pour autant la croire sans effet ? Laurie Genovese fait remarquer qu’une fois ses règles acceptées, la communauté est suffisamment farouche pour défendre elle-même ses règles et ses usages de sécurité[^c-genovese]. Faites une belle vidéo en volant sans casque sur Instagram, et vous verrez. Le casque n’est imposé par aucune sanction fédérale au pilote autonome [À VÉRIFIER], et pourtant presque personne ne vole sans. La pression des pairs fait ce que le règlement ne fait pas. Une charte s’appuie sur cette force-là : elle ne punit pas, elle donne à la communauté un repère commun à défendre.
+Enfreindre la charte n’expose à aucune sanction. Faut-il pour autant la croire sans effet ? Une fois acceptées, la communauté est suffisamment farouche pour défendre elle-même ses règles et ses usages de sécurité. Faites une belle vidéo en volant sans casque sur Instagram, et vous verrez[^c-genovese]. Le casque n’est imposé par aucune sanction fédérale au pilote autonome [À VÉRIFIER], et pourtant presque personne ne vole sans. La pression des pairs fait ce que le règlement ne fait pas. Une charte s’appuie sur cette force-là : elle ne punit pas, elle donne à la communauté un repère commun à défendre.
 
 Une charte a un autre avantage sur la réglementation : elle peut évoluer vite. Elle suit l’activité, les publics et les connaissances que nous accumulons sur nos disciplines, sans attendre une réforme. C’est sans doute la forme la plus fidèle à l’esprit du vol libre : un engagement partagé plutôt qu’une règle imposée, qui préserve la liberté du pilote tout en lui disant clairement ce que nous savons.
 
-**[FIN DU BROUILLON]**
 
 ### Veiller, alerter, secourir
 
-**[BROUILLON À RELIRE]** Quand l’accident arrive malgré tout, tout se joue dans les minutes qui suivent : savoir qu’il a eu lieu, donner l’alerte, porter secours. **[FIN DU BROUILLON]**
+Quand l’accident arrive malgré tout, tout se joue dans les minutes qui suivent : savoir qu’il a eu lieu, donner l’alerte, porter secours. 
 
 #### Intégrer les balises à la VHF (Very High Frequency)
 
@@ -236,7 +232,7 @@ Dans la même lignée, serait-il difficile d’imaginer une paire de bénévoles
 
 ### Revoir nos règles de circulation
 
-**[BROUILLON À RELIRE]** Enfin, les règles qui organisent le partage du ciel entre pilotes méritent elles aussi d’être revues. **[FIN DU BROUILLON]**
+Enfin, les règles qui organisent le partage du ciel entre pilotes méritent elles aussi d’être revues. 
 
 #### Une réglementation du vol à vue et des usages obsolètes
 
