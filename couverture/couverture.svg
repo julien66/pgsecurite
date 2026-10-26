@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Couverture du livre, au format A5 (148 x 210 mm).
+     Pour changer le titre, le sous-titre ou l'auteur, modifier les textes plus bas.
+     `make couverture` produit build/couverture.png (EPUB, site) et build/couverture.pdf (PDF). -->
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 1480 2100">
+  <defs>
+    <linearGradient id="ciel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#14213d"/>
+      <stop offset="0.45" stop-color="#2b4a73"/>
+      <stop offset="0.75" stop-color="#d98b5f"/>
+      <stop offset="1" stop-color="#f2c38b"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Ciel -->
+  <rect width="1480" height="2100" fill="url(#ciel)"/>
+
+  <!-- Titre -->
+  <g font-family="DejaVu Serif" fill="#ffffff" text-anchor="middle">
+    <text x="740" y="300" font-size="64" letter-spacing="10" fill="#f2c38b">PARAPENTE</text>
+    <text x="740" y="500" font-size="128" font-weight="bold">Sécurité</text>
+    <text x="740" y="630" font-size="58" font-style="italic" fill="#e8edf5">en finir avec les mythes</text>
+  </g>
+  <rect x="640" y="345" width="200" height="4" fill="#f2c38b"/>
+
+  <!-- Parapente : voile en arc, suspentes et pilote -->
+  <g transform="translate(980 1000) rotate(-8)">
+    <path d="M -150 0 Q 0 -70 150 0 L 138 22 Q 0 -40 -138 22 Z" fill="#f2f2f2"/>
+    <path d="M -138 22 L 0 190 M -70 2 L 0 190 M 0 -8 L 0 190 M 70 2 L 0 190 M 138 22 L 0 190"
+          stroke="#ffffff" stroke-width="2" stroke-opacity="0.7" fill="none"/>
+    <circle cx="0" cy="198" r="11" fill="#14213d"/>
+  </g>
+
+  <!-- Reliefs -->
+  <path d="M 0 1560 L 180 1430 L 320 1500 L 520 1310 L 700 1450 L 860 1350 L 1060 1500 L 1240 1380 L 1480 1520 L 1480 2100 L 0 2100 Z"
+        fill="#8a5a6b" fill-opacity="0.55"/>
+  <path d="M 0 1700 L 220 1560 L 400 1650 L 640 1480 L 820 1620 L 1020 1530 L 1260 1680 L 1480 1600 L 1480 2100 L 0 2100 Z"
+        fill="#3d3550"/>
+  <path d="M 0 1860 L 300 1740 L 560 1820 L 820 1720 L 1120 1840 L 1480 1760 L 1480 2100 L 0 2100 Z"
+        fill="#1b1a2e"/>
+
+  <!-- Auteur -->
+  <text x="740" y="1990" font-family="DejaVu Sans" font-size="54" letter-spacing="6"
+        fill="#ffffff" text-anchor="middle">JULIEN GARCIA</text>
+</svg>
