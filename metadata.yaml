@@ -14,7 +14,7 @@ mainfont: "DejaVu Serif"
 toc: true
 toc-depth: 2
 toc-title: "Sommaire"
-# Couverture en première page du PDF (build/couverture.pdf, produite par `make couverture`).
+# Couverture en première page du PDF et quatrième de couverture en dernière page (build/couverture.pdf, produite par `make couverture`).
 header-includes:
   - |
     ```{=latex}
@@ -22,5 +22,7 @@ header-includes:
     \AtBeginDocument{\newgeometry{margin=0pt}\thispagestyle{empty}%
       \noindent\includegraphics[width=\paperwidth,height=\paperheight]{build/couverture.pdf}%
       \restoregeometry\clearpage}
+    \AtEndDocument{\clearpage\newgeometry{margin=0pt}\thispagestyle{empty}%
+      \noindent\includegraphics[width=\paperwidth,height=\paperheight]{build/quatrieme.pdf}}
     ```
 ---

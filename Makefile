@@ -2,7 +2,7 @@
 #   make pdf        -> build/livre.pdf  (nécessite XeLaTeX)
 #   make epub       -> build/livre.epub
 #   make html       -> build/livre.html
-#   make couverture -> build/couverture.png et build/couverture.pdf (nécessite rsvg-convert)
+#   make couverture -> couverture et quatrième de couverture en PNG et PDF (nécessite rsvg-convert et python3)
 #   make site       -> build/site/ : page d'accueil, lecture en ligne, PDF et EPUB
 #   make            -> le PDF, l'EPUB et le HTML
 
@@ -19,6 +19,9 @@ build:
 couverture: build
 	rsvg-convert -w 1600 couverture/couverture.svg -o build/couverture.png
 	rsvg-convert -f pdf couverture/couverture.svg -o build/couverture.pdf
+	python3 couverture/quatrieme.py couverture/quatrieme.txt build/quatrieme.svg
+	rsvg-convert -w 1600 build/quatrieme.svg -o build/quatrieme.png
+	rsvg-convert -f pdf build/quatrieme.svg -o build/quatrieme.pdf
 
 pdf: couverture
 	$(PANDOC) $(OPTIONS) --pdf-engine=xelatex -o build/livre.pdf

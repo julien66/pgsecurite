@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Modèle de la quatrième de couverture (A5). Le texte vient de quatrieme.txt :
+     `make couverture` le place à l'emplacement TEXTE et produit build/quatrieme.pdf et .png. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 1480 2100">
+  <defs>
+    <linearGradient id="ciel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#14213d"/>
+      <stop offset="0.45" stop-color="#2b4a73"/>
+      <stop offset="0.75" stop-color="#d98b5f"/>
+      <stop offset="1" stop-color="#f2c38b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1480" height="2100" fill="url(#ciel)"/>
+  <rect y="0" width="1480" height="2100" fill="#14213d" fill-opacity="0.45"/>
+
+  <!-- TEXTE -->
+
+  <!-- Reliefs, en miroir de la couverture -->
+  <g transform="translate(1480 270) scale(-1 1)">
+    <path d="M 0 1700 L 220 1560 L 400 1650 L 640 1480 L 820 1620 L 1020 1530 L 1260 1680 L 1480 1600 L 1480 2100 L 0 2100 Z"
+          fill="#3d3550"/>
+    <path d="M 0 1860 L 300 1740 L 560 1820 L 820 1720 L 1120 1840 L 1480 1760 L 1480 2100 L 0 2100 Z"
+          fill="#1b1a2e"/>
+  </g>
+
+  <!-- Emplacement du code-barres ISBN -->
+  <rect x="1010" y="1880" width="320" height="160" rx="6" fill="#ffffff"/>
+  <text x="1170" y="1970" font-family="DejaVu Sans" font-size="30" fill="#8a8a8a" text-anchor="middle">ISBN</text>
+
+  <!-- Mention -->
+  <text x="170" y="2010" font-family="DejaVu Sans" font-size="28" fill="#c9d2e0">Gratuit · Licence CC BY-NC-ND 4.0</text>
+</svg>
