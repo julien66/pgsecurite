@@ -17,18 +17,17 @@
 
   <!-- Titre -->
   <g font-family="DejaVu Serif" fill="#ffffff" text-anchor="middle">
-    <text x="740" y="300" font-size="64" letter-spacing="10" fill="#f2c38b">PARAPENTE</text>
-    <text x="740" y="500" font-size="128" font-weight="bold">Sécurité</text>
-    <text x="740" y="630" font-size="58" font-style="italic" fill="#e8edf5">en finir avec les mythes</text>
+    <text x="740" y="400" font-size="128" font-weight="bold">Sécurité</text>
+    <text x="740" y="530" font-size="96" font-weight="bold">en parapente</text>
+    <text x="740" y="720" font-size="64" font-style="italic" fill="#f2c38b">À nos risques et périls ?</text>
   </g>
-  <rect x="640" y="345" width="200" height="4" fill="#f2c38b"/>
+  <rect x="640" y="600" width="200" height="4" fill="#f2c38b"/>
 
-  <!-- Parapente : voile en arc, suspentes et pilote -->
-  <g transform="translate(980 1000) rotate(-8)">
-    <path d="M -150 0 Q 0 -70 150 0 L 138 22 Q 0 -40 -138 22 Z" fill="#f2f2f2"/>
-    <path d="M -138 22 L 0 190 M -70 2 L 0 190 M 0 -8 L 0 190 M 70 2 L 0 190 M 138 22 L 0 190"
-          stroke="#ffffff" stroke-width="2" stroke-opacity="0.7" fill="none"/>
-    <circle cx="0" cy="198" r="11" fill="#14213d"/>
+  <!-- Parapente, juste suggéré : un croissant arrondi et le pilote -->
+  <g transform="translate(980 1000) rotate(-10)" opacity="0.5">
+    <path d="M -170 30 C -110 -60 110 -60 170 30 C 100 -22 -100 -22 -170 30 Z"
+          fill="#f2d3b3" stroke="#f2d3b3" stroke-width="10" stroke-linejoin="round"/>
+    <circle cx="0" cy="150" r="9" fill="#f2d3b3" fill-opacity="0.8"/>
   </g>
 
   <!-- Reliefs -->

@@ -1,4 +1,4 @@
-# Sécurité en parapente (titre à trouver)
+# Sécurité en parapente. À nos risques et périls ?
 
 Manuscrit de Julien Garcia, migré depuis Google Docs. Le texte est repris tel quel depuis l'export Markdown : seul le découpage a changé.
 
