@@ -6,9 +6,9 @@ J’ai promis de respecter la liberté du vol libre. Le tableau ci-dessous class
 
 | Ce que la proposition demande | Propositions |
 | :---- | :---- |
-| Mieux informer | Cartographie des accidents, échelle WAT, niveau référé, balises aérologiques, bulletins météo de sécurité, liste des victimes |
-| Être solidaires | Culture juste, RETEX, association d’aide aux victimes, secours bénévoles, veille et assistance |
-| S’organiser | Équipement et label des sites, usage professionnel de la VHF, transparence sur le matériel, règles de circulation écrites |
-| Encadrer davantage | Cadre propre à la pratique touristique et au vol de passagers |
+| Mieux connaître et mieux informer | Cartographie des accidents, lecture TEM de nos scénarios, grilles d’accident qui notent aussi le système, traces GPS plus précises (IGC2), échelle WAT, niveau référé, balises aérologiques, bulletins météo de sécurité, liste des victimes |
+| Être solidaires | Culture juste, écoute des voix critiques, RETEX, association d’aide aux victimes, veille et assistance, secours bénévoles |
+| S’organiser | Équipement et label des sites, équipement de sécurité et formation par pratique, charte plutôt qu’obligation, usage professionnel de la VHF, transparence sur le matériel, règles de circulation écrites |
+| Accompagner et encadrer | Parrain et mentor au long cours pour chaque apprenti, cadre propre à la pratique touristique et au vol de passagers |
 
 Aucune de ces pistes n’est définitive. Ce sont des propositions à discuter, à améliorer et à essayer.
