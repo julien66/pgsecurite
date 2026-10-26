@@ -8,7 +8,7 @@ Manuscrit de Julien Garcia, migré depuis Google Docs. Le texte est repris tel q
 chapitres/   un fichier Markdown par chapitre, dans l'ordre de lecture (00, 01, 10, 11…)
 images/      les illustrations extraites de l'export
 liminaire/   pages placées avant le préambule (licence et mentions)
-couverture/  la couverture, en SVG (titre et auteur modifiables dans le fichier)
+couverture/  la couverture (SVG) et la quatrième de couverture (texte dans quatrieme.txt, photo auteur.jpg)
 site/        la page d'accueil du site de lecture
 notes/       éléments de travail, hors du livre compilé
 metadata.yaml  titre, auteur, langue et mise en page pour Pandoc
