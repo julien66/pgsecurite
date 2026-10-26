@@ -91,4 +91,4 @@ Notre accidentalité ne saurait être jugée que par nous-mêmes, membres de la 
 
 [^8]:  Intouchables réalisé en 2011 par Olivier Nakache et Eric Toledano est un film inspiré par la vie de Philippe Pozzo di Borgo et son autobiographie parue en 2001 : Le second souffle.
 
-[^c-manuel-surprises]: Pierre-Paul Ménégoz et Alain Jacques, *Le manuel du vol libre*, Fédération Française de Vol Libre, Éditions Rétine, 2005 (ISBN 2-9508644-6-5), chapitre 7 « Facteur humain et sécurité », « Estimation des conditions », p. 216. [À VÉRIFIER : existe-t-il une édition plus récente, et ce passage y figure-t-il toujours ?]
+[^c-manuel-surprises]: Pierre-Paul Ménégoz et Alain Jacques, *Le manuel du vol libre*, Fédération Française de Vol Libre, Éditions Rétine, 2005 (ISBN 2-9508644-6-5), chapitre 7 « Facteur humain et sécurité », « Estimation des conditions », p. 216. Citation tirée de l’édition de 2005 ; le manuel a été réédité depuis 2020.
