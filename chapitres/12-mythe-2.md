@@ -152,6 +152,15 @@ Ce discours se diffuse aujourd’hui bien au-delà des écoles, jusque sur les r
 
 Autrement dit : la clé pour voler sans mourir, c’est que les meilleurs pilotes du monde gèrent leur psychologie de façon très délibérée, et la différence entre celui qui vit une longue et belle carrière et celui qui s’écrase, se blesse ou se tue tient souvent à un seul instant d’égarement psychologique, physiologique ou émotionnel. Le conseil est bon, et chaque pilote gagne à le suivre. Mais la conclusion implicite est vertigineuse : si la vie tient à un seul moment d’inattention, alors notre système de sécurité ne laisse aucune marge à l’humain. Un système bien conçu ferait exactement l’inverse. Il accepterait que ces moments d’égarement arrivent, puisqu’ils arriveront, et ferait en sorte qu’ils ne suffisent plus à tuer.
 
+Sa chaîne passe d’ailleurs l’essentiel de son temps à décortiquer les erreurs de pilotes accidentés. Son auteur veut sincèrement bien faire. Il est convaincu que mettre en lumière les erreurs individuelles servira aux autres, ce qui paraît raisonnable intellectuellement. Il l’explique lui-même avec beaucoup d’émotion[^c-despein-2] :
+
+> « I have this kind of crazy belief that in every shit fuck stack there is like nuggets, there is like seeds […] And it’s my job to like dig into these tragedies and to water them and to water them and water it and grow them into an orchard that feeds people and that makes me better and that makes life mean something. »
+
+En français : il a cette croyance un peu folle que, dans chaque désastre, il y a des pépites, des graines, et que son travail consiste à creuser ces tragédies, à arroser ces graines encore et encore, pour en faire un verger qui nourrisse les autres, qui le rende meilleur et qui donne un sens à la vie.
+
+L’intention est belle, et je la partage : chaque accident doit servir. Mais la méthode compte autant que l’intention. Quand on cherche les graines uniquement dans les erreurs du pilote, le verger ne produit qu’une seule récolte : la conviction que l’accidenté aurait dû faire autrement. À mon sens, ces analyses deviennent alors parfois culpabilisantes, voire stigmatisantes, pour les victimes et pour leurs proches, même si ce n’est jamais leur but. Elles renforcent surtout l’idée, chez ceux qui regardent, que cela ne leur arrivera pas puisqu’ils ne feront pas la même erreur. La culture juste propose de chercher les graines ailleurs aussi : dans le site, la météo, le matériel, la formation, l’organisation. C’est là que se trouvent les leçons qui protègent tout le monde, et pas seulement ceux qui pensent ne jamais se tromper.
+
+
 Sidney Dekker décrit précisément ce glissement. Dans ce qu’il appelle l’« ancienne vision », l’erreur humaine est la cause de l’accident, et le travail consiste à trouver qui s’est trompé. Dans la « nouvelle vision », l’erreur humaine est le symptôme d’un problème plus profond du système, et le travail commence là où l’enquête de l’ancienne vision s’arrête[^c-dekker-fg]. Nous utilisons les outils de la nouvelle vision au service de l’ancienne.
 
 Utilisés fidèlement à leur nature, les facteurs humains devraient nous conduire à une autre question. Puisque nous savons que les pilotes sont sensibles à la pression de l’objectif, qu’ils lisent mal la météo quand ils ont fait deux heures de route, qu’ils se laissent entraîner par le groupe, que pouvons-nous changer autour d’eux pour que ces pièges se referment moins souvent ? C’est cela, aider le pilote systémiquement : non pas lui demander d’être plus fort que sa nature, mais construire un système qui la prend en compte.
@@ -177,3 +186,5 @@ Avant d’aller plus loin dans l’étude des croyances et de l’imaginaire de 
 [^c-tem]:  Voir notamment OACI, Doc 9803 : Line Operations Safety Audit (LOSA), 2002, qui présente le modèle TEM.
 
 [^c-despein]:  Dereck Despein, compte Instagram « Ariintheair » : https://www.instagram.com/reel/DekPZVNBzIu/ [À CONFIRMER : orthographe du nom et du compte, date de la publication]. Seules les fautes de frappe évidentes de la citation ont été corrigées ; traduction de l’auteur.
+
+[^c-despein-2]:  Dereck Despein, invité du podcast de Gavin McClurg [À CONFIRMER : probablement Cloudbase Mayhem] [LIEN / DATE À VÉRIFIER]. Citation transmise par l’auteur, laissée dans sa forme orale d’origine ; traduction de l’auteur.
