@@ -264,4 +264,4 @@ Certains sont même discutables. La priorité au pilote le plus bas est peut-êt
 
 [^c-flarm]:  FLARM, *FLARM Configuration Specification* (FTD-014), version 1.18, paramètre LOGINT : intervalle d’enregistrement de 1 à 8 secondes, réglé par défaut à 4 s sur les appareils PowerFLARM et à 2 s sur les FLARM « classiques » : https://www.flarm.com/wp-content/uploads/2024/04/FTD-014-FLARM-Configuration-Specification-1.18.pdf
 
-[^c-igc]:  FAI, International Gliding Commission (IGC) : *Technical Specification for IGC-approved GNSS Flight Recorders*. L’heure de chaque point (enregistrement B) y est notée en heures, minutes et secondes. [À VÉRIFIER : version de la spécification.]
+[^c-igc]:  FAI, International Gliding Commission (IGC) : *Technical Specification for IGC-approved Flight Recorders*, édition de janvier 2026 (amendement 10) : https://www.fai.org/page/igc-approved-flight-recorders. L’heure de chaque point (enregistrement B) y est notée en heures, minutes et secondes.
