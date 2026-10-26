@@ -133,7 +133,7 @@ La typologie des pratiquants du vol libre s’est diversifiée au rythme de la c
 
 Les écoles professionnelles et les réseaux sociaux se chargent de convertir le reste des troupes. Les chiffres du parapente démontrent une pratique centrée essentiellement autour d’un produit de consommation touristique. Les taux de fidélisation à l’issue d’un stage d’initiation ou d’un biplace sont en dessous des 5 % [SOURCE À TROUVER : taux de fidélisation après un stage d’initiation ou un biplace]. On vient y chercher des sensations, des souvenirs, un moment d’adrénaline, de belles photos pour les réseaux, une image audacieuse en dehors du temps, en vacances… Cette voie de démocratisation draine un flux massif qui explique qu’en dépit du petit taux de conversion dont nous avons parlé, de nombreux pilotes se convertissent chaque année par l’activité professionnelle et touristique.   
 
-L’ensemble des dynamiques de démocratisation du vol libre tend à stabiliser la courbe de progression des licenciés de la fédération française autour des 10 % par an [SOURCE À TROUVER : évolution annuelle du nombre de licenciés FFVL]. Même en considérant seulement ceux-là, il faut donc désormais moins de 10 ans pour voir doubler le nombre de pratiquants sur notre territoire.
+**[BROUILLON À RELIRE]** L’ensemble des dynamiques de démocratisation du vol libre entretient une progression régulière des licenciés de la fédération française : 34 387 en 2023, 34 744 en 2024, 36 189 en 2025 et 37 680 en 2026[^c-ffvl-effectifs]. C’est près de 10 % de plus en trois ans, et plus de 4 % par an sur les deux dernières années. À ce rythme, et même en considérant seulement les licenciés, le nombre de pratiquants sur notre territoire doublerait en moins de vingt ans. **[FIN DU BROUILLON]**
 
 [^18]:  Voir l’article : Contribution à une histoire des disciplines d'enseignement paru dans la revue de pédagogie française en 1989\.
 
@@ -158,6 +158,8 @@ L’ensemble des dynamiques de démocratisation du vol libre tend à stabiliser 
 [^c-heider]:  Fritz Heider en 1958 : *The Psychology of Interpersonal Relations*.
 
 [^c-miller-ross]:  Dale T. Miller et Michael Ross en 1975 : « Self-serving biases in the attribution of causality: Fact or fiction? », *Psychological Bulletin*, 82(2), p. 213-225.
+
+[^c-ffvl-effectifs]:  Nombre de licenciés FFVL de 2023 à 2026, intranet fédéral (intranet.ffvl.fr), communiqué à l’auteur. Calculs de l’auteur.
 
 [^c-ross]:  Lee Ross en 1977 : « The intuitive psychologist and his shortcomings: Distortions in the attribution process », *Advances in Experimental Social Psychology*, vol. 10, p. 173-220.
 
