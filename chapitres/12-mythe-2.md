@@ -142,8 +142,6 @@ Je veux préciser que je suis tombé comme d’autres dans ce travers et dans ce
 
 ### Des facteurs humains détournés
 
-**[BROUILLON À RELIRE]**
-
 Il faut aller plus loin, car même le travail sur les facteurs humains a été détourné de sa nature. À l’origine, les facteurs humains sont une discipline d’ingénieurs et d’ergonomes. Juste après la Seconde Guerre mondiale, Paul Fitts et Richard Jones étudient des centaines d’« erreurs de pilotage » dans l’US Air Force. Leur conclusion est restée célèbre : la plupart de ces erreurs s’expliquent par la conception des commandes et des instruments, et c’est le cockpit qu’il faut corriger, pas le pilote[^c-fitts]. Toute la discipline est née de ce renversement : connaître les limites de l’humain pour lui construire un système qui les tolère.
 
 En parapente, nous avons gardé les mots et inversé le sens. Les facteurs humains sont devenus un catalogue de biais et de pièges mentaux : la pression de l’objectif, l’excès de confiance, l’effet de groupe, la fatigue, la lecture sélective de la météo. Ce travail est précieux pour se connaître, et il a fait progresser la formation. Mais dans le débriefing d’un accident, il sert le plus souvent à une seule chose : expliquer ce que la victime aurait dû voir en elle-même. Le pilote n’est plus seulement coupable de son erreur, il est aussi coupable de ne pas avoir su déjouer ses propres biais. La connaissance qui devait le protéger sert désormais à l’accabler.
@@ -153,8 +151,6 @@ Sidney Dekker décrit précisément ce glissement. Dans ce qu’il appelle l’�
 Utilisés fidèlement à leur nature, les facteurs humains devraient nous conduire à une autre question. Puisque nous savons que les pilotes sont sensibles à la pression de l’objectif, qu’ils lisent mal la météo quand ils ont fait deux heures de route, qu’ils se laissent entraîner par le groupe, que pouvons-nous changer autour d’eux pour que ces pièges se referment moins souvent ? C’est cela, aider le pilote systémiquement : non pas lui demander d’être plus fort que sa nature, mais construire un système qui la prend en compte.
 
 [À COMPLÉTER : un exemple de débriefing ou de compte rendu d’accident où les facteurs humains ont servi à accabler le pilote.]
-
-**[FIN DU BROUILLON]**
 
 Avant d’aller plus loin dans l’étude des croyances et de l’imaginaire de notre communauté, il convient de s'arrêter sur cette notion essentielle de liberté et sa confrontation systématique avec la réglementation, la norme et les systèmes de gestion collectif. Tentons de comprendre ce que le concept de vol libre recèle réellement et la façon dont il s’articule avec la sécurité des pratiques.
 
