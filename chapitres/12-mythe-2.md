@@ -4,7 +4,7 @@ Les accidents sont dus à des erreurs humaines.
 
 ### Un biais rétrospectif
 
-Tant que le matériel n’est pas directement en cause (ex : la voile ne casse pas), il sera toujours possible a posteriori de rationaliser les fautes commises par un accidenté. C’est d’ailleurs spontanément ce que nous faisons dans nos “débriefings” formels ou informels. À la fin, avec ou sans elle, ce sera toujours la faute de la victime. Sa technique, son analyse, son engagement, le choix de sa voile, sa fatigue, son stress, son placement et surtout ses décisions... Si elle a fini par terre un peu trop durement, c’est bien qu’elle a raté quelque chose à un moment donné non ?\!  
+Tant que le matériel n’est pas directement en cause (ex : la voile ne casse pas), il sera toujours possible a posteriori de rationaliser les fautes commises par un accidenté. C’est d’ailleurs spontanément ce que nous faisons dans nos “débriefings” formels ou informels. À la fin, avec ou sans elle, ce sera toujours la faute de la victime. Sa technique, son analyse, son engagement, le choix de sa voile, sa fatigue, son stress, son placement et surtout ses décisions... Si elle a fini par terre un peu trop durement, c’est bien qu’elle a raté quelque chose à un moment donné, non ?\!  
 Notre méthodologie offre là un parfait exemple de biais rétrospectif tel que largement étudié dans la littérature scientifique dès les années 1970 notamment par Daniel Kahneman[^9] (et coll.). Une fois le résultat connu, avec l’utilisation d’un temps long et l’ensemble des éléments à disposition, il sera toujours possible pour un observateur extérieur de rationaliser a posteriori les causes d’un accident afin de les imputer à une erreur humaine. C’est précisément cette méthode qui permet au système de garder de la confiance dans ses propres croyances et notamment le fait que le parapente est une activité sûre dont les risques peuvent être maîtrisés.
 
 ### Des victimes boucs émissaires
@@ -38,7 +38,7 @@ D’ailleurs il y a de nombreuses erreurs qui ne mènent pas à l’accident. Ce
 
 À côté de cela, nous voyons des victimes rater pour la toute première fois un décollage et chuter mortellement. Ce qui transforme l’erreur en accident mortel est le fait que la situation tourne mal. Parfois cela peut être imputé à un mauvais hasard, au fait des choses, parfois non. 
 
-Et puis il existe même des cas, où il n'y a pas d'erreur du tout !
+Et puis il existe même des cas où il n'y a pas d'erreur du tout !
 Des moments où tu subis les erreurs des autres, des accidents liés au matériel (si, si !), des défauts en tout genre liés au système : un mauvais câble signalé nulle part, une course non stoppée qui dégénère sous un orage.
 
 En tout cas, il est une vision où les accidents ne sont pas seulement dus à des erreurs humaines. Les erreurs humaines arrivent tout le temps et sont plutôt des constantes de notre système humain. Elles sont présentes à n’importe quel niveau d’expérience et de pratique et arriveront qu’on le veuille ou non y compris avec toute la connaissance de soi et toute la prévention du monde.
@@ -68,14 +68,14 @@ Cette vision essentiellement cognitiviste considère l’individu et son traitem
 
 Cette réflexion est centrée sur les modalités d’actions et les ressources disponibles pour le pratiquant. Qu’est-ce qu’aurait pu améliorer l’individu ?
 
-La formation (\!) des pratiquants va presque systématiquement être mise en avant comme vecteur évident de réduction de l’accidentalité. Si les accidents sont dus à des erreurs humaines, la tentation naturelle est de réduire les erreurs des pilotes afin qu’ils subissent moins d’accidents. Et c’est exactement dans ce sens, que le pratiquant, son moniteur ou son formateur se retrouvent être les acteurs principaux de la sécurité puisqu’ils sont au cœur des dispositifs de formation. 
+La formation (\!) des pratiquants va presque systématiquement être mise en avant comme vecteur évident de réduction de l’accidentalité. Si les accidents sont dus à des erreurs humaines, la tentation naturelle est de réduire les erreurs des pilotes afin qu’ils subissent moins d’accidents. Et c’est exactement dans ce sens que le pratiquant, son moniteur ou son formateur se retrouvent être les acteurs principaux de la sécurité puisqu’ils sont au cœur des dispositifs de formation. 
 
 L’étude des facteurs humains se révèle incontournable pour prévenir et renforcer la connaissance de soi de chaque pratiquant. Les pilotes mieux formés et avertis des pièges du fonctionnement humain seront moins susceptibles de faire des erreurs et donc de subir un accident.  
 1\) En parapente, la sécurité du pratiquant est engagée en cas d’erreur \[...\]  
 ⇔  
 2\) Les humains font des erreurs
 
-Face à cette problématique épineuse, nous pourrions nous poser ce genre de question : 
+Face à cette problématique épineuse, nous pourrions nous poser ce genre de questions : 
 
 - “Que s’est-il passé ?”  
 - “Comment la victime s’est-elle fait avoir ?”  
@@ -101,7 +101,7 @@ L’étude des facteurs humains est avant tout l’occasion de comprendre les fo
 
 ### Implication en termes de gestion de la sécurité
 
-Je crois que nous gagnerions à changer de paradigme et à abandonner pour de bon la croyance de l’accident dû à une erreur humaine. Cette approche exclut la recherche de causes externes et systémiques alors qu’à l’inverse une recherche plus globalisée sur les conditions d'émergence des erreurs des pilotes n’exclut pas d’envisager ni les parcours de formation ni les facteurs humains.
+Je crois que nous gagnerions à changer de paradigme et à abandonner pour de bon la croyance de l’accident dû à une erreur humaine. Cette approche exclut la recherche de causes externes et systémiques alors qu’à l’inverse une recherche plus globalisée sur les conditions d'émergence des erreurs des pilotes n’empêche d’envisager ni les parcours de formation ni les facteurs humains.
 
 Changer de paradigme ne signifie pas déresponsabiliser les pilotes. Cela signifie changer la question que nous posons après un accident. Au lieu de « qu’a-t-il raté ? », demander « qu’est-ce qui a rendu cette erreur possible, et qu’est-ce qui aurait pu en limiter les conséquences ? ». La première question produit un coupable et un sentiment de sécurité pour ceux qui restent. La seconde produit des pistes d’action : un site à réaménager, une information à diffuser, un usage à changer, un matériel à améliorer, un contenu de formation à revoir.
 
@@ -118,7 +118,7 @@ La formation y garde toute sa place, mais elle cesse d’être notre seule répo
 Dans les années 1990, James Reason a développé une théorie qui est devenue incontournable. Elle est bien connue de notre milieu et je suis certain que le schéma ci-dessous évoquera immédiatement quelque chose au lecteur.  
 *![](../images/reason-modele-des-plaques.png)*
 
-Reason, est l’un des premiers auteurs à modéliser une méthodologie de gestion des risques en s'intéressant à ce qu’il appelle des “défaillances”. Il a catégorisé trois sources potentielles :
+Reason est l’un des premiers auteurs à modéliser une méthodologie de gestion des risques en s'intéressant à ce qu’il appelle des “défaillances”. Il a catégorisé trois sources potentielles :
 
 - Les défaillances techniques  
 - Les erreurs humaines  
@@ -128,7 +128,7 @@ C’est par lui que l’on a commencé à considérer “l’erreur inséparable
 
 Les plus grands penseurs en matière de sécurité de notre communauté ont repris ce modèle théorique avec succès pour proposer une méthodologie de gestion du risque appliquée au parapente. Jean-Marc Galan[^10] est certainement le plus célèbre d’entre eux au travers de son ouvrage référence puis de sa conférence adroitement nommée : “La revanche d’Icare”.
 
-Pourtant, le modèle de Reason que l’on nous propose systématiquement dans sa version parapente ne s'intéresse toujours qu’à la seule partie des erreurs humaines. Lorsque l’on regarde l'enchaînement de plaques qui sont présentées, on ne trouve que des protections qui concernent l’individu dans sa pratique : son mental, son physique, sa technique, sa connaissance du milieu etc... Et ce faisant, nous ne nous intéressons en réalité qu’au tiers de ce que préconise Reason. Exit les protections organisationnelles, exit les protections matérielles. Dans ses différentes versions, les meilleurs auteurs de notre communauté cherchent tous à prévenir ou former pour réduire les éventuels “trous” des systèmes de protection individuels des pilotes. C’est extrêmement utile et nous y reviendrons mais ce n’est pas exactement ce que propose de faire Reason dans son modèle de gestion des risques. Pendant que nous cherchons à réduire les trous dans chacune des plaques, il propose d’en positionner d’autres : organisationnelles et matérielles pour bloquer les défaillances résiduelles. Nous devons accepter que les plaques qui protègent les pilotes de leurs propres erreurs humaines ont et auront toujours des trous. À cette seule condition, nous chercherons les autres boucliers organisationnels et matériels pour protéger tel ou tel type de pratiquant dans tel ou tel contexte. 
+Pourtant, le modèle de Reason que l’on nous propose systématiquement dans sa version parapente ne s'intéresse toujours qu’à la seule partie des erreurs humaines. Lorsque l’on regarde l'enchaînement de plaques qui sont présentées, on ne trouve que des protections qui concernent l’individu dans sa pratique : son mental, son physique, sa technique, sa connaissance du milieu, etc. Et ce faisant, nous ne nous intéressons en réalité qu’au tiers de ce que préconise Reason. Exit les protections organisationnelles, exit les protections matérielles. Dans ses différentes versions, les meilleurs auteurs de notre communauté cherchent tous à prévenir ou former pour réduire les éventuels “trous” des systèmes de protection individuels des pilotes. C’est extrêmement utile et nous y reviendrons mais ce n’est pas exactement ce que propose de faire Reason dans son modèle de gestion des risques. Pendant que nous cherchons à réduire les trous dans chacune des plaques, il propose d’en positionner d’autres : organisationnelles et matérielles pour bloquer les défaillances résiduelles. Nous devons accepter que les plaques qui protègent les pilotes de leurs propres erreurs humaines ont et auront toujours des trous. À cette seule condition, nous chercherons les autres boucliers organisationnels et matériels pour protéger tel ou tel type de pratiquant dans tel ou tel contexte. 
 
 C’est précisément ce que nous ne pouvons pas faire en restant sur le paradigme qui concentre ses perspectives de remédiation sur la formation des pilotes. Aucun pilote ne sera jamais complètement “fini” ni “hors de danger”. L’éducation et la prévention ne sont pas des éléments qui s’achèvent un jour et c’est la raison pour laquelle en dépit d’un dispositif de formation parmi les plus aboutis du monde, avec des acteurs de grande qualité, les statistiques françaises continuent de montrer un système global de gestion du risque peu fiable. Nous ne renforçons tout simplement pas ce qu’il faut.
 
@@ -170,9 +170,9 @@ Sidney Dekker décrit précisément ce glissement. Dans ce qu’il appelle l’�
 
 Utilisés fidèlement à leur nature, les facteurs humains devraient nous conduire à une autre question. Puisque nous savons que les pilotes sont sensibles à la pression de l’objectif, qu’ils lisent mal la météo quand ils ont fait deux heures de route, qu’ils se laissent entraîner par le groupe, que pouvons-nous changer autour d’eux pour que ces pièges se referment moins souvent ? C’est cela, aider le pilote systémiquement : non pas lui demander d’être plus fort que sa nature, mais construire un système qui la prend en compte.
 
-Les bases de données accidents actuelles faillissent exactement sur ce point. Elles se focalisent et collectent ce qu'elles pensent être l'essentiel : les erreurs des pilotes. Le DHV présente ainsi directement les "pilotenfehler" dans le résumé de chaque analyse d'accident dès la page d'accueil de leur site. Les erreurs sont ce qui constitue la colonne vertebrale de l'analyse : les heures de pratique du pilote (récente et générale), sa voile, sa situation professionnelle, maritale, son état de forme, son dernier SIV, ce qu'il a raté, ce qu'il n'a pas vu, ce qu'il aurait du faire... Les informations récoltées sont ensuite utilisées pour renforcer les biais d'auto-confirmation des analystes. Trop peu de rapport d'analyse et de base de données accidents offrent une structure capable de récolter des données systémiques. Trop souvent les préconisation aboutissent à une conclusion : le pilote, son état, la prévention associée et sa formation. C'est incomplet. 
+Les bases de données accidents actuelles faillissent exactement sur ce point. Elles se focalisent et collectent ce qu'elles pensent être l'essentiel : les erreurs des pilotes. Le DHV présente ainsi directement les "pilotenfehler" dans le résumé de chaque analyse d'accident dès la page d'accueil de son site. Les erreurs sont ce qui constitue la colonne vertébrale de l'analyse : les heures de pratique du pilote (récentes et totales), sa voile, sa situation professionnelle, maritale, son état de forme, son dernier SIV, ce qu'il a raté, ce qu'il n'a pas vu, ce qu'il aurait dû faire... Les informations récoltées sont ensuite utilisées pour renforcer les biais d'auto-confirmation des analystes. Trop peu de rapports d'analyse et de bases de données d’accidents offrent une structure capable de récolter des données systémiques. Trop souvent, les préconisations aboutissent à une conclusion : le pilote, son état, la prévention associée et sa formation. C'est incomplet. 
 
-Avant d’aller plus loin dans l’étude des croyances et de l’imaginaire de notre communauté, il convient de s'arrêter sur cette notion essentielle de liberté et sa confrontation systématique avec la réglementation, la norme et les systèmes de gestion collectif. Tentons de comprendre ce que le concept de vol libre recèle réellement et la façon dont il s’articule avec la sécurité des pratiques.
+Avant d’aller plus loin dans l’étude des croyances et de l’imaginaire de notre communauté, il convient de s'arrêter sur cette notion essentielle de liberté et sa confrontation systématique avec la réglementation, la norme et les systèmes de gestion collectifs. Tentons de comprendre ce que le concept de vol libre recèle réellement et la façon dont il s’articule avec la sécurité des pratiques.
 
 [^9]:   L’ouvrage de référence à ce sujet est : Thinking, fast and slow par Daniel Kahneman en 2011
 
@@ -180,7 +180,7 @@ Avant d’aller plus loin dans l’étude des croyances et de l’imaginaire de 
 
 [^11]:  Le dindon n’est pas le meilleur des volatiles
 
-[^12]:  Lettre au comité directeur de la FFVL 30 Juillet 2011\.
+[^12]:  Lettre au comité directeur de la FFVL 30 juillet 2011\.
 
 [^c-dekker-fg]:  Sidney Dekker en 2006 : The Field Guide to Understanding Human Error (troisième édition en 2014).
 

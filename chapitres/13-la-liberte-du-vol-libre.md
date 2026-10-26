@@ -16,7 +16,7 @@ Au-delà des différentes formes d’émancipation décrites ci-dessus, la prome
 
 Techniquement, réglementairement, économiquement, nos machines de tissus sont celles qui permettent aujourd’hui l’accès le plus facile et rapide en direction de l’air. C’est une forme de liberté de pouvoir s’offrir le ciel et de ne pas passer des années en formation avant d’y parvenir. Plus démocratique que l’aviation, plus facile que les autres planeurs ultralégers et pratiquement déréglementé dans la plupart des endroits du globe. 
 
-Le vol libre est donc une activité aérienne accessible qui ne se pratique pas en aérodrome mais en milieu naturel. Dans les années 80, sans doute que parapente et deltaplane émergent comme des activités hybrides au carrefour de l’aviation, de la glisse et des activités physiques de pleine nature (APPN), comme il était alors courant de les appeler. De quoi séduire une plus large portion de population en soif de loisir, de nouvel espace et de nouveau défi. Ici l’aspect liberté est à comprendre au sens de l’autonomie offerte aux pratiquants. Autonomie par rapport aux infrastructures et à l’institution mais aussi face au moteur, moyen de propulsion, aux avions et autres machines.
+Le vol libre est donc une activité aérienne accessible qui ne se pratique pas en aérodrome mais en milieu naturel. Dans les années 80, sans doute que parapente et deltaplane émergent comme des activités hybrides au carrefour de l’aviation, de la glisse et des activités physiques de pleine nature (APPN), comme il était alors courant de les appeler. De quoi séduire une plus large portion de population en quête de loisirs, de nouveaux espaces et de nouveaux défis. Ici l’aspect liberté est à comprendre au sens de l’autonomie offerte aux pratiquants. Autonomie par rapport aux infrastructures et à l’institution mais aussi face au moteur, moyen de propulsion, aux avions et autres machines.
 
 ### Vol Libre et affranchissement
 
@@ -39,7 +39,7 @@ La liberté ultime du parapente réside dans sa capacité à nous offrir un voya
     
 - Asservissement puisque le rapport à la mort est une notion qui s’appréhende individuellement. La modération collective des risques est jugée suspicieuse tant chacun se veut libre de percevoir le risque et ses différents degrés où bon lui semble… Ce qui ressemble à une folie pour l’un peut être tout à fait normal et sûr pour un autre. Nous sommes ici proches de la notion de libre arbitre et je souhaite partager une anecdote à ce sujet.  
     
-  Une nuit, alors que je me promenais sur une digue interdite à marée haute par un océan agité, je fus déséquilibré par une paire de déferlantes bien salées. Après avoir battu en retraite, non sans mal, une dame plus âgée que moi vint me sermonner :  
+  Une nuit, alors que je me promenais sur une digue interdite à marée haute par un océan agité, je fus déséquilibré par une paire de déferlantes bien salées. Alors que je battais en retraite, non sans mal, une dame plus âgée que moi vint me sermonner :  
     
 - “Mais enfin, vous êtes inconscient ou quoi ? À quoi jouez-vous ? Vous voyez bien que c’est interdit \!”
 
@@ -55,4 +55,6 @@ Nous le voyons, face aux tentatives de modération de leur prise de risque, les 
 
 Cette opposition entre liberté individuelle et une forme de sécurité définie et organisée collectivement est renforcée par un autre mythe majeur de notre communauté.
 
-[^14]:  En 2009 dans l’article : “les chemins de l’ordalie” revue Topique “L’addiction au risque”.
+[^13]:  Sigmund Freud dès 1915 dans : “Considérations actuelles sur la guerre et sur la mort”.
+
+[^14]:  Marc Valleur en 2009 dans l’article : “les chemins de l’ordalie” revue Topique “L’addiction au risque”.

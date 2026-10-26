@@ -31,7 +31,7 @@ Plus que tout, et s’il ne fallait retenir qu’un seul point, il faut parvenir
 3) Les bénéfices d’un comportement sûr  
 4) Les coûts d’un comportement sûr
 
-Et c’est ainsi que lorsque le “prof de gym” déclare mettre 4 h de colle à celui qui fera un salto, même avec des tapis épais de 60 cm, le risque cible (nouvellement “préféré”) des élèves d’une classe chute dramatiquement. C’est le point n°2 (“Coût d’un comportement risqué”), c’est la politique du radar et en fait théoriquement y compris à l’aune de la théorie de l’homéostasie du risque, ça fonctionne \! Notons toutefois qu’il serait selon l’auteur préférable de jouer sur les points N°1 et N°4 : réduire à la fois les bénéfices d’un comportement risqué et les coûts d’un comportement sûr.
+Et c’est ainsi que lorsque le “prof de gym” déclare mettre 4 h de colle à celui qui fera un salto, même avec des tapis épais de 60 cm, le risque cible (nouvellement “préféré”) des élèves d’une classe chute dramatiquement. C’est le point n° 2 (“Coût d’un comportement risqué”), c’est la politique du radar et en fait théoriquement y compris à l’aune de la théorie de l’homéostasie du risque, ça fonctionne \! Notons toutefois qu’il serait selon l’auteur préférable de jouer sur les points n° 1 et n° 4 : réduire à la fois les bénéfices d’un comportement risqué et les coûts d’un comportement sûr.
 
 En résumé, la théorie homéostatique du risque ne dit pas qu’il est impossible de faire baisser le risque cible ou préférentiel des pratiquants à partir de contraintes externes. Elle dit exactement l’inverse. Elle dit que les pratiquants ajustent en permanence le risque qu’ils perçoivent à un risque cible subjectif qui est lui-même conditionné par un rapport coût / bénéfice.
 
