@@ -53,7 +53,7 @@ Ces chiffres sont prudents. Beaucoup d’accidents ne sont jamais déclarés : s
 
 **[BROUILLON À RELIRE]**
 
-Et le deltaplane ? La communauté est beaucoup plus petite : environ 350 licenciés FFVL [À CONFIRMER : s’agit-il de pratiquants hors stagiaires et primo-licenciés, comme pour le parapente, ou de l’ensemble des licenciés delta ?]. Les pilotes de delta autonomes ont déclaré 18 accidents en 2024 et 17 en 2025, dont 8 graves en deux ans, et aucun mortel. Chaque année, environ 5 % des pilotes de delta déclarent donc un accident, deux fois plus qu’en parapente, et environ 1,1 % est gravement blessé, presque autant qu’en parapente.
+Et le deltaplane ? La communauté est beaucoup plus petite : environ 350 pilotes pratiquants à la FFVL, hors stagiaires et primo-licenciés, comptés de la même façon que pour le parapente. Les pilotes de delta autonomes ont déclaré 18 accidents en 2024 et 17 en 2025, dont 8 graves en deux ans, et aucun mortel. Chaque année, environ 5 % des pilotes de delta déclarent donc un accident, deux fois plus qu’en parapente, et environ 1,1 % est gravement blessé, presque autant qu’en parapente.
 
 | Sur une carrière de… | 10 ans | 20 ans | 30 ans |
 | :---- | :---- | :---- | :---- |
