@@ -14,7 +14,7 @@ Ces deux publics relèvent de deux logiques de sécurité opposées. Le premier 
 
 ### Le paradoxe actuel
 
-Aujourd’hui, nous faisons l’inverse de ce que cette distinction exigerait. Nous appliquons au tourisme le discours de l’autonomie (« le parapente est sûr si l’on respecte un cadre ») et nous laissons le pilote autonome croire que ce même discours le protège. Le premier est sous-informé, le second sur-rassuré. C’est ce que j’appelais plus haut une forme d’arnaque : nous garantissons un engin simple, accessible et au risque maîtrisable, alors qu’il ne l’est pas.
+Aujourd’hui, nous faisons l’inverse de ce que cette distinction exigerait. Nous appliquons au tourisme le discours de l’autonomie (« le parapente est sûr si l’on respecte un cadre ») et nous laissons le pilote autonome croire que ce même discours le protège. Le premier est sous-informé, le second sur-rassuré. C’est ce que j’appelais plus haut une forme de tromperie : nous garantissons un engin simple, accessible et au risque maîtrisable, alors qu’il ne l’est pas.
 
 ### Des experts absorbés par le tourisme
 
