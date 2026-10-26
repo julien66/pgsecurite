@@ -68,5 +68,3 @@ Le conseil, dans notre milieu, est rarement neutre. Celui qui vend la voile a in
 ### Préserver la liberté du pilote autonome
 
 En contrepartie, sortir le tourisme de la logique du pilote autonome permet de mieux respecter celle-ci. Si le passager est protégé par un cadre propre, il n’est plus nécessaire de prétendre que tout le vol libre est sûr. Le pilote autonome peut alors être informé honnêtement du risque qu’il prend, et garder la liberté de le prendre. C’est peut-être la seule façon de « devenir grand » sans tuer la nature de ce qu'est le vol libre.
-
-[À COMPLÉTER : ton regard de terrain sur les professionnels et les sites de biplace très fréquentés.]
