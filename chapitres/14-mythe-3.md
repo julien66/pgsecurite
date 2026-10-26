@@ -1,6 +1,6 @@
 ## Mythe \#3 
 
-La sécurité est une affaire individuelle. “Le seul acteur à jamais capable d’assurer sa sécurité est et sera toujours le pilote lui-même”.
+La sécurité est une affaire individuelle. « Le seul acteur à jamais capable d’assurer sa sécurité est et sera toujours le pilote lui-même ».
 
 ### Seul maître à bord après Dieu
 
@@ -8,7 +8,7 @@ L’argument du sacro-saint commandant de bord ou du capitaine du navire a fait 
 
 Pour responsable qu’il soit aux yeux de la Loi ou des autres, le commandant de bord ne dispose pas de pouvoirs divins. Son obligation de résultat se limite à celle de son avionneur, de son aiguilleur du ciel, de sa compagnie aérienne… Le système qui confère à l’aviation civile un caractère sûr est très complexe et ramifié. Le pilote en est certes l’un des acteurs principaux mais il serait naïf de penser qu’il puisse être seul responsable de la sécurité du vol. Beaucoup de choses le dépassent de très loin, même lorsqu’elles touchent pourtant directement à sa compétence propre (formation, santé, etc.). D’ailleurs, le législateur ne s’y trompe pas et confère l’obligation de résultat directement à la compagnie aérienne.
 
-De façon réaliste, il est possible de redéfinir le champ d’action du commandant de bord comme le responsable de : “l'exécution sûre du vol”. C’est déjà beaucoup \! Il gère la situation réelle de l’acte de vol, de sa préparation à son accomplissement et met tous les moyens en œuvre avec son équipage pour mener sa mission à bien. 
+De façon réaliste, il est possible de redéfinir le champ d’action du commandant de bord comme le responsable de : « l'exécution sûre du vol ». C’est déjà beaucoup \! Il gère la situation réelle de l’acte de vol, de sa préparation à son accomplissement et met tous les moyens en œuvre avec son équipage pour mener sa mission à bien. 
 
 ### Un responsable de la sécurité ?
 
