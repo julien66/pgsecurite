@@ -2,7 +2,7 @@
 
 Chapitre polémique mais néanmoins indispensable. Il nous faut sortir d’une ambiguïté qui traverse toute notre activité : nous vendons la même chose à deux publics qui n’ont rien en commun.
 
-**[BROUILLON À RELIRE]** Ma proposition tient en une phrase : séparer les « enseignements » et les instructeurs touristiques de la véritable poursuite de formation des pilotes dans l’activité. Pour ceux qui s’y mettent vraiment, il faut un mentor au long cours, et un vrai. **[FIN DU BROUILLON]**
+Ma proposition tient en une phrase : séparer les « enseignements » et les instructeurs touristiques de la véritable poursuite de formation des pilotes dans l’activité. Pour ceux qui s’y mettent vraiment, il faut un mentor au long cours, et un vrai.
 
 ### Deux pratiques sous un même nom
 
