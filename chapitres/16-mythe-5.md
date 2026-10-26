@@ -66,4 +66,4 @@ Lorsque le risque perçu est faible et qu’en même temps, le risque préféren
 
 [^16]:   À défaut, ce court article date de 1998 : “Risk homeostasis theory: an overview”
 
-[^c-manuel-homeostasie]: Pierre-Paul Ménégoz et Alain Jacques, *Le manuel du vol libre*, Fédération Française de Vol Libre, Éditions Rétine, 2005 (ISBN 2-9508644-6-5), chapitre 7 « Facteur humain et sécurité », « Comportements à risques », p. 214. [À VÉRIFIER : existe-t-il une édition plus récente, et ce passage y figure-t-il toujours ?]
+[^c-manuel-homeostasie]: Pierre-Paul Ménégoz et Alain Jacques, *Le manuel du vol libre*, Fédération Française de Vol Libre, Éditions Rétine, 2005 (ISBN 2-9508644-6-5), chapitre 7 « Facteur humain et sécurité », « Comportements à risques », p. 214. Citation tirée de l’édition de 2005 ; le manuel a été réédité depuis 2020.
