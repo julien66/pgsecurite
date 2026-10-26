@@ -29,7 +29,7 @@ Chez nous, c’est l’inverse. Nous avons vu à quel point la victime devient u
 
 Une culture juste ne se limite pas à accueillir ceux qui ont eu un accident. Elle suppose aussi d’accueillir ceux qui disent ce que nous n’avons pas envie d’entendre. Sur ce point, notre communauté a un réflexe inquiétant : elle bannit les discours non consensuels. Rick Masters en est l’exemple le plus net. Ses messages ont été reçus comme des provocations, sa personne rejetée (voir « Qui compte nos morts ? »), et son ancien site n’est plus en ligne. Pourtant, une partie de ce qu’il disait était juste, à commencer par cette zone proche du sol où une fermeture ne pardonne pas.
 
-Annie Duke consacre à cette question un passage clé de *On parie ?*[^c-duke-groupes]. Pour mieux décider, explique-t-elle, il faut s’entourer d’un groupe dont le but commun est de chercher la vérité plutôt que de se conforter. Un tel groupe se nourrit de désaccords. Il valorise l’avis minoritaire, car c’est souvent lui qui voit ce que les autres ne veulent pas voir. Il va jusqu’à organiser la contradiction, avec des « avocats du diable » ou des équipes chargées de démonter les conclusions du groupe. Le confort du consensus, à l’inverse, est le terrain idéal des biais que nous avons décrits dans la première partie. [PAGE À VÉRIFIER : passage d’Annie Duke sur les groupes de recherche de vérité et le rôle des avis minoritaires.]
+Annie Duke consacre à cette question un passage clé de *On parie ?*[^c-duke-groupes]. Pour mieux décider, explique-t-elle, il faut s’entourer d’un groupe dont le but commun est de chercher la vérité plutôt que de se conforter. Un tel groupe se nourrit de désaccords. Il valorise l’avis minoritaire, car c’est souvent lui qui voit ce que les autres ne veulent pas voir. Il va jusqu’à organiser la contradiction, avec des « avocats du diable » ou des équipes chargées de démonter les conclusions du groupe. Le confort du consensus, à l’inverse, est le terrain idéal des biais que nous avons décrits dans la première partie.
 
 Duke s’appuie sur les normes que le sociologue Robert K. Merton attribuait dès 1942 à la communauté scientifique, résumées par l’acronyme CUDOS[^c-merton] :
 
@@ -78,7 +78,7 @@ Nous devons aider les victimes et leurs proches avec plus d’efficacité et d�
 
 [^c-ue376]:  Règlement (UE) n° 376/2014 du 3 avril 2014 concernant les comptes rendus, l’analyse et le suivi d’événements dans l’aviation civile.
 
-[^c-duke-groupes]:  Annie Duke en 2018 : *Thinking in Bets*, chapitres 4 et 5 sur les groupes de recherche de vérité et la dissidence. Traduction française : *On parie ? Prendre les bonnes décisions sans avoir toutes les cartes en main*, Alisio, 2024.
+[^c-duke-groupes]:  Annie Duke en 2018 : *Thinking in Bets*, chapitres 4 et 5. Traduction française de Tina Calogirou : *On parie ? Prendre les bonnes décisions sans avoir toutes les cartes en main*, Alisio, 2024, chapitre 5 « Être en désaccord pour gagner », p. 193.
 
 [^c-merton]:  Robert K. Merton en 1942 : « A Note on Science and Democracy », *Journal of Legal and Political Sociology*, vol. 1, repris sous le titre « The Normative Structure of Science » dans *The Sociology of Science*, 1973.
 
