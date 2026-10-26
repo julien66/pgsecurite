@@ -71,6 +71,12 @@ Ce mécanisme est connu depuis longtemps en psychologie sociale. Fritz Heider a 
 
 Appliqués au vol libre, ces biais produisent exactement ce que nous avons décrit dans les pages précédentes. Le pilote qui rentre d’un vol difficile s’attribue le mérite d’avoir bien géré, alors que la masse d’air l’a peut-être simplement épargné. Le pilote qui se fait une frayeur parle de « conditions pourries ». Mais lorsqu’un autre se blesse ou se tue, nous cherchons d’abord ce qu’il a mal fait : il volait trop près du relief, sa voile était trop exigeante, il n’aurait pas dû décoller. C’est ce qui nous permet de conclure : « ça ne m’arrivera pas, à moi ». L’attribution n’est pas seulement une erreur de raisonnement individuelle. Elle est la matière première du bouc émissaire, et elle nourrit le mythe d’un pilote seul maître de sa sécurité.
 
+Ce biais n’épargne personne, pas même nos meilleurs pilotes. Antoine Girard, recordman du monde de distance, aventurier et véritable héros de notre communauté, le dit avec une grande franchise[^c-girard] :
+
+> « En parapente, c’est nous qui prenons les risques. Il n’y a pas de côté aléatoire, il n’y a pas de rafale de vent qui arrive d’un seul coup. Ces choses-là n’existent pas, il y a très peu d’accidents où on n’est pas responsable. Je ne dis pas que je ne mourrai pas en parapente, parce que l’accident peut arriver, mais si je meurs, à 98 %, voire 99 % de chances, c’est que j’ai fait une erreur. Et donc si je meurs, ce sera de ma faute. Alors qu’en montagne… j’ai eu suffisamment de copains qui ont disparu. Il n’y a aucune erreur, tout le monde est là et il y a une personne dans le groupe qui disparaît, malheureusement. Une pierre au mauvais endroit, n’importe quoi, on ne sait jamais quand ça tombe. »
+
+Il ne s’agit pas ici de critiquer Antoine Girard. Son discours est celui d’un pilote d’exception, cohérent avec sa pratique et avec l’exigence qu’il s’impose. C’est précisément ce qui le rend si révélateur : même au sommet de notre discipline, la croyance reste intacte. En montagne, le hasard tue. En parapente, ce serait toujours le pilote. Or les déclarations d’accidents racontent une autre histoire. En 2024 et 2025, les fermetures en vol sont la première cause de décès déclarés en parapente, et lorsqu’elles commencent près du sol, le pilote n’a souvent ni le temps de récupérer sa voile ni celui de lancer son secours (voir « Un meilleur système »). Une rafale qui arrive d’un seul coup, cela existe. Attribuer 98 % des décès à l’erreur du pilote, c’est exactement ce que décrit la théorie de l’attribution : une manière de garder le contrôle sur ce qui, en partie, nous échappe.
+
 **[FIN DU BROUILLON]**
 
 ### Le voyage du héros
@@ -151,3 +157,5 @@ L’ensemble des dynamiques de démocratisation du vol libre tend à stabiliser 
 [^c-jones-nisbett]:  Edward E. Jones et Richard E. Nisbett en 1971 : *The Actor and the Observer: Divergent Perceptions of the Causes of Behavior*.
 
 [^c-lerner]:  Melvin J. Lerner en 1980 : *The Belief in a Just World: A Fundamental Delusion*.
+
+[^c-girard]:  Antoine Girard, entretien pour Primetalk, 2026 [LIEN / DATE À VÉRIFIER]. Citation transmise par l’auteur ; seules l’orthographe et la ponctuation ont été légèrement corrigées.
