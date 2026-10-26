@@ -256,4 +256,4 @@ Certains sont même discutables. La priorité au pilote le plus bas est peut-êt
 
 [^c-ffvl-amerrissage]: Exports des déclarations d’accidents FFVL 2024 et 2025 communiqués à l’auteur, accidents dont le retour au sol est déclaré « eau ». Agrégats calculés par l’auteur. Les accidents non déclarés, notamment ceux de pilotes non licenciés ou étrangers, n’y figurent pas.
 
-[^c-igc]:  FAI, Commission internationale de vol libre (CIVL) et IGC (International Gliding Commission) : *Technical Specification for IGC-approved GNSS Flight Recorders*. L’heure de chaque point (enregistrement B) y est notée en heures, minutes et secondes. [À VÉRIFIER : version de la spécification, et existence d’extensions permettant de noter des fractions de seconde.]
+[^c-igc]:  FAI, International Gliding Commission (IGC) : *Technical Specification for IGC-approved GNSS Flight Recorders*. L’heure de chaque point (enregistrement B) y est notée en heures, minutes et secondes. [À VÉRIFIER : version de la spécification, et existence d’extensions permettant de noter des fractions de seconde.]
