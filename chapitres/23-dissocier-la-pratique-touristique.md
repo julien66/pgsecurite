@@ -30,6 +30,24 @@ Les véritables stages de formation, ceux qui font progresser un pilote déjà a
 
 **[FIN DU BROUILLON]**
 
+### Le profil et le pourquoi
+
+**[BROUILLON À RELIRE]**
+
+Séparer le tourisme de la formation des pilotes suppose un vrai travail sur les profils et sur le « pourquoi ». Pourquoi cette personne vient-elle voler ? Pour une sensation, un souvenir, une journée de vacances ? Pour découvrir une activité dont elle a toujours rêvé ? Ou pour entrer réellement dans une carrière de pilote autonome ? Ces motivations sont toutes légitimes, mais elles n’appellent ni le même contenu, ni la même pédagogie, ni le même discours (voir « Le voyage du héros » sur la diversité de ce que nous venons chercher en l’air).
+
+Il faut aussi oser le dire : toutes les pratiques ne sont pas forcément destinées à toutes et à tous. Ce n’est pas une forme d’élitisme. C’est reconnaître que le cross en montagne, le paralpinisme ou la voltige demandent un engagement, un rapport au risque et un investissement que tout le monde n’a pas envie, ou pas les moyens, de consentir. Le dire tôt, c’est respecter les gens.
+
+Je propose donc de séparer clairement trois choses qui se confondent aujourd’hui :
+
+- **Le stage de découverte.** On vient goûter au vol, encadré de près, sans engagement. C’est une expérience, pas une formation.
+- **Le stage d’initiation.** On apprend les gestes de base et l’on comprend ce qu’est l’activité, y compris ses risques. C’est le moment de se demander, avec un moniteur, si l’on veut aller plus loin et pourquoi.
+- **Le premier pas réel dans une carrière de pilote autonome.** Celui-là engage. Il ouvre un parcours long, suivi par un mentor, avec ses exigences propres.
+
+La pédagogie, le discours et la rigueur de ces trois moments sont difficilement compatibles. On ne parle pas de la même façon à un vacancier qui veut une belle journée et à un futur pilote qui devra un jour décider seul de décoller. Mélanger les deux, c’est soit effrayer le premier, soit rassurer à tort le second.
+
+**[FIN DU BROUILLON]**
+
 ### Ce que pourrait être une pratique touristique dissociée
 
 Dissocier, ce n’est ni interdire ni condamner les professionnels, qui font vivre notre activité. C’est reconnaître que le vol commercial de passagers est une autre activité, qui mérite un autre cadre :
