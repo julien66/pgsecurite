@@ -2,11 +2,7 @@
 
 Les acteurs du vol libre rêvent autant qu’ils défendent la fiabilité et la sécurité de leurs activités. Rêve malheureusement inachevé, plus de quarante ans après les premiers réflexes de défense nécessaires pour soutenir une activité émergente confrontée aux risques et aux accidents. Les cinq mythes que nous avons décrits sont le socle de la stabilité d’une communauté soucieuse des prises de risques et des accidents inhérents à sa pratique. C’est un système de croyances complexe, partagé par l’ensemble des libéristes servant tout à la fois l’équilibre, la justification et même l’évangélisation du parapente en tant que discipline.
 
-**[BROUILLON À RELIRE]**
-
 Ce système de croyances a une particularité frappante : il n’hésite pas à détourner des concepts pour se justifier. Nous l’avons vu à plusieurs reprises. La théorie de l’homéostasie du risque de Wilde, qui décrit comment les pratiquants ajustent leur comportement, est devenue un argument pour refuser toute mesure externe. Le modèle des plaques de Reason, pensé pour empiler des protections techniques, humaines et organisationnelles, n’a gardé chez nous que les plaques de l’individu. Les facteurs humains, nés pour adapter le système à l’humain, servent à expliquer ce que la victime aurait dû voir en elle-même. Et la fermeture, défaillance principale de notre engin, est devenue un gage de sécurité. À chaque fois, l’outil est bon. C’est l’usage qui le retourne. Ce n’est sans doute pas intentionnel : personne ne s’est réuni pour tordre Wilde ou Reason. Mais cela fait beaucoup, et tous ces détournements vont dans le même sens, celui qui protège nos croyances. Nous prenons des concepts faits pour changer le système, et nous les utilisons pour ne rien changer.
-
-**[FIN DU BROUILLON]**
 
 Il semble que nous arrivions à la fin d’un cycle. La croissance en nombre de pratiquants, la multiplication récentes des accidents et son évolution vers davantage d’impact sur la pratique encadrée et les pilotes expérimentés ne permet plus de tenir ce statu quo et la rhétorique habituelle d’un parapente sûr, à risque maîtrisable. En matière de sécurisation, la communauté ne progresse plus en rejetant les torts sur ses accidentés et en basant la quasi-totalité de ses efforts sur la formation des pratiquants, les actions de sensibilisation et l’étude des facteurs humains.
 
