@@ -84,7 +84,7 @@ Je ne vais donc pas ouvrir ce livre par un tableau de chiffres définitifs, parc
 
 [^c-ffvl-export]:  Exports des déclarations d’accidents des licenciés FFVL pour 2024 et 2025, communiqués à l’auteur. Calculs de l’auteur ; seuls des totaux anonymes sont cités.
 
-[^c-ffvl-licences]:  Nombre de pilotes de parapente pratiquants FFVL (hors stagiaires et primo-licenciés) en 2024 et 2025, communiqué à l’auteur. [SOURCE À TROUVER : référence publique, par exemple le rapport d’activité.] Les probabilités sont calculées par l’auteur sur les deux années cumulées, avec un risque annuel supposé constant. Pour les décès, l’auteur retient entre 16 et 19 décès de pilotes autonomes sur 2024 et 2025, selon que l’on s’appuie sur les déclarations ou sur la liste des accidents mortels.
+[^c-ffvl-licences]:  Nombre de pilotes de parapente pratiquants FFVL (hors stagiaires et primo-licenciés) en 2024 et 2025, communiqué à l’auteur. Dashboard Intranet fédéral : intranet.ffvl.fr Les probabilités sont calculées par l’auteur sur les deux années cumulées, avec un risque annuel supposé constant. Pour les décès, l’auteur retient entre 16 et 19 décès de pilotes autonomes sur 2024 et 2025, selon que l’on s’appuie sur les déclarations ou sur la liste des accidents mortels.
 
 [^c-shv-2025]:  Beni Stocker, analyse des accidents 2025, Swiss Glider n° 05/06, 2026, Fédération Suisse de Vol Libre : https://www.shv-fsvl.ch/fileadmin/files/redakteure/Allgemein/Sicherheit/Unfallmeldungen/Unfallanalysen/2025.pdf
 
