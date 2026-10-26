@@ -44,7 +44,7 @@ Les victimes générées par nos activités enrayent un business qui pourrait ê
 
 ### Le mythe d’Icare en renfort \!
 
-Si nous reprenons la mythologie grecque, Dédale dit bien à son fils Icare de ne voler ni trop bas pour ne pas risquer de se froisser dans la mer, ni trop haut pour ne pas faire fondre les ailes de plumes et de cire qu’il lui a confectionnées. Comme chacun sait, l’histoire se termine mal parce que le fils n’écoute pas son père. La morale est donc que l’accident arrive par inexpérience, défaut de respect des consignes ou orgueil. C’est la conséquence d’une erreur humaine et c’est la faute de l’accidenté.
+Si nous reprenons la mythologie grecque, Dédale dit bien à son fils Icare de ne voler ni trop bas pour ne pas alourdir ses ailes avec l’humidité de la mer, ni trop haut pour ne pas faire fondre les ailes de plumes et de cire qu’il lui a confectionnées. Comme chacun sait, l’histoire se termine mal parce que le fils n’écoute pas son père. La morale est donc que l’accident arrive par inexpérience, défaut de respect des consignes ou orgueil. C’est la conséquence d’une erreur humaine et c’est la faute de l’accidenté.
 
 Malheureusement, il y a encore plus pernicieux. Dans notre écosystème en effet, tous les acteurs ont un intérêt direct à culpabiliser le pilote accidenté : 
 
