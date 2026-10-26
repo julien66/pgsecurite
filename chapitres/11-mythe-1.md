@@ -12,11 +12,8 @@ Cette conception proposant un parapente à risque maîtrisable (ou effectivement
 - “Bien encadré, ça ne risque rien”.  
 - “Nan mais moi j’y vais tranquille”.
 
-**[BROUILLON À RELIRE]**
 
-Le *Manuel du vol libre* de la FFVL le formule avec plus de nuances, mais la même idée affleure : « Même avec une grande expérience, on n’est pas à l’abri des surprises. Toutefois une connaissance correcte de l’aérologie permet d’éviter les pièges les plus dangereux ; après une bonne analyse des conditions il ne devrait rester que de petites surprises gérables… »[^c-manuel-surprises]. Le danger y est reconnu, puis aussitôt ramené à ce qu’une bonne analyse permet de maîtriser.
-
-**[FIN DU BROUILLON]**
+Le *Manuel du vol libre* de la FFVL le formule avec plus de nuances, mais la même idée affleure : « Même avec une grande expérience, on n’est pas à l’abri des surprises. Toutefois une connaissance correcte de l’aérologie permet d’éviter les pièges les plus dangereux ; après une bonne analyse des conditions il ne devrait rester que de petites surprises gérables… »[^c-manuel-surprises]. Le danger y est reconnu, puis aussitôt ramené à ce qu’une bonne analyse permet de maîtriser
 
    
 Pour ancrée et répandue qu’elle soit, cette idée ne résiste malheureusement pas à l’observation du monde réel. Des pilotes encadrés par des moniteurs de renom et d’expérience ont des accidents et certains meurent parfois. Nous voyons aussi disparaître des pilotes qui “n’engagent” jamais ou de véritables stars de la discipline. Il n’y a pas de profil type de pilote décédé. Le parapente n’est malheureusement pas ce que les libéristes eux-mêmes en disent. 
