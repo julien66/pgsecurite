@@ -201,6 +201,16 @@ Plutôt que d’imposer à tous un bagage unique, souvent trop lourd pour les un
 
 **[FIN DU BROUILLON]**
 
+### Une charte plutôt qu’une obligation
+
+**[BROUILLON À RELIRE]**
+
+Ni cet équipement par pratique ni ces formations adaptées n’ont vocation à devenir des obligations. L’idée n’est pas de contraindre, mais de les inscrire dans une charte fédérale. Une charte est une convention collective : celle des adhérents qui partagent une vision de ce que doit être l’activité et de la manière d’y accéder. Chacun reste libre de s’en affranchir, mais son usage donne le cadre et le sens commun. Le pilote qui part en cross sans traqueur ni connaissance des espaces aériens ne commet aucune infraction. Il sait simplement qu’il s’écarte de ce que la communauté considère comme une pratique raisonnable.
+
+Une charte a un autre avantage sur la réglementation : elle peut évoluer vite. Elle suit l’activité, les publics et les connaissances que nous accumulons sur nos disciplines, sans attendre une réforme. C’est sans doute la forme la plus fidèle à l’esprit du vol libre : un engagement partagé plutôt qu’une règle imposée, qui préserve la liberté du pilote tout en lui disant clairement ce que nous savons.
+
+**[FIN DU BROUILLON]**
+
 ### Une réglementation du vol à vue et des usages obsolètes
 
 [À CONFIRMER : les textes exacts. En Europe, les règles de l’air relèvent du règlement SERA (règlement d’exécution (UE) n° 923/2012) ; vérifier ce qui s’applique précisément aux parapentes.]
