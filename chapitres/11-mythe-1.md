@@ -12,6 +12,12 @@ Cette conception proposant un parapente à risque maîtrisable (ou effectivement
 - “Bien encadré, ça ne risque rien”.  
 - “Nan mais moi j’y vais tranquille”.
 
+**[BROUILLON À RELIRE]**
+
+Le *Manuel du vol libre* de la FFVL le formule avec plus de nuances, mais la même idée affleure : « Même avec une grande expérience, on n’est pas à l’abri des surprises. Toutefois une connaissance correcte de l’aérologie permet d’éviter les pièges les plus dangereux ; après une bonne analyse des conditions il ne devrait rester que de petites surprises gérables… »[^c-manuel-surprises]. Le danger y est reconnu, puis aussitôt ramené à ce qu’une bonne analyse permet de maîtriser.
+
+**[FIN DU BROUILLON]**
+
    
 Pour ancrée et répandue qu’elle soit, cette idée ne résiste malheureusement pas à l’observation du monde réel. Des pilotes encadrés par des moniteurs de renom et d’expérience ont des accidents et certains meurent parfois. Nous voyons aussi disparaître des pilotes qui “n’engagent” jamais ou de véritables stars de la discipline. Il n’y a pas de profil type de pilote décédé. Le parapente n’est malheureusement pas ce que les libéristes eux-mêmes en disent. 
 
@@ -87,3 +93,5 @@ Notre accidentalité ne saurait être jugée que par nous-mêmes, membre de la c
 [^7]:  Jacques Defrance en 1983 : La tentation de l’accident. Le risque en sport et sa légitimation.
 
 [^8]:  Intouchables réalisé en 2011 par Olivier Nakache et Eric Toledano est un film inspiré par la vie de Philippe Pozzo di Borgo et son autobiographie parue en 2001 : Le second souffle.
+
+[^c-manuel-surprises]: Pierre-Paul Ménégoz et Alain Jacques, *Le manuel du vol libre*, Fédération Française de Vol Libre, Éditions Rétine, 2005 (ISBN 2-9508644-6-5), chapitre 7 « Facteur humain et sécurité », « Estimation des conditions », p. 216. [À VÉRIFIER : existe-t-il une édition plus récente, et ce passage y figure-t-il toujours ?]

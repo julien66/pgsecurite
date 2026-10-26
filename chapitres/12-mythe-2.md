@@ -146,6 +146,14 @@ Il faut aller plus loin, car même le travail sur les facteurs humains a été d
 
 En parapente, nous avons gardé les mots et inversé le sens. Les facteurs humains sont devenus un catalogue de biais et de pièges mentaux : la pression de l’objectif, l’excès de confiance, l’effet de groupe, la fatigue, la lecture sélective de la météo. Ce travail est précieux pour se connaître, et il a fait progresser la formation. Mais dans le débriefing d’un accident, il sert le plus souvent à une seule chose : expliquer ce que la victime aurait dû voir en elle-même. Le pilote n’est plus seulement coupable de son erreur, il est aussi coupable de ne pas avoir su déjouer ses propres biais. La connaissance qui devait le protéger sert désormais à l’accabler.
 
+**[BROUILLON À RELIRE]**
+
+Il ne s’agit pas d’une dérive marginale : c’est la doctrine écrite noir sur blanc dans notre ouvrage de référence. Le chapitre « Facteur humain et sécurité » du *Manuel du vol libre* de la FFVL s’ouvre sur ce « premier constat » : « la responsabilité du pilote est quasi systématiquement en cause ». Même la collision n’y échappe pas : si l’un des deux pilotes est fautif, « l’autre pilote, s’il surveille de part et d’autre de sa trajectoire, doit pouvoir l’éviter ». Le « deuxième constat » range « fatigue, stress et comportement » parmi les premières causes, et le texte précise que « les accidents arrivent la plupart du temps au pilote dont les réactions sont inadaptées ou absentes »[^c-manuel-fh]. Quelques pages plus loin, les facteurs humains deviennent une liste de défauts de caractère, de ce qu’il ne faut pas être au sol : « trop pressé », « trop sûr de soi, prétentieux ou m’as-tu-vu », « trop têtu », « trop fier », « trop distrait », « trop égoïste »[^c-manuel-comportements]. Le facteur humain n’y est plus une donnée dont le système doit tenir compte, mais un vice que chaque pilote doit corriger en lui-même.
+
+Soyons justes : le même chapitre contient aussi, presque par accident, une leçon parfaitement systémique. L’oubli d’accrochage en delta y est décrit comme responsable d’« environ 1 accident grave sur deux », et le texte constate que, « d’année en année, depuis que le sport existe, cela ne change pas ». Pour les erreurs de montage, en revanche, ce ne sont pas les pilotes qui ont changé : ce sont les constructeurs, qui ont fait « de gros efforts pour faire des ailes “idiot proof” », au point qu’avec une aile moderne il est « quasi impossible de faire une erreur de montage ». Le manuel recommande aussi de « se contrôler entre pilote[s] »[^c-manuel-materiel]. Tout est là : quand on a voulu supprimer l’erreur, c’est le système qu’on a modifié, et cela a marché. C’est exactement la leçon de Fitts et Jones. Elle n’a simplement jamais été étendue au reste.
+
+**[FIN DU BROUILLON]**
+
 Ce discours se diffuse aujourd’hui bien au-delà des écoles, jusque sur les réseaux sociaux, où des coachs et des pilotes reconnus partagent leurs conseils avec beaucoup de sincérité. Le compte Instagram « Ariintheair » de Dereck Despein en donne un exemple parlant[^c-despein] :
 
 > « The key to fly and not dying: the best pilots in the world manage their psychology very intentionally, and the difference between someone who flies a long fulfilling career and someone who crashes and hurts themselves and dies can often be just one momentary lapse in their psychological, physiological or emotional states. »
@@ -188,3 +196,9 @@ Avant d’aller plus loin dans l’étude des croyances et de l’imaginaire de 
 [^c-despein]:  Dereck Despein, compte Instagram « Ariintheair » : https://www.instagram.com/reel/DekPZVNBzIu/ [À CONFIRMER : orthographe du nom et du compte, date de la publication]. Seules les fautes de frappe évidentes de la citation ont été corrigées ; traduction de l’auteur.
 
 [^c-despein-2]:  Dereck Despein, invité du podcast de Gavin McClurg [À CONFIRMER : probablement Cloudbase Mayhem] [LIEN / DATE À VÉRIFIER]. Citation transmise par l’auteur, laissée dans sa forme orale d’origine ; traduction de l’auteur.
+
+[^c-manuel-fh]: Pierre-Paul Ménégoz et Alain Jacques, *Le manuel du vol libre*, Fédération Française de Vol Libre, Éditions Rétine, 2005 (ISBN 2-9508644-6-5), chapitre 7 « Facteur humain et sécurité », p. 212. [À VÉRIFIER : existe-t-il une édition plus récente, et ce passage y figure-t-il toujours ?]
+
+[^c-manuel-comportements]: Ibid., « Comportements dangereux », p. 218.
+
+[^c-manuel-materiel]: Ibid., « Accidents “trop classiques” dûs au matériel », p. 220.

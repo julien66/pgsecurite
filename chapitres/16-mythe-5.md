@@ -6,6 +6,12 @@ La théorie de l’homéostasie du risque rend impossible la réduction de l’a
 
 Ce mythe sert de défense et de caution théorique au paradigme en place et à la combinaison des trois premiers mythes fondateurs. Puisqu’un gros problème serait de se voir imposer des contraintes externes pour tenter de réduire l’accidentalité, la théorie de l’homéostasie du risque est utilisée à tort et à travers.
 
+**[BROUILLON À RELIRE]**
+
+Notre manuel de référence en donne un exemple frappant. Sans jamais citer Wilde, le *Manuel du vol libre* de la FFVL présente une « petite théorie étonnante et pourtant si logique » : le niveau d’accidents des pratiques à risque serait « très proche d’un sport à l’autre », parce qu’avec « trop d’accidents » les pratiquants réduisent leur prise de risque et qu’avec « pas assez » ils en prennent davantage. La conclusion qu’il en tire n’est pas collective, elle est individuelle : « Les statistiques existent, sont conformes à la théorie ci-dessus. À vous de ne pas en faire partie ! ». Et le paragraphe se termine ainsi : « Ce n’est pas le risque attribué à un sport qui le rend dangereux, mais le niveau de vigilance de son pratiquant »[^c-manuel-homeostasie]. [SOURCE À TROUVER : les statistiques auxquelles le manuel fait allusion ne sont pas citées.] Une théorie qui parle des leviers sur lesquels une société peut agir est ainsi réduite à une injonction faite à chacun : soyez vigilants, et l’accident tombera sur les autres.
+
+**[FIN DU BROUILLON]**
+
 Il faut faire l’effort de relire Gerald J. S. Wilde[^16]. Sans ambiguïté, le postulat de base est que les pratiquants vont adapter leur activité pour faire correspondre leur perception du risque à un risque “cible” (fréquemment aussi appelé dans la littérature “préférentiel”) qui est purement subjectif et qui leur semble acceptable ou même enviable. C’est ainsi que nous avons tous remarqué en Éducation Physique et Sportive (EPS) que plus les tapis étaient épais et plus nous avions envie de sauter fort et de tenter l’impossible puisque nous nous sentions mieux protégé à la réception. Notre perception étant : “Puisque le tapis est plus gros, je peux me lâcher et me faire plaisir, je ne me ferai pas mal davantage”.
 
 Ce comparatif entre risque perçu (bloc b) et état de risque cible (bloc a) est schématisé dans le diagramme proposé par Gerald J. S. Wilde ci-dessous. 
@@ -63,3 +69,5 @@ D’autre part, alors même que notre risque perçu est déjà bas, nous avons d
 Lorsque le risque perçu est faible et qu’en même temps, le risque préférentiel est élevé, les comportements tendent à se radicaliser. Nous devons à la fois repositionner notre perception du risque : le parapente n’est pas une activité comme une autre ET initier un nouveau rapport coût / bénéfice pour modifier notre tendance à viser un risque cible élevé.
 
 [^16]:   À défaut, ce court article date de 1998 : “Risk homeostasis theory: an overview”
+
+[^c-manuel-homeostasie]: Pierre-Paul Ménégoz et Alain Jacques, *Le manuel du vol libre*, Fédération Française de Vol Libre, Éditions Rétine, 2005 (ISBN 2-9508644-6-5), chapitre 7 « Facteur humain et sécurité », « Comportements à risques », p. 214. [À VÉRIFIER : existe-t-il une édition plus récente, et ce passage y figure-t-il toujours ?]
