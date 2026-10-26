@@ -104,7 +104,7 @@ Nous devons aider les victimes et leurs proches avec plus d’efficacité et d�
 
 [^c-merton]:  Robert K. Merton en 1942 : « A Note on Science and Democracy », *Journal of Legal and Political Sociology*, vol. 1, repris sous le titre « The Normative Structure of Science » dans *The Sociology of Science*, 1973.
 
-[^c-fai-ccc]: FAI, « A brief history of serial vs competition class paragliders », 2 mai 2012 : https://www.fai.org/news/brief-history-serial-vs-competition-class-paragliders
+[^c-fai-ccc]: FAI, « A brief history of serial vs competition class paragliders », 2 mai 2012 : https://www.fai.org/news/brief-history-serial-vs-competition-class-paragliders. Voir aussi CIVL, comité parapente, « Lifting the suspension of open class », 6 juin 2013, qui rappelle la suspension décidée après Piedrahita et confirmée en février 2012 : https://www.fai.org/sites/default/files/documents/lifting_suspension_pg-c.pdf
 
 [^c-ffvl-grille]:  Exports des déclarations d’accidents des licenciés FFVL pour 2024 et 2025, communiqués à l’auteur : rubriques « facteurs contributifs pilote » et « facteurs contributifs équipement ». Comptages de l’auteur (305 et 306 déclarations avec un facteur pilote, 25 et 22 avec un facteur équipement). Seuls des totaux anonymes sont cités.
 
