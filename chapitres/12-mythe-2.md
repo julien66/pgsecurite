@@ -192,7 +192,7 @@ Avant d’aller plus loin dans l’étude des croyances et de l’imaginaire de 
 
 [^c-despein]:  Derek Despain, compte Instagram « Ariintheair » : https://www.instagram.com/reel/DekPZVNBzIu/, consulté en octobre 2026. Seules les fautes de frappe évidentes de la citation ont été corrigées ; traduction de l’auteur.
 
-[^c-despein-2]:  Derek Despain, épisode 1 de son propre podcast [À COMPLÉTER : titre du podcast, lien et date de l’épisode]. Citation transmise par l’auteur, laissée dans sa forme orale d’origine ; traduction de l’auteur.
+[^c-despein-2]:  Derek Despain, podcast *Into the Wind*, épisode 1, 15 juin 2026 : https://open.spotify.com/episode/3zR8ayqI9MJbu04MKGO42G. Citation transmise par l’auteur, laissée dans sa forme orale d’origine ; traduction de l’auteur.
 
 [^c-manuel-fh]: Pierre-Paul Ménégoz et Alain Jacques, *Le manuel du vol libre*, Fédération Française de Vol Libre, Éditions Rétine, 2005 (ISBN 2-9508644-6-5), chapitre 7 « Facteur humain et sécurité », p. 212. Citation tirée de l’édition de 2005 ; le manuel a été réédité depuis 2020.
 
