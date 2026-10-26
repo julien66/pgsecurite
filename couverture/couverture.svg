@@ -23,12 +23,11 @@
   </g>
   <rect x="640" y="600" width="200" height="4" fill="#f2c38b"/>
 
-  <!-- Parapente : voile en arc, suspentes et pilote -->
-  <g transform="translate(980 1000) rotate(-8)">
-    <path d="M -150 0 Q 0 -70 150 0 L 138 22 Q 0 -40 -138 22 Z" fill="#f2f2f2"/>
-    <path d="M -138 22 L 0 190 M -70 2 L 0 190 M 0 -8 L 0 190 M 70 2 L 0 190 M 138 22 L 0 190"
-          stroke="#ffffff" stroke-width="2" stroke-opacity="0.7" fill="none"/>
-    <circle cx="0" cy="198" r="11" fill="#14213d"/>
+  <!-- Parapente, juste suggéré : un croissant arrondi et le pilote -->
+  <g transform="translate(980 1000) rotate(-10)">
+    <path d="M -170 30 C -110 -60 110 -60 170 30 C 100 -22 -100 -22 -170 30 Z"
+          fill="#f4f1ec" stroke="#f4f1ec" stroke-width="10" stroke-linejoin="round"/>
+    <circle cx="0" cy="150" r="9" fill="#f4f1ec" fill-opacity="0.85"/>
   </g>
 
   <!-- Reliefs -->
