@@ -25,6 +25,27 @@ Chez nous, c’est l’inverse. Nous avons vu à quel point la victime devient u
 [ANECDOTE À AJOUTER : un incident que tu as vu caché, ou au contraire partagé et utile à tous.]
 
 
+### Écouter les voix qui dérangent
+
+**[BROUILLON À RELIRE]**
+
+Une culture juste ne se limite pas à accueillir ceux qui ont eu un accident. Elle suppose aussi d’accueillir ceux qui disent ce que nous n’avons pas envie d’entendre. Sur ce point, notre communauté a un réflexe inquiétant : elle bannit les discours non consensuels. Rick Masters en est l’exemple le plus net. Ses messages ont été reçus comme des provocations, sa personne rejetée, et son site a fini par disparaître (voir « Qui compte nos morts ? »). Pourtant, une partie de ce qu’il disait était juste, à commencer par cette zone proche du sol où une fermeture ne pardonne pas.
+
+Annie Duke consacre à cette question un passage clé de *On parie ?*[^c-duke-groupes]. Pour mieux décider, explique-t-elle, il faut s’entourer d’un groupe dont le but commun est de chercher la vérité plutôt que de se conforter. Un tel groupe se nourrit de désaccords. Il valorise l’avis minoritaire, car c’est souvent lui qui voit ce que les autres ne veulent pas voir. Il va jusqu’à organiser la contradiction, avec des « avocats du diable » ou des équipes chargées de démonter les conclusions du groupe. Le confort du consensus, à l’inverse, est le terrain idéal des biais que nous avons décrits dans la première partie. [PAGE À VÉRIFIER : passage d’Annie Duke sur les groupes de recherche de vérité et le rôle des avis minoritaires.]
+
+Duke s’appuie sur les normes que le sociologue Robert K. Merton attribuait dès 1942 à la communauté scientifique, résumées par l’acronyme CUDOS[^c-merton] :
+
+- **Communalisme** : les données et les connaissances appartiennent à tous et doivent être partagées.
+- **Universalisme** : la valeur d’une idée ne dépend pas de celui qui la porte.
+- **Désintéressement** : on cherche la vérité, pas à avoir raison ni à défendre ses intérêts.
+- **Scepticisme organisé** : toute affirmation doit pouvoir être mise à l’épreuve, y compris les plus consensuelles.
+
+Appliquées au vol libre, ces quatre normes ont des conséquences très concrètes. Le communalisme, c’est l’ouverture des données d’accidents. L’universalisme, c’est accepter qu’une critique juste reste juste, même quand elle vient d’un deltiste américain que l’on trouve désagréable. Le désintéressement, c’est reconnaître que fabricants, écoles et fédérations ont des intérêts, et qu’ils ne peuvent pas être seuls juges de la sécurité de nos pratiques. Le scepticisme organisé, enfin, c’est accepter que nos certitudes les mieux établies, comme celles que ce livre appelle des mythes, soient régulièrement mises à l’épreuve.
+
+Écouter n’est pas approuver. On peut rejeter les conclusions de Rick Masters sur le parapente et retenir ses chiffres et ses alertes. Ce qu’une communauté qui cherche la vérité ne peut pas faire, c’est faire taire celui qui dérange au lieu de vérifier ce qu’il dit. Concrètement, nos instances pourraient inviter des voix critiques dans leurs commissions sécurité, publier les contre-analyses qu’elles reçoivent, et désigner, dans chaque groupe de travail, quelqu’un dont le rôle est de contredire.
+
+**[FIN DU BROUILLON]**
+
 ### RETEX et base de données accident
 
 Chaque institution pourrait se doter d’un système de reporting et de RETEX (Retour d’Expérience). Il manque à la communauté une plateforme numérique strictement publique, gratuite et libre d’accès. Pratiquants, Club, Ecoles, Professionnels pourraient déclarer un accident et leurs circonstances y compris lorsqu’ils ne sont pas directement concernés par le sinistre (en tant que témoin). Nous devons déculpabiliser nos victimes afin qu’elles acceptent de témoigner avec justesse sur ce qui leur est arrivé.
@@ -46,3 +67,7 @@ Nous devons aider les victimes et leurs proches avec plus d’efficacité et d�
 [^c-asrs]:  NASA, Aviation Safety Reporting System : https://asrs.arc.nasa.gov
 
 [^c-ue376]:  Règlement (UE) n° 376/2014 du 3 avril 2014 concernant les comptes rendus, l’analyse et le suivi d’événements dans l’aviation civile.
+
+[^c-duke-groupes]:  Annie Duke en 2018 : *Thinking in Bets*, chapitres 4 et 5 sur les groupes de recherche de vérité et la dissidence. Traduction française : *On parie ? Prendre les bonnes décisions sans avoir toutes les cartes en main*, Alisio, 2024.
+
+[^c-merton]:  Robert K. Merton en 1942 : « A Note on Science and Democracy », *Journal of Legal and Political Sociology*, vol. 1, repris sous le titre « The Normative Structure of Science » dans *The Sociology of Science*, 1973.
