@@ -126,11 +126,17 @@ Perso, je ne perçois pas bien ce qu’elle a fait de mal. En fait il s’avère
 
 Lorsqu’ils existent, les tests d’homologation affichent des limites importantes. La norme actuelle EN sur les voiles et les sellettes est définie par un groupe de travail (experts) qui s’appelle le Working Group 6 \- WG6.
 
-[SOURCE À TROUVER : référence exacte du groupe de travail du CEN et des normes EN 926-1 et EN 926-2 dans leur version en vigueur.]
+**[BROUILLON À RELIRE]** Son nom complet est CEN/TC 136/WG 6 : c’est le groupe « équipements de parapente » du comité technique consacré aux sports au sein du Comité européen de normalisation (CEN)[^c-cen-wg6]. Il réunit des représentants des fabricants, des laboratoires d’essai et des fédérations nationales. L’AFNOR en coordonne les travaux et l’EHPU finance la partie administrative. Il rédige les normes EN 926-1 (résistance des voiles), EN 926-2 (comportement en vol), EN 1651 (sellettes) et EN 12491 (parachutes de secours)[^c-wg6]. Ces normes sont volontaires : un fabricant peut choisir de ne pas y soumettre son matériel. **[FIN DU BROUILLON]**
+
+[À VÉRIFIER : version en vigueur de la norme EN 926-2.]
 
 Ces tests ont des limites qu’il faut connaître. Ils sont réalisés sur une voile neuve, en air calme, par un pilote d’essai qui provoque les incidents de façon standardisée. Une fermeture déclenchée à la main au-dessus d’un lac ne ressemble pas à une fermeture provoquée par un thermique de fin de journée au ras d’une crête. La classification décrit donc le comportement d’une voile lors de manœuvres codifiées, pas son comportement dans la turbulence réelle. Elle ne dit rien non plus de l’évolution de la voile avec le temps : porosité du tissu, allongement des suspentes, calage qui dérive.
 
-[À COMPLÉTER : les limites que tu voulais détailler sur le WG6 et les tests, avec tes exemples.]
+**[BROUILLON À RELIRE]** Ce n’est pas moi qui le dis, c’est le WG6 lui-même. Dans un guide destiné aux pilotes, il présente la classification EN comme « un guide, mais pas une garantie ». Il écrit qu’« il n’est pas possible de recréer de manière fiable et reproductible les turbulences rencontrées dans la réalité », que la norme « ne mesure pas la sécurité passive dans des scénarios réels, tels que les thermiques, les cisaillements de vent ou les turbulences à basse altitude », et que les manœuvres testées « ne représentent qu’un petit échantillon des incidents pouvant survenir en vol ». Il ajoute que, même en air calme, une aile peut réagir plus sévèrement que lors des tests. On y apprend aussi que les essais se font en sellette assise, alors que beaucoup d’entre nous volent aujourd’hui en cocon[^c-wg6].
+
+Puis le même texte conclut : « Les accidents sont rarement dus à des lacunes dans les tests ; ils sont principalement dus à des erreurs humaines, à de mauvaises décisions ou à un manque de préparation de la part des pilotes. » Sur quoi repose cette affirmation ? Aucune donnée n’est citée. Et pour cause : nous avons vu que nos grilles de déclaration ne savent presque pas noter un facteur matériel, et qu’aucune ne demande si la situation dépassait ce que la norme teste (voir « Ce que nos grilles ne savent pas noter »). Le document qui vient d’expliquer que la norme ne dit rien du comportement d’une aile dans la turbulence réelle affirme ensuite que cette lacune ne cause presque pas d’accidents. Le premier mythe est là, intact, sous la plume de ceux qui écrivent la norme : quand ça casse, c’est le pilote.
+
+[À COMPLÉTER : tes autres exemples sur les limites des tests, si tu en as.] **[FIN DU BROUILLON]**
 
 Rien de tout cela ne retire leur valeur aux tests. Ils restent une plaque essentielle du modèle de Reason. Mais une plaque a des trous, et nous devrions les montrer au lieu de laisser croire qu’une voile homologuée « pardonne » en toute circonstance. Quelques pistes :
 
@@ -183,7 +189,7 @@ Le parcours de formation doit donc être revu en fonction du type de pratique vi
 
 Ni cet équipement par pratique ni ces formations adaptées n’ont vocation à devenir des obligations. L’idée n’est pas de contraindre, mais de les inscrire dans une charte fédérale. Une charte est une convention collective : celle des adhérents qui partagent une vision de ce que doit être l’activité et de la manière d’y accéder. Chacun reste libre de s’en affranchir, mais son usage donne le cadre et le sens commun. Le pilote qui part en cross sans traqueur ni connaissance des espaces aériens ne commet aucune infraction. Il sait simplement qu’il s’écarte de ce que la communauté considère comme une pratique raisonnable.
 
-Enfreindre la charte n’expose à aucune sanction. Faut-il pour autant la croire sans effet ? Une fois ses règles et ses usages de sécurité acceptés, la communauté est assez farouche pour les défendre elle-même. Faites une belle vidéo en volant sans casque sur Instagram, et vous verrez[^c-genovese]. Le casque n’est imposé par aucune sanction fédérale au pilote autonome [À VÉRIFIER], et pourtant presque personne ne vole sans. La pression des pairs fait ce que le règlement ne fait pas. Une charte s’appuie sur cette force-là : elle ne punit pas, elle donne à la communauté un repère commun à défendre.
+Enfreindre la charte n’expose à aucune sanction. Faut-il pour autant la croire sans effet ? Une fois ses règles et ses usages de sécurité acceptés, la communauté est assez farouche pour les défendre elle-même. Faites une belle vidéo en volant sans casque sur Instagram, et vous verrez. Le casque n’est imposé par aucune sanction fédérale au pilote autonome [À VÉRIFIER], et pourtant presque personne ne vole sans. La pression des pairs fait ce que le règlement ne fait pas. Une charte s’appuie sur cette force-là : elle ne punit pas, elle donne à la communauté un repère commun à défendre.
 
 Une charte a un autre avantage sur la réglementation : elle peut évoluer vite. Elle suit l’activité, les publics et les connaissances que nous accumulons sur nos disciplines, sans attendre une réforme. C’est sans doute la forme la plus fidèle à l’esprit du vol libre : un engagement partagé plutôt qu’une règle imposée, qui préserve la liberté du pilote tout en lui disant clairement ce que nous savons.
 
@@ -250,7 +256,9 @@ Certains sont même discutables. La priorité au pilote le plus bas est peut-êt
 
 [À COMPLÉTER : les autres « usages obsolètes » que tu avais en tête.]
 
-[^c-genovese]: Laurie Genovese, échange avec l’auteur [À CONFIRMER : contexte, date, et accord pour être citée].
+[^c-cen-wg6]: Air Turquoise, laboratoire d’essai membre du groupe, page « CEN/TC136/WG6 » : https://para-test.com/cen-tc136-wg6, consultée en octobre 2026.
+
+[^c-wg6]: WG6, « The EN 926-2 flight safety characteristics Standard – a WG6 guide for pilots », publié sur le site de l’EHPU : https://www.ehpu.org/standards, consulté en octobre 2026. Traduction française de l’auteur.
 
 [^c-ffvl-amerrissage]: Exports des déclarations d’accidents FFVL 2024 et 2025 communiqués à l’auteur, accidents dont le retour au sol est déclaré « eau ». Agrégats calculés par l’auteur. Les accidents non déclarés, notamment ceux de pilotes non licenciés ou étrangers, n’y figurent pas.
 
