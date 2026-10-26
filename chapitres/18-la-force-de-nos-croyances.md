@@ -153,7 +153,7 @@ L’ensemble des dynamiques de démocratisation du vol libre tend à stabiliser 
 
 [^26]:  Christian Pociello en 1995 : Les cultures sportives
 
-[^c-duke]:  Annie Duke en 2018 : *Thinking in Bets*. Traduction française de Tina Calogirou : *On parie ? Prendre les bonnes décisions sans avoir toutes les cartes en main*, Alisio, 2024, chapitre « Hasard ou compétence : analyser les résultats », p. 110.
+[^c-duke]:  Annie Duke en 2018 : *Thinking in Bets*. Traduction française de Tina Calogirou : *On parie ? Prendre les bonnes décisions sans avoir toutes les cartes en main*, Alisio, 2024, chapitre « Hasard ou compétence : analyser les résultats », p. 110, et plus précisément la section « Comment les résultats des autres nous impactent », p. 133.
 
 [^c-heider]:  Fritz Heider en 1958 : *The Psychology of Interpersonal Relations*.
 
