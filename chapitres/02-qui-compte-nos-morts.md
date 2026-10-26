@@ -51,6 +51,21 @@ Autrement dit, un pilote qui vole trente ans a plus d’une chance sur deux de d
 
 Ces chiffres sont prudents. Beaucoup d’accidents ne sont jamais déclarés : si un accident sur deux seulement l’était, près des deux tiers des pilotes en auraient au moins un en vingt ans. Le calcul suppose aussi un risque identique pour tous, alors qu’il varie probablement selon la pratique, l’expérience et l’engagement. À l’inverse, quelques accidents déclarés concernent des pilotes en première année, absents du nombre de pratiquants, ce qui majore légèrement le taux. Pour les décès, l’estimation repose sur une vingtaine de cas en deux ans : elle donne un ordre de grandeur, pas une mesure précise.
 
+**[BROUILLON À RELIRE]**
+
+Et le deltaplane ? La communauté est beaucoup plus petite : environ 350 licenciés FFVL [À CONFIRMER : s’agit-il de pratiquants hors stagiaires et primo-licenciés, comme pour le parapente, ou de l’ensemble des licenciés delta ?]. Les pilotes de delta autonomes ont déclaré 18 accidents en 2024 et 17 en 2025, dont 8 graves en deux ans, et aucun mortel. Chaque année, environ 5 % des pilotes de delta déclarent donc un accident, deux fois plus qu’en parapente, et environ 1,1 % est gravement blessé, presque autant qu’en parapente.
+
+| Sur une carrière de… | 10 ans | 20 ans | 30 ans |
+| :---- | :---- | :---- | :---- |
+| Delta : au moins un accident déclaré | 2 pilotes sur 5 | 2 pilotes sur 3 (64 %) | 4 pilotes sur 5 |
+| Parapente : au moins un accident déclaré | 1 pilote sur 5 | 1 pilote sur 3 (38 %) | 1 pilote sur 2 (52 %) |
+| Delta : au moins une blessure grave ou mortelle | 1 pilote sur 10 | 1 pilote sur 5 | près de 3 pilotes sur 10 |
+| Parapente : au moins une blessure grave ou mortelle | 1 pilote sur 10 | 1 pilote sur 5 | 1 pilote sur 4 |
+
+Le deltiste a donc beaucoup plus d’accidents, mais ils sont en moyenne moins graves : un accident sur quatre environ est grave, contre deux sur cinq en parapente. C’est cohérent avec ce que l’on voit sur le terrain : la plupart des accidents de delta ont lieu à l’atterrissage, avec beaucoup de casse matérielle et souvent peu de blessures. Il faut cependant lire ces chiffres avec une grande prudence. Avec si peu de pilotes, quelques accidents de plus ou de moins changent tout : avec 8 accidents graves en deux ans, le taux annuel réel peut se situer n’importe où entre 0,5 % et 2,3 %. Quant au risque de décès, un seul accident mortel de delta a été déclaré en deux ans, en pratique encadrée : c’est beaucoup trop peu pour en tirer un taux.
+
+**[FIN DU BROUILLON]**
+
 Les chiffres présentés ainsi paraissent invraisemblables mais les mathématiques sont ce qu'ils sont. Si vous volez depuis une trentaine d'année, à l'échelle de votre petit club, le plus probable est que vous ayez déjà perdu un membre et ami cher. Environ 1 sur 60. Si ce n'est pas votre cas, alors c'est peut-etre simplement deux dans le club voisin. J'ai eu un parcours compétitif qui a mixé de nombreux petits clubs, ligue, structure et même quelques pays. Comme vous l'avez vu en hommage mon dénominateur est malheureusement beaucoup grand que 60. Comme beaucoup, dans cette fabuleuse aventure, je n'ai pas perdu qu'un seul ami. L'expression de "survivants" de notre activité est exagérée mais sans plus.
 
 ### Ne pas compter, c’est déjà une réponse
