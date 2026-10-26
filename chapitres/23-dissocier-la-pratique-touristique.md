@@ -49,7 +49,15 @@ Si l’apprenti pilote ne doit plus être traité comme un touriste, que lui off
 
 Ce mentor n’est pas le moniteur ou biplaceur que l'on peut croiser souvent. C’est un grand maître, un expert incontesté de la discipline, reconnu comme tel par tous. Il possède une très grande expérience du vol, sur une décennie de pratique dans des milieus extremement exigeants comme la compétition : cross, voltige, course. Il a vu les limites de près, chez les autres et chez lui-même. C’est précisément ce qui lui permet d’aider un apprenti à choisir sa quête sans se tromper d’épreuve.
 
-[À COMPLÉTER : comment le dispositif fonctionnerait en pratique : combien d’apprentis par mentor, qui le finance, à quel moment du parcours il commence et quand il s’arrête.]
+**[BROUILLON À RELIRE]**
+
+Pour moi, cette relation entre le pilote et son mentor ne s’arrête pas. Un pilote peut bien vouloir se trouver un autre mentor en chemin, mais peu importe au fond : ce qui compte, c’est qu’il y ait toujours quelqu’un. Je pratique à haut niveau depuis plus d’une décennie, je suis coach national, et pourtant, de temps en temps, je me pose des questions sur ma pratique et j’ai besoin d’en parler à quelqu’un. Avec le temps, j’ai la chance d’avoir de solides connaissances dans le milieu, des gens qui me connaissent et qui savent me parler (Max Pinot, Luc Armant…). Mais que se passe-t-il quand on n’a pas ces gars-là ? Ou pire, quand la qualité des conseils que l’on reçoit souffre ? Quand elle est influencée par un revendeur, un organisateur, un bon pote un peu trop enthousiaste ?
+
+Le conseil, dans notre milieu, est rarement neutre. Celui qui vend la voile a intérêt à ce qu’on la change, celui qui organise l’événement a intérêt à ce qu’on vienne, et l’ami qui vole fort a envie qu’on le suive. Personne n’est malhonnête pour autant, mais personne n’est désintéressé. C’est précisément l’une des normes que Merton fixait à toute communauté qui cherche la vérité (voir « Écouter les voix qui dérangent »). Le mentor doit en être la garantie : quelqu’un qui connaît le pilote dans la durée et qui n’a rien à lui vendre.
+
+**[FIN DU BROUILLON]**
+
+[À COMPLÉTER : comment le dispositif fonctionnerait en pratique : combien d’apprentis par mentor, qui le finance, à quel moment du parcours il commence.]
 
 
 ### Préserver la liberté du pilote autonome
