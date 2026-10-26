@@ -151,7 +151,7 @@ Il ne s’agit pas d’une dérive marginale : c’est la doctrine écrite noir 
 
 Soyons justes : le même chapitre contient aussi, presque par accident, une leçon parfaitement systémique. L’oubli d’accrochage en delta y est décrit comme responsable d’« environ 1 accident grave sur deux », et le texte constate que, « d’année en année, depuis que le sport existe, cela ne change pas ». Pour les erreurs de montage, en revanche, ce ne sont pas les pilotes qui ont changé : ce sont les constructeurs, qui ont fait « de gros efforts pour faire des ailes “idiot proof” », au point qu’avec une aile moderne il est « quasi impossible de faire une erreur de montage ». Le manuel recommande aussi de « se contrôler entre pilote[s] »[^c-manuel-materiel]. Tout est là : quand on a voulu supprimer l’erreur, c’est le système qu’on a modifié, et cela a plutôt fonctionné. C’est exactement la leçon de Fitts et Jones. Elle n’a simplement jamais été étendue au reste.
 
-Ce discours se diffuse aujourd’hui bien au-delà des écoles, jusque sur les réseaux sociaux, où des coachs et des pilotes reconnus partagent leurs conseils avec beaucoup de sincérité. Le compte Instagram « Ariintheair » de Dereck Despein en donne un exemple parlant[^c-despein] :
+Ce discours se diffuse aujourd’hui bien au-delà des écoles, jusque sur les réseaux sociaux, où des coachs et des pilotes reconnus partagent leurs conseils avec beaucoup de sincérité. Le compte Instagram « Ariintheair » de Derek Despain en donne un exemple parlant[^c-despein] :
 
 > « The key to fly and not dying: the best pilots in the world manage their psychology very intentionally, and the difference between someone who flies a long fulfilling career and someone who crashes and hurts themselves and dies can often be just one momentary lapse in their psychological, physiological or emotional states. »
 
@@ -190,9 +190,9 @@ Avant d’aller plus loin dans l’étude des croyances et de l’imaginaire de 
 
 [^c-tem]:  Voir notamment OACI, Doc 9803 : Line Operations Safety Audit (LOSA), 2002, qui présente le modèle TEM.
 
-[^c-despein]:  Dereck Despein, compte Instagram « Ariintheair » : https://www.instagram.com/reel/DekPZVNBzIu/ [À CONFIRMER : orthographe du nom et du compte, date de la publication]. Seules les fautes de frappe évidentes de la citation ont été corrigées ; traduction de l’auteur.
+[^c-despein]:  Derek Despain, compte Instagram « Ariintheair » : https://www.instagram.com/reel/DekPZVNBzIu/ [À CONFIRMER : date de la publication]. Seules les fautes de frappe évidentes de la citation ont été corrigées ; traduction de l’auteur.
 
-[^c-despein-2]:  Dereck Despein, invité du podcast de Gavin McClurg [À CONFIRMER : probablement Cloudbase Mayhem] [LIEN / DATE À VÉRIFIER]. Citation transmise par l’auteur, laissée dans sa forme orale d’origine ; traduction de l’auteur.
+[^c-despein-2]:  Derek Despain, invité du podcast de Gavin McClurg [À CONFIRMER : probablement Cloudbase Mayhem] [LIEN / DATE À VÉRIFIER]. Citation transmise par l’auteur, laissée dans sa forme orale d’origine ; traduction de l’auteur.
 
 [^c-manuel-fh]: Pierre-Paul Ménégoz et Alain Jacques, *Le manuel du vol libre*, Fédération Française de Vol Libre, Éditions Rétine, 2005 (ISBN 2-9508644-6-5), chapitre 7 « Facteur humain et sécurité », p. 212. Citation tirée de l’édition de 2005 ; le manuel a été réédité depuis 2020.
 
