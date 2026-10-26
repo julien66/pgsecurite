@@ -75,6 +75,8 @@ Ce biais n’épargne personne, pas même nos meilleurs pilotes. Antoine Girard,
 
 > « En parapente, c’est nous qui prenons les risques. Il n’y a pas de côté aléatoire, il n’y a pas de rafale de vent qui arrive d’un seul coup. Ces choses-là n’existent pas, il y a très peu d’accidents où on n’est pas responsable. Je ne dis pas que je ne mourrai pas en parapente, parce que l’accident peut arriver, mais si je meurs, à 98 %, voire 99 % de chances, c’est que j’ai fait une erreur. Et donc si je meurs, ce sera de ma faute. Alors qu’en montagne… j’ai eu suffisamment de copains qui ont disparu. Il n’y a aucune erreur, tout le monde est là et il y a une personne dans le groupe qui disparaît, malheureusement. Une pierre au mauvais endroit, n’importe quoi, on ne sait jamais quand ça tombe. »
 
+Dans un autre entretien, la même année, il revient sur ce qui l’a éloigné de l’alpinisme de haut niveau, où « la mort est omniprésente » et où un compagnon peut disparaître sous une pierre ou une avalanche alors que celui qui marche deux minutes derrière n’a rien : « je n’acceptais vraiment pas cette prise de risque aléatoire, alors qu’en parapente, je pense que tous ceux qui ont un accident, qui se tuent ou qu’il y a un problème, c’est à 95, voire à 98 % à la base une erreur humaine. On est beaucoup moins voué à l’aléatoire[^c-girard-2]. »
+
 Il ne s’agit pas ici de critiquer Antoine Girard. Son discours est celui d’un pilote d’exception, cohérent avec sa pratique et avec l’exigence qu’il s’impose. C’est précisément ce qui le rend si révélateur : même au sommet de notre discipline, la croyance reste intacte. En montagne, le hasard tue. En parapente, ce serait toujours le pilote. Or les déclarations d’accidents racontent une autre histoire. En 2024 et 2025, les fermetures en vol sont la première cause de décès déclarés en parapente, et lorsqu’elles commencent près du sol, le pilote n’a souvent ni le temps de récupérer sa voile ni celui de lancer son secours (voir « Un meilleur système »). Une rafale qui arrive d’un seul coup, cela existe. Attribuer 98 % des décès à l’erreur du pilote, c’est exactement ce que décrit la théorie de l’attribution : une manière de garder le contrôle sur ce qui, en partie, nous échappe.
 
 **[FIN DU BROUILLON]**
@@ -159,3 +161,5 @@ L’ensemble des dynamiques de démocratisation du vol libre tend à stabiliser 
 [^c-lerner]:  Melvin J. Lerner en 1980 : *The Belief in a Just World: A Fundamental Delusion*.
 
 [^c-girard]:  Antoine Girard, entretien pour Primetalk, 2026 [LIEN / DATE À VÉRIFIER]. Citation transmise par l’auteur ; seules l’orthographe et la ponctuation ont été légèrement corrigées.
+
+[^c-girard-2]:  Antoine Girard, entretien pour le podcast Aventure épique, 2026 [LIEN / DATE À VÉRIFIER]. Citation transmise par l’auteur ; seules l’orthographe et la ponctuation ont été légèrement corrigées.
