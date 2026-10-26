@@ -78,7 +78,7 @@ Je ne vais donc pas ouvrir ce livre par un tableau de chiffres définitifs, parc
 
 [^c-masters-impossible]:  Rick Masters, « It’s impossible to die like this on a real aircraft », 28 août 2022 : https://rickmasters.substack.com/p/its-impossible-to-die-like-this-on
 
-[^c-masters-forum]:  Voir par exemple ce fil de discussion du Paragliding Forum : https://www.paraglidingforum.com/viewtopic.php?t=42084
+[^c-masters-forum]:  Voir par exemple le fil « Rick Masters and Mythology of the Airframe » du Paragliding Forum, ouvert en septembre 2011 par un élève pilote qui demande si le décompte de Rick Masters (850 morts en parapente en huit ans, selon son site de l’époque) est exact. Les réponses discutent l’absence de dénominateur (combien de pilotes, combien de vols), mais visent aussi l’homme : « a bit of a crackpot », « a fool with an agenda », « malicious scaremongering ». Un administrateur y résume pourtant bien son argument central : un parapente n’a pas de structure, et une fermeture sous la hauteur nécessaire pour récupérer peut être mortelle. https://www.paraglidingforum.com/viewtopic.php?t=42084
 
 [^c-ffvl-dc]:  Liste des accidents mortels de licenciés FFVL, tenue par l’association SecuParapente en collaboration avec la FFVL, consultée le 25 octobre 2026 : https://docs.google.com/spreadsheets/d/1wxVhd0yYPexm0K1kTjykO-dWz9CoVrVmmgAS2jh-m3Y
 
