@@ -1,4 +1,4 @@
-# Partie 1 : Cadre conceptuel. Les deux paradigmes de la sécurisation des pratiques.
+# Partie 1 : Cadre conceptuel. Les deux paradigmes de la sécurisation des pratiques
 
 Nous allons donc balayer une série de mythes communautaires fondateurs. Ils sont aussi vieux que la construction de notre activité et servent de croyance commune et de socle unificateur à tous les pratiquants du vol libre. Ils façonnent la mentalité et les conceptions de notre communauté autour de leur sport favori et des accidents qui y surviennent.  S’abstraire de son propre système naturel de pensée n’est pas une mince affaire et il faudra probablement plusieurs lectures à un parapentiste aguerri pour ne pas trouver les paragraphes ci-dessous déroutants, voire provocateurs.
 
