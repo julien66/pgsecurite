@@ -190,9 +190,9 @@ Avant d’aller plus loin dans l’étude des croyances et de l’imaginaire de 
 
 [^c-tem]:  Voir notamment OACI, Doc 9803 : Line Operations Safety Audit (LOSA), 2002, qui présente le modèle TEM.
 
-[^c-despein]:  Derek Despain, compte Instagram « Ariintheair » : https://www.instagram.com/reel/DekPZVNBzIu/ [À CONFIRMER : date de la publication]. Seules les fautes de frappe évidentes de la citation ont été corrigées ; traduction de l’auteur.
+[^c-despein]:  Derek Despain, compte Instagram « Ariintheair » : https://www.instagram.com/reel/DekPZVNBzIu/, consulté en octobre 2026. Seules les fautes de frappe évidentes de la citation ont été corrigées ; traduction de l’auteur.
 
-[^c-despein-2]:  Derek Despain, invité du podcast de Gavin McClurg [À CONFIRMER : probablement Cloudbase Mayhem] [LIEN / DATE À VÉRIFIER]. Citation transmise par l’auteur, laissée dans sa forme orale d’origine ; traduction de l’auteur.
+[^c-despein-2]:  Derek Despain, podcast *Into the Wind*, épisode 1, 15 juin 2026 : https://open.spotify.com/episode/3zR8ayqI9MJbu04MKGO42G. Citation transmise par l’auteur, laissée dans sa forme orale d’origine ; traduction de l’auteur.
 
 [^c-manuel-fh]: Pierre-Paul Ménégoz et Alain Jacques, *Le manuel du vol libre*, Fédération Française de Vol Libre, Éditions Rétine, 2005 (ISBN 2-9508644-6-5), chapitre 7 « Facteur humain et sécurité », p. 212. Citation tirée de l’édition de 2005 ; le manuel a été réédité depuis 2020.
 
