@@ -14,6 +14,18 @@ Ces deux publics relèvent de deux logiques de sécurité opposées. Le premier 
 
 Aujourd’hui, nous faisons l’inverse de ce que cette distinction exigerait. Nous appliquons au tourisme le discours de l’autonomie (« le parapente est sûr si l’on respecte un cadre ») et nous laissons le pilote autonome croire que ce même discours le protège. Le premier est sous-informé, le second sur-rassuré. C’est ce que j’appelais plus haut une forme d’arnaque : nous garantissons un engin simple, accessible et au risque maîtrisable, alors qu’il ne l’est pas.
 
+### Des experts absorbés par le tourisme
+
+**[BROUILLON À RELIRE]**
+
+Ce mélange a une conséquence directe sur la formation des pilotes. Nos meilleurs moniteurs sont aujourd’hui occupés à gérer des touristes. Le biplace est évidemment plus rémunérateur, et la formation en école est elle aussi conçue pour capter et gérer des flux de stagiaires qui vont et viennent au fil des saisons. Le modèle économique est celui de la découverte, pas celui de la progression.
+
+À part quelques initiatives très personnelles, scolaires ou portées par un fort appui associatif, les écoles permanentes où un pilote peut réellement se former au long cours, avec un suivi longitudinal de sa formation, sont quasi inexistantes [SOURCE À TROUVER : nombre d’écoles proposant un suivi de formation sur plusieurs saisons, ou à défaut ton constat de terrain]. Quand n’importe quel moniteur peut dispenser la formation autour des mêmes stages de découverte, les instructeurs experts deviennent indifférenciables des débutants. Rien, pour l’élève, ne distingue celui qui a vingt ans de cross et de compétition de celui qui vient d’obtenir son diplôme.
+
+Les véritables stages de formation, ceux qui font progresser un pilote déjà autonome, sont sous-payés, et donc sous-investis par nos experts, qui font souvent du biplace à la place. Le savoir le plus précieux de notre communauté, celui des pilotes qui ont vu les limites de près, est ainsi dépensé à promener des passagers plutôt qu’à transmettre. C’est aussi pour répondre à ce manque que je propose plus loin la figure du mentor.
+
+**[FIN DU BROUILLON]**
+
 ### Ce que pourrait être une pratique touristique dissociée
 
 Dissocier, ce n’est ni interdire ni condamner les professionnels, qui font vivre notre activité. C’est reconnaître que le vol commercial de passagers est une autre activité, qui mérite un autre cadre :
