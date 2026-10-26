@@ -126,7 +126,7 @@ Perso, je ne perçois pas bien ce qu’elle a fait de mal. En fait il s’avère
 
 Lorsqu’ils existent, les tests d’homologation affichent des limites importantes. La norme actuelle EN sur les voiles et les sellettes est définie par un groupe de travail (experts) qui s’appelle le Working Group 6 \- WG6.
 
-**[BROUILLON À RELIRE]** Son nom complet est CEN/TC 136/WG 6 : c’est le groupe « équipements de parapente » du comité technique consacré aux sports au sein du Comité européen de normalisation (CEN)[^c-cen-wg6]. Il réunit des représentants des fabricants, des laboratoires d’essai et des fédérations nationales. L’AFNOR en coordonne les travaux et l’EHPU finance la partie administrative. Il rédige les normes EN 926-1 (résistance des voiles), EN 926-2 (comportement en vol), EN 1651 (sellettes) et EN 12491 (parachutes de secours)[^c-wg6]. Ces normes sont volontaires : un fabricant peut choisir de ne pas y soumettre son matériel. **[FIN DU BROUILLON]**
+Son nom complet est CEN/TC 136/WG 6 : c’est le groupe « équipements de parapente » du comité technique consacré aux sports au sein du Comité européen de normalisation (CEN)[^c-cen-wg6]. Il réunit des représentants des fabricants, des laboratoires d’essai et des fédérations nationales. L’AFNOR en coordonne les travaux et l’EHPU finance la partie administrative. Il rédige les normes EN 926-1 (résistance des voiles), EN 926-2 (comportement en vol), EN 1651 (sellettes) et EN 12491 (parachutes de secours)[^c-wg6]. Ces normes sont volontaires : un fabricant peut choisir de ne pas y soumettre son matériel.
 
 [À VÉRIFIER : version en vigueur de la norme EN 926-2.]
 
