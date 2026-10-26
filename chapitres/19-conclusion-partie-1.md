@@ -37,7 +37,7 @@ J’ai pris le parti d’essayer de respecter la dimension symbolique que revêt
 
 [^27]:  Cf. L’ouvrage prophétique de Guy Debord paru en 1967
 
-[^c-amalberti]: Charles Vincent et René Amalberti en 2016 : *Safer Healthcare: Strategies for the Real World*, Springer (accès libre), chapitre sur les trois modèles de sécurité (ultra-adaptatif, haute fiabilité, ultra-sûr). Voir aussi René Amalberti en 2013 : *Piloter la sécurité. Théories et pratiques sur les compromis et les arbitrages nécessaires*, Springer. [PAGE À VÉRIFIER]
+[^c-amalberti]: Charles Vincent et René Amalberti en 2016 : *Safer Healthcare: Strategies for the Real World*, Springer (accès libre), chapitre sur les trois modèles de sécurité (ultra-adaptatif, haute fiabilité, ultra-sûr). Voir aussi René Amalberti en 2013 : *Piloter la sécurité. Théories et pratiques sur les compromis et les arbitrages nécessaires*, Springer.
 
 [^c-amalberti-2005]: René Amalberti, Yves Auroy, Don Berwick et Paul Barach en 2005 : « Five System Barriers to Achieving Ultrasafe Health Care », *Annals of Internal Medicine*, vol. 142, n° 9, p. 756-764.
 
