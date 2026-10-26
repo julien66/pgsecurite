@@ -42,7 +42,7 @@ Je demande à notre communauté de raconter ses accidents. Il serait malhonnête
 
 Onze épisodes, dont deux fractures de la colonne. Combien figurent dans une base de données ? [À CONFIRMER : lesquels as-tu déclarés ?] Et pour ceux qui y figurent, qu’en retiendrait notre grille ? « Erreur de pilotage », « excès de confiance », « matériel inadapté ». Tout cela est vrai. Mais rien de ce qui m’a appris quelque chose n’y serait noté.
 
-Ce n’est qu’un exemple de parcours. D’autres seront moins marqués, moins rocambolesques. Je connais des personnalités du milieu qui cachent le leur, et je le respecte : la plupart du temps, ce genre d’aveu finit par être utilisé contre vous. C’est bien là le problème. Je ne raconte pas tout cela pour me faire plaindre, ni pour qu’on me juge. Certains le feront quand même, et ce réflexe est justement celui que ce livre décrit. Je le raconte parce que je suis encore là, et que je ne crois pas que ce soit seulement grâce à mon talent.
+Ce n’est qu’un exemple de parcours. D’autres seront moins marqués, moins rocambolesques. Je connais des personnalités du milieu qui cachent le leur, et je le respecte : la plupart du temps, ce genre d’aveu finit par être utilisé contre vous. C’est bien là le problème. Je ne raconte pas tout cela pour me faire plaindre, ni pour qu’on me juge. Certains le feront quand même, et ce réflexe est justement celui que ce livre décrit. Je le raconte parce que je suis encore là. Entre le coach et pilote reconnu que je suis devenu et le pilote mort dans ses jeunes années que j’aurais pu être, il y a aussi la chance. Ce que nous attribuons volontiers à notre compétence doit beaucoup au hasard (voir « Le succès des uns, l’erreur des autres »).
 
 **[FIN DU BROUILLON]**
 
