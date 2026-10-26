@@ -190,7 +190,7 @@ Avant d’aller plus loin dans l’étude des croyances et de l’imaginaire de 
 
 [^c-tem]:  Voir notamment OACI, Doc 9803 : Line Operations Safety Audit (LOSA), 2002, qui présente le modèle TEM.
 
-[^c-despein]:  Derek Despain, compte Instagram « Ariintheair » : https://www.instagram.com/reel/DekPZVNBzIu/ [À CONFIRMER : date de la publication]. Seules les fautes de frappe évidentes de la citation ont été corrigées ; traduction de l’auteur.
+[^c-despein]:  Derek Despain, compte Instagram « Ariintheair » : https://www.instagram.com/reel/DekPZVNBzIu/, consulté en octobre 2026. Seules les fautes de frappe évidentes de la citation ont été corrigées ; traduction de l’auteur.
 
 [^c-despein-2]:  Derek Despain, invité du podcast de Gavin McClurg [À CONFIRMER : probablement Cloudbase Mayhem] [LIEN / DATE À VÉRIFIER]. Citation transmise par l’auteur, laissée dans sa forme orale d’origine ; traduction de l’auteur.
 
