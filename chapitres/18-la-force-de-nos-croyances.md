@@ -167,6 +167,6 @@ Les écoles professionnelles et les réseaux sociaux se chargent de convertir le
 
 [^c-lerner]:  Melvin J. Lerner en 1980 : *The Belief in a Just World: A Fundamental Delusion*.
 
-[^c-girard]:  Antoine Girard, entretien pour Primetalk, 2026 : https://www.youtube.com/watch?v=4bOyL2z8olA&t=1035s (à 17 min 15) [DATE À VÉRIFIER]. Citation transmise par l’auteur ; seules l’orthographe et la ponctuation ont été légèrement corrigées.
+[^c-girard]:  Antoine Girard, entretien pour Primetalk, 15 septembre 2026 : https://www.youtube.com/watch?v=4bOyL2z8olA&t=1035s (à 17 min 15). Citation transmise par l’auteur ; seules l’orthographe et la ponctuation ont été légèrement corrigées.
 
 [^c-girard-2]:  Antoine Girard, entretien pour le podcast Aventure épique, 2026 : https://open.spotify.com/episode/3CRsNV3knjUiUgZqg2owpy (à 14 min 16) [DATE À VÉRIFIER]. Citation transmise par l’auteur ; seules l’orthographe et la ponctuation ont été légèrement corrigées.
