@@ -162,4 +162,4 @@ L’ensemble des dynamiques de démocratisation du vol libre tend à stabiliser 
 
 [^c-girard]:  Antoine Girard, entretien pour Primetalk, 2026 : https://www.youtube.com/watch?v=4bOyL2z8olA [DATE ET MINUTAGE À VÉRIFIER]. Citation transmise par l’auteur ; seules l’orthographe et la ponctuation ont été légèrement corrigées.
 
-[^c-girard-2]:  Antoine Girard, entretien pour le podcast Aventure épique, 2026 [LIEN / DATE À VÉRIFIER]. Citation transmise par l’auteur ; seules l’orthographe et la ponctuation ont été légèrement corrigées.
+[^c-girard-2]:  Antoine Girard, entretien pour le podcast Aventure épique, 2026 : https://open.spotify.com/episode/3CRsNV3knjUiUgZqg2owpy [DATE ET MINUTAGE À VÉRIFIER]. Citation transmise par l’auteur ; seules l’orthographe et la ponctuation ont été légèrement corrigées.
