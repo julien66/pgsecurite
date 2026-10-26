@@ -58,7 +58,7 @@ Le mythe \#3 d’un pilote seul capable d’assurer sa sécurité provient de l�
 
 ### Le succès des uns, l’erreur des autres
 
-Il existe une explication assez simple, presque mécanique, à notre manie de charger l’accidenté. Elle tient à la façon dont nous attribuons des causes à ce qui nous arrive. Dans *On parie ?*, l’ancienne joueuse de poker professionnelle Annie Duke la décrit très bien[^c-duke]. Quand tout se passe bien pour nous, nous y voyons le fruit de notre compétence. Quand tout se passe bien pour les autres, nous y voyons volontiers de la chance. À l’inverse, nos propres échecs relèvent de la malchance, tandis que ceux des autres s’expliquent par leurs erreurs. [PAGE À VÉRIFIER : passage d’Annie Duke sur l’attribution des succès et des échecs.]
+Il existe une explication assez simple, presque mécanique, à notre manie de charger l’accidenté. Elle tient à la façon dont nous attribuons des causes à ce qui nous arrive. Dans *On parie ?*, l’ancienne joueuse de poker professionnelle Annie Duke la décrit très bien[^c-duke]. Quand tout se passe bien pour nous, nous y voyons le fruit de notre compétence. Quand tout se passe bien pour les autres, nous y voyons volontiers de la chance. À l’inverse, nos propres échecs relèvent de la malchance, tandis que ceux des autres s’expliquent par leurs erreurs.
 
 Ce mécanisme est connu depuis longtemps en psychologie sociale. Fritz Heider a montré dès 1958 que nous cherchons sans cesse à expliquer les comportements, en les attribuant soit à la personne (son caractère, sa compétence), soit à la situation (les circonstances, le hasard)[^c-heider]. Plusieurs biais systématiques se sont greffés sur cette théorie de l’attribution :
 
@@ -153,7 +153,7 @@ L’ensemble des dynamiques de démocratisation du vol libre tend à stabiliser 
 
 [^26]:  Christian Pociello en 1995 : Les cultures sportives
 
-[^c-duke]:  Annie Duke en 2018 : *Thinking in Bets*. Traduction française de Tina Calogirou : *On parie ? Prendre les bonnes décisions sans avoir toutes les cartes en main*, Alisio, 2024.
+[^c-duke]:  Annie Duke en 2018 : *Thinking in Bets*. Traduction française de Tina Calogirou : *On parie ? Prendre les bonnes décisions sans avoir toutes les cartes en main*, Alisio, 2024, chapitre « Hasard ou compétence : analyser les résultats », p. 110.
 
 [^c-heider]:  Fritz Heider en 1958 : *The Psychology of Interpersonal Relations*.
 
