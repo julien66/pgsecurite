@@ -39,7 +39,7 @@ Les accidents de deltaplane sont rares dans les déclarations (49 en deux ans po
 
 #### Des traces GPS plus précises : vers un IGC2
 
-Nos instruments enregistrent presque tous nos vols. Ces traces sont souvent la seule source objective dont dispose un enquêteur après un accident. Pourtant, le format IGC, devenu le standard du vol libre, ne note qu’une position par seconde au mieux[^c-igc]. Techniquement, nos GPS et nos variomètres savent faire beaucoup mieux. Mais une seconde, c’est bien trop long pour comprendre finement un incident ou un accident. Une fermeture, une abattée, une collision ou une chute se jouent souvent en moins de temps que cela.
+Nos instruments enregistrent presque tous nos vols. Ces traces sont souvent la seule source objective dont dispose un enquêteur après un accident. Pourtant, le format IGC, devenu le standard du vol libre, ne note qu’une position par seconde au mieux[^c-igc]. La spécification prévoit bien un mode d’enregistrement rapide (*fast logging*), mais il ne correspond pas au mode normal. Techniquement, nos GPS et nos variomètres savent faire beaucoup mieux. Mais une seconde, c’est bien trop long pour comprendre finement un incident ou un accident. Une fermeture, une abattée, une collision ou une chute se jouent souvent en moins de temps que cela.
 
 Je le constate à chaque analyse de traces pour un rapport d’enquête. Il faut souvent croiser des enregistrements différents, et même ainsi, la résolution des fichiers reste le principal obstacle pour reconstituer les dernières secondes du vol.
 
@@ -262,4 +262,4 @@ Certains sont même discutables. La priorité au pilote le plus bas est peut-êt
 
 [^c-ffvl-amerrissage]: Exports des déclarations d’accidents FFVL 2024 et 2025 communiqués à l’auteur, accidents dont le retour au sol est déclaré « eau ». Agrégats calculés par l’auteur. Les accidents non déclarés, notamment ceux de pilotes non licenciés ou étrangers, n’y figurent pas.
 
-[^c-igc]:  FAI, International Gliding Commission (IGC) : *Technical Specification for IGC-approved GNSS Flight Recorders*. L’heure de chaque point (enregistrement B) y est notée en heures, minutes et secondes. [À VÉRIFIER : version de la spécification, et existence d’extensions permettant de noter des fractions de seconde.]
+[^c-igc]:  FAI, International Gliding Commission (IGC) : *Technical Specification for IGC-approved GNSS Flight Recorders*. L’heure de chaque point (enregistrement B) y est notée en heures, minutes et secondes. [À VÉRIFIER : version de la spécification.]
