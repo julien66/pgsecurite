@@ -41,28 +41,28 @@ Ce que l’on fait en vérité en compétition, c’est une course aérienne à 
 
 Pour avoir lu plusieurs fois Bastien Soulé[^3], je comprends que la notion de “sport à risque” est assez plastique. Toutefois, en faisant le bilan, notre discipline sportive entre dans les critères de classement à risque de l’ensemble des auteurs s’étant employés au difficile travail de catégorisation des pratiques. Il ne fait aucun doute que le parapente est tout à la fois :
 
-- Une activité où le pratiquant peut mourir s’il fait une erreur d’analyse, si sa technique est insuffisante par rapport aux conditions rencontrées et/ou si son matériel connait un dysfonctionnement.
+- Une activité où le pratiquant peut mourir s’il fait une erreur d’analyse, si sa technique est insuffisante par rapport aux conditions rencontrées et/ou si son matériel connaît un dysfonctionnement.
 
   C’est ce que dit Nicolas Penin[^4] en 2004 : \[ “Mort envisageable en cas d’erreur technique ou matérielle” \]. 
 
 - Une activité où l'occurrence des accidents demeure importante et dont la conséquence est parfois maximale.
 
 	Ce sont des critères importants pour Michel Bouet[^5] :  
- \[ “A la fois : gravité maximale et occurrence importante.” \]
+ \[ “À la fois : gravité maximale et occurrence importante.” \]
 
 - Une activité qui peut consommer l’ensemble des ressources individuelles disponibles du pratiquant. Rapport à la fatigue, la concentration, l’endurance, la gestion du stress et des émotions…  
     
-  Conforme avec l’une des formes d’incertitude évoquée par Pierre Parlebas[^6] : Inconnue des limites personnelles individuelles (endurance, épuisement des facultés).
+  Conforme à l’une des formes d’incertitude évoquée par Pierre Parlebas[^6] : Inconnue des limites personnelles individuelles (endurance, épuisement des facultés).
 
 - Une activité en milieu naturel et en espace aérien qui combine de multiples incertitudes. Il existe DES modèles météorologiques justement parce que ce n’est pas une science exacte et aucun modèle aérologique car nous n’avons pas encore les moyens d’en développer…
 
 	  
-Conforme avec l’autre forme d’incertitude évoquée par Pierre Parlebas (*ibid*) :   
+Conforme à l’autre forme d’incertitude évoquée par Pierre Parlebas (*ibid*) :   
 \[ “C’est l’incertitude du milieu, la sauvagerie ”\]
 
 - Une activité où l’accident est possible par confrontation au milieu et par destruction non intentionnelle du mobile (perte de vol).  
     
-  C’est que dit Jacques Defrance[^7]. 
+  C’est ce que dit Jacques Defrance[^7]. 
 
 ### Un constat caché
 
@@ -70,17 +70,17 @@ Ces phrases ne sont aujourd’hui ni suffisamment claires pour tout le monde ni 
 
 - Peut-être que face à de tels risques, il faudrait se donner les moyens d’organiser la sécurité au plan collectif avec un peu plus de méthode ? J’y reviens plus tard.  
     
-- Peut-être qu’il serait intéressant de se demander si oui ou non et sous quelles conditions une telle activité est réellement démocratisable ? commercialisable ? S’adresse-t-elle à tout le monde ? Je me réjouis d’avoir la liberté, le plaisir, la sérénité et la force de faire du parapente et pourtant cela fait plusieurs fois que je me retiens de le recommander à des amis ou à des connaissances. C’est une sacrée responsabilité après tout que de parrainer  une telle décision \! 
+- Peut-être qu’il serait intéressant de se demander si oui ou non et sous quelles conditions une telle activité est réellement démocratisable ? commercialisable ? S’adresse-t-elle à tout le monde ? Je me réjouis d’avoir la liberté, le plaisir, la sérénité et la force de faire du parapente et pourtant cela fait plusieurs fois que je me retiens de le recommander à des amis ou à des connaissances. C’est une sacrée responsabilité après tout que de parrainer une telle décision \! 
 
 Le parapente n’est pas une activité à risque maîtrisable. Existe-t-il d’ailleurs un tel sport ? Le concept fondamental d’une activité à risque que l’on pourrait maîtriser individuellement au travers d’une certaine attitude et / ou d’une compétence élevée est une croyance fondamentale et singulière de notre communauté libériste.
 
 ### Une image sociétale discordante et paradoxale
 
-Ce mythe détonne d’ailleurs avec l’image sociétale que nous renvoyons en dehors de notre communauté. Nos accidents sont en permanence relayés dans la presse locale; pour chacune des victimes décédées ou lourdement accidentées, le nombre de proches affectés est démultiplié et des préfets commencent à s'intéresser de très près à nos statistiques d’accidentalité, tant nous utilisons les moyens de secours disponibles dans certaines régions (héliporté notamment). Alors même que l’acceptabilité sociale du parapente semble s’améliorer avec le temps au point de conquérir aujourd’hui l’espace publicitaire, elle ne doit toutefois pas être pensée comme acquise pour toujours. La référence nationale à un parapentiste paraplégique dans le film “Intouchables[^8]” illustre parfaitement cette ambivalence en installant à la fois à la une du box office notre activité préférée pour mieux en souligner tout de même, sa dangerosité. Le fait est que, y compris à l'intérieur de notre champ de pratique, de nombreux acteurs supportent mal l'accidentalité. Tout cela ajoute une dimension sociale incontestable contribuant à qualifier le parapente de discipline à haut risque. 
+Ce mythe détonne d’ailleurs avec l’image sociétale que nous renvoyons en dehors de notre communauté. Nos accidents sont en permanence relayés dans la presse locale ; pour chacune des victimes décédées ou lourdement accidentées, le nombre de proches affectés est démultiplié et des préfets commencent à s'intéresser de très près à nos statistiques d’accidentalité, tant nous utilisons les moyens de secours disponibles dans certaines régions (héliportés notamment). Alors même que l’acceptabilité sociale du parapente semble s’améliorer avec le temps au point de conquérir aujourd’hui l’espace publicitaire, elle ne doit toutefois pas être pensée comme acquise pour toujours. La référence nationale à un parapentiste paraplégique dans le film “Intouchables[^8]” illustre parfaitement cette ambivalence en installant à la fois à la une du box-office notre activité préférée pour mieux en souligner, tout de même, sa dangerosité. Le fait est que, y compris à l'intérieur de notre champ de pratique, de nombreux acteurs supportent mal l'accidentalité. Tout cela ajoute une dimension sociale incontestable contribuant à qualifier le parapente de discipline à haut risque. 
 
-Notre accidentalité ne saurait être jugée que par nous-mêmes, membre de la communauté, contribuant à générer au sens propre comme au figuré nos propres statistiques \! Le caractère “maîtrisable” ou non d’un risque, comme la “fiabilité” ou non d’un système réside justement dans une évaluation ou un jugement subjectif. Ce jugement peut émaner de l'intérieur du système : “Les parapentistes pensent que leur activité est sûre et que les risques qu’ils prennent peuvent être maîtrisés”; mais aussi de l'extérieur du système : “Allez \! Encore un \! Les parapentistes monopolisent l'hélicoptère en été sur tel bassin de pratique et nous sommes à découvert pour assurer les secours ailleurs. Ils ne gèrent rien du tout”. Le décalage entre ces regards internes / externes au sujet de notre activité est profond. Tant et si bien que je me demande parfois comment nous parvenons encore à tenir ce discours. Voici donc la suite logique et la justification de cette première croyance.
+Notre accidentalité ne saurait être jugée que par nous-mêmes, membres de la communauté, contribuant à générer au sens propre comme au figuré nos propres statistiques \! Le caractère “maîtrisable” ou non d’un risque, comme la “fiabilité” ou non d’un système réside justement dans une évaluation ou un jugement subjectif. Ce jugement peut émaner de l'intérieur du système : “Les parapentistes pensent que leur activité est sûre et que les risques qu’ils prennent peuvent être maîtrisés” ; mais aussi de l'extérieur du système : “Allez \! Encore un \! Les parapentistes monopolisent l'hélicoptère en été sur tel bassin de pratique et nous sommes à découvert pour assurer les secours ailleurs. Ils ne gèrent rien du tout”. Le décalage entre ces regards internes / externes au sujet de notre activité est profond. Tant et si bien que je me demande parfois comment nous parvenons encore à tenir ce discours. Voici donc la suite logique et la justification de cette première croyance.
 
-[^2]:  René Caillois en 1958 : Des jeux et des hommes
+[^2]:  Roger Caillois en 1958 : Des jeux et des hommes
 
 [^3]:  Bastien Soulé en 2007  : Sports "à risque" et sports "extrêmes" : de quoi parle-t-on ?
 
