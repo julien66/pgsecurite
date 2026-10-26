@@ -18,21 +18,15 @@ Aujourd’hui, nous faisons l’inverse de ce que cette distinction exigerait. N
 
 ### Des experts absorbés par le tourisme
 
-**[BROUILLON À RELIRE]**
+Ce mélange a une conséquence directe sur la formation des pilotes. Nos meilleurs moniteurs sont aujourd’hui occupés à gérer des touristes. Le biplace est évidemment plus rémunérateur, et la formation en école est elle aussi conçue pour capter et gérer des flux de stagiaires qui vont et viennent au fil des saisons. Le modèle économique est celui de la découverte, pas celui de la progression.
 
 Que l’on ne s’y trompe pas : ce n’est pas un texte contre les professionnels. Nos chiffres disent même le contraire. Les accidents en pratique encadrée sont nettement moins graves : environ un sur cinq conduit à des blessures graves ou à la mort, contre près d’un sur deux hors encadrement (voir « Qui compte nos morts ? »). Nos accidents les plus sévères surviennent exactement là où les moniteurs ne sont plus : en sortie d’école, et dans les pratiques que l’on considère comme autonomes.
 
-Ce mélange a une conséquence directe sur la formation des pilotes. Nos meilleurs moniteurs sont aujourd’hui occupés à gérer des touristes. Le biplace est évidemment plus rémunérateur, et la formation en école est elle aussi conçue pour capter et gérer des flux de stagiaires qui vont et viennent au fil des saisons. Le modèle économique est celui de la découverte, pas celui de la progression.
+À part quelques initiatives très personnelles, scolaires ou portées par un fort appui associatif, les écoles permanentes où un pilote peut réellement se former au long cours, avec un suivi longitudinal de sa formation, sont quasi inexistantes. Quand n’importe quel moniteur peut dispenser la formation autour des mêmes stages initiation ou perf, les instructeurs experts deviennent indifférenciables des débutants. Rien, pour l’élève, ne distingue celui qui a vingt ans en cross et en pratique chevronné (compétition ou non) de celui qui vient d’obtenir son diplôme en 2 ans.
 
-À part quelques initiatives très personnelles, scolaires ou portées par un fort appui associatif, les écoles permanentes où un pilote peut réellement se former au long cours, avec un suivi longitudinal de sa formation, sont quasi inexistantes [SOURCE À TROUVER : nombre d’écoles proposant un suivi de formation sur plusieurs saisons, ou à défaut ton constat de terrain]. Quand n’importe quel moniteur peut dispenser la formation autour des mêmes stages de découverte, les instructeurs experts deviennent indifférenciables des débutants. Rien, pour l’élève, ne distingue celui qui a vingt ans de cross et de compétition de celui qui vient d’obtenir son diplôme.
-
-Les véritables stages de formation, ceux qui font progresser un pilote déjà autonome, sont sous-payés, et donc sous-investis par nos experts, qui font souvent du biplace à la place. Le savoir le plus précieux de notre communauté, celui des pilotes qui ont vu les limites de près, est ainsi dépensé à promener des passagers plutôt qu’à transmettre. Et même lorsqu’il est transmis, il l’est mal, faute d’un cadre adapté. Les pratiques que l’on dit autonomes sont difficiles à enseigner en l’état (stage cross, niveau marron, SIV, etc.), parce que l’on demande aux moniteurs et aux pratiquants d’entrer dans une relation pédagogique éphémère : une semaine au plus, répétée chaque année, alors que c’est précisément à ce moment-là que la connaissance fine de chaque pilote compte le plus. Le moniteur découvre un élève qu’il ne reverra peut-être pas, l’élève repart seul avec ce qu’il a compris. C’est pour répondre à ce manque que je propose plus loin la figure du mentor : non pas remplacer le moniteur, mais assurer la continuité que le stage d’une semaine ne peut pas offrir.
-
-**[FIN DU BROUILLON]**
+Les véritables stages de formation, ceux qui font progresser un pilote déjà autonome, sont sous-payés par rapport aux responsabilités, et donc sous-investis par nos experts, qui font souvent du biplace à la place. Le savoir le plus précieux de notre communauté, celui des pilotes qui ont vu les limites de près, est ainsi dépensé à promener des passagers plutôt qu’à transmettre. Et même lorsqu’il est transmis, il l’est de façon non optimal, faute d’un cadre adapté. Les pratiques que l’on dit autonomes sont difficiles à enseigner en l’état (stage cross, niveau marron, SIV, etc.), parce que l’on demande aux moniteurs et aux pratiquants d’entrer dans une relation pédagogique éphémère : une semaine au plus, répétée chaque année au mieux, alors que c’est précisément à ce moment-là que la connaissance fine de chaque pilote et enseignant compte le plus. Le moniteur découvre un élève qu’il ne reverra peut-être pas, l’élève repart seul avec ce qu’il a compris et assure lui même son suivi. C’est pour répondre à ce manque que je propose plus loin la figure du mentor : non pas remplacer le moniteur, mais assurer la continuité que le stage d’une semaine ne peut pas offrir.
 
 ### Le profil et le pourquoi
-
-**[BROUILLON À RELIRE]**
 
 Séparer le tourisme de la formation des pilotes suppose un vrai travail sur les profils et sur le « pourquoi ». Pourquoi cette personne vient-elle voler ? Pour une sensation, un souvenir, une journée de vacances ? Pour découvrir une activité dont elle a toujours rêvé ? Ou pour entrer réellement dans une carrière de pilote autonome ? Ces motivations sont toutes légitimes, mais elles n’appellent ni le même contenu, ni la même pédagogie, ni le même discours (voir « Le voyage du héros » sur la diversité de ce que nous venons chercher en l’air).
 
@@ -44,9 +38,7 @@ Je propose donc de séparer clairement trois choses qui se confondent aujourd’
 - **Le stage d’initiation.** On apprend les gestes de base et l’on comprend ce qu’est l’activité, y compris ses risques. C’est le moment de se demander, avec un moniteur, si l’on veut aller plus loin et pourquoi.
 - **Le premier pas réel dans une carrière de pilote autonome.** Celui-là engage. Il ouvre un parcours long, suivi par un mentor, avec ses exigences propres.
 
-La pédagogie, le discours et la rigueur de ces trois moments sont difficilement compatibles. On ne parle pas de la même façon à un vacancier qui veut une belle journée et à un futur pilote qui devra un jour décider seul de décoller. Mélanger les deux, c’est soit effrayer le premier, soit rassurer à tort le second.
-
-**[FIN DU BROUILLON]**
+La pédagogie, le discours et la rigueur de ces trois moments sont difficilement compatibles. On ne parle pas de la même façon à un vacancier qui veut une belle semaine conviviale dans l'esprit UCPA et à un futur pilote qui devra un jour décider seul de décoller. Mélanger les deux, c’est soit effrayer le premier, soit rassurer à tort le second.
 
 ### Ce que pourrait être une pratique touristique dissociée
 
@@ -55,11 +47,11 @@ Dissocier, ce n’est ni interdire ni condamner les professionnels, qui font viv
 - **Une exigence de transport de passagers.** Des marges météo plus larges que celles d’un pilote solo, des sites et des terrains choisis et aménagés pour cet usage, un matériel suivi selon un calendrier strict.
 - **Un retour d’expérience propre.** Les accidents de biplaces commerciaux devraient être recensés et analysés à part, et partagés entre professionnels selon les principes de la culture juste.
 - **Une information honnête.** Le passager a le droit de savoir qu’il pratique une activité aérienne qui comporte un risque réel. Le dire n’éloignera pas les clients, et cela protégera les professionnels le jour où un accident survient.
-- **Une formation qui ne se vend pas comme un loisir de plein air.** Le stagiaire qui veut devenir pilote doit entendre dès le début ce qu’il s’apprête à faire et ce que signifie être autonome. **[BROUILLON À RELIRE]** Les stages de découverte et d’initiation peuvent rester du côté touristique. La poursuite de formation du pilote, elle, relève d’une autre filière, avec ses propres instructeurs et un suivi au long cours. **[FIN DU BROUILLON]**
-
+- **Une formation qui ne se vend pas comme un loisir de plein air.** Le stagiaire qui veut devenir pilote doit entendre dès le début ce qu’il s’apprête à faire et ce que signifie être autonome. Les stages de découverte et d’initiation peuvent rester du côté touristique. La poursuite de formation du pilote, elle, relève d’une autre filière, avec ses propres instructeurs et un suivi au long cours.
+  
 ### Accompagner le voyage du héros
 
-Si l’apprenti pilote ne doit plus être traité comme un touriste, que lui offrir à la place ? **[BROUILLON À RELIRE]** Pour celui qui s’y met vraiment, un mentor au long cours, et un vrai. **[FIN DU BROUILLON]** Je crois que nous pouvons reprendre le voyage du héros à notre compte. Dans le récit de Campbell, le héros ne part jamais vraiment seul : quelqu’un l’appelle à l’aventure, et quelqu’un d’autre le guide au moment de franchir le seuil. Notre pratique encadrée pourrait offrir la même chose à chaque apprenti.
+Si l’apprenti pilote ne doit plus être traité comme un touriste, que lui offrir à la place ? Pour celui qui s’y met vraiment, un mentor au long cours, et un vrai. Je crois que nous pouvons reprendre le voyage du héros à notre compte. Dans le récit de Campbell, le héros ne part jamais vraiment seul : quelqu’un l’appelle à l’aventure, et quelqu’un d’autre le guide au moment de franchir le seuil. Notre pratique encadrée pourrait offrir la même chose à chaque apprenti.
 
 **Un parrain.** Le parrain me paraît pouvoir rester facultatif mais c’est la personne qui prend la lourde responsabilité de l’appel : celle qui fait entrer l’apprenti dans le vol libre et dans sa communauté. J'imagine une relation bénévole, de protecteur et de passeur. Une relation qui compte. Le parrain est un premier soutien, quelqu’un avec qui l’on peut parler de son parcours, de ses doutes et des usages que la communauté transmet de bouche à oreille. Accepter de parrainer quelqu’un, c’est reconnaître qu’on ne fait pas entrer un ami dans une activité à risque vital à la légère.
 
@@ -67,19 +59,14 @@ Si l’apprenti pilote ne doit plus être traité comme un touriste, que lui off
 
 Ce mentor n’est pas le moniteur ou biplaceur que l'on peut croiser souvent. C’est un grand maître, un expert incontesté de la discipline, reconnu comme tel par tous. Il possède une très grande expérience du vol, sur une décennie de pratique dans des milieux extrêmement exigeants comme la compétition : cross, voltige, course. Il a vu les limites de près, chez les autres et chez lui-même. C’est précisément ce qui lui permet d’aider un apprenti à choisir sa quête sans se tromper d’épreuve.
 
-**[BROUILLON À RELIRE]**
-
-Pour moi, cette relation entre le pilote et son mentor ne s’arrête pas. Un pilote peut bien vouloir se trouver un autre mentor en chemin, mais peu importe au fond : ce qui compte, c’est qu’il y ait toujours quelqu’un. Je pratique à haut niveau depuis plus d’une décennie, je suis coach national, et pourtant, de temps en temps, je me pose des questions sur ma pratique et j’ai besoin d’en parler à quelqu’un. Avec le temps, j’ai la chance d’avoir de solides connaissances dans le milieu, des gens qui me connaissent et qui savent me parler (Max Pinot, Luc Armant…). Mais que se passe-t-il quand on n’a pas ces gars-là ? Ou pire, quand la qualité des conseils que l’on reçoit souffre ? Quand elle est influencée par un revendeur, un organisateur, un bon pote un peu trop enthousiaste ?
+Pour moi, cette relation entre le pilote et son mentor ne s’arrête pas. Un pilote peut bien vouloir se trouver un autre mentor en chemin, mais peu importe au fond : ce qui compte, c’est qu’il y ait toujours quelqu’un. Je pratique à haut niveau depuis plus d’une décennie, je suis un coach respecté et un pilote reconnu, et pourtant, de temps en temps, je me pose des questions sur ma pratique et j’ai besoin d’en parler à quelqu’un. Je fais à peine plus de 100 heures par an, je vole en Enzo 3 toujours en compétition, en conditions variées et en essyant de suivre des pilotes qui ont trois fois mon niveau. Je le fais avant tout pour des raisons professionnelles et sociales. Ce n'est pas le meilleur cocktail. Jusqu'à quand ? Personnellement, j’ai la chance d’avoir de solides connaissances dans le milieu, des gens qui me connaissent et qui savent me parler et qui font attention (Maxime Pinot, Luc Armant…). Que se passe-t-il quand on n’a pas ces compétences-là sous la main ? Que se passe-t-il quand la qualité des conseils que l’on reçoit est médiocre ? Quand elle est influencée par un revendeur, un organisateur, un bon pote un peu trop enthousiaste ?
 
 Le conseil, dans notre milieu, est rarement neutre. Celui qui vend la voile a intérêt à ce qu’on la change, celui qui organise l’événement a intérêt à ce qu’on vienne, et l’ami qui vole fort a envie qu’on le suive. Personne n’est malhonnête pour autant, mais personne n’est désintéressé. C’est précisément l’une des normes que Merton fixait à toute communauté qui cherche la vérité (voir « Écouter les voix qui dérangent »). Le mentor doit en être la garantie : quelqu’un qui connaît le pilote dans la durée et qui n’a rien à lui vendre.
 
-**[FIN DU BROUILLON]**
-
 [À COMPLÉTER : comment le dispositif fonctionnerait en pratique : combien d’apprentis par mentor, qui le finance, à quel moment du parcours il commence.]
-
 
 ### Préserver la liberté du pilote autonome
 
-En contrepartie, sortir le tourisme de la logique du pilote autonome permet de mieux respecter celle-ci. Si le passager est protégé par un cadre propre, il n’est plus nécessaire de prétendre que tout le vol libre est sûr. Le pilote autonome peut alors être informé honnêtement du risque qu’il prend, et garder la liberté de le prendre. C’est peut-être la seule façon de « devenir grand » sans tuer ce qui fait le vol libre.
+En contrepartie, sortir le tourisme de la logique du pilote autonome permet de mieux respecter celle-ci. Si le passager est protégé par un cadre propre, il n’est plus nécessaire de prétendre que tout le vol libre est sûr. Le pilote autonome peut alors être informé honnêtement du risque qu’il prend, et garder la liberté de le prendre. C’est peut-être la seule façon de « devenir grand » sans tuer la nature de ce qu'est le vol libre.
 
 [À COMPLÉTER : ton regard de terrain sur les professionnels et les sites de biplace très fréquentés.]
