@@ -13,4 +13,4 @@ Vous pouvez le copier, l’imprimer et le partager librement, sur tout support e
 Texte complet de la licence : <https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr>
 
 ISBN : [À COMPLÉTER]  
-Dépôt légal : [À COMPLÉTER]
+Dépôt légal : novembre 2026
