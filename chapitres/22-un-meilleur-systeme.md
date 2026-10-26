@@ -189,6 +189,18 @@ Or nous parlons de « l’équipement du pilote » comme s’il n’y en avait q
 
 **[FIN DU BROUILLON]**
 
+### Des formations adaptées à l’environnement de pratique
+
+**[BROUILLON À RELIRE]**
+
+La même logique vaut pour la formation. Nous formons « le pilote » comme s’il n’existait qu’une seule pratique, alors que les savoirs indispensables changent avec l’environnement. Le pilote qui part en cross en autonomie traverse des espaces aériens, croise d’autres aéronefs et peut avoir besoin d’appeler à l’aide loin de tout. Pour lui, une vraie connaissance des espaces aériens paraît incontournable, tout comme l’usage de la radio. Pour le pilote qui fait du soaring en bord de mer ou qui vole en local, à finesse d’un atterrissage, c’est beaucoup moins le cas, voire pas du tout.
+
+Plutôt que d’imposer à tous un bagage unique, souvent trop lourd pour les uns et insuffisant pour les autres, nous pourrions construire la formation comme l’équipement : un socle commun, puis des modules propres à chaque pratique, que le pilote valide au moment où il en a besoin. Celui qui veut partir en cross apprend les espaces aériens et la radio. Celui qui vole au-dessus de l’eau apprend à se dégager de sa sellette et de ses suspentes. C’est aussi un rôle naturel pour le mentor de formation proposé plus loin : savoir, à chaque étape de la progression, quel module le pilote doit acquérir avant d’aller plus loin.
+
+[À COMPLÉTER : les modules que tu verrais pour les autres pratiques (paralpinisme, voltige, compétition), et ce que prévoient aujourd’hui les brevets fédéraux sur ces points.]
+
+**[FIN DU BROUILLON]**
+
 ### Une réglementation du vol à vue et des usages obsolètes
 
 [À CONFIRMER : les textes exacts. En Europe, les règles de l’air relèvent du règlement SERA (règlement d’exécution (UE) n° 923/2012) ; vérifier ce qui s’applique précisément aux parapentes.]
