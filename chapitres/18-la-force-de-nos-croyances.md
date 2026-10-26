@@ -56,6 +56,23 @@ Penser que Icare est fautif permet de ne pas demander à Dédale pourquoi il n�
 
 Le mythe \#3 d’un pilote seul capable d’assurer sa sécurité provient de là. “Seul maître à bord après Dieu”, n’est pas tant un slogan pour donner au pilote les pleins pouvoirs afin de mener à bien sa mission. C’est en fait ce que tout le monde souhaite. Cela place implicitement le pratiquant en responsable d’une défaillance potentielle : si quelque chose ne va pas, ce sera par sa faute. Le plus surprenant c’est que très souvent, les pilotes eux-mêmes souscrivent à cette pensée pour son corollaire qui sous-entend que si tout se passe bien, alors ce sera grâce à eux.
 
+### Le succès des uns, l’erreur des autres
+
+**[BROUILLON À RELIRE]**
+
+Il existe une explication plus simple, presque mécanique, à notre manie de charger l’accidenté. Elle tient à la façon dont nous attribuons des causes à ce qui nous arrive. Dans *On parie ?*, l’ancienne joueuse de poker professionnelle Annie Duke la décrit très bien[^c-duke]. Quand tout se passe bien pour nous, nous y voyons le fruit de notre compétence. Quand tout se passe bien pour les autres, nous y voyons volontiers de la chance. À l’inverse, nos propres échecs relèvent de la malchance, tandis que ceux des autres s’expliquent par leurs erreurs. [PAGE À VÉRIFIER : passage d’Annie Duke sur l’attribution des succès et des échecs.]
+
+Ce mécanisme est connu depuis longtemps en psychologie sociale. Fritz Heider a montré dès 1958 que nous cherchons sans cesse à expliquer les comportements, en les attribuant soit à la personne (son caractère, sa compétence), soit à la situation (les circonstances, le hasard)[^c-heider]. Plusieurs biais systématiques se sont greffés sur cette théorie de l’attribution :
+
+- **Le biais d’autocomplaisance.** Nous attribuons nos réussites à nos qualités et nos échecs aux circonstances, ce qui protège l’estime de soi[^c-miller-ross].
+- **L’erreur fondamentale d’attribution.** Pour expliquer le comportement d’autrui, nous surestimons le poids de sa personnalité et de ses choix, et nous sous-estimons celui de la situation[^c-ross].
+- **L’asymétrie acteur-observateur.** Quand nous agissons, nous voyons surtout la situation qui nous contraint. Quand nous observons, nous voyons surtout la personne qui agit[^c-jones-nisbett].
+- **La croyance en un monde juste.** Nous avons besoin de croire que chacun obtient ce qu’il mérite, au point de chercher, chez la victime, ce qui pourrait justifier ce qui lui est arrivé[^c-lerner].
+
+Appliqués au vol libre, ces biais produisent exactement ce que nous avons décrit dans les pages précédentes. Le pilote qui rentre d’un vol difficile s’attribue le mérite d’avoir bien géré, alors que la masse d’air l’a peut-être simplement épargné. Le pilote qui se fait une frayeur parle de « conditions pourries ». Mais lorsqu’un autre se blesse ou se tue, nous cherchons d’abord ce qu’il a mal fait : il volait trop près du relief, sa voile était trop exigeante, il n’aurait pas dû décoller. C’est ce qui nous permet de conclure : « ça ne m’arrivera pas, à moi ». L’attribution n’est pas seulement une erreur de raisonnement individuelle. Elle est la matière première du bouc émissaire, et elle nourrit le mythe d’un pilote seul maître de sa sécurité.
+
+**[FIN DU BROUILLON]**
+
 ### Le voyage du héros
 
 Ici je dois traiter de la partie immergée de l’iceberg et la raison pour laquelle je pense que toutes les croyances mises en exergue dans la première partie de cet ouvrage font des dégâts. En 1949, Joseph Campbell a publié un essai de mythologie comparée resté célèbre: Le Héros aux mille et un visages. Il y postule l’existence d’un monomythe, sorte d'archétype structurant de l’ensemble des mythes et contes populaires dans nos sociétés. Chaque auteur et chaque époque semblent rejouer systématiquement la même histoire, le même “voyage du héros”. Campbell décrit avec précision les étapes de ce périple.
@@ -122,3 +139,15 @@ L’ensemble des dynamiques de démocratisation du vol libre tend à stabiliser 
 [^25]:  Marvin Zuckerman en 1994 dans : “Behavioral expressions and biosocial bases of sensation seeking”.
 
 [^26]:  Christian Pociello en 1995 : Les cultures sportives
+
+[^c-duke]:  Annie Duke en 2018 : *Thinking in Bets*. Traduction française de Tina Calogirou : *On parie ? Prendre les bonnes décisions sans avoir toutes les cartes en main*, Alisio, 2024.
+
+[^c-heider]:  Fritz Heider en 1958 : *The Psychology of Interpersonal Relations*.
+
+[^c-miller-ross]:  Dale T. Miller et Michael Ross en 1975 : « Self-serving biases in the attribution of causality: Fact or fiction? », *Psychological Bulletin*, 82(2), p. 213-225.
+
+[^c-ross]:  Lee Ross en 1977 : « The intuitive psychologist and his shortcomings: Distortions in the attribution process », *Advances in Experimental Social Psychology*, vol. 10, p. 173-220.
+
+[^c-jones-nisbett]:  Edward E. Jones et Richard E. Nisbett en 1971 : *The Actor and the Observer: Divergent Perceptions of the Causes of Behavior*.
+
+[^c-lerner]:  Melvin J. Lerner en 1980 : *The Belief in a Just World: A Fundamental Delusion*.
