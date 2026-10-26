@@ -16,7 +16,9 @@ Cette conception proposant un parapente à risque maîtrisable (ou effectivement
 Le *Manuel du vol libre* de la FFVL le formule avec plus de nuances, mais la même idée affleure : « Même avec une grande expérience, on n’est pas à l’abri des surprises. Toutefois une connaissance correcte de l’aérologie permet d’éviter les pièges les plus dangereux ; après une bonne analyse des conditions il ne devrait rester que de petites surprises gérables… »[^c-manuel-surprises]. Le danger y est reconnu, puis aussitôt ramené à ce qu’une bonne analyse permet de maîtriser
 
    
-Pour ancrée et répandue qu’elle soit, cette idée ne résiste malheureusement pas à l’observation du monde réel. Des pilotes encadrés par des moniteurs de renom et d’expérience ont des accidents et certains meurent parfois. Nous voyons aussi disparaître des pilotes qui “n’engagent” jamais ou de véritables stars de la discipline. Il n’y a pas de profil type de pilote décédé. Le parapente n’est malheureusement pas ce que les libéristes eux-mêmes en disent. 
+Pour ancrée et répandue qu’elle soit, cette idée ne résiste malheureusement pas à l’observation du monde réel. Des pilotes encadrés par des moniteurs de renom et d’expérience ont des accidents et certains meurent parfois. Nous voyons aussi disparaître des pilotes qui “n’engagent” jamais ou de véritables stars de la discipline. Il n’y a pas de profil type de pilote décédé. Le parapente n’est malheureusement pas ce que les libéristes eux-mêmes en disent.
+
+Je ne suis pas le seul à le penser. Christian « Chrigel » Maurer, le pilote le plus titré de l’histoire de la Red Bull X-Alps, situe l’origine de cette illusion dès l’école : « Je pense que cela commence très tôt, à l’école de vol. On a très vite le sentiment que le parapente est le sport le plus sûr du monde, et ce n’est pas vrai : au bout de deux secondes, on est déjà haut, et cela peut être dangereux. »[^c-maurer] 
 
 ### Analyse de l’activité sportive 
 
@@ -92,3 +94,5 @@ Notre accidentalité ne saurait être jugée que par nous-mêmes, membres de la 
 [^8]:  Intouchables réalisé en 2011 par Olivier Nakache et Eric Toledano est un film inspiré par la vie de Philippe Pozzo di Borgo et son autobiographie parue en 2001 : Le second souffle.
 
 [^c-manuel-surprises]: Pierre-Paul Ménégoz et Alain Jacques, *Le manuel du vol libre*, Fédération Française de Vol Libre, Éditions Rétine, 2005 (ISBN 2-9508644-6-5), chapitre 7 « Facteur humain et sécurité », « Estimation des conditions », p. 216. Citation tirée de l’édition de 2005 ; le manuel a été réédité depuis 2020.
+
+[^c-maurer]: Christian « Chrigel » Maurer, invité du podcast *Cloudbase Mayhem* de Gavin McClurg, épisode 257, à 16 min 41 [LIEN / DATE À VÉRIFIER]. Citation d’origine : « I think it starts quite early in the flight school. In a flight you get the feeling quite early paragliding is the safest sport in the world and it's not true, because after 2 seconds, you're quite high and it can be dangerous. » Traduction de l’auteur.
