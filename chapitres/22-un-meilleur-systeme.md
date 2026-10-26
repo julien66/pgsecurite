@@ -37,6 +37,14 @@ Les accidents de deltaplane sont rares dans les déclarations (49 en deux ans po
 - **Les oublis d’accroche.** Ils sont très peu déclarés (3 en deux ans, dont un décès), probablement parce qu’ils sont souvent rattrapés de justesse ou jamais racontés. *Menaces* : interruption pendant la préparation, décollage chargé, fatigue. *Erreurs* : cuissardes ou ventrale non fermées, mousqueton mal verrouillé. *État indésirable* : pilote en l’air qui n’est plus tenu par sa sellette. *Parades* : visite prévol systématique et toujours dans le même ordre, sellettes qui empêchent de décoller sans être attaché, contrôle croisé entre pilotes.
 
 
+#### Des traces GPS plus précises : vers un IGC2
+
+**[BROUILLON À RELIRE]** Nos instruments enregistrent presque tous nos vols. Ces traces sont souvent la seule source objective dont dispose un enquêteur après un accident. Pourtant, le format IGC, devenu le standard du vol libre, ne note qu’une position par seconde au mieux[^c-igc]. Techniquement, nos GPS et nos variomètres savent faire beaucoup mieux. Mais une seconde, c’est bien trop long pour comprendre finement un incident ou un accident. Une fermeture, une abattée, une collision ou une chute se jouent souvent en moins de temps que cela.
+
+Je l’ai constaté en analysant les traces d’un accident mortel pour un rapport d’enquête. Il a fallu croiser trois enregistrements différents, et même ainsi, la résolution des traces restait le principal obstacle pour reconstituer les dernières secondes du vol.
+
+Sans aller jusqu’à imposer une boîte noire, nous pourrions nous mettre d’accord, fabricants d’instruments, fédérations et FAI, sur une fréquence d’enregistrement plus élevée et sur l’adoption commune d’un format « IGC2 ». Il pourrait aussi conserver les données d’accéléromètre et de cap que nos instruments mesurent déjà. Ces fichiers pourraient alimenter directement la base de données d’accidents, avec l’accord du pilote ou de ses proches. **[FIN DU BROUILLON]**
+
 [^c-ffvl-export-tem]:  Exports des déclarations d’accidents FFVL 2024 et 2025, comptages réalisés par l’auteur sur les déclarations, toutes pratiques confondues (1 350 en parapente, 49 en deltaplane).
 
 ### Mieux informer
@@ -247,3 +255,5 @@ Certains sont même discutables. La priorité au pilote le plus bas est peut-êt
 [^c-genovese]: Laurie Genovese, échange avec l’auteur [À CONFIRMER : contexte, date, et accord pour être citée].
 
 [^c-ffvl-amerrissage]: Exports des déclarations d’accidents FFVL 2024 et 2025 communiqués à l’auteur, accidents dont le retour au sol est déclaré « eau ». Agrégats calculés par l’auteur. Les accidents non déclarés, notamment ceux de pilotes non licenciés ou étrangers, n’y figurent pas.
+
+[^c-igc]:  FAI, Commission internationale de vol libre (CIVL) et IGC (International Gliding Commission) : *Technical Specification for IGC-approved GNSS Flight Recorders*. L’heure de chaque point (enregistrement B) y est notée en heures, minutes et secondes. [À VÉRIFIER : version de la spécification, et existence d’extensions permettant de noter des fractions de seconde.]
