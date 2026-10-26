@@ -176,4 +176,4 @@ Avant d’aller plus loin dans l’étude des croyances et de l’imaginaire de 
 
 [^c-tem]:  Voir notamment OACI, Doc 9803 : Line Operations Safety Audit (LOSA), 2002, qui présente le modèle TEM.
 
-[^c-despein]:  Dereck Despein, compte Instagram « Ariintheair » [À CONFIRMER : orthographe du nom et du compte] [LIEN / DATE À VÉRIFIER]. Seules les fautes de frappe évidentes de la citation ont été corrigées ; traduction de l’auteur.
+[^c-despein]:  Dereck Despein, compte Instagram « Ariintheair » : https://www.instagram.com/reel/DekPZVNBzIu/ [À CONFIRMER : orthographe du nom et du compte, date de la publication]. Seules les fautes de frappe évidentes de la citation ont été corrigées ; traduction de l’auteur.
