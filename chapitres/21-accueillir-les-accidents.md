@@ -84,4 +84,4 @@ Nous devons aider les victimes et leurs proches avec plus d’efficacité et d�
 
 [^c-ffvl-grille]:  Exports des déclarations d’accidents des licenciés FFVL pour 2024 et 2025, communiqués à l’auteur : rubriques « facteurs contributifs pilote » et « facteurs contributifs équipement ». Comptages de l’auteur (305 et 306 déclarations avec un facteur pilote, 25 et 22 avec un facteur équipement). Seuls des totaux anonymes sont cités.
 
-[^c-ffvl-rapport-enquete]:  FFVL, modèle de rapport d’enquête accident grave ou mortel (partie 1 : rapport préliminaire ; partie 2 : rapport d’analyse), avertissement liminaire. [À VÉRIFIER : intitulé exact et version du modèle.]
+[^c-ffvl-rapport-enquete]:  FFVL, modèle de rapport « Rapport préliminaire – Enquête accident grave ou mortel » (partie 1 : rapport préliminaire ; partie 2 : rapport d’analyse), mise à jour du 10 décembre 2025, avertissement liminaire.
