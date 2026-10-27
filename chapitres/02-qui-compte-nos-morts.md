@@ -1,6 +1,6 @@
 # Qui compte nos morts ?
 
-Qui peut dire aujourd’hui combien de pilotes ont perdu la vie en parapente ? Personne. Ni la Fédération Française de Vol Libre, ni la Commission Internationale de Vol Libre, ni aucun constructeur, aucune assurance, aucun chercheur. Après bientôt quarante ans de pratique, notre communauté ne sait pas compter ses morts. Ce constat n’est pas un détail technique. C’est, je crois, le premier symptôme de tout ce que ce livre tente de décrire.
+Qui peut dire aujourd’hui combien de pilotes ont perdu la vie en parapente ? Personne. Ni la Fédération Française de Vol Libre, ni la Commission Internationale de Vol Libre, **[BROUILLON À RELIRE]** ni l’union européenne des fédérations (EHPU), malgré sa base d’accidents commune, **[FIN DU BROUILLON]** ni aucun constructeur, aucune assurance, aucun chercheur. Après bientôt quarante ans de pratique, notre communauté ne sait pas compter ses morts. Ce constat n’est pas un détail technique. C’est, je crois, le premier symptôme de tout ce que ce livre tente de décrire.
 
 ### Rick Masters, le premier à compter
 
