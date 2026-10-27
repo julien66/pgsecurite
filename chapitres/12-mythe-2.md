@@ -1,6 +1,6 @@
 ## Mythe \#2
 
-Les accidents sont dus à des erreurs humaines.
+Les accidents sont dus à des erreurs humaines.[^c-mythe2-ex]
 
 ### Un biais rétrospectif
 
@@ -199,3 +199,5 @@ Avant d’aller plus loin dans l’étude des croyances et de l’imaginaire de 
 [^c-manuel-comportements]: Ibid., « Comportements dangereux », p. 218.
 
 [^c-manuel-materiel]: Ibid., « Accidents “trop classiques” dûs au matériel », p. 220.
+
+[^c-mythe2-ex]: Par exemple, sur le site d’une structure commerciale, à propos des accidents de parapente : « Ces accidents sont majoritairement causés par de mauvaises manipulations de la voile » (Annecy Parapente, « Les fausses croyances autour du parapente », https://www.annecy-parapente.fr/fausses-croyances-parapente/, consulté en octobre 2026).
