@@ -1,13 +1,8 @@
-## Un meilleur système
-
-
-Les propositions qui suivent sont regroupées en quatre blocs : connaître nos accidents, mieux informer, équiper et former, veiller et secourir.
-
-### Connaître nos accidents
+## Connaître nos accidents
 
 Avant d’agir, il faut savoir ce qui nous arrive : où, comment, et selon quels scénarios.
 
-#### Cartographier les accidents. Détecter les sites et les secteurs les plus générateurs d’accidents
+### Cartographier les accidents. Détecter les sites et les secteurs les plus générateurs d’accidents
 
 Les statistiques (françaises et généralistes à des fins d’assurance principalement) dont nous disposons actuellement font état de la répartition suivante des accidents : ⅓ des accidents au décollage, ⅓ en l’air et le dernier tiers à l’atterrissage. Les déclarations de 2024 et 2025 précisent ce tableau : l’atterrissage et l’approche pèsent plus de 40 % des accidents, le décollage environ un tiers, et le vol un sur cinq à un sur quatre (voir « Qui compte nos morts ? »).
 
@@ -17,27 +12,27 @@ Il y a des reliefs, des combes ou des crêtes réputés pour la désorganisation
 
 Nous pouvons également croiser l’apparition des accidents avec des conditions météorologiques ou aérologiques particulières sur un secteur donné. La force du vent en terrain montagneux est réputée pour être un mauvais catalyseur d’accidents. Prouvons-le et prévenons-le.
 
-#### Lire nos accidents les plus fréquents avec la TEM
+### Lire nos accidents les plus fréquents avec la TEM
 
 Cartographier ne suffit pas : il faut aussi comprendre comment nos accidents se construisent. La méthode TEM présentée plus haut (voir « Mythe #2 ») offre une grille simple. Pour chaque scénario, on cherche les **menaces** (ce qui vient de l’environnement ou du matériel et que le pilote ne contrôle pas), les **erreurs** (ce que le pilote fait ou omet), les **états indésirables** (la situation dégradée qui précède l’accident) et les **parades** (ce qui permet de détecter et de corriger avant qu’il soit trop tard). L’intérêt n’est pas de désigner un fautif, mais de voir où le système peut agir.
 
 Les chiffres qui suivent viennent des 1 449 déclarations d’accidents faites à la FFVL en 2024 et 2025. Ils sont partiels, puisque tous les accidents ne sont pas déclarés, mais ils donnent un ordre de grandeur[^c-ffvl-export-tem].
 
-##### En deltaplane : l’atterrissage, puis le décollage
+#### En deltaplane : l’atterrissage, puis le décollage
 
 Les accidents de deltaplane sont rares dans les déclarations (49 en deux ans pour 350 licenciés), mais leur répartition est nette : 32 relèvent de l’atterrissage, dont 13 chocs de trapèze, et 11 du décollage, dont 8 retours dans la pente.
 
 - **Atterrissage.** *Menaces* : gradient de vent, turbulence de terrain, vent arrière ou de travers, terrain court ou en pente. *Erreurs* : approche trop lente, arrondi trop tôt ou trop tard, virage au ras du sol, mauvaise évaluation du vent. *État indésirable* : aile en sous-vitesse à quelques mètres du sol, sans marge pour reprendre de la vitesse. *Parades* : drag chute, approche codifiée avec une vitesse minimale, choix d’un terrain aménagé, entraînement à l’arrondi, roues sur le trapèze, terrain à finesse en permanence. 
 - **Décollage.** *Menaces* : vent de travers, rafales, pente faible. *Erreurs* : course d’élan insuffisante, aile mal tenue, départ en sous-vitesse. *État indésirable* : aile qui ne vole pas encore alors que le pilote a quitté le sol. *Parades* : aménagement du décollage, visite prévol et lecture du vent rigoureuses, renoncement accepté, entraînement en pente école.
 
-##### En parapente : trois scénarios qui tuent
+#### En parapente : trois scénarios qui tuent
 
 - **Les fermetures près du sol.** C’est le premier scénario mortel : sur les 23 décès en parapente déclarés en 2024 et 2025, 10 sont des fermetures en vol. Sur 148 accidents liés à une fermeture, près de la moitié se terminent par des blessures graves ou un décès. Et lorsque la hauteur est renseignée, les premiers signes apparaissent sous 100 mètres dans plus de huit cas sur dix (76 sur 89), là où le secours n’a pas le temps de s’ouvrir. C’est la « zone de la mort ». *Menaces* : turbulence thermique ou dynamique près du relief, brise forte, voile exigeante. *Erreurs* : voler trop près du relief dans des conditions fortes, pilotage passif, voile au-dessus de son niveau. *État indésirable* : voile fermée sans hauteur pour récupérer. *Parades* : travail d'innovation sur le parachute de secours, largage automatique, garder une marge de hauteur et de distance au relief proportionnée aux conditions, choisir une voile adaptée à son niveau réel, s’entraîner à tirer.
 - **Les amerrissages.** Ils sont rares mais très graves : 11 déclarations en deux ans, dont 3 décès. *Menaces* : lac ou rivière sur la trajectoire, atterrissage en bord d’eau, vent qui pousse vers l’eau, dynamique qui faiblit sans atterrissage. *Erreurs* : mauvaise gestion du plan de vol ou du plan d’approche, sous-estimation du danger de l’eau. *État indésirable* : pilote à l’eau, attaché à sa sellette, sous la voile et les suspentes. *Parades* : gilet de sauvetage autogonflant et coupe-suspente accessible, savoir se détacher vite, formation spécifique, sécurité bateau envisageable.
 - **Les oublis d’accroche.** Ils sont très peu déclarés (3 en deux ans, dont un décès), probablement parce qu’ils sont souvent rattrapés de justesse ou jamais racontés. *Menaces* : interruption pendant la préparation, décollage chargé, fatigue. *Erreurs* : cuissardes ou ventrale non fermées, mousqueton mal verrouillé. *État indésirable* : pilote en l’air qui n’est plus tenu par sa sellette. *Parades* : visite prévol systématique et toujours dans le même ordre, sellettes qui empêchent de décoller sans être attaché, contrôle croisé entre pilotes.
 
 
-#### Des traces GPS plus précises : vers un IGC2
+### Des traces GPS plus précises : vers un IGC2
 
 Nos instruments enregistrent presque tous nos vols. Ces traces sont souvent la seule source objective dont dispose un enquêteur après un accident. Pourtant, le format IGC, devenu le standard du vol libre, a été pensé pour une position par seconde au mieux. C’est l’intervalle exigé en championnat du monde, et même le mode « rapide » déclenché par le pilote (*Pilot Event*) se contente d’un point par seconde pendant 30 secondes. La spécification permet bien d’ajouter des dixièmes de seconde, mais seulement en option[^c-igc]. Et dans la pratique, beaucoup d’appareils enregistrent encore moins souvent : les instruments FLARM, par exemple, sont réglés par défaut sur un point toutes les deux à quatre secondes[^c-flarm]. Techniquement, nos GPS et nos variomètres savent faire beaucoup mieux. Mais une seconde, c’est bien trop long pour comprendre finement un incident ou un accident. Une fermeture, une abattée, une collision ou une chute se jouent souvent en moins de temps que cela.
 
@@ -47,11 +42,11 @@ Sans aller jusqu’à s'équiper d’une mini boîte noire, nous pourrions nous 
 
 [^c-ffvl-export-tem]:  Exports des déclarations d’accidents FFVL 2024 et 2025, comptages réalisés par l’auteur sur les déclarations, toutes pratiques confondues (1 350 en parapente, 49 en deltaplane).
 
-### Mieux informer
+## Mieux informer
 
 Une bonne part de nos accidents commence par une information qui n’a pas circulé. Partager ce que l’on observe, en l’air comme au sol, ne coûte presque rien à la liberté du pilote.
 
-#### Une échelle de Beaufort pour le vol libre
+### Une échelle de Beaufort pour le vol libre
 
 À propos de pouvoir communiquer efficacement au sujet d’un danger avéré en l’air, il est amusant de constater qu’après 40 ans d’existence, nous n’avons toujours pas d’échelle commune pour parler des conditions rencontrées dans le ciel. Comment j’avertis mes collègues au sol de ce que je vis en ce moment même en l’air ? Comment je parle des conditions ici alors qu’ils sont encore une transition derrière moi ?
 
@@ -78,7 +73,7 @@ T : Le niveau de turbulence maximal rencontré sur une échelle de 0 à 3\.
 Ce référentiel de l’air n’est pas parfait et j’engage la communauté à en construire un meilleur. Il mélange des observations objectives avec des ressentis et évidemment une forme de compétence personnelle. Ce qui est sévère pour l’un peut être seulement turbulent pour un autre. Toutefois, en l’absence d’une autre grille de lecture, si j’entends demain un pilote annoncer un WAT : W30, A5, T3, cela m’aidera à rester au sol. Je sais très bien ce que cela représente et je n’ai plus envie de cela en ce moment.  
 C’est en tout cas une indication plus précise que d’entendre dire « c’est un peu fort mais ça le fait » ou « Y’a du plus huit » alors que le vario est encore réglé en instantané. Une anecdote célèbre à ce sujet : je me souviens d’une situation de compétition à Mévouillon du temps où j’étais coach au pôle Espoirs vol libre. Le décollage passe sous le vent du nord alors que nous décollons en face sud et le directeur d’épreuve demande aux pauvres bougres qui sortent dans les basses couches comment sont les conditions. Un pilote répond : « Ça tabasse à mort ». Silence, puis à nouveau il reprend : « À MORT \! » en insistant bien. Et juste après il ajoute : « Niveau 2 ». Juste comme ça. C’est devenu une blague à l'intérieur du pôle parce que l'expression « Niveau 2 » n’est pas du tout adaptée au discours précédent. Annoncer « Niveau 2 » est censé indiquer des conditions devenant fortes ou dangereuses, pas une lutte pour sa survie.
 
-#### Une échelle d’expérience personnalisée en vol \- Le niveau référé
+### Une échelle d’expérience personnalisée en vol \- Le niveau référé
 
 À l’inverse du WAT qui a l’ambition d’être une grille de lecture semi-objective sur les conditions de l’air, il peut s’avérer utile de partager des sensations subjectives, contextualisées et référées à une expérience personnelle. Sur une échelle de 0 à 10 : 0 étant le vol le plus calme et 10 le plus terrible vol jamais réalisé personnellement, à quel niveau je me situe en ce moment ? 
 
@@ -88,25 +83,25 @@ Comparer ce niveau à quelqu’un qui a à peu près la même expérience permet
 
 À ce jour, cette séance représente toujours mon niveau 10\. Une horreur. À quelle échelle était-il lui-même ? Je dirais 10 aussi sans hésiter, mais l’encadrement, la jeunesse et le reste font qu’il ne l’a pas vécu comme ça. Dans ce cas, c’est important de revenir dessus et de ne pas minimiser, banaliser ou déréaliser ce qui s’est passé parce qu’il existe une limite. Et ce jour-là, elle était proche.
 
-#### Réseau de balises aérologiques
+### Réseau de balises aérologiques
 
 Nous devrions aussi accentuer les efforts sur les réseaux de balises aérologiques. Cet aspect est relativement bien traité dans l’ensemble en France et autour de l’arc alpin. Les projets SPOTAIR et BURNAIR sont à ce titre des exemples remarquables. Ils sont d’une importance capitale en matière de sécurité et nous devons baliser allègrement les secteurs de pratique avec une maille fine. L’enjeu est à la fois d’analyser des données aérologiques a posteriori et de prévenir l’état des conditions en temps réel. 
 
-#### Des BMS \- Bulletin Météo de Sécurité
+### Des BMS \- Bulletin Météo de Sécurité
 
 En mer, lorsque la prévision de Météo-France dépasse force 6 sur l’échelle de Beaufort, un Bulletin Météo de Sécurité (BMS) est affiché dans toutes les capitaineries, signalé sur tous les phares et diffusé sur le canal 16 de la VHF. C’est difficile de rater l’information au sujet de mauvaises conditions de navigation. Les plaisanciers, à une écrasante majorité, restent au port ou bien à l’abri au mouillage. Ceux qui prennent la mer sont surtout des professionnels, des marins émérites ou des sportifs avertis. Nous avons très souvent connaissance de conditions WAT incompatibles avec le vol libre mais nous n’en parlons pas beaucoup. Affichons des bulletins dans nos écoles, diffusons automatiquement les messages par radio. Informons ceux que nous voyons monter au décollage alors que les radars montrent déjà l’orage et la pluie dans la vallée d’à côté. Chaque action en faveur du partage d’information est vecteur de responsabilisation. Nous pourrions commencer par relayer les alertes orange et orages de Météo-France.
 
-### Équiper et former
+## Équiper et former
 
 Viennent ensuite les sites, le matériel et ce que le pilote emporte et apprend, selon la pratique qu’il a choisie.
 
-#### L’équipement des terrains de pratique 
+### L’équipement des terrains de pratique 
 
 L’équipement des sites de vol est un sujet sérieux, y compris en matière de sécurité. Bien évidemment des milliers de sites sont absolument sauvages. Non conventionnés, leur utilisation n’offre rien d’autre qu’un espace merveilleux en nature pour déployer une voile et s’envoler. Mais s’agissant de sites conventionnés, c’est-à-dire ceux pour lesquels il existe une forme d’accord avec les propriétaires, sur lesquels la fréquentation est plus importante et a fortiori ceux accueillant des professionnels, nous pouvons optimiser notre organisation et notre entraide.
 
 Des exemples de questions à se poser en fonction de la fréquentation peuvent être : quel est l’espace destiné à la prévol ? Y a-t-il un portique disponible pour régler un éventuel nouveau matériel ? Quelles sont les possibilités concrètes de redescente en cas de renoncement ? La signalisation des procédures de décollage et d'atterrissage est-elle claire ? Les espaces aériens à proximité sont-ils identifiés ? Sur les sites de bord de mer ou au-dessus d’un lac, le risque d’amerrissage devrait être explicitement mentionné et évalué : direction du vent par rapport au rivage, distance à l’eau, présence ou non d’une surveillance, possibilité d’être récupéré rapidement. En 2024 et 2025, 11 amerrissages ont été déclarés à la FFVL, dont 3 mortels, répartis dans 7 départements, dont 5 en Haute-Savoie[^c-ffvl-amerrissage]. Avoir une forme de labellisation des sites (ex : « Stade de Vol Libre » / « Grand Site de Vol Libre ») et de standard à atteindre en fonction d’une fréquentation avérée ou au prorata d’un nombre de professionnels donnerait de bons repères.
 
-#### Matériel et équipement individuel de protection (EPI)
+### Matériel et équipement individuel de protection (EPI)
 
 Aussi absurde que cela puisse paraître, la couleur de la voile a un impact sur la visibilité d’un potentiel accident comme sur l’efficacité d’éventuelles opérations de recherche. Le bleu (ciel), le blanc (neige), le vert (forêt), le beige (terre), le noir (roche) sont des couleurs qui se confondent facilement avec l’environnement. Les couleurs vives avec les dérivés du rouge et du jaune fonctionnent mieux dans la plupart des terrains. Avant de réduire béatement cet argument systémique (« ah ben y a qu’à acheter une voile rouge »), cela vaut le coup de noter que même sur des terrains particulièrement bien pourvus en matière de secours héliportés comme les Pyrénées ou les Hautes-Alpes, des parapentistes sont parfois recherchés pendant des semaines.
 
@@ -143,7 +138,7 @@ Rien de tout cela ne retire leur valeur aux tests. Ils restent une plaque essent
 - Encourager les contrôles réguliers du matériel et en rappeler l’échéance.
 - Faire remonter les défauts de fabrication dans la même base que les accidents.
 
-#### Un équipement de sécurité adapté à chaque pratique
+### Un équipement de sécurité adapté à chaque pratique
 
 Les EPI ne s’arrêtent pas à la voile et à la sellette. Une fois en l’air, le pilote est seul, et ce qu’il a emporté décide souvent de l’issue d’un incident. La plupart de ces objets ne serviront peut-être jamais. Mais le jour où l’on en a besoin, il n’est plus temps d’aller les chercher.
 
@@ -184,7 +179,7 @@ Je propose une liste d'équipement pas tout à fait farfelue mais qui reste fict
 - un coupe-suspente : ici aussi, pouvoir dégager une suspente est primordial ;
 - un second parachute de secours : en voltige, on tire plus souvent, et dans des conditions parfois difficiles. Emportons un backup.
 
-#### Être vu : la visibilité électronique entre aéronefs
+### Être vu : la visibilité électronique entre aéronefs
 
 Au cas général, tant que nous tournons près du sol au-dessus de notre site, nous partageons le ciel surtout entre nous. Dès que nous partons en cross, nous entrons dans un espace que d’autres utilisent aussi : planeurs, ULM, avions de tourisme, hélicoptères de secours ou militaires en vol à basse altitude. Leur vitesse n’a rien à voir avec la nôtre. Un planeur qui spirale à 120 km/h, un hélicoptère qui remonte une vallée : à ces vitesses, le principe « voir et éviter » qui fonde nos règles du vol à vue ne laisse que quelques secondes. Et une voile vue de face, sur un fond de montagne, est l’une des choses les plus difficiles à repérer dans le ciel.
 
@@ -194,7 +189,7 @@ Le problème est que ces systèmes ne se parlent pas toujours entre eux. Un appa
 
 C’est donc un chantier collectif plus qu’individuel. Il faudrait que les fédérations, les fabricants d’instruments et les autres usagers de l’espace aérien s’accordent sur un standard commun, ou au moins sur des passerelles entre les standards existants. Il faudrait aussi recommander clairement, dès le brevet de pilote, qu’un pilote qui part en cross emporte un dispositif de visibilité électronique, au même titre que son traqueur.
 
-#### Des formations adaptées à l’environnement de pratique
+### Des formations adaptées à l’environnement de pratique
 
 La même logique vaut pour la formation. Nous formons « le pilote » comme s’il n’existait qu’une seule pratique, alors que les savoirs indispensables changent avec l’environnement. Le pilote qui part en cross en autonomie traverse des espaces aériens, croise d’autres aéronefs et peut avoir besoin d’appeler à l’aide loin de tout. Pour lui, une vraie connaissance des espaces aériens paraît incontournable, tout comme l’usage de la radio. Pour le pilote qui fait du soaring en bord de mer ou qui vole en local, à finesse d’un atterrissage, c’est beaucoup moins le cas, voire pas du tout. En revanche, en bord de mer, il faut savoir préparer un amerrissage et pouvoir sortir rapidement de son équipement une fois dans l’eau.
 
@@ -203,7 +198,7 @@ Plutôt que d’imposer à tous un bagage unique, souvent trop lourd pour les un
 Le parcours de formation peut donc être revu en fonction du type de pratique visé et du niveau d’autonomie recherché. En mer, le permis côtier n’est pas la même formation que le permis hauturier. Savoir opérer un dispositif de secours, se sécuriser dans un arbre, s’extraire de l’eau : ces compétences ne servent pas partout de la même façon. Aujourd’hui, la suite brevet initial, brevet de pilote, brevet de pilote confirmé est sans doute trop généraliste. Je peux être confirmé en soaring de bord de mer sans l’être en vol de montagne, et d’ailleurs inversement. Il ne s’agit pas de multiplier les brevets : on peut garder les niveaux et les couleurs existants. Mais la formation peut évoluer vers davantage de modularité et d’individualisation. 
 
 
-#### Une charte plutôt qu’une obligation
+### Une charte plutôt qu’une obligation
 
 
 En matière de vol libre, ni l'armement par pratique ni les formations adaptées n’ont vocation à devenir des obligations. L’idée n’est pas de contraindre, mais de les inscrire dans une charte fédérale. Une charte est une convention collective : celle d'adhérents qui partagent une vision de ce que doit être l’activité et de la manière d’y accéder. Chacun reste libre de s’en affranchir, mais son usage donne le cadre et le sens commun. Le pilote qui part en cross sans traqueur ni connaissance de la réglementation ne commet aucune infraction tant qu'il ne pénètre pas effectivement dans un espace aérien contrôlé. Il sait simplement qu’il s’écarte de ce que la communauté considère comme une pratique raisonnable et que si ça passait vraiment très mal, ce serait alors plus difficile pour lui de plaider l'ignorance.
@@ -213,15 +208,15 @@ Enfreindre la charte n’expose à aucune sanction. Faut-il pour autant la croir
 Une charte a un autre avantage sur la réglementation : elle peut évoluer vite. Elle suit l’activité, les publics et les connaissances que nous accumulons sur nos disciplines, sans attendre une réforme. C’est sans doute la forme la plus fidèle à l’esprit du vol libre : un engagement partagé plutôt qu’une règle imposée, qui préserve la liberté du pilote tout en lui disant clairement ce que nous savons.
 
 
-### Veiller, alerter, secourir
+## Veiller, alerter, secourir
 
 Quand l’accident arrive malgré tout, tout se joue dans les minutes qui suivent : savoir qu’il a eu lieu, donner l’alerte, porter secours. 
 
-#### Intégrer les balises à la VHF (Very High Frequency)
+### Intégrer les balises à la VHF (Very High Frequency)
 
 Aujourd’hui, le réseau de balises aérologiques n’est intégré de façon optimale ni dans l’utilisation VHF, ni dans nos instruments de vol. Cette source se doit d’être disponible en temps réel et accessible sans effort en l’air. Certains secteurs bénéficieraient aussi avec bonheur d’un dispositif de répétiteurs radio VHF. Dans de nombreuses situations, ils permettent de surpasser les traditionnelles difficultés liées à la portée de nos faibles puissances d’émission et trop courtes antennes en terrain montagneux. D’ailleurs, en parlant de VHF…
 
-#### Mieux utiliser la VHF
+### Mieux utiliser la VHF
 
 La radio en vol libre n’a pas très bonne presse. Elle est vue comme un outil traditionnel rudimentaire et nombreux sont ceux qui souhaiteraient la faire évoluer en faveur d’un dispositif plus moderne de type Zello ou même GSM. La tendance dans certaines écoles est à la simplification avec de basiques talkies-walkies de surveillance. La VHF est clairement sous-utilisée et sous-estimée. La plupart des libéristes ne connaissent pas grand-chose à l’outil : changer les fréquences, régler à peu près le squelch et le pas, verrouiller les touches et voilà \!
 
@@ -237,7 +232,7 @@ Nous entretenons une fameuse croyance selon laquelle la VHF passe mal. « À cau
 
 Si l’on s'intéresse à la radio d’un élève, généralement le TOT (Time-Out Timer) n’est pas réglé, le squelch l’est à peine, personne n’utilise de masque ou de sous-groupe codé pour parer les interférences qui surviendraient depuis la fréquence principale alors qu’on la sait pertinemment ouverte aux quatre vents. Les détails et *tips* inhérents à l’utilisation de cet outil indispensable à la pratique sont absents des contenus de formation. Les libéristes n’aiment pas la VHF parce qu’ils ne la connaissent pas et qu’ils l’utilisent mal. Pendant ce temps le canal 16 et la fréquence 121,500 sauvent des vies quotidiennement.
 
-#### Obligation de veille. Obligation d’assistance
+### Obligation de veille. Obligation d’assistance
 
 Je ne mets plus de baskets en toile pour aller voler, il y a longtemps que je leur préfère les chaussures de type trail. Je n’ai pas commencé à les porter pour ma propre sécurité. Je l’ai fait pour pouvoir rester utile au cas où. Je me suis retrouvé plusieurs fois à secourir des proches accidentés sur des terrains pentus, glissants ou dans les arbres. J’ai également connu quelques mauvaises expériences car sans le matériel adéquat (téléphone, chaussures, radio, batterie…) ni le bon entraînement (premiers secours, entraînement physique, nœuds…), tu deviens potentiellement inutile pour tes collègues de vol. Depuis le début, j’ai bien compris que ce sport pouvait m’enlever un copain de temps en temps et je l’ai accepté. Ce n’est pas pour autant que je vais accepter de vivre avec un regret ou une négligence. Je veux garder cette force et faire mon possible. Je ne vais pas sortir faire la fête la veille d’un vol. Je le ferai un soir où ça ne volera pas le lendemain. Je charge les radios, les accus et le bonhomme… On sait ce que représente notre activité. « À grand pouvoir, grandes responsabilités », disait W. Churchill (ou Spider-Man, c’est selon). Faisons ce qu’il faut, a fortiori quand on est coach et / ou professionnel.
 
@@ -253,7 +248,7 @@ L’obligation de veille et d’assistance en mer consiste à s’engager à éc
 
 Pour autant, comment ne pas être séduit par l’idée d’une communauté engagée dans sa propre veille et assistance face au risque et au péril de sa passion commune ? Les marins, mais aussi les montagnards essayent parfois d’aller chercher leurs amis infortunés, coincés, mal en point au péril même de leur vie \! Je veux croire que notre communauté est faite du même bois. J’ai été amené à enquêter sur des accidents mortels où un pilote se crashe et reste seul au sol pendant des heures alors que ses potes lui passent au-dessus dans le thermique 10 minutes plus tard. Ce n’est pas une exception, je parle d’un scénario récurrent, plusieurs fois documenté. La plupart du temps, vu du ciel, le repérage est difficile. Distinguer une voile sans couleur vive au beau milieu de la montagne est un exercice délicat même pour un pilote d’hélicoptère ou un secouriste expérimenté. Et croyez-le ou non, dans certains cas, même en ayant pourtant approximativement les bonnes coordonnées \! Si les pilotes de vol libre ne s'arrêtent pas pour aider leurs copains tombés, ce n’est pas par égoïsme ou individualisme. Ils ne les voient parfois pas et ils présument qu’en l’absence de preuve visuelle d’un incident alors tout va bien. Après coup, 100 % des copains sont choqués et s’en veulent d’avoir manqué la bonne information. On se rassure presque à chaque fois en se disant que cela n’aurait rien changé, que l’impact ou l’accident était trop lourd, que la victime est morte sur le coup. C’est vrai la plupart du temps et néanmoins sur la totalité des occurrences, ce n’est pas toujours exact. Ça soulage de le penser, de le dire et ça déculpabilise tout le monde. Rien ne ramènera nos amis tombés. En vérité, ce qui cloche, c’est que nous sommes au XXIe siècle mais nous volons toujours sans protocole radio défini et sans aucun système de détresse automatique.
 
-#### Des secours bénévoles
+### Des secours bénévoles
 
 Autre emprunt au monde nautique \! Si ce sont des personnels civils et militaires qui coordonnent le dispositif de secours via les CROSS, ils mobilisent sur le plan opérationnel une véritable armée de bénévoles appartenant à la Société Nationale de Sauvetage en Mer. Cette dernière dispose en France de plus de 200 stations de sauvetage. À défaut d’une telle organisation visant à surveiller l’ensemble d’un littoral, je crois que nous pourrions quand même auto-organiser quelques tours de garde dans nos grands bassins de pratique de loisir.  
    
