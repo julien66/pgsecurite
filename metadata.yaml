@@ -19,6 +19,7 @@ header-includes:
   - |
     ```{=latex}
     \usepackage{graphicx}
+    \setlength{\emergencystretch}{3em}
     \usepackage{fancyhdr}
     \pagestyle{fancy}
     \fancyhf{}
