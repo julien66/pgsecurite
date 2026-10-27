@@ -12,7 +12,7 @@ GOATCOUNTER ?=
 
 LIMINAIRE := liminaire/colophon.md
 CHAPITRES := $(sort $(wildcard chapitres/*.md))
-FIN       := liminaire/remerciements.md
+FIN       := liminaire/glossaire.md liminaire/remerciements.md
 PANDOC    := pandoc
 OPTIONS   := -f markdown+autolink_bare_uris metadata.yaml $(LIMINAIRE) $(CHAPITRES) $(FIN) --resource-path=chapitres --top-level-division=chapter
 
