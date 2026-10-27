@@ -14,7 +14,7 @@ LIMINAIRE := liminaire/colophon.md
 CHAPITRES := $(sort $(wildcard chapitres/*.md))
 FIN       := liminaire/remerciements.md
 PANDOC    := pandoc
-OPTIONS   := metadata.yaml $(LIMINAIRE) $(CHAPITRES) $(FIN) --resource-path=chapitres --top-level-division=chapter
+OPTIONS   := -f markdown+autolink_bare_uris metadata.yaml $(LIMINAIRE) $(CHAPITRES) $(FIN) --resource-path=chapitres --top-level-division=chapter
 
 all: pdf epub html
 
