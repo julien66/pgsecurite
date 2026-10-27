@@ -1,6 +1,6 @@
 ## Mythe \#2
 
-Les accidents sont dus à des erreurs humaines.
+Les accidents sont dus à des erreurs humaines.[^c-mythe2-ex]
 
 ### Un biais rétrospectif
 
@@ -144,7 +144,7 @@ Je veux préciser que je suis tombé comme d’autres dans ce travers et dans ce
 
 Il faut aller plus loin, car même le travail sur les facteurs humains a été détourné de sa nature. À l’origine, les facteurs humains sont une discipline d’ingénieurs et d’ergonomes. Juste après la Seconde Guerre mondiale, Paul Fitts et Richard Jones étudient des centaines d’« erreurs de pilotage » dans l’US Air Force. Leur conclusion est restée célèbre : la plupart de ces erreurs s’expliquent par la conception des commandes et des instruments, et c’est le cockpit qu’il faut corriger, pas le pilote[^c-fitts]. Toute la discipline est née de ce renversement : connaître les limites de l’humain pour lui construire un système qui les tolère.
 
-En parapente, nous avons gardé les mots et inversé le sens. Les facteurs humains sont devenus un catalogue de biais et de pièges mentaux : la pression de l’objectif, l’excès de confiance, l’effet de groupe, la fatigue, la lecture sélective de la météo. Ce travail est précieux pour se connaître, et il a fait progresser la formation. Mais dans le débriefing d’un accident, il sert le plus souvent à une seule chose : expliquer ce que la victime aurait dû voir en elle-même. Le pilote n’est plus seulement coupable de son erreur, il est aussi coupable de ne pas avoir su déjouer ses propres biais. La connaissance qui devait le protéger sert désormais à l’accabler.
+En parapente, nous avons gardé les mots et inversé le sens. Les facteurs humains sont devenus un catalogue de biais et de pièges mentaux : la pression de l’objectif, l’excès de confiance, l’effet de groupe, la fatigue, la lecture sélective de la météo. Ce travail est précieux pour se connaître, et il a fait progresser la formation. Mais dans le débriefing d’un accident, il sert le plus souvent à une seule chose : expliquer ce que la victime aurait dû voir en elle-même[^c-france3]. Le pilote n’est plus seulement coupable de son erreur, il est aussi coupable de ne pas avoir su déjouer ses propres biais. La connaissance qui devait le protéger sert désormais à l’accabler.
 
 
 Il ne s’agit pas d’une dérive marginale : c’est la doctrine écrite noir sur blanc dans notre ouvrage de référence. Le chapitre « Facteur humain et sécurité » du *Manuel du vol libre* de la FFVL, dans son édition de 2005, s’ouvre sur ce « premier constat » : « la responsabilité du pilote est quasi systématiquement en cause ». Même la collision n’y échappe pas : si l’un des deux pilotes est fautif, « l’autre pilote, s’il surveille de part et d’autre de sa trajectoire, doit pouvoir l’éviter ». Le « deuxième constat » range « fatigue, stress et comportement » parmi les premières causes, et le texte précise que « les accidents arrivent la plupart du temps au pilote dont les réactions sont inadaptées ou absentes »[^c-manuel-fh]. Quelques pages plus loin, les facteurs humains deviennent une liste de défauts de caractère, de ce qu’il ne faut pas être au sol : « trop pressé », « trop sûr de soi, prétentieux ou m’as-tu-vu », « trop têtu », « trop fier », « trop distrait », « trop égoïste »[^c-manuel-comportements]. Le facteur humain n’y est plus une donnée dont le système doit tenir compte, mais un vice que chaque pilote doit corriger en lui-même.
@@ -199,3 +199,7 @@ Avant d’aller plus loin dans l’étude des croyances et de l’imaginaire de 
 [^c-manuel-comportements]: Ibid., « Comportements dangereux », p. 218.
 
 [^c-manuel-materiel]: Ibid., « Accidents “trop classiques” dûs au matériel », p. 220.
+
+[^c-mythe2-ex]: Par exemple, sur le site d’une structure commerciale, à propos des accidents de parapente : « Ces accidents sont majoritairement causés par de mauvaises manipulations de la voile » (Annecy Parapente, « Les fausses croyances autour du parapente », https://www.annecy-parapente.fr/fausses-croyances-parapente/, consulté en octobre 2026).
+
+[^c-france3]: Un exemple récent. Au lendemain d’un accident mortel près de la dune du Pilat, le 15 mai 2026, un article titre « Vent, affluence, excès de confiance : comment éviter les pièges du parapente, ce sport en plein essor ». Le moniteur interrogé prévient qu’« il ne faut surtout pas tirer de conclusions tant qu’on ne connaît pas les circonstances exactes ». Pourtant, la suite de l’article décline les pièges du pilote : « À force de confort, certains pilotes prennent progressivement moins de marges », ou encore des pilotes qui reprennent « avec un niveau technique diminué ou une confiance excessive ». France 3 Régions, 16 mai 2026 : https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/arcachon/vent-affluence-exces-de-confiance-comment-eviter-les-pieges-du-parapente-ce-sport-en-plein-essor-3351841.html

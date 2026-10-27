@@ -1,6 +1,6 @@
 ## Mythe \#1
 
-Le parapente n’est pas un sport très risqué. On peut pratiquer en toute sécurité dès lors que l’on respecte scrupuleusement un cadre et que l’on connaît ses propres limites et son environnement. 
+Le parapente n’est pas un sport très risqué. On peut pratiquer en toute sécurité dès lors que l’on respecte scrupuleusement un cadre et que l’on connaît ses propres limites et son environnement.[^c-mythe1-ex] 
 
 ### Une pensée séduisante
 
@@ -98,3 +98,5 @@ Notre accidentalité ne saurait être jugée que par nous-mêmes, membres de la 
 [^c-maurer]: Christian « Chrigel » Maurer, invité du podcast *Cloudbase Mayhem* de Gavin McClurg, épisode 257, à 16 min 41, https://open.spotify.com/episode/0g9dHicUNTFnDYThVz2vDk, 13 octobre 2025. Citation d’origine : « I think it starts quite early in the flight school. In a flight you get the feeling quite early paragliding is the safest sport in the world and it's not true, because after 2 seconds, you're quite high and it can be dangerous. » Un peu plus loin : « you learn to fly with the wrong mindset ». Traduction de l’auteur.
 
 [^c-xalps]: Red Bull X-Alps, course de vol et de marche à travers les Alpes, créée en 2003 : https://www.redbullxalps.com
+
+[^c-mythe1-ex]: On le lit en toutes lettres sur le site d’une structure commerciale : « Le parapente n’est absolument pas une pratique dangereuse ! » (Flying Puy de Dôme, « Le parapente est il dangereux ? », https://www.flying-puydedome.fr/blog/le-parapente-est-il-dangereux, consulté en octobre 2026).
