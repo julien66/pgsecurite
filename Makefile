@@ -14,7 +14,7 @@ LIMINAIRE := liminaire/colophon.md
 CHAPITRES := $(sort $(wildcard chapitres/*.md))
 FIN       := liminaire/glossaire.md liminaire/remerciements.md
 PANDOC    := pandoc
-OPTIONS   := -f markdown+autolink_bare_uris metadata.yaml $(LIMINAIRE) $(CHAPITRES) $(FIN) --resource-path=chapitres --top-level-division=chapter
+OPTIONS   := -f markdown+autolink_bare_uris --toc metadata.yaml $(LIMINAIRE) $(CHAPITRES) $(FIN) --resource-path=chapitres --top-level-division=chapter
 
 all: pdf epub html
 
@@ -35,7 +35,7 @@ epub: couverture
 	$(PANDOC) $(OPTIONS) --split-level=1 --epub-cover-image=build/couverture.png -o build/livre.epub
 
 html: build
-	$(PANDOC) $(OPTIONS) --standalone --embed-resources -o build/livre.html
+	$(PANDOC) $(OPTIONS) --standalone --embed-resources --toc-depth=3 -o build/livre.html
 
 site: all
 	rm -rf build/site
