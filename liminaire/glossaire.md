@@ -68,6 +68,9 @@ FAI
 FANET
 :   *Flying Ad-hoc Network*. Protocole ouvert de partage de position entre aéronefs. Les instruments « FANET+ » le combinent avec FLARM.
 
+FASST-CH
+:   *Future Aviation Surveillance Services and Technologies in Switzerland*. Plan suisse pour la visibilité électronique des aéronefs, dont l'ADS-L.
+
 FFVL
 :   Fédération française de vol libre.
 
@@ -121,6 +124,9 @@ PWCA
 
 RETEX
 :   Retour d'expérience.
+
+SGS
+:   Système général de sécurité de la FFVL.
 
 SIGMET
 :   *Significant Meteorological Information*. Alerte météo destinée à l'aviation.
