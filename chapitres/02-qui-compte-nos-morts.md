@@ -35,6 +35,8 @@ Ces déclarations disent plusieurs choses.
 
 À ce stade, l'impact individuel et social (sans mauvais jeu de mots) n'est pas complètement négligeable. Il devrait interroger en priorité les victimes de ces accidents et la communauté libériste dans son ensemble. À cet effet, j'ai essayé de traduire ces chiffres autrement. Sur une année et en prenant une population de licenciés, on peine souvent à comprendre ce que les statistiques signifient. Alors essayons autrement.
 
+Je dois ici rendre à César ce qui lui appartient. Je me suis aperçu à la relecture que Jean-Marc Galan, de la cellule d’analyse de la FFVL, avait déjà mené ce raisonnement à l’échelle d’une carrière de pilote, dans une vidéo publiée en 2024[^c-galan-taux]. Je l’ai refait sans le savoir. Que nous arrivions chacun de notre côté à la même démonstration montre au moins une chose : elle n’a rien d’une lubie.
+
 ### Une carrière de pilote
 
 Rapportons ces chiffres au nombre de pratiquants. La FFVL comptait en 2024 14 989 pilotes de parapente pratiquants, hors stagiaires et primo-licenciés, et 15 486 en 2025[^c-ffvl-licences]. Ces mêmes années, les pilotes licenciés autonomes, c’est-à-dire hors école, biplace et stage SIV, ont déclaré 363 puis 365 accidents. Chaque année, environ 2,4 % des pilotes autonomes déclarent donc un accident, et environ 1 % est gravement blessé ou tué.
@@ -48,8 +50,6 @@ Ces pourcentages paraissent faibles. Toutefois... si ce risque restait constant 
 | Mort en parapente | environ 1 pilote sur 170 | environ 1 pilote sur 90 | environ 1 pilote sur 60 |
 
 Autrement dit, un pilote qui vole trente ans a plus d’une chance sur deux de déclarer au moins un accident, et une sur quatre d’être gravement blessé ou tué. Dans un club de cent pilotes fidèles, une vingtaine seront gravement blessés ou tués en vingt ans, et l’un d’eux y laissera probablement la vie.
-
-**[BROUILLON À RELIRE]** Je dois ici rendre à César ce qui lui appartient. Je me suis aperçu à la relecture que Jean-Marc Galan, de la cellule d’analyse de la FFVL, avait déjà mené ce raisonnement à l’échelle d’une carrière de pilote, dans une vidéo publiée en 2024[^c-galan-taux]. Je l’ai refait sans le savoir. Que nous arrivions chacun de notre côté à la même démonstration montre au moins une chose : elle n’a rien d’une lubie. **[FIN DU BROUILLON]**
 
 Ces chiffres sont prudents. Beaucoup d’accidents ne sont jamais déclarés : si un accident sur deux seulement l’était, près des deux tiers des pilotes en auraient au moins un en vingt ans. Le calcul suppose aussi un risque identique pour tous, alors qu’il varie probablement selon la pratique, l’expérience et l’engagement. À l’inverse, quelques accidents déclarés concernent des pilotes en première année, absents du nombre de pratiquants, ce qui majore légèrement le taux. Pour les décès, l’estimation repose sur une vingtaine de cas en deux ans : elle donne un ordre de grandeur, pas une mesure précise.
 
