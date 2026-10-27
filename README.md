@@ -52,3 +52,12 @@ Le livre est publié sous licence [Creative Commons BY-NC-ND 4.0](https://creati
 3. Dans **Settings > Secrets and variables > Actions > Variables**, créer la variable `PUBLIER_SITE` avec la valeur `true`.
 
 Le site sera alors publié à l'adresse `https://julien66.github.io/pgsecurite/`.
+
+## Mesure d'audience
+
+Le site peut compter ses visites, les lectures en ligne et les téléchargements du PDF et de l'EPUB avec [GoatCounter](https://www.goatcounter.com) : gratuit pour un usage non commercial, sans cookie et sans données personnelles, donc sans bandeau de consentement.
+
+1. Créer un compte sur goatcounter.com et choisir un code (par exemple `pgsecurite`, pour `https://pgsecurite.goatcounter.com`).
+2. Dans **Settings > Secrets and variables > Actions > Variables**, créer la variable `GOATCOUNTER` avec ce code.
+
+Les chiffres apparaissent ensuite sur le tableau de bord GoatCounter : les visites de la page d'accueil, et les clics « lecture-en-ligne », « telechargement-pdf » et « telechargement-epub ». Sans la variable, le site est publié sans aucune mesure.
