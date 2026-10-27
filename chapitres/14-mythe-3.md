@@ -22,4 +22,4 @@ L’industrie a un outil pour lire ce blocage : la courbe de Bradley, popularis�
 
 [^c-manuel-etre-pilote]: Pierre-Paul Ménégoz et Alain Jacques, *Le manuel du vol libre*, Fédération Française de Vol Libre, Éditions Rétine, 2005 (ISBN 2-9508644-6-5), introduction, encadré « Être pilote », p. 16. Citation tirée de l’édition de 2005 ; le manuel a été réédité depuis 2020.
 
-[^c-bradley]: Le modèle, attribué à un responsable de DuPont nommé Bradley, n’a pas fait l’objet d’une publication de référence. Présentation et critiques : « Bradley Curve: The 4 Safety Culture Stages Explained », HSE Blog, https://www.hseblog.com/bradley-curve/ [À VÉRIFIER : trouver une source primaire DuPont ou académique].
+[^c-bradley]: Le modèle, attribué à un responsable de DuPont nommé Bradley, n’a pas fait l’objet d’une publication de référence. Présentation et critiques : « Bradley Curve: The 4 Safety Culture Stages Explained », HSE Blog, https://www.hseblog.com/bradley-curve/.
