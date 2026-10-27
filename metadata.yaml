@@ -20,12 +20,12 @@ header-includes:
     ```{=latex}
     \usepackage{graphicx}
     \usepackage{fancyhdr}
-    \usepackage[fit]{truncate}
     \pagestyle{fancy}
     \fancyhf{}
+    \renewcommand{\chaptermark}[1]{\markboth{#1}{#1}}
     \renewcommand{\headrulewidth}{0pt}
-    \fancyhead[LE]{\small\thepage\hspace{1.5em}\itshape\truncate{0.8\headwidth}{\nouppercase{\leftmark}}}
-    \fancyhead[RO]{\small\itshape\truncate{0.8\headwidth}{\nouppercase{\rightmark}}\hspace{1.5em}\upshape\thepage}
+    \fancyhead[LE]{\small\thepage\hspace{1.5em}\itshape Sécurité en parapente}
+    \fancyhead[RO]{\small\itshape\nouppercase{\rightmark}\hspace{1.5em}\upshape\thepage}
     \AtBeginDocument{\newgeometry{margin=0pt}\thispagestyle{empty}%
       \noindent\includegraphics[width=\paperwidth,height=\paperheight]{build/couverture.pdf}%
       \restoregeometry\clearpage}
