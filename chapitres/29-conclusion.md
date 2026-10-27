@@ -4,21 +4,21 @@ Le parapente n’est pas un sport sûr à risque maîtrisable. C’est une activ
 
 ### Ce que nous croyons
 
-J’ai essayé de montrer d’où viennent nos croyances et pourquoi elles tiennent si bien. Elles tiennent en cinq phrases que chacun de nous a déjà prononcées ou entendues :
+J’ai essayé de montrer d’où viennent nos croyances et pourquoi elles tiennent si bien. Elles tiennent en cinq phrases que chacun de nous a déjà prononcées ou entendues :
 
-- « Le parapente n’est pas dangereux si l’on respecte un cadre et que l’on connaît ses limites. » (mythe \#1)
-- « Les accidents sont dus à des erreurs humaines. » (mythe \#2)
-- « Le seul acteur capable d’assurer ma sécurité, c’est moi. » (mythe \#3)
-- « Il n’y a pas de conditions trop fortes, seulement des pilotes pas assez bons. » (mythe \#4)
-- « De toute façon, si l’on protège les pilotes, ils prendront plus de risques. » (mythe \#5)
+- « Le parapente n’est pas dangereux si l’on respecte un cadre et que l’on connaît ses limites. » (mythe \#1)
+- « Les accidents sont dus à des erreurs humaines. » (mythe \#2)
+- « Le seul acteur capable d’assurer ma sécurité, c’est moi. » (mythe \#3)
+- « Il n’y a pas de conditions trop fortes, seulement des pilotes pas assez bons. » (mythe \#4)
+- « De toute façon, si l’on protège les pilotes, ils prendront plus de risques. » (mythe \#5)
 
-Ces croyances ont protégé une activité naissante, elles l’ont rendue crédible, elles l’ont fait grandir. Elles ne suffisent plus. Nous sommes plus nombreux, nos pratiques sont plus diverses, et nos accidents touchent désormais tous les profils, y compris les plus expérimentés et les plus encadrés. Ces croyances ont aussi un coût caché : elles transforment nos victimes en boucs émissaires, elles détournent les meilleurs outils de la sécurité (Reason, les facteurs humains, Wilde) pour ne rien changer, et elles nous empêchent de compter nos morts.
+Ces croyances ont protégé une activité naissante, elles l’ont rendue crédible, elles l’ont fait grandir. Elles ne suffisent plus. Nous sommes plus nombreux, nos pratiques sont plus diverses, et nos accidents touchent désormais tous les profils, y compris les plus expérimentés et les plus encadrés. Ces croyances ont aussi un coût caché : elles transforment nos victimes en boucs émissaires, elles détournent les meilleurs outils de la sécurité (Reason, les facteurs humains, Wilde) pour ne rien changer, et elles nous empêchent de compter nos morts.
 
 ### Ce que nous pourrions faire
 
-Le choix est devant nous. Nous pouvons rester petits et continuer comme avant. Ou nous pouvons devenir grands : dire honnêtement ce que nous faisons, accueillir nos accidents, construire collectivement les protections qui nous manquent, et distinguer ce qui relève du loisir commercial de ce qui relève de l’engagement personnel.
+Le choix est devant nous. Nous pouvons rester petits et continuer comme avant. Ou nous pouvons devenir grands : dire honnêtement ce que nous faisons, accueillir nos accidents, construire collectivement les protections qui nous manquent, et distinguer ce qui relève du loisir commercial de ce qui relève de l’engagement personnel.
 
-Les propositions de la seconde partie ne reposent pas sur une seule épaule. C’est même tout leur sens : la sécurité est une affaire collective. Voici, pour finir, qui pourrait faire quoi.
+Les propositions de la seconde partie ne reposent pas sur une seule épaule. C’est même tout leur sens : la sécurité est une affaire collective. Voici, pour finir, qui pourrait faire quoi.
 
 | Qui | Ce qui pourrait changer |
 | :---- | :---- |
