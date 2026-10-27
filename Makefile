@@ -5,6 +5,10 @@
 #   make couverture -> couverture et quatrième de couverture en PNG et PDF (nécessite rsvg-convert et python3)
 #   make site       -> build/site/ : page d'accueil, lecture en ligne, PDF et EPUB
 #   make            -> le PDF, l'EPUB et le HTML
+#
+# Mesure d'audience : `make site GOATCOUNTER=moncode` ajoute GoatCounter
+# (https://moncode.goatcounter.com) à la page d'accueil du site.
+GOATCOUNTER ?=
 
 LIMINAIRE := liminaire/colophon.md
 CHAPITRES := $(sort $(wildcard chapitres/*.md))
@@ -37,6 +41,9 @@ site: all
 	rm -rf build/site
 	mkdir -p build/site
 	cp site/index.html build/couverture.png build/livre.html build/livre.pdf build/livre.epub build/site/
+ifneq ($(GOATCOUNTER),)
+	sed -i 's|<!-- MESURE D.AUDIENCE[^>]*-->|<script data-goatcounter="https://$(GOATCOUNTER).goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>|' build/site/index.html
+endif
 
 clean:
 	rm -rf build

@@ -13,10 +13,10 @@ jobs:
       - uses: actions/checkout@v4
       - name: Compiler la couverture, le PDF, l'EPUB, le HTML et le site avec Pandoc
         run: |
-          docker run --rm -v "$PWD:/data" -w /data --entrypoint sh pandoc/extra:3.5 -c '
+          docker run --rm -e GOATCOUNTER="${{ vars.GOATCOUNTER }}" -v "$PWD:/data" -w /data --entrypoint sh pandoc/extra:3.5 -c '
             set -e
             apk add --no-cache make font-dejavu rsvg-convert python3
-            make site'
+            make site GOATCOUNTER="$GOATCOUNTER"'
       - uses: actions/upload-artifact@v4
         with:
           name: livre
