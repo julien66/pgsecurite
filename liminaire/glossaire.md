@@ -42,7 +42,7 @@ CROSS
 :   Centre régional opérationnel de surveillance et de sauvetage, qui coordonne les secours en mer.
 
 CUDOS
-:   Les quatre normes de la science selon Robert K. Merton : communalisme, universalisme, désintéressement et scepticisme organisé.
+:   Les quatre normes de la science selon Robert K. Merton : communalisme, universalisme, désintéressement et scepticisme organisé.
 
 DHV
 :   *Deutscher Hängegleiterverband*. Fédération allemande de vol libre.
@@ -66,7 +66,7 @@ FAI
 :   Fédération aéronautique internationale.
 
 FANET
-:   *Flying Ad-hoc Network*. Protocole ouvert de partage de position entre aéronefs. Les instruments « FANET+ » le combinent avec FLARM.
+:   *Flying Ad-hoc Network*. Protocole ouvert de partage de position entre aéronefs. Les instruments « FANET+ » le combinent avec FLARM.
 
 FASST-CH
 :   *Future Aviation Surveillance Services and Technologies in Switzerland*. Plan suisse pour la visibilité électronique des aéronefs, dont l'ADS-L.
