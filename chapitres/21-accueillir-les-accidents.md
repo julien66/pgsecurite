@@ -84,6 +84,8 @@ Ce qu’il faudrait, c’est une grille qui suive la logique de la TEM (voir «�
 
 Chaque institution devrait donc se doter d’un système de reporting et de RETEX (Retour d’Expérience). Il manque à la communauté une plateforme numérique strictement publique, gratuite et libre d’accès. Pratiquants, clubs, écoles, professionnels pourraient déclarer un accident et ses circonstances y compris lorsqu’ils ne sont pas directement concernés par le sinistre (en tant que témoin). Nous devons déculpabiliser nos victimes afin qu’elles acceptent de témoigner avec justesse sur ce qui leur est arrivé.
 
+**[BROUILLON À RELIRE]** La FFVL a déjà essayé. Vers 2012, elle a ouvert sur son site une « BDNA », une base de déclaration des « non-accidents ». Quatre ans plus tard, elle reconnaissait qu’elle « répond mal au besoin de retours d’expériences » et la remplaçait par un formulaire de déclaration d’incidents. Le même document admettait qu’« en l’absence de données fiables sur les heures de vol des pilotes », les données sur les brevets et les accidents étaient « difficiles à interpréter »[^c-ffvl-bdna]. L’intention était bonne. Il manquait ce qui fait vivre un RETEX : la confiance de ceux qui déclarent, la publication de ce qu’on en apprend, et des données d’activité pour rapporter les accidents à la pratique réelle. **[FIN DU BROUILLON]**
+
 Au niveau international, nous pourrions agir en harmonisant les données. Offrir une base à ceux qui n’en ont pas. Cartographier les accidents par gravité, les classer par « similarité » et tenter de régler par des méthodologies TEM (Threat and Error Management) les deux ou trois plus grandes familles de menaces ou « d’erreurs de pilote » du moment.
 
 ### Fatality List
@@ -111,3 +113,5 @@ Nous devons aider les victimes et leurs proches avec plus d’efficacité et d�
 [^c-ffvl-grille]:  Exports des déclarations d’accidents des licenciés FFVL pour 2024 et 2025, communiqués à l’auteur : rubriques « facteurs contributifs pilote » et « facteurs contributifs équipement ». Comptages de l’auteur (305 et 306 déclarations avec un facteur pilote, 25 et 22 avec un facteur équipement). Seuls des totaux anonymes sont cités.
 
 [^c-ffvl-rapport-enquete]:  FFVL, modèle de rapport « Rapport préliminaire – Enquête accident grave ou mortel » (partie 1 : rapport préliminaire ; partie 2 : rapport d’analyse), mise à jour du 10 décembre 2025, avertissement liminaire.
+
+[^c-ffvl-bdna]: FFVL, « Sécurité Parapente. Et si on parlait sécurité ? », diaporama de sensibilisation (fichier créé en janvier 2016) : https://federation.ffvl.fr/sites/ffvl.fr/files/ARTICLE_diaporama_securite.pdf
