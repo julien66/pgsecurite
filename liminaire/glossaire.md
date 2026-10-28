@@ -1,7 +1,5 @@
 # Glossaire {.unnumbered}
 
-**[BROUILLON À RELIRE]**
-
 ADS-B
 :   *Automatic Dependent Surveillance–Broadcast*. Système par lequel un aéronef diffuse sa position, utilisé par l'aviation commerciale et une grande partie de l'aviation générale.
 
@@ -167,4 +165,3 @@ WAT
 WG6
 :   *Working Group 6*. Groupe de travail du CEN chargé des normes des équipements de parapente.
 
-**[FIN DU BROUILLON]**
