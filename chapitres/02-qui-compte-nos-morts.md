@@ -35,7 +35,7 @@ Ces déclarations disent plusieurs choses.
 
 À ce stade, l'impact individuel et social (sans mauvais jeu de mots) n'est pas complètement négligeable. Il devrait interroger en priorité les victimes de ces accidents et la communauté libériste dans son ensemble. À cet effet, j'ai essayé de traduire ces chiffres autrement. Sur une année et en prenant une population de licenciés, on peine souvent à comprendre ce que les statistiques signifient. Alors essayons autrement.
 
-Je dois ici rendre à César ce qui lui appartient. Je me suis aperçu à la relecture que Jean-Marc Galan, de la cellule d’analyse de la FFVL, avait déjà mené ce raisonnement à l’échelle d’une carrière de pilote, dans une vidéo publiée en 2024[^c-galan-taux]. Je l’ai refait sans le savoir. Que nous arrivions chacun de notre côté à la même démonstration montre au moins une chose : elle n’a rien d’une lubie.
+Je dois ici rendre à César ce qui lui appartient. Je me suis aperçu à la relecture que Jean-Marc Galan, de la cellule d’analyse de la FFVL, avait déjà mené ce raisonnement à l’échelle d’une carrière de pilote, dans une vidéo publiée en 2024[^c-galan-taux]. Je l’ai refait sans le savoir. Que nous arrivions chacun de notre côté à la même démonstration montre au moins une chose : elle n’a rien d’une lubie.
 
 ### Une carrière de pilote
 
@@ -104,4 +104,4 @@ Je ne vais donc pas ouvrir ce livre par un tableau de chiffres définitifs, parc
 
 [^c-ehpu-aida]: EHPU, *MC Newsletter*, août 2023, p. 4-5 : « Many EHPU member associations contribute data to the EHPU accident database » (de nombreuses associations membres de l’EHPU alimentent la base de données d’accidents de l’EHPU). La nouvelle base « AIDA », développée par le DHV, devait remplacer l’ancienne fin 2023 : https://cdn.website-editor.net/4d68fef964ce41ccad089f5cfe00937d/files/uploaded/EHPU_MC_newsletter_August_2023.pdf
 
-[^c-galan-taux]: Jean-Marc Galan (cellule d’analyse du SGS de la FFVL), « Le vrai taux… », vidéo publiée par la chaîne Sécu Parapente, 13 novembre 2024 : https://www.youtube.com/watch?v=B15YAO2Kjcc
+[^c-galan-taux]: Jean-Marc Galan (cellule d’analyse du SGS de la FFVL), « Le vrai taux… », vidéo publiée par la chaîne Sécu Parapente, 13 novembre 2024 : https://www.youtube.com/watch?v=B15YAO2Kjcc

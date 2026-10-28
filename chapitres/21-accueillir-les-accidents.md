@@ -14,7 +14,7 @@ Une culture juste n’est pas une culture de l’impunité. Elle distingue l’e
 
 L’aviation civile en a tiré des dispositifs concrets. Aux États-Unis, l’ASRS de la NASA recueille depuis 1976 des comptes rendus d’incidents confidentiels envoyés volontairement par les pilotes[^c-asrs]. En Europe, le règlement (UE) n° 376/2014 organise le recueil des événements de sécurité et protège ceux qui les déclarent[^c-ue376]. Les pilotes de ligne racontent leurs erreurs parce qu’ils savent qu’ils ne seront pas sanctionnés pour cela.
 
-Chez nous, c’est l’inverse. Nous avons vu à quel point la victime devient un bouc émissaire (mythe \#2). Celui qui raconte son incident s’expose au jugement des copains, aux commentaires sur les réseaux sociaux et parfois à des conséquences juridiques ou assurantielles. Il est donc rationnel de se taire. Pour reprendre la courbe de Bradley (mythe \#3), une culture juste est le passage obligé vers le stade interdépendant : on ne peut pas veiller les uns sur les autres si l’on n’ose pas se dire ce qui nous est arrivé. 
+Chez nous, c’est l’inverse. Nous avons vu à quel point la victime devient un bouc émissaire (mythe \#2). Celui qui raconte son incident s’expose au jugement des copains, aux commentaires sur les réseaux sociaux et parfois à des conséquences juridiques ou assurantielles. Il est donc rationnel de se taire. Pour reprendre la courbe de Bradley (mythe \#3), une culture juste est le passage obligé vers le stade interdépendant : on ne peut pas veiller les uns sur les autres si l’on n’ose pas se dire ce qui nous est arrivé. 
 
 Promouvoir la culture juste en vol libre, ce serait :
 
@@ -114,4 +114,4 @@ Nous devons aider les victimes et leurs proches avec plus d’efficacité et d�
 
 [^c-ffvl-rapport-enquete]:  FFVL, modèle de rapport « Rapport préliminaire – Enquête accident grave ou mortel » (partie 1 : rapport préliminaire ; partie 2 : rapport d’analyse), mise à jour du 10 décembre 2025, avertissement liminaire.
 
-[^c-ffvl-bdna]: FFVL, « Sécurité Parapente. Et si on parlait sécurité ? », diaporama de sensibilisation (fichier créé en janvier 2016) : https://federation.ffvl.fr/sites/ffvl.fr/files/ARTICLE_diaporama_securite.pdf
+[^c-ffvl-bdna]: FFVL, « Sécurité Parapente. Et si on parlait sécurité ? », diaporama de sensibilisation (fichier créé en janvier 2016) : https://federation.ffvl.fr/sites/ffvl.fr/files/ARTICLE_diaporama_securite.pdf
