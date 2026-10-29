@@ -87,11 +87,11 @@ Ici je dois traiter de la partie immergée de l’iceberg et la raison pour laqu
 *![](../images/voyage-du-heros.png)*  
 *Infographie \- Les étapes du parcours du héros avec l’aimable autorisation de Florent Salem https\://www\.florentsalem.fr/concept-le-monomythe-de-campbell*
 
-Même si l’exactitude des analyses mythologiques de Campbell est très controversée, ce voyage a effectivement été repris par de nombreux auteurs et par l’industrie cinématographique à succès. Il est troublant de constater à quel point le voyage du héros ressemble comme deux gouttes d’eau à l’aventure entreprise par un parapentiste ; que ce soit au plan macroscopique (à l'échelle de sa carrière de libériste) ou à l’échelon microscopique (c'est-à-dire à chacun de ses vols).
+Les analyses de Campbell sont très discutées, mais son voyage a été repris par de nombreux auteurs et par tout le cinéma à succès. Et il ressemble comme deux gouttes d’eau à ce que vit un parapentiste, à l’échelle d’une carrière comme à l’échelle d’un seul vol.
 
-Le cycle séparation, initiation, retour est celui que nous expérimentons tous en allant voler et il est tout à fait propre aux sports à risque dans leur dimension incertaine et donc ordalique. Une hypothèse qui ne manquera pas d’être impopulaire dans notre communauté est que, par désir mimétique (de nouveau René Girard[^21]), les pilotes se fantasment en héros au travers de leur pratique personnelle. Je crois que les activités à risque sont le symbole dont use notre société pour fantasmer des héros[^22].
+Partir, être mis à l’épreuve, revenir : c’est ce que nous vivons chaque fois que nous allons voler, et c’est propre aux sports à risque, parce que l’issue est incertaine. Mon hypothèse ne va pas plaire : à force de voir des héros, nous avons voulu en devenir[^21]. Je crois que les sports à risque sont l’un des endroits où notre société rêve ses héros[^22].
 
-En clair, je dis qu'après des années de consommation de ce genre de scénarios « romano-héroïques », nous, pratiquants du parapente, avons éprouvé le besoin de nous projeter par mimétisme sur une histoire semblable. Devenir les héros de notre réalité[^23]. Par contre, c’est important de noter d’emblée que cette recherche n’est pas nécessairement narcissique. Les récompenses que nous venons chercher sont diversifiées et ont trait aux différentes logiques de liberté promises par notre activité. Nous l’avons vu, les facettes en sont multiples. Cela va de la recherche d’émancipation, de soif de connaissance, d’accès à la culture de l’air à des notions contemplatives, intérieures, esthétiques, en passant par la recherche d’adrénaline (dopamine), les besoins de maîtrise, d’appartenance ou aussi c’est vrai, le narcissisme entre autres… Aucun de ces objectifs n’exclut par ailleurs les autres et chacun nourrit une motivation singulière plus ou moins consciente et plus ou moins autodéterminée[^24].
+Après des années de films et de récits héroïques, nous, parapentistes, avons eu envie de vivre la même histoire. Devenir les héros de notre propre réalité[^23]. Ce n’est pas forcément du narcissisme. Ce que nous venons chercher en l’air est très varié : l’émancipation, la connaissance, la culture de l’air, la contemplation, l’esthétique, l’adrénaline, la maîtrise, l’appartenance, et oui, parfois aussi le narcissisme. Ces motivations se mélangent, et chacun a la sienne, plus ou moins consciente[^24].
 
 Toutefois, j’ai expliqué en amont à quel point la liberté du vol libre est en fait celle de la transgression et du rapport à la limite. Le fait de pouvoir trouver une distinction avec le commun de ses semblables ou par rapport à une ancienne version de soi-même. Revenir avec cette récompense suppose ici d’accomplir un cycle de voyage complet avec une mise à l’épreuve significative et incertaine. Soit le voyageur est effectivement l’élu et alors il trouvera en chemin et en lui des ressources pour passer l’épreuve, soit ce n’est pas le cas et donc il échouera. 
 
@@ -145,7 +145,7 @@ En Europe et notamment autour de l'arc alpin, la démocratisation et l'attractiv
 
 [^20]: Malcolm Gladwell en 2008 dans : « Outliers: The Story of Success ».
 
-[^21]: René Girard en 1961 : Mensonge romantique et vérité romanesque
+[^21]: C’est le désir mimétique décrit par René Girard. René Girard en 1961 : Mensonge romantique et vérité romanesque
 
 [^22]: Je paraphrase ici Michel Bernard, qui écrivait : « le corps est le symbole dont use une société pour parler de ses fantasmes ». Michel Bernard en 2000 : La chair et le verbe paru dans la revue Corps et Culture
 
