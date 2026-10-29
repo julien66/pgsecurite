@@ -4,7 +4,7 @@ Le parapente n’est pas un sport très risqué. On peut pratiquer en toute séc
 
 ### Une pensée séduisante
 
-Cette pensée comporte plusieurs avantages sur un plan analytique. Déjà elle responsabilise chaque pilote en tant qu’acteur de sa pratique et de sa sécurité. Elle invite à se connaître, à se former, à se renseigner sur son environnement, à accumuler de l’expérience et à évoluer dans un cadre et avec un matériel adéquat en rapport avec ses capacités. Adopter une stratégie personnelle de gestion des risques et s’y tenir permettrait donc de maîtriser son destin. Par conséquent, si tout le monde faisait vraiment attention, la communauté pourrait afficher une accidentalité quasiment nulle.
+Cette pensée comporte plusieurs avantages sur un plan analytique. Déjà, elle responsabilise chaque pilote en tant qu’acteur de sa pratique et de sa sécurité. Elle invite à se connaître, à se former, à se renseigner sur son environnement, à accumuler de l’expérience et à évoluer dans un cadre et avec un matériel adéquats en rapport avec ses capacités. Adopter une stratégie personnelle de gestion des risques et s’y tenir permettrait donc de maîtriser son destin. Par conséquent, si tout le monde faisait vraiment attention, la communauté pourrait afficher une accidentalité quasiment nulle.
 
 Cette conception proposant un parapente à risque maîtrisable (ou effectivement maîtrisé) permet aussi avantageusement de pouvoir démocratiser, assurer, rassurer et jusqu’à vendre très largement notre activité aérienne au plus grand nombre.
 
@@ -29,14 +29,14 @@ Je ne suis pas le seul à le penser. Christian « Chrigel » Maurer, le pilote
   « Bye bye le plancher des vaches. Je vais dans le ciel \! »  
     
 - Un voyage dans un milieu à incertitude ou générant de l’incertitude.  
-  Quand on dit : « Ça a l’air bon ». « Ça va le faire », cela signifie que ce n’est pas garanti. On pense que ce sera bon, la prévision et l'observation ne racontent qu’une partie de l’histoire.  
+  Quand on dit « Ça a l’air bon » ou « Ça va le faire », cela signifie que ce n’est pas garanti. On pense que ce sera bon, mais la prévision et l'observation ne racontent qu’une partie de l’histoire.  
     
 - Un jeu de vertige et d’aléa[^2]  
   Les pilotes vont en l’air pour jouer. Rares sont les pratiquants qui s’engagent pour respecter un cadre aéronautique, professionnel ou commercial strict.
 
 Si l’on ajoute l’aspect de confrontation (Agon \- faire la course avec des concurrents) ou un aspect de mimétisme (Mimicry \- imiter les autres) dans ce milieu aérien déjà très spécifique, il est difficile d’imaginer une activité où le risque de perdre la vie soit complètement absent. 
 
-Ce que l’on fait en vérité c'est une évolution dans un environnement partiellement illisible où le vertige, l’aléa et l’engagement sont inhérents à la logique interne du jeu. Le parapente n’est pas une activité fondamentalement « sûre » et c’est une liberté extraordinaire que de pouvoir l’assumer et de la pratiquer.
+Ce que l’on fait, en vérité, c’est une évolution dans un environnement partiellement illisible où le vertige, l’aléa et l’engagement sont inhérents à la logique interne du jeu. Le parapente n’est pas une activité fondamentalement « sûre » et c’est une liberté extraordinaire que de pouvoir l’assumer et de la pratiquer.
 
 Pour avoir lu plusieurs fois Bastien Soulé[^3], je comprends que la notion de « sport à risque » est assez plastique. Toutefois, en faisant le bilan, notre discipline sportive entre dans les critères de classement à risque de l’ensemble des auteurs s’étant employés au difficile travail de catégorisation des pratiques. Il ne fait aucun doute que le parapente est tout à la fois :
 
@@ -77,22 +77,22 @@ Le parapente n’est pas une activité à risque maîtrisable. Existe-t-il d’a
 
 Ce mythe détonne d’ailleurs avec l’image sociétale que nous renvoyons en dehors de notre communauté. Nos accidents sont en permanence relayés dans la presse locale ; pour chacune des victimes décédées ou lourdement accidentées, le nombre de proches affectés est démultiplié et des préfets commencent à s'intéresser de très près à nos statistiques d’accidentalité, tant nous utilisons les moyens de secours disponibles dans certaines régions (héliportés notamment). Alors même que l’acceptabilité sociale du parapente semble s’améliorer avec le temps au point de conquérir aujourd’hui l’espace publicitaire, elle ne doit toutefois pas être pensée comme acquise pour toujours. La référence nationale à un parapentiste paraplégique dans le film « Intouchables[^8] » illustre parfaitement cette ambivalence en installant à la fois à la une du box-office notre activité préférée pour mieux souligner, tout de même, sa dangerosité. Le fait est que, y compris à l'intérieur de notre champ de pratique, de nombreux acteurs supportent mal l'accidentalité. Tout cela ajoute une dimension sociale incontestable contribuant à qualifier le parapente de discipline à haut risque. 
 
-Notre accidentalité ne saurait être jugée que par nous-mêmes, membres de la communauté, contribuant à générer au sens propre comme au figuré nos propres statistiques \! Le caractère « maîtrisable » ou non d’un risque, comme la « fiabilité » ou non d’un système, réside justement dans une évaluation ou un jugement subjectif. Ce jugement peut émaner de l'intérieur du système : les parapentistes pensent que leur activité est sûre et que les risques qu'ils prennent peuvent être maîtrisés » ; mais aussi de l'extérieur du système à la façon de Rick Masters qui pense que notre aéronef est stupide et voué à l'échec. J'ai entraîné un pilote de très haut niveau devenu interne urgentiste à Grenoble qui me confiait avoir changé son regard sur notre activité à force de voir défiler des pilotes de parapente bien amochés. Sommes nous les pilotes raisonnés et responsables que nous prétendons ? Sommes nous les surfeurs de airs un peu idiots que Rick Masters dénonce ? Sommes-nous juste inconscient du volume et des impacts de notre passion ? Le décalage entre ces regards internes / externes au sujet de notre activité est profond. Tant et si bien que je me demande parfois comment nous parvenons encore à tenir ce discours. 
+Notre accidentalité ne saurait être jugée par nous seuls, membres de la communauté, contribuant à générer au sens propre comme au figuré nos propres statistiques \! Le caractère « maîtrisable » ou non d’un risque, comme la « fiabilité » ou non d’un système, réside justement dans une évaluation ou un jugement subjectif. Ce jugement peut émaner de l'intérieur du système : « les parapentistes pensent que leur activité est sûre et que les risques qu'ils prennent peuvent être maîtrisés » ; mais aussi de l'extérieur du système à la façon de Rick Masters qui pense que notre aéronef est stupide et voué à l'échec. J'ai entraîné un pilote de très haut niveau devenu interne urgentiste à Grenoble qui me confiait avoir changé son regard sur notre activité à force de voir défiler des pilotes de parapente bien amochés. Sommes-nous les pilotes raisonnés et responsables que nous prétendons ? Sommes-nous les surfeurs des airs un peu idiots que Rick Masters dénonce ? Sommes-nous juste inconscients du volume et des impacts de notre passion ? Le décalage entre ces regards internes / externes au sujet de notre activité est profond. Tant et si bien que je me demande parfois comment nous parvenons encore à tenir ce discours. 
 Voici donc la suite logique et la justification implacable de cette première croyance.
 
-[^2]:  Roger Caillois en 1958 : Des jeux et des hommes
+[^2]: Roger Caillois en 1958 : Des jeux et des hommes
 
-[^3]:  Bastien Soulé en 2007  : Sports « à risque » et sports « extrêmes » : de quoi parle-t-on ?
+[^3]: Bastien Soulé en 2007  : Sports « à risque » et sports « extrêmes » : de quoi parle-t-on ?
 
-[^4]:  Nicolas Penin en 2004 : Prises de risques sportifs : Saisir des modes d’engagement sexués.
+[^4]: Nicolas Penin en 2004 : Prises de risques sportifs : Saisir des modes d’engagement sexués.
 
-[^5]:  Michel Bouet en 1968 : La signification du sport.
+[^5]: Michel Bouet en 1968 : La signification du sport.
 
-[^6]:  Pierre Parlebas en 1981 : Contribution à un lexique commenté en sciences de l’action motrice.
+[^6]: Pierre Parlebas en 1981 : Contribution à un lexique commenté en sciences de l’action motrice.
 
-[^7]:  Jacques Defrance en 1983 : La tentation de l’accident. Le risque en sport et sa légitimation.
+[^7]: Jacques Defrance en 1983 : La tentation de l’accident. Le risque en sport et sa légitimation.
 
-[^8]:  Intouchables réalisé en 2011 par Olivier Nakache et Éric Toledano est un film inspiré par la vie de Philippe Pozzo di Borgo et son autobiographie parue en 2001 : Le second souffle.
+[^8]: Intouchables réalisé en 2011 par Olivier Nakache et Éric Toledano est un film inspiré par la vie de Philippe Pozzo di Borgo et son autobiographie parue en 2001 : Le second souffle.
 
 [^c-manuel-surprises]: Pierre-Paul Ménégoz et Alain Jacques, *Le manuel du vol libre*, Fédération Française de Vol Libre, Éditions Rétine, 2005 (ISBN 2-9508644-6-5), chapitre 7 « Facteur humain et sécurité », « Estimation des conditions », p. 216. Citation tirée de l’édition de 2005 ; le manuel a été réédité depuis 2020.
 
