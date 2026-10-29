@@ -89,7 +89,7 @@ Ici je dois traiter de la partie immergée de l’iceberg et la raison pour laqu
 
 Les analyses de Campbell sont très discutées, mais son voyage a été repris par de nombreux auteurs et par tout le cinéma à succès. Il ressemble comme deux gouttes d’eau à ce que vit un parapentiste, à l’échelle d’une carrière comme à l’échelle d’un seul vol.
 
-Partir, être mis à l’épreuve, revenir : c’est ce que nous vivons chaque fois que nous allons voler. C’est le propre des sports à risque parce que l’issue est incertaine. Mon hypothèse n'est pas très agréable à entendre mais je pense qu'à force de voir des héros, nous avons voulu en devenir[^21]. Je pense que les sports à risque sont le symbole dont use la société contemporaine pour fantasmer ses héros[^22].
+Partir, être mis à l’épreuve, revenir : c’est ce que nous vivons chaque fois que nous allons voler. C’est le propre des sports à risque parce que l’issue est incertaine. Mon hypothèse n’est pas très agréable à entendre, mais je pense qu’à force de voir des héros, nous avons voulu en devenir[^21]. Je crois que les sports à risque sont le symbole dont use la société contemporaine pour fantasmer ses héros[^22].
 
 Après des années de consommation de films et de récits héroïques, nous, parapentistes, avons eu envie de vivre la même histoire. Devenir les héros de notre propre réalité[^23]. Pas forcément par narcissisme. Ce que nous venons chercher en l’air est très varié : l’émancipation, la connaissance, la culture de l’air, la contemplation, l’esthétique, l’adrénaline, la maîtrise, l’appartenance, et oui, parfois aussi le narcissisme. Ces motivations se mélangent, et chacun entretient la sienne, plus ou moins consciente[^24].
 
