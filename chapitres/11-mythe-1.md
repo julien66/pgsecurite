@@ -38,30 +38,13 @@ Si l’on ajoute l’aspect de confrontation (Agon \- faire la course avec des c
 
 Ce que l’on fait, en vérité, c’est une évolution dans un environnement partiellement illisible où le vertige, l’aléa et l’engagement sont inhérents à la logique interne du jeu. Le parapente n’est pas une activité fondamentalement « sûre » et c’est une liberté extraordinaire que de pouvoir l’assumer et de la pratiquer.
 
-Pour avoir lu plusieurs fois Bastien Soulé[^3], je comprends que la notion de « sport à risque » est assez plastique. Toutefois, en faisant le bilan, notre discipline sportive entre dans les critères de classement à risque de l’ensemble des auteurs s’étant employés au difficile travail de catégorisation des pratiques. Il ne fait aucun doute que le parapente est tout à la fois :
+Pour avoir lu plusieurs fois Bastien Soulé[^3], je comprends que la notion de « sport à risque » est assez plastique. Toutefois, en faisant le bilan, notre discipline sportive entre dans les critères de classement à risque de l’ensemble des auteurs s’étant employés au difficile travail de catégorisation des pratiques. Il ne fait aucun doute que le parapente les remplit tous.
 
-- Une activité où le pratiquant peut mourir s’il fait une erreur d’analyse, si sa technique est insuffisante par rapport aux conditions rencontrées et/ou si son matériel connaît un dysfonctionnement.
+C’est d’abord une activité où le pratiquant peut mourir s’il fait une erreur d’analyse, si sa technique est insuffisante par rapport aux conditions rencontrées ou si son matériel connaît un dysfonctionnement. Nicolas Penin parle d’une « mort envisageable en cas d’erreur technique ou matérielle »[^4]. C’est aussi une activité où les accidents restent fréquents et dont la conséquence est parfois maximale, les deux critères que retient Michel Bouet : « à la fois : gravité maximale et occurrence importante »[^5].
 
-  C’est ce que dit Nicolas Penin[^4] en 2004 : \[ « Mort envisageable en cas d’erreur technique ou matérielle » \]. 
+Le parapente peut ensuite consommer l’ensemble des ressources du pratiquant : sa fatigue, sa concentration, son endurance, sa gestion du stress et des émotions. C’est l’une des deux formes d’incertitude décrites par Pierre Parlebas, l’inconnue de ses propres limites, de l’endurance jusqu’à l’épuisement des facultés[^6]. L’autre forme est celle du milieu : « c’est l’incertitude du milieu, la sauvagerie », écrit-il. Notre ciel en est rempli. Il existe DES modèles météorologiques justement parce que la météo n’est pas une science exacte, et aucun modèle aérologique, car nous n’avons pas encore les moyens d’en développer…
 
-- Une activité où l'occurrence des accidents demeure importante et dont la conséquence est parfois maximale.
-
-	Ce sont des critères importants pour Michel Bouet[^5] :  
- \[ « À la fois : gravité maximale et occurrence importante. » \]
-
-- Une activité qui peut consommer l’ensemble des ressources individuelles disponibles du pratiquant. Rapport à la fatigue, la concentration, l’endurance, la gestion du stress et des émotions…  
-    
-  Conforme à l’une des formes d’incertitude évoquées par Pierre Parlebas[^6] : Inconnue des limites personnelles individuelles (endurance, épuisement des facultés).
-
-- Une activité en milieu naturel et en espace aérien qui combine de multiples incertitudes. Il existe DES modèles météorologiques justement parce que ce n’est pas une science exacte et aucun modèle aérologique car nous n’avons pas encore les moyens d’en développer…
-
-	  
-Conforme à l’autre forme d’incertitude évoquée par Pierre Parlebas (*ibid*) :   
-\[ « C’est l’incertitude du milieu, la sauvagerie »\]
-
-- Une activité où l’accident est possible par confrontation au milieu et par destruction non intentionnelle du mobile (perte de vol).  
-    
-  C’est ce que dit Jacques Defrance[^7]. 
+Enfin, comme le montre Jacques Defrance, c’est une activité où l’accident est possible par confrontation au milieu et par destruction non intentionnelle du mobile, c’est-à-dire la perte de vol[^7].
 
 ### Un constat caché
 
