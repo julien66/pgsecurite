@@ -45,9 +45,24 @@ Rien de tout cela ne retire leur valeur aux tests. Ils restent une plaque essent
 - Encourager les contrôles réguliers du matériel et en rappeler l’échéance.
 - Faire remonter les défauts de fabrication dans la même base que les accidents.
 
+### Performance, confort, légèreté : ce que le marché a choisi
+
+En quarante ans, la transformation de notre matériel a été spectaculaire. Mais si l’on regarde de près, elle porte presque entièrement sur trois axes : la performance, le confort et la légèreté. Chacun d’eux a été ultra-investi par les constructeurs et largement plébiscité par les pilotes, qui confirment ces directions chaque fois qu’ils achètent, ou non, un produit. La sécurité, elle, n’a presque jamais été un axe à part entière. Elle sert d’argument à tout le monde, mais elle n’a jamais fait vendre.
+
+Quelques exemples suffisent à le montrer.
+
+- **Les voiles.** On les dit toujours plus sûres, mais ce qu’elles ont surtout gagné, c’est de la performance, du confort et de la légèreté, y compris là où ce n’est pas vraiment nécessaire. Même les voiles d’école planent aujourd’hui bien plus que ce dont un élève a besoin pour ses premiers vols. Les voiles de performance sont plus stables, plus confortables, plus légères, plus performantes, mais pas plus sûres (voir « Une solidité trompeuse »).
+- **Les protections.** Lorsque nous découvrons un matériau plus résistant ou plus absorbant, nous ne nous contentons pas de remplacer la protection existante. Nous en profitons pour réduire la taille et l’épaisseur du composant. La nouvelle protection satisfait alors aux mêmes tests et protège autant que l’ancienne, pas mieux. Ce que nous avons gagné, c’est du poids et de la finesse.
+- **Le parachute de secours.** Sa forme et ses matériaux ont évolué, mais son principe n’a pas bougé : il s’actionne toujours à la main, par un pilote qui doit encore avoir le temps, la hauteur et la lucidité de le lancer (voir « Un matériel rudimentaire »).
+- **Le soaring en bord de mer.** Nous savons qu’un pilote tombé à l’eau risque de se noyer sous sa voile (voir « Connaître nos accidents »). Pourtant, aucun fabricant n’a jamais intégré un gilet autogonflant à une sellette pour en faire un produit dédié au soaring.
+
+Les constructeurs n’ont fait que suivre et renforcer une tendance de marché. Ce sont les consommateurs, les magazines et les influenceurs qui décident de ce qui se vend. Un gain de finesse se mesure, se compare et se démontre en vol, en compétition ou sur les réseaux. Un gain de sécurité ne se voit pas, sauf le jour où il sert, et ce jour-là personne n’en parle.
+
+Il nous manque une information que personne ne produit. Nous n’avons jamais tenu de statistiques sur les marques et les modèles réellement les plus sûrs, au prorata du nombre d’exemplaires vendus. Les fabricants connaissent leurs ventes, les fédérations reçoivent les déclarations d’accidents, mais personne ne croise les deux. Ce serait pourtant la moindre des choses. C’est aussi le seul moyen de faire de la sécurité un argument de vente vérifiable, plutôt qu’une promesse que tout le monde fait.
+
 ### Un équipement de sécurité adapté à chaque pratique
 
-Les EPI ne s’arrêtent pas à la voile et à la sellette. Une fois en l’air, le pilote est seul, et ce qu’il a emporté décide souvent de l’issue d’un incident. La plupart de ces objets ne serviront peut-être jamais. Mais le jour où l’on en a besoin, il n’est plus temps d’aller les chercher.
+L'équipement ne s’arrête pas à la voile et à la sellette. Une fois en l’air, le pilote est seul, et ce qu’il a emporté décide souvent de l’issue d’un incident. La plupart de ces objets ne serviront peut-être jamais. Mais le jour où l’on en a besoin, il n’est plus temps d’aller les chercher.
 
 Or nous parlons de « l’équipement du pilote » comme s’il n’y en avait qu’un. Comme nous ne dissocions pas les pratiques, nous ne parvenons pas à nous mettre d’accord sur le nécessaire dans le cas général. La visibilité électronique et le traqueur en sont l’exemple parfait : inutiles en local au bord de la mer, indispensables en cross dans les Pyrénées. Tant qu’on cherche une règle unique, on n’en trouve aucune. L’équipement de sécurité est directement lié à la pratique : on ne s’équipe pas de la même façon pour des vols de soirée sur son site, pour un grand cross en montagne ou pour une traversée en paralpinisme. Un système de sécurité digne de ce nom devrait le dire clairement, pratique par pratique, et l’enseigner dès la formation. 
 
@@ -94,7 +109,7 @@ D’autres l’ont compris avant nous. Le vol à voile s’est massivement équi
 
 Le problème est que ces systèmes ne se parlent pas toujours entre eux. Un appareil FANET seul n’est pas compatible avec FLARM ; seuls certains instruments dits « FANET+ » combinent les deux, à des degrés variables. FLARM et l’ADS-B, le standard de surveillance de l’aviation commerciale et d’une grande partie de l’aviation générale, sont deux écosystèmes distincts. Un nouveau standard léger, l’ADS-L, conçu pour des appareils peu coûteux et peu gourmands en énergie, est promu en aviation légère et en vol libre, avec un plan dédié en Suisse (FASST-CH), mais il ne remplace pas les autres[^c-flyvisible]. Être équipé ne protège que si l’autre l’est aussi, et avec le même langage. Il y a aussi des limites propres à notre pratique : dans une grappe de vingt voiles en thermique, un système d’alerte conçu pour des planeurs sonnerait sans arrêt. Ce qui compte pour nous, c’est d’abord d’être vus.
 
-C’est donc un chantier collectif plus qu’individuel. Il faudrait que les fédérations, les fabricants d’instruments et les autres usagers de l’espace aérien s’accordent sur un standard commun, ou au moins sur des passerelles entre les standards existants. Il faudrait aussi recommander clairement, dès le brevet de pilote, qu’un pilote qui part en cross emporte un dispositif de visibilité électronique, au même titre que son traqueur.
+C’est donc un chantier collectif plus qu’individuel. Il est nécessaire que les fédérations, les fabricants d’instruments et les autres usagers de l’espace aérien s’accordent sur un standard commun, ou au moins sur des passerelles entre les standards existants. Nous devons aussi recommander clairement, dès le brevet de pilote, qu’un pilote qui part en cross emporte un dispositif de visibilité électronique, au même titre que son traqueur.
 
 ### Des formations adaptées à l’environnement de pratique
 
