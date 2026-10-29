@@ -52,7 +52,7 @@ EN
 :   Norme européenne. Désigne ici l'homologation des parapentes selon la norme EN 926.
 
 EPI
-:   Équipement individuel de protection.
+:   Équipement de protection individuelle.
 
 EPS
 :   Éducation physique et sportive.
