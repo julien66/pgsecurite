@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Favicon du site, tiré de la couverture : le ciel au crépuscule, les reliefs et le parapente.
+     Dessin simplifié pour rester lisible en 16 x 16. `make favicon` produit les PNG et le .ico. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="ciel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#14213d"/>
+      <stop offset="0.5" stop-color="#2b4a73"/>
+      <stop offset="0.85" stop-color="#d98b5f"/>
+      <stop offset="1" stop-color="#f2c38b"/>
+    </linearGradient>
+    <clipPath id="cadre"><rect width="64" height="64" rx="12"/></clipPath>
+  </defs>
+  <g clip-path="url(#cadre)">
+    <rect width="64" height="64" fill="url(#ciel)"/>
+    <!-- Parapente : le croissant de la couverture, en plus grand et plus clair -->
+    <path d="M 10 27 C 18 11 46 11 54 23 C 44 17 22 18 10 27 Z"
+          fill="#f2d3b3" stroke="#f2d3b3" stroke-width="3" stroke-linejoin="round"/>
+    <!-- Reliefs -->
+    <path d="M 0 50 L 14 40 L 22 45 L 34 35 L 44 43 L 54 38 L 64 44 L 64 64 L 0 64 Z" fill="#3d3550"/>
+    <path d="M 0 58 L 16 52 L 30 56 L 44 50 L 64 55 L 64 64 L 0 64 Z" fill="#1b1a2e"/>
+  </g>
+</svg>
