@@ -1,0 +1,27 @@
+:root { --fond: #14213d; --texte: #f4f1ec; --accent: #f2c38b; --doux: #c9d2e0; }
+* { box-sizing: border-box; }
+body { margin: 0; font-family: "DejaVu Serif", Georgia, serif; background: var(--fond); color: var(--texte); line-height: 1.6; }
+main { max-width: 920px; margin: 0 auto; padding: 48px 16px; display: grid; gap: 40px; grid-template-columns: minmax(0, 300px) 1fr; align-items: center; }
+img { width: 100%; height: auto; border-radius: 4px; box-shadow: 0 12px 40px rgba(0,0,0,.45); }
+h1 { font-size: 2.2rem; line-height: 1.2; margin: 0 0 .2em; }
+.sous-titre { font-style: italic; font-size: 1.4rem; color: var(--accent); margin: 0 0 .6em; }
+.auteur { color: var(--accent); letter-spacing: .12em; text-transform: uppercase; font-family: "DejaVu Sans", Arial, sans-serif; font-size: .9rem; margin: 0 0 1.5em; }
+p { color: var(--doux); }
+.actions { display: flex; flex-wrap: wrap; gap: 12px; margin: 1.5em 0; }
+.actions a { font-family: "DejaVu Sans", Arial, sans-serif; text-decoration: none; padding: 12px 20px; border-radius: 6px; border: 1px solid var(--accent); color: var(--accent); }
+.actions a.principal { background: var(--accent); color: var(--fond); font-weight: bold; }
+.licence { font-size: .85rem; }
+.licence a { color: var(--doux); }
+@media (max-width: 640px) { main { grid-template-columns: 1fr; padding-top: 24px; } img { max-width: 260px; margin: 0 auto; display: block; } }
+nav.langues { max-width: 920px; margin: 0 auto; padding: 16px 16px 0; display: flex; flex-wrap: wrap; gap: 8px 16px; justify-content: flex-end; font-family: "DejaVu Sans", Arial, sans-serif; font-size: .95rem; }
+nav.langues a { color: var(--doux); text-decoration: none; padding: 4px 2px; border-bottom: 2px solid transparent; }
+nav.langues a:hover { color: var(--accent); }
+nav.langues a[aria-current="page"] { color: var(--accent); border-bottom-color: var(--accent); }
+.suggestion { max-width: 920px; margin: 12px auto 0; padding: 0 16px; }
+.suggestion div { display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: center; justify-content: space-between; padding: 12px 16px; border: 1px solid var(--accent); border-radius: 6px; font-family: "DejaVu Sans", Arial, sans-serif; }
+.suggestion a { color: var(--accent); font-weight: bold; }
+.suggestion button { background: none; border: 0; color: var(--doux); font-size: 1.3rem; cursor: pointer; line-height: 1; }
+.avertissement-ia { border-left: 3px solid var(--accent); padding: .4em 0 .4em 1em; font-size: .95rem; }
+.avertissement-ia a { color: var(--accent); }
+.autres-langues { font-size: .9rem; }
+.autres-langues a { color: var(--doux); }

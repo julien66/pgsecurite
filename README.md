@@ -9,7 +9,7 @@ chapitres/   un fichier Markdown par chapitre, dans l'ordre de lecture (00, 01, 
 images/      les illustrations extraites de l'export
 liminaire/   pages hors chapitres : licence et mentions (au début), glossaire et remerciements (à la fin)
 couverture/  la couverture (SVG) et la quatrième de couverture (texte dans quatrieme.txt, photo auteur.jpg)
-site/        la page d'accueil du site de lecture
+site/        le site de lecture : pages.py génère les pages d'accueil des quatre langues (textes dans PAGES), style.css
 notes/       éléments de travail, hors du livre compilé
 traductions/ les éditions anglaise (en/), allemande (de/) et espagnole (es/), et le glossaire terminologique commun
 metadata.yaml  titre, auteur, langue et mise en page pour Pandoc
@@ -52,7 +52,11 @@ Le livre est publié sous licence [Creative Commons BY-NC-ND 4.0](https://creati
 
 ## Site de lecture
 
-À chaque envoi sur `main`, GitHub construit un petit site (`build/site/`) : une page d'accueil avec la couverture, le livre à lire en ligne, et les liens pour télécharger le PDF et l'EPUB. La mise en ligne sur GitHub Pages est désactivée par défaut. Pour l'activer :
+À chaque envoi sur `main`, GitHub construit un petit site (`build/site/`) : une page d'accueil avec la couverture, le livre à lire en ligne, et les liens pour télécharger le PDF et l'EPUB, en français à la racine et en traduction dans `en/`, `de/` et `es/`.
+
+Chaque page porte un sélecteur de langue en haut à droite et rappelle les autres langues sous les boutons. Les pages traduites affichent un avertissement sur la traduction par IA, avec l'adresse de contact. Sur la page française, un lecteur dont le navigateur est réglé en anglais, en allemand ou en espagnol voit un bandeau qui lui propose sa langue ; il n'est jamais redirigé d'office, et le bandeau ne revient plus une fois fermé. Les textes des pages d'accueil sont dans `site/pages.py`.
+
+La mise en ligne sur GitHub Pages est désactivée par défaut. Pour l'activer :
 
 1. Le dépôt doit être public (GitHub Pages n'est gratuit que pour les dépôts publics ; sur un dépôt privé, il faut un compte GitHub Pro).
 2. Dans **Settings > Pages**, choisir **GitHub Actions** comme source.
@@ -67,4 +71,4 @@ Le site peut compter ses visites, les lectures en ligne et les téléchargements
 1. Créer un compte sur goatcounter.com et choisir un code (par exemple `pgsecurite`, pour `https://pgsecurite.goatcounter.com`).
 2. Dans **Settings > Secrets and variables > Actions > Variables**, créer la variable `GOATCOUNTER` avec ce code.
 
-Les chiffres apparaissent ensuite sur le tableau de bord GoatCounter : les visites de la page d'accueil, et les clics « lecture-en-ligne », « telechargement-pdf » et « telechargement-epub ». Sans la variable, le site est publié sans aucune mesure.
+Les chiffres apparaissent ensuite sur le tableau de bord GoatCounter : les visites de la page d'accueil, et les clics « lecture-en-ligne », « telechargement-pdf » et « telechargement-epub », suivis du code de la langue (par exemple « telechargement-pdf-de »). Sans la variable, le site est publié sans aucune mesure.

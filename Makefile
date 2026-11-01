@@ -4,7 +4,7 @@
 #   make html       -> build/livre.html
 #   make couverture -> couverture et quatrième de couverture en PNG et PDF (nécessite rsvg-convert et python3)
 #   make favicon    -> favicons du site dans build/favicon/ (nécessite rsvg-convert et python3)
-#   make site       -> build/site/ : page d'accueil, lecture en ligne, PDF et EPUB
+#   make site       -> build/site/ : pages d'accueil (FR, EN, DE, ES), lecture en ligne, PDF et EPUB
 #   make            -> le PDF, l'EPUB et le HTML
 #
 # Traductions : ajouter LANGUE=en, LANGUE=de ou LANGUE=es à n'importe quelle
@@ -70,13 +70,15 @@ epub: couverture
 html: build
 	$(PANDOC) $(OPTIONS) --standalone --embed-resources --toc-depth=3 -o $(SORTIE)/livre.html
 
-site: all favicon
+site: all favicon traductions
 	rm -rf build/site
 	mkdir -p build/site
-	cp site/index.html build/couverture.png build/livre.html build/livre.pdf build/livre.epub build/site/
+	python3 site/pages.py build/site
+	cp site/style.css build/couverture.png build/livre.html build/livre.pdf build/livre.epub build/site/
 	cp build/favicon/favicon.ico build/favicon/favicon.svg build/favicon/apple-touch-icon.png build/favicon/icon-192.png build/favicon/icon-512.png site/site.webmanifest build/site/
+	for l in $(LANGUES); do cp build/$$l/couverture.png build/$$l/livre.html build/$$l/livre.pdf build/$$l/livre.epub build/site/$$l/ || exit 1; done
 ifneq ($(GOATCOUNTER),)
-	sed -i 's|<!-- MESURE D.AUDIENCE[^>]*-->|<script data-goatcounter="https://$(GOATCOUNTER).goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>|' build/site/index.html
+	sed -i 's|<!-- MESURE D.AUDIENCE[^>]*-->|<script data-goatcounter="https://$(GOATCOUNTER).goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>|' build/site/index.html build/site/*/index.html
 endif
 
 traductions:
