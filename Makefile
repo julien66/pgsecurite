@@ -7,27 +7,47 @@
 #   make site       -> build/site/ : page d'accueil, lecture en ligne, PDF et EPUB
 #   make            -> le PDF, l'EPUB et le HTML
 #
+# Traductions : ajouter LANGUE=en, LANGUE=de ou LANGUE=es à n'importe quelle
+# commande de livre (pdf, epub, html, couverture, all). Les sources sont lues
+# dans traductions/<langue>/ et le résultat va dans build/<langue>/.
+#   make pdf LANGUE=en  -> build/en/livre.pdf
+#   make traductions    -> PDF, EPUB et HTML de chaque traduction
+#
 # Mesure d'audience : `make site GOATCOUNTER=moncode` ajoute GoatCounter
 # (https://moncode.goatcounter.com) à la page d'accueil du site.
 GOATCOUNTER ?=
 
-LIMINAIRE := liminaire/colophon.md
-CHAPITRES := $(sort $(wildcard chapitres/*.md))
-FIN       := liminaire/glossaire.md liminaire/remerciements.md
+LANGUE    ?= fr
+LANGUES   := en de es
+
+ifeq ($(LANGUE),fr)
+SOURCE    := .
+SORTIE    := build
+else
+SOURCE    := traductions/$(LANGUE)
+SORTIE    := build/$(LANGUE)
+endif
+
+# Une traduction en cours ne contient pas encore tous les fichiers : on assemble ceux qui existent.
+LIMINAIRE := $(wildcard $(SOURCE)/liminaire/avertissement.md $(SOURCE)/liminaire/colophon.md)
+CHAPITRES := $(sort $(wildcard $(SOURCE)/chapitres/*.md))
+FIN       := $(wildcard $(SOURCE)/liminaire/glossaire.md $(SOURCE)/liminaire/remerciements.md)
+QUATRIEME := $(firstword $(wildcard $(SOURCE)/couverture/quatrieme.txt) couverture/quatrieme.txt)
 PANDOC    := pandoc
-OPTIONS   := -f markdown+autolink_bare_uris --toc metadata.yaml $(LIMINAIRE) $(CHAPITRES) $(FIN) --resource-path=chapitres --top-level-division=chapter
+# Les images sont communes à toutes les langues (images/), appelées en ../images/ depuis chapitres/.
+OPTIONS   := -f markdown+autolink_bare_uris --toc $(SOURCE)/metadata.yaml $(LIMINAIRE) $(CHAPITRES) $(FIN) --resource-path=chapitres --top-level-division=chapter
 
 all: pdf epub html
 
 build:
-	mkdir -p build
+	mkdir -p $(SORTIE)
 
 couverture: build
-	rsvg-convert -w 1600 couverture/couverture.svg -o build/couverture.png
-	rsvg-convert -f pdf couverture/couverture.svg -o build/couverture.pdf
-	python3 couverture/quatrieme.py couverture/quatrieme.txt build/quatrieme.svg
-	rsvg-convert -w 1600 build/quatrieme.svg -o build/quatrieme.png
-	rsvg-convert -f pdf build/quatrieme.svg -o build/quatrieme.pdf
+	rsvg-convert -w 1600 $(SOURCE)/couverture/couverture.svg -o $(SORTIE)/couverture.png
+	rsvg-convert -f pdf $(SOURCE)/couverture/couverture.svg -o $(SORTIE)/couverture.pdf
+	python3 couverture/quatrieme.py $(QUATRIEME) $(SORTIE)/quatrieme.svg
+	rsvg-convert -w 1600 $(SORTIE)/quatrieme.svg -o $(SORTIE)/quatrieme.png
+	rsvg-convert -f pdf $(SORTIE)/quatrieme.svg -o $(SORTIE)/quatrieme.pdf
 
 # L'icône Apple est carrée : iOS arrondit lui-même les coins.
 favicon: build
@@ -42,13 +62,13 @@ favicon: build
 	python3 couverture/ico.py build/favicon/favicon.ico build/favicon/favicon-16.png build/favicon/favicon-32.png build/favicon/favicon-48.png
 
 pdf: couverture
-	$(PANDOC) $(OPTIONS) --pdf-engine=xelatex -o build/livre.pdf
+	$(PANDOC) $(OPTIONS) --pdf-engine=xelatex -o $(SORTIE)/livre.pdf
 
 epub: couverture
-	$(PANDOC) $(OPTIONS) --split-level=1 --epub-cover-image=build/couverture.png -o build/livre.epub
+	$(PANDOC) $(OPTIONS) --split-level=1 --epub-cover-image=$(SORTIE)/couverture.png -o $(SORTIE)/livre.epub
 
 html: build
-	$(PANDOC) $(OPTIONS) --standalone --embed-resources --toc-depth=3 -o build/livre.html
+	$(PANDOC) $(OPTIONS) --standalone --embed-resources --toc-depth=3 -o $(SORTIE)/livre.html
 
 site: all favicon
 	rm -rf build/site
@@ -59,7 +79,10 @@ ifneq ($(GOATCOUNTER),)
 	sed -i 's|<!-- MESURE D.AUDIENCE[^>]*-->|<script data-goatcounter="https://$(GOATCOUNTER).goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>|' build/site/index.html
 endif
 
+traductions:
+	for l in $(LANGUES); do $(MAKE) all LANGUE=$$l || exit 1; done
+
 clean:
 	rm -rf build
 
-.PHONY: all pdf epub html couverture favicon site clean
+.PHONY: all build pdf epub html couverture favicon site traductions clean

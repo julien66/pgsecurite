@@ -11,6 +11,7 @@ liminaire/   pages hors chapitres : licence et mentions (au début), glossaire e
 couverture/  la couverture (SVG) et la quatrième de couverture (texte dans quatrieme.txt, photo auteur.jpg)
 site/        la page d'accueil du site de lecture
 notes/       éléments de travail, hors du livre compilé
+traductions/ les éditions anglaise (en/), allemande (de/) et espagnole (es/), et le glossaire terminologique commun
 metadata.yaml  titre, auteur, langue et mise en page pour Pandoc
 Makefile     commandes de compilation
 ```
@@ -29,11 +30,17 @@ make epub   # build/livre.epub
 make html   # build/livre.html
 make        # les trois
 make site   # build/site/ : page d'accueil, lecture en ligne, PDF et EPUB
+make pdf LANGUE=en   # une traduction : build/en/livre.pdf (de même avec de ou es)
+make traductions     # PDF, EPUB et HTML des trois traductions
 ```
 
 La couverture est produite à partir de `couverture/couverture.svg` avec `rsvg-convert` (paquet `librsvg`). Elle sert de première page au PDF et de couverture à l'EPUB.
 
 Sans rien installer : à chaque envoi sur `main`, GitHub compile le PDF, l'EPUB et le HTML (onglet **Actions**, puis l'artefact « livre » du dernier passage).
+
+## Traductions
+
+Voir [traductions/README.md](traductions/README.md) : organisation des dossiers par langue, règles de traduction et façon de contribuer comme traducteur ou relecteur natif.
 
 ## État du manuscrit
 

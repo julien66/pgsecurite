@@ -1,0 +1,37 @@
+---
+# Métadonnées de la traduction (de). Seuls le titre, la langue, la licence et les chemins de couverture diffèrent du fichier français.
+title: "Sicherheit beim Gleitschirmfliegen"
+subtitle: "Risiko oder Gefahr?"
+author: "Julien Garcia"
+rights: "© 2026 Julien Garcia. Lizenz CC BY-NC-ND 4.0: https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de"
+lang: de-DE
+documentclass: book
+classoption:
+  - openany
+papersize: a5
+geometry:
+  - margin=2cm
+mainfont: "DejaVu Serif"
+toc: true
+toc-depth: 2
+toc-title: "Inhalt"
+# Couverture en première page du PDF et quatrième de couverture en dernière page (build/de/couverture.pdf, produite par `make couverture LANGUE=de`).
+header-includes:
+  - |
+    ```{=latex}
+    \usepackage{graphicx}
+    \setlength{\emergencystretch}{3em}
+    \usepackage{fancyhdr}
+    \pagestyle{fancy}
+    \fancyhf{}
+    \renewcommand{\chaptermark}[1]{\markboth{#1}{#1}}
+    \renewcommand{\headrulewidth}{0pt}
+    \fancyhead[LE]{\small\thepage\hspace{1.5em}\itshape Sicherheit beim Gleitschirmfliegen}
+    \fancyhead[RO]{\small\itshape\nouppercase{\rightmark}\hspace{1.5em}\upshape\thepage}
+    \AtBeginDocument{\newgeometry{margin=0pt}\thispagestyle{empty}%
+      \noindent\includegraphics[width=\paperwidth,height=\paperheight]{build/de/couverture.pdf}%
+      \restoregeometry\clearpage}
+    \AtEndDocument{\clearpage\newgeometry{margin=0pt}\thispagestyle{empty}%
+      \noindent\includegraphics[width=\paperwidth,height=\paperheight]{build/de/quatrieme.pdf}}
+    ```
+---
