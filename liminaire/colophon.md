@@ -12,7 +12,7 @@ Vous pouvez le copier, l’imprimer et le partager librement, sur tout support e
 
 Texte complet de la licence : <https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr>
 
-Ce livre a été finalisé avec le concours d'une intelligence artificielle, qui a participé à des rédactions de paragraphes à partir des consignes, l'édition des notes et les corrections. Les idées, les choix et les éventuelles erreurs restent ceux de l'auteur.
+Ce livre a été finalisé avec le concours d'une intelligence artificielle, qui a participé à la rédaction de paragraphes à partir des consignes de l'auteur, à la mise en forme des notes et aux corrections. Les idées, les choix et les éventuelles erreurs restent ceux de l'auteur.
 
 ISBN : [À COMPLÉTER]  
 Dépôt légal : novembre 2026
