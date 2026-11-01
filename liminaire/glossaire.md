@@ -124,7 +124,7 @@ RETEX
 :   Retour d’expérience.
 
 SGS
-:   Système général de sécurité de la FFVL.
+:   Système de gestion de la sécurité de la FFVL.
 
 SIGMET
 :   *Significant Meteorological Information*. Alerte météo destinée à l’aviation.
