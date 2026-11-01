@@ -1,7 +1,7 @@
 # Glossaire {.unnumbered}
 
 ADS-B
-:   *Automatic Dependent Surveillance–Broadcast*. Système par lequel un aéronef diffuse sa position, utilisé par l'aviation commerciale et une grande partie de l'aviation générale.
+:   *Automatic Dependent Surveillance–Broadcast*. Système par lequel un aéronef diffuse sa position, utilisé par l’aviation commerciale et une grande partie de l’aviation générale.
 
 ADS-L
 :   *ADS-Light*. Standard allégé de diffusion de position, conçu pour des appareils peu coûteux et peu gourmands en énergie, promu en aviation légère et en vol libre.
@@ -10,22 +10,22 @@ AFNOR
 :   Association française de normalisation.
 
 AIDA
-:   Nom de la base de données d'accidents commune aux fédérations de l'EHPU, développée par le DHV.
+:   Nom de la base de données d’accidents commune aux fédérations de l’EHPU, développée par le DHV.
 
 APPN
 :   Activités physiques de pleine nature.
 
 ASN
-:   Appel sélectif numérique. Fonction des radios maritimes qui permet d'envoyer une alerte de détresse directe aux secours et aux usagers proches.
+:   Appel sélectif numérique. Fonction des radios maritimes qui permet d’envoyer une alerte de détresse directe aux secours et aux usagers proches.
 
 ASRS
-:   *Aviation Safety Reporting System*. Système de la NASA qui recueille depuis 1976 les comptes rendus d'incidents confidentiels des pilotes américains.
+:   *Aviation Safety Reporting System*. Système de la NASA qui recueille depuis 1976 les comptes rendus d’incidents confidentiels des pilotes américains.
 
 BASE
 :   *Building, Antenna, Span, Earth* (immeuble, antenne, pont, falaise). Désigne le saut en parachute depuis un point fixe.
 
 BMS
-:   Bulletin météo de sécurité. Alerte diffusée aux marins dès que le vent prévu dépasse force 6 sur l'échelle de Beaufort.
+:   Bulletin météo de sécurité. Alerte diffusée aux marins dès que le vent prévu dépasse force 6 sur l’échelle de Beaufort.
 
 CCC
 :   *Competition Class Certification*. Norme de la CIVL pour les voiles de compétition.
@@ -49,7 +49,7 @@ EHPU
 :   *European Hang Gliding and Paragliding Union*. Union européenne des fédérations de vol libre.
 
 EN
-:   Norme européenne. Désigne ici l'homologation des parapentes selon la norme EN 926.
+:   Norme européenne. Désigne ici l’homologation des parapentes selon la norme EN 926.
 
 EPI
 :   Équipement de protection individuelle.
@@ -67,13 +67,13 @@ FANET
 :   *Flying Ad-hoc Network*. Protocole ouvert de partage de position entre aéronefs. Les instruments « FANET+ » le combinent avec FLARM.
 
 FASST-CH
-:   *Future Aviation Surveillance Services and Technologies in Switzerland*. Plan suisse pour la visibilité électronique des aéronefs, dont l'ADS-L.
+:   *Future Aviation Surveillance Services and Technologies in Switzerland*. Plan suisse pour la visibilité électronique des aéronefs, dont l’ADS-L.
 
 FFVL
 :   Fédération française de vol libre.
 
 FLARM
-:   Système anticollision qui diffuse la position de l'aéronef et alerte en cas de risque de collision.
+:   Système anticollision qui diffuse la position de l’aéronef et alerte en cas de risque de collision.
 
 FSVL
 :   Fédération suisse de vol libre (SHV en allemand).
@@ -88,31 +88,31 @@ GSM
 :   Réseau de téléphonie mobile.
 
 IGC
-:   *International Gliding Commission*, commission de vol à voile de la FAI. Désigne aussi le format de fichier des traces de vol (.igc). L'IGC2 est le format plus précis proposé dans ce livre.
+:   *International Gliding Commission*, commission de vol à voile de la FAI. Désigne aussi le format de fichier des traces de vol (.igc). L’IGC2 est le format plus précis proposé dans ce livre.
 
 LOSA
-:   *Line Operations Safety Audit*. Méthode d'observation des vols en ligne publiée par l'OACI, qui présente le modèle TEM.
+:   *Line Operations Safety Audit*. Méthode d’observation des vols en ligne publiée par l’OACI, qui présente le modèle TEM.
 
 LTF
-:   *Lufttüchtigkeitsforderungen*. Homologation allemande des parapentes, délivrée sous l'égide du DHV.
+:   *Lufttüchtigkeitsforderungen*. Homologation allemande des parapentes, délivrée sous l’égide du DHV.
 
 MMSI
-:   *Maritime Mobile Service Identity*. Numéro d'identification unique d'une radio maritime.
+:   *Maritime Mobile Service Identity*. Numéro d’identification unique d’une radio maritime.
 
 OACI
-:   Organisation de l'aviation civile internationale.
+:   Organisation de l’aviation civile internationale.
 
 OBL
 :   Organisme à but lucratif.
 
 PDMC
-:   *Paraglider Dead Man's Curve*. Schéma de Rick Masters qui croise la hauteur et le type d'incident pour montrer quand il est trop tard pour lancer son parachute de secours.
+:   *Paraglider Dead Man’s Curve*. Schéma de Rick Masters qui croise la hauteur et le type d’incident pour montrer quand il est trop tard pour lancer son parachute de secours.
 
 PGHM
 :   Peloton de gendarmerie de haute montagne.
 
 PIREP
-:   *Pilot Report*. Compte rendu d'un pilote sur les conditions rencontrées en vol, partagé avec les autres usagers.
+:   *Pilot Report*. Compte rendu d’un pilote sur les conditions rencontrées en vol, partagé avec les autres usagers.
 
 PMR446
 :   *Private Mobile Radio*, sur la bande des 446 MHz. Talkies-walkies grand public, utilisables sans licence.
@@ -121,16 +121,16 @@ PWCA
 :   *Paragliding World Cup Association*. Organisatrice de la Coupe du monde de parapente.
 
 RETEX
-:   Retour d'expérience.
+:   Retour d’expérience.
 
 SGS
-:   Système général de sécurité de la FFVL.
+:   Système de gestion de la sécurité de la FFVL.
 
 SIGMET
-:   *Significant Meteorological Information*. Alerte météo destinée à l'aviation.
+:   *Significant Meteorological Information*. Alerte météo destinée à l’aviation.
 
 SIV
-:   Simulation d'incident de vol. Stage où l'on provoque les incidents de vol au-dessus de l'eau pour apprendre à les gérer.
+:   Simulation d’incident de vol. Stage où l’on provoque les incidents de vol au-dessus de l’eau pour apprendre à les gérer.
 
 STAPS
 :   Sciences et techniques des activités physiques et sportives.
@@ -139,10 +139,10 @@ SUAPS
 :   Service universitaire des activités physiques et sportives.
 
 TEM
-:   *Threat and Error Management*. Gestion des menaces et des erreurs, modèle issu de l'aviation.
+:   *Threat and Error Management*. Gestion des menaces et des erreurs, modèle issu de l’aviation.
 
 TOT
-:   *Time-Out Timer*. Réglage qui coupe l'émission d'une radio après un temps donné.
+:   *Time-Out Timer*. Réglage qui coupe l’émission d’une radio après un temps donné.
 
 UCPA
 :   Union nationale des centres sportifs de plein air.
