@@ -12,7 +12,7 @@ Ces termes portent l'argument du livre. Ils doivent être traduits toujours de l
 | :-- | :-- | :-- | :-- | :-- |
 | risque | risk | Risiko | riesgo | Ce que l'on prend, que l'on peut anticiper. |
 | péril | peril | Gefahr | peligro | Ce que l'on subit, hors de tout contrôle (« on prend un risque, on subit un péril », Soulé). En allemand et en espagnol, la paire *Risiko / Gefahr* et *riesgo / peligro* recouvre la distinction de Luhmann, ce qui la rend naturelle. En anglais, ne pas traduire par *danger* ni *hazard*, qui brouillent la distinction. |
-| à nos risques et périls | at our own risk and peril | auf eigene Gefahr | por nuestra cuenta y riesgo | Sous-titre du livre et titre du chapitre 17 (« À vos risques et périls » : *At your own risk and peril*, *Auf eigene Gefahr*, *Por su cuenta y riesgo*). |
+| à nos risques et périls (sous-titre) | at our own risk and peril? | Risiko oder Gefahr? | ¿Riesgo o peligro? | Sous-titre du livre, choisi pour garder les deux mots. L'anglais a la même expression ; en allemand et en espagnol, l'idiome (*auf eigene Gefahr*, *por su cuenta y riesgo*) perdrait l'un des deux, d'où la question. Titre du chapitre 17 (« À vos risques et périls ») : *At your own risk and peril*, *Auf eigenes Risiko und eigene Gefahr*, *A su riesgo y peligro*. |
 | sport à risque maîtrisable | sport with controllable risk | Sport mit beherrschbarem Risiko | deporte de riesgo controlable | Formule répétée : garder la même. |
 | mythe (#1 à #5) | myth (#1 to #5) | Mythos (Nr. 1 bis 5) | mito (n.º 1 a 5) | |
 | erreur de pilotage | pilot error | Pilotenfehler | error de pilotaje | |
