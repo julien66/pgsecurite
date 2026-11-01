@@ -33,6 +33,9 @@ Rien de cela n’oblige à surcharger la réglementation. La plupart de ces mesu
 
 ### Pour ceux qui sont tombés
 
-J’ai commencé ce livre par des prénoms. Je le termine en pensant à eux. Je ne crois pas qu’ils soient morts parce qu’ils étaient moins bons que nous. Je crois qu’ils sont morts dans une activité qui comporte des périls, au sein d’une communauté qui n’a pas encore construit tout ce qu’elle pourrait pour les protéger. Le meilleur hommage que nous puissions leur rendre, c’est d’apprendre de ce qui leur est arrivé.
+J'ai dû assister à trop d'enterrements. J'y entends les mêmes rengaines : "Il est mort de sa passion, en faisant ce qu'il aimait". "Mourir en parapente, c'est une belle mort". "De toute façon, il n'allait pas finir à l'hospice". Au delà de nos besoins de consolation, ces phrases soulignent et soutiennent surtout le choix des pratiquants eux-mêmes de s'être engagée dans notre activité. "Elle savait très bien ce qu'elle faisait". 
+Sauf que voilà, nos amis disparus étaient le plus souvent en pleine santé, au milieu de leur vie avec des proches, des projets et de nombreux autres vols à réaliser. Ce n'était pas des personnes en fin de vie ou en situation de dépendance qui attendaient une forme de délivrance. Je refuse d'associer parapente et mortalité comme une fatalité ou une quelconque forme de beauté romanesque. Mourir de sa passion comme s'il ne suffisait pas de pouvoir la vivre, ça ne me parle plus du tout.
+
+J’ai commencé ce livre par des prénoms. Je le termine en pensant à eux. Je ne crois pas que nos amis soient morts parce qu’ils étaient moins bons que nous. Je crois qu’ils sont morts dans une activité qui comporte des périls, au sein d’une communauté qui n’a pas encore construit tout ce qu’elle pouvait pour les protéger. Le meilleur hommage que nous puissions leur rendre, c’est d’apprendre de ce qui leur est arrivé et de faire en sorte que la même chose n'arrive pas à d'autre.
 
 Nous continuerons de voler à nos risques. Faisons en sorte de ne plus être seuls face à nos périls.
