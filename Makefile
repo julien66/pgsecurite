@@ -29,7 +29,7 @@ SORTIE    := build/$(LANGUE)
 endif
 
 # Une traduction en cours ne contient pas encore tous les fichiers : on assemble ceux qui existent.
-LIMINAIRE := $(wildcard $(SOURCE)/liminaire/colophon.md)
+LIMINAIRE := $(wildcard $(SOURCE)/liminaire/avertissement.md $(SOURCE)/liminaire/colophon.md)
 CHAPITRES := $(sort $(wildcard $(SOURCE)/chapitres/*.md))
 FIN       := $(wildcard $(SOURCE)/liminaire/glossaire.md $(SOURCE)/liminaire/remerciements.md)
 QUATRIEME := $(firstword $(wildcard $(SOURCE)/couverture/quatrieme.txt) couverture/quatrieme.txt)
