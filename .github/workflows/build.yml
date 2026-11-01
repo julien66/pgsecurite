@@ -16,8 +16,7 @@ jobs:
           docker run --rm -e GOATCOUNTER="${{ vars.GOATCOUNTER }}" -v "$PWD:/data" -w /data --entrypoint sh pandoc/extra:3.5 -c '
             set -e
             apk add --no-cache make font-dejavu rsvg-convert python3
-            make site GOATCOUNTER="$GOATCOUNTER"
-            make traductions'
+            make site GOATCOUNTER="$GOATCOUNTER"'
       - uses: actions/upload-artifact@v4
         with:
           name: livre
