@@ -3,7 +3,7 @@
 ```{=latex}
 \newsavebox{\avertissement}
 \vspace*{\fill}
-\begin{lrbox}{\avertissement}\begin{minipage}{0.88\linewidth}\vspace{1em}\large
+\begin{lrbox}{\avertissement}\begin{minipage}{0.88\linewidth}\vspace{1em}\large\raggedright\setlength{\parskip}{0.8em}
 ```
 
 ```{=html}
