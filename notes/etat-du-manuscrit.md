@@ -20,6 +20,7 @@ Les passages entre crochets (`[À COMPLÉTER : …]`, `[SOURCE À TROUVER : …]
 | 21 Accueillir les accidents | Transparence, culture juste, RETEX, liste des victimes, association | Culture juste en brouillon |
 | 22 Un meilleur système | Cartographie, WAT, niveau référé, sites, balises, VHF, BMS, secours, veille, EPI, règles de circulation | Fin de « Matériel et EPI » et « Réglementation du vol à vue » en brouillon |
 | 23 Dissocier la pratique touristique | Deux pratiques sous un même nom | Brouillon à relire |
+| 27 Se fixer des objectifs | Casser la hausse mécanique des accidents, ne plus voir les mêmes accidents | Nouveau, brouillon à relire |
 | 29 Conclusion | Conclusion générale | Brouillon à relire |
 
 ## Ce qui reste à faire
