@@ -21,7 +21,9 @@ nav.langues a[aria-current="page"] { color: var(--accent); border-bottom-color: 
 .suggestion div { display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: center; justify-content: space-between; padding: 12px 16px; border: 1px solid var(--accent); border-radius: 6px; font-family: "DejaVu Sans", Arial, sans-serif; }
 .suggestion a { color: var(--accent); font-weight: bold; }
 .suggestion button { background: none; border: 0; color: var(--doux); font-size: 1.3rem; cursor: pointer; line-height: 1; }
-.avertissement-ia { border-left: 3px solid var(--accent); padding: .4em 0 .4em 1em; font-size: .95rem; }
+.avertissement-ia { max-width: 920px; margin: 16px auto 0; padding: 0 16px; box-sizing: border-box; }
+.avertissement-ia p { margin: 0; padding: 14px 18px; border: 2px solid var(--accent); border-radius: 6px; background: rgba(242, 195, 139, .12); color: var(--texte); font-family: "DejaVu Sans", Arial, sans-serif; font-size: .95rem; }
+.avertissement-ia strong { color: var(--accent); display: block; margin-bottom: .2em; }
 .avertissement-ia a { color: var(--accent); }
 .autres-langues { font-size: .9rem; }
 .autres-langues a { color: var(--doux); }

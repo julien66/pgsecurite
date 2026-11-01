@@ -32,6 +32,7 @@ PAGES = {
         "navigation": "Langues",
     },
     "en": {
+        "avertissement_titre": "⚠ Machine translation",
         "nom": "English",
         "titre": "Safety in Paragliding",
         "sous_titre": "At our own risk and peril?",
@@ -50,6 +51,7 @@ PAGES = {
         "suggestion_lien": "Read it in English",
     },
     "de": {
+        "avertissement_titre": "⚠ Maschinelle Übersetzung",
         "nom": "Deutsch",
         "titre": "Sicherheit beim Gleitschirmfliegen",
         "sous_titre": "Risiko oder Gefahr?",
@@ -68,6 +70,7 @@ PAGES = {
         "suggestion_lien": "Auf Deutsch lesen",
     },
     "es": {
+        "avertissement_titre": "⚠ Traducción automática",
         "nom": "Español",
         "titre": "Seguridad en parapente",
         "sous_titre": "¿Riesgo o peligro?",
@@ -122,8 +125,10 @@ def page(langue):
     avertissement = ""
     if p["avertissement"]:
         avertissement = (
-            f'      <p class="avertissement-ia">{e(p["avertissement"])}'
+            f'  <aside class="avertissement-ia" role="note">\n'
+            f'    <p><strong>{e(p["avertissement_titre"])}</strong> {e(p["avertissement"])}'
             f'<a href="mailto:{CONTACT}">{CONTACT}</a></p>\n'
+            f'  </aside>\n'
         )
 
     # Sur la page française seulement : si la langue du navigateur correspond
@@ -187,14 +192,14 @@ def page(langue):
   <nav class="langues" aria-label="{e(p["navigation"])}">
 {liens_langues}
   </nav>
-{suggestion}  <main>
+{suggestion}{avertissement}  <main>
     <img src="couverture.png" alt="{e(p["image_alt"])}">
     <div>
       <h1>{e(p["titre"])}</h1>
       <p class="sous-titre">{e(p["sous_titre"])}</p>
       <p class="auteur">Julien Garcia</p>
       <p>{e(p["presentation"])}</p>
-{avertissement}      <div class="actions">
+      <div class="actions">
         <a class="principal" href="livre.html" data-goatcounter-click="lecture-en-ligne-{langue}" data-goatcounter-title="{e(p["lire"])} ({langue})">{e(p["lire"])}</a>
         <a href="livre.pdf" download="{e(p["fichier"])}.pdf" data-goatcounter-click="telechargement-pdf-{langue}" data-goatcounter-title="PDF ({langue})">{e(p["pdf"])}</a>
         <a href="livre.epub" download="{e(p["fichier"])}.epub" data-goatcounter-click="telechargement-epub-{langue}" data-goatcounter-title="EPUB ({langue})">{e(p["epub"])}</a>
