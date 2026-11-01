@@ -11,12 +11,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Compiler la couverture, le PDF, l'EPUB, le HTML et le site avec Pandoc
+      - name: Compiler la couverture, le PDF, l'EPUB, le HTML, le site et les traductions avec Pandoc
         run: |
           docker run --rm -e GOATCOUNTER="${{ vars.GOATCOUNTER }}" -v "$PWD:/data" -w /data --entrypoint sh pandoc/extra:3.5 -c '
             set -e
             apk add --no-cache make font-dejavu rsvg-convert python3
-            make site GOATCOUNTER="$GOATCOUNTER"'
+            make site GOATCOUNTER="$GOATCOUNTER"
+            make traductions'
       - uses: actions/upload-artifact@v4
         with:
           name: livre
