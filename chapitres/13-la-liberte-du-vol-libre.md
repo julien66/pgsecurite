@@ -51,6 +51,8 @@ Avec beaucoup de répartie, elle m’a dit :
 
 - « Pas chez moi \! »
 
+Ce droit de choisir sa mort a son revers, plus doux en apparence. Quand l’un des nôtres se tue, on entend presque toujours la même phrase : « Il est mort en faisant ce qu’il aimait. » Parfois même : « C’est une belle mort. » Je comprends le besoin de consolation, mais ces phrases ne tiennent pas. La belle mort, c’est celle que l’on souhaite à quelqu’un qui arrive au bout de sa vie : partir d’un coup, sans souffrir, plutôt que de s’éteindre à petit feu, dépendant, dans un lit d’hôpital ou d’hospice. Nos amis disparus n’étaient ni dépendants, ni des aspirants à l’hospice. Ils étaient le plus souvent en pleine santé, au milieu de leur vie, avec des proches, des projets et des vols encore à faire. À quarante ans, un homme peut encore espérer vivre plus de quarante ans[^c-insee-esperance]. Ce n’est pas une belle mort, c’est une vie amputée. Se confronter à la mort est une liberté. Encore faut-il regarder en face ce que l’on risque d’y perdre : pas une fin de vie, mais tout ce qui restait à vivre.
+
 Nous le voyons, face aux tentatives de modération de leur prise de risque, les réactions des pratiquants sont très vives. C’est qu’ils ont l’impression que l’on s’attaque à un de leurs droits fondamentaux. Toutes les tentatives d’ajustement sécuritaire ou de conventions collectives qui toucheraient l’émancipation, l’accessibilité, l’affranchissement et la liberté ultime du vol libre sont insupportables parce qu’elles symbolisent l’oiseau que l’on met en cage. Les libéristes réclament massivement le droit d’assumer par eux-mêmes et sans modération extérieure leur engagement et leur prise de risque. Ils acceptent les discours préventifs et les actions de formation tant qu’ils ne menacent pas leur libre arbitre et la possibilité de s’investir dans leur activité selon les modalités qui leur sont propres. En revanche, les pilotes se méfient des formes de gestion collective de la sécurité et des réglementations qui pourraient, pensent-ils, réduire leur liberté fondamentale de voler ou les forcer à modifier leurs modalités individuelles de pratique. 
 
 Cette opposition entre liberté individuelle et une forme de sécurité définie et organisée collectivement est renforcée par un autre mythe majeur de notre communauté.
@@ -58,3 +60,5 @@ Cette opposition entre liberté individuelle et une forme de sécurité définie
 [^13]: Sigmund Freud dès 1915 dans : « Considérations actuelles sur la guerre et sur la mort ».
 
 [^14]: Marc Valleur en 2009 dans l’article : « les chemins de l’ordalie » revue Topique « L’addiction au risque ».
+
+[^c-insee-esperance]: INSEE, *Bilan démographique 2023*, tableaux rétrospectifs « Espérance de vie – Mortalité » : en 2023, l’espérance de vie à 40 ans est de 41,4 ans pour les hommes et de 46,6 ans pour les femmes (données provisoires). https://www.insee.fr/fr/statistiques/7746166
