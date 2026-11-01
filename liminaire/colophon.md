@@ -12,5 +12,7 @@ Vous pouvez le copier, l’imprimer et le partager librement, sur tout support e
 
 Texte complet de la licence : <https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr>
 
+Ce livre a été écrit avec l’aide d’une intelligence artificielle, Claude (Anthropic), qui a participé à la rédaction à partir des consignes, des notes et de l’expérience de l’auteur. L’auteur a relu et validé l’ensemble du texte et vérifié les sources citées. Les idées, les choix et les éventuelles erreurs restent les siens.
+
 ISBN : [À COMPLÉTER]  
 Dépôt légal : novembre 2026
