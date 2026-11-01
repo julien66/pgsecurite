@@ -1,10 +1,11 @@
 ## Se fixer des objectifs
 
-**[BROUILLON À RELIRE]**
+Tout le monde parle de sécurité : les fédérations, les écoles, les constructeurs, les organisateurs, les clubs. Mais qu'en attendons nous concrètement ? Qui se dote d’un véritable projet ou même d'un plan prospectif chiffré ? J'ai vu des effets d'annonce, des campagnes, des chantiers, des mesures concrétes mais nous écrivons très rarement noir sur blanc le résultat visé, ou encore la date à laquelle nous vérifierons le résultat.
 
-Tout le monde parle de sécurité. Les fédérations, les écoles, les constructeurs, les clubs : personne n’est contre. Mais presque personne ne dit ce qu’il attend. Les fédérations se dotent rarement d’un plan chiffré. On annonce des priorités, des campagnes, des chantiers, sans jamais écrire noir sur blanc le résultat visé ni la date à laquelle on le vérifiera. [À COMPLÉTER : un exemple que tu connais de plan de sécurité sans objectif chiffré, ou au contraire d’une fédération qui s’en est donné un.]
+Conviendrait-il de viser 0 décès ? Ce livre a largement montré pourquoi et comment la nature même de notre activité semblait contraire à une telle ambition.
+Devrions-nous alors définir un seuil d'acceptabilité ? Par pratiquant ou par heure volée ? Cela semble bien difficile moralement.
 
-Sans objectif, une politique de sécurité ne peut ni réussir ni échouer. Une bonne année devient la preuve que les mesures fonctionnent, une mauvaise année devient un coup du sort. Toutes les propositions de cette partie ne valent que si nous savons dire, au bout de quelques années, si elles ont servi. Je vois au moins deux critères pour cela.
+En tout cas, sans objectif, une politique de sécurité ne peut ni réussir ni échouer. Une bonne année devient la preuve que les mesures fonctionnent, une mauvaise année devient un coup du sort. Toutes les propositions que ce livre a pu mettre en avant ne valent que si nous savons dire, au bout de quelques années, si elles ont servi ou pas. Je souhaite proposer au moins deux critères fondamentaux pour cela.
 
 ### Premier critère : casser la hausse mécanique
 
@@ -20,13 +21,11 @@ Ce critère doit se lire sur plusieurs années, et pas seulement sur les décès
 
 Le second critère est plus exigeant. Il porte sur la répétition des accidents par typologie.
 
-Voir un accident se reproduire, c’est vraiment un constat d’échec des projets de sécurité. Un premier accident peut surprendre. Le deuxième, sur le même scénario, ne le peut plus : nous savions. Or nos accidents se répètent. Les fermetures près du sol représentent 10 des 23 décès en parapente déclarés en 2024 et 2025 (voir « Connaître nos accidents »). En 2026, huit accidents mortels sont encore survenus en cross sur des fermetures proches du sol, sans extraction du secours (voir « Qui compte nos morts ? »). Les mêmes décollages, les mêmes atterrissages, les mêmes combes reviennent dans les déclarations année après année.
+Voir un accident se reproduire, c’est vraiment un constat d’échec des projets de sécurité. Un premier accident peut surprendre. Le deuxième, sur le même scénario, plus difficilement : nous savions. Or nos accidents se répètent. Les fermetures près du sol représentent 10 des 23 décès en parapente déclarés en 2024 et 2025 (voir « Connaître nos accidents »). En 2026, huit accidents mortels sont encore survenus en cross sur des fermetures proches du sol, sans extraction du secours (voir « Qui compte nos morts ? »). Les mêmes décollages, les mêmes atterrissages, les mêmes combes reviennent dans les déclarations année après année.
 
 L’objectif consiste alors à suivre chaque grande famille d’accidents, celles que la lecture TEM permet de décrire, et à se fixer pour chacune un résultat à atteindre. Fermetures près du sol, amerrissages, oublis d’accroche, atterrissages en deltaplane : pour chaque scénario, combien d’accidents aujourd’hui, combien visés dans cinq ans. Et chaque fois qu’un accident se reproduit sur un scénario déjà connu, la question à poser n’est plus seulement « qu’a fait le pilote ? », mais « qu’avons-nous changé depuis le précédent ? ». Si la réponse est « rien », l’échec est d’abord celui du système.
 
 Ce critère a un avantage : il oblige à relier chaque mesure à un scénario précis. Une campagne sur le parachute de secours se juge sur les fermetures près du sol. Le gilet de sauvetage se juge sur les amerrissages. Le balisage d’un atterrissage se juge sur les accidents de ce terrain. C’est ainsi que la cartographie, la base de données et le RETEX proposés plus haut prennent tout leur sens : ils ne servent pas seulement à comprendre, ils servent à vérifier.
-
-**[FIN DU BROUILLON]**
 
 [^c-obj-licences]: Nombre de licenciés FFVL de 2023 à 2026, intranet fédéral (intranet.ffvl.fr), communiqué à l’auteur. Ce sont toutes les licences de la fédération, et pas seulement les pilotes de parapente.
 
