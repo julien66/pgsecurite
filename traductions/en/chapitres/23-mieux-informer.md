@@ -26,6 +26,8 @@ T: the maximum level of turbulence encountered, on a scale of 0 to 3.
 | 2 | Turbulent | Active piloting. Thermal entries and exits must be piloted, disturbed airflow. Deep control inputs. |
 | 3 | Severe | In-flight incident likely despite active piloting. Choppy air mass, including outside climbs. Reflex reactions to incipient incidents. |
 
+*The turbulence level (T) of the WAT*
+
 This reference scale for the air is not perfect, and I urge the community to build a better one. It mixes objective observations with feelings and, obviously, a degree of personal skill. What is severe for one pilot may be merely turbulent for another. However, in the absence of any other framework, if tomorrow I hear a pilot announce a WAT of W30, A5, T3, it will help me stay on the ground. I know very well what that means, and I no longer want that at the moment.
 In any case, it is a more precise indication than hearing “it’s a bit strong but it’s fine” or “there’s plus eight”, when the vario is still set to instantaneous. A famous anecdote on this subject: I remember a competition situation at Mévouillon, when I was a coach for the youth free-flight squad. The north wind is coming over the launch while we are launching facing south, and the meet director asks the poor souls going out low how the conditions are. One pilot answers: “It’s hammering to death.” Silence, then he goes on again: “TO DEATH!”, really insisting. And right after, he adds: “Level 2.” Just like that. It became an in-joke within the squad, because “Level 2” does not fit what came before at all. Announcing “Level 2” is supposed to indicate conditions becoming strong or dangerous, not a fight for survival.
 
@@ -35,7 +37,7 @@ Unlike WAT, which aims to be a semi-objective framework for reading air conditio
 
 Comparing this level with someone of roughly the same experience helps one think about how one feels about the conditions, and regulate one’s level of arousal, one’s morale or that of a nearby pilot. It is an indispensable coaching tool that I encourage people to use to detect over-arousal and the moments when pilots become discouraged and more vulnerable. Hearing a young pilot with 3 years of experience announce a reference level of 5 when you are yourself above 7 after 25 years of experience is never good, either way. For the record, this tool was born after one of my worst training sessions as a coach. I misjudged an aerological situation that deteriorated near Font-Romeu. After a good hour of fierce struggle to keep the youth squad in sight and try to show them a reasonably safe way out, I land with one of them in strong wind but away from trouble. He says to me:
 
-- “That was a bit strong though, wasn’t it?”
+“That was a bit strong though, wasn’t it?”
 
 To this day, that session is still my level 10. A horror. Where was he on his own scale? I would say 10 as well without hesitation, but supervision, youth and the rest meant he did not experience it that way. In such a case, it is important to go back over it and not to minimise, trivialise or derealise what happened, because there is a limit. And that day, it was close.
 

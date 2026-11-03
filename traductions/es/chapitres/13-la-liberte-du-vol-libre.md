@@ -36,20 +36,20 @@ La libertad última del parapente reside en su capacidad de ofrecernos un viaje 
 - Futilidad, porque a los transgresores les dan igual las reglas. Las superan para realizar pruebas más personales y más profundas. El juicio es íntimo; procede casi siempre del fuero interno o, más raramente, de una forma de espiritualidad. En cualquier caso, las leyes humanas solo importan si se puede volver de la prueba, y por eso son secundarias.
 
 - Obstáculo, porque si la actividad fuera efectivamente aséptica y segura por completo, dejaría al instante de representar esa forma última de libertad. Sin transgresión y sin incertidumbre, el espíritu original se disipa. La sensación de ser libre desaparece. Ningún piloto de línea destaca la «libertad» que le ofrece su aeronave.  
-    
+
 - Sometimiento, puesto que la relación con la muerte es una noción que se vive individualmente. La moderación colectiva de los riesgos se considera sospechosa, porque cada uno quiere ser libre de percibir el riesgo y sus distintos grados como le parezca… Lo que parece una locura para uno puede ser completamente normal y seguro para otro. Estamos aquí cerca de la noción de libre albedrío, y quiero compartir una anécdota al respecto.  
-    
-  Una noche, mientras paseaba por un dique prohibido con marea alta y un océano agitado, perdí el equilibrio por un par de olas bien saladas. Mientras me batía en retirada, no sin esfuerzo, una señora mayor que yo vino a sermonearme:  
-    
-- «Pero bueno, ¿es usted un inconsciente o qué? ¿A qué está jugando? ¡Está viendo que está prohibido!»
+
+Una noche, mientras paseaba por un dique prohibido con marea alta y un océano agitado, perdí el equilibrio por un par de olas bien saladas. Mientras me batía en retirada, no sin esfuerzo, una señora mayor que yo vino a sermonearme:  
+
+«Pero bueno, ¿es usted un inconsciente o qué? ¿A qué está jugando? ¡Está viendo que está prohibido!»
 
 Todavía me oigo responderle espontáneamente:
 
-- «Yo me muero donde quiero».
+«Yo me muero donde quiero».
 
 Con mucho ingenio, me dijo:
 
-- «¡En mi casa, no!»
+«¡En mi casa, no!»
 
 Como vemos, ante los intentos de moderar su toma de riesgos, las reacciones de los practicantes son muy vivas. Es que tienen la impresión de que se ataca uno de sus derechos fundamentales. Todos los intentos de ajuste de seguridad o de convenciones colectivas que afectaran a la emancipación, la accesibilidad, la desvinculación y la libertad última del vuelo libre son insoportables porque simbolizan el pájaro al que se mete en una jaula. Los pilotos de vuelo libre reclaman de forma masiva el derecho a asumir por sí mismos, y sin moderación externa, su compromiso y su toma de riesgos. Aceptan los discursos preventivos y las acciones de formación mientras no amenacen su libre albedrío y la posibilidad de implicarse en su actividad según sus propias modalidades. En cambio, los pilotos desconfían de las formas de gestión colectiva de la seguridad y de las reglamentaciones que, según creen, podrían reducir su libertad fundamental de volar u obligarles a modificar sus modalidades individuales de práctica.
 

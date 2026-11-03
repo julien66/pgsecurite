@@ -26,6 +26,8 @@ T: el nivel máximo de turbulencia encontrado, en una escala de 0 a 3.
 | 2 | Turbulento | Pilotaje activo. Entradas y salidas de térmica que hay que pilotar, flujo perturbado. Amplitud de mando profunda. |
 | 3 | Severo | Incidencia de vuelo probable a pesar del pilotaje activo. Masa de aire picada incluso fuera de las ascendencias. Reacciones reflejas ante los inicios de incidencia. |
 
+*El nivel de turbulencia (T) del WAT*
+
 Este referente del aire no es perfecto, y animo a la comunidad a construir uno mejor. Mezcla observaciones objetivas con sensaciones y, evidentemente, con una forma de competencia personal. Lo que es severo para uno puede ser solo turbulento para otro. No obstante, a falta de otro marco de lectura, si mañana oigo a un piloto anunciar un WAT W30, A5, T3, me ayudará a quedarme en el suelo. Sé muy bien lo que eso representa y ahora mismo ya no me apetece.  
 En todo caso, es una indicación más precisa que oír decir «está un poco fuerte, pero se puede» o «hay más de ocho» cuando el variómetro todavía está ajustado en instantáneo. Una anécdota célebre al respecto: recuerdo una situación de competición en Mévouillon, cuando era entrenador en el pôle Espoirs de vuelo libre (el centro de tecnificación juvenil). El despegue queda a sotavento del viento del norte mientras despegamos en la cara sur, y el director de prueba pregunta a los pobres desgraciados que salen en las capas bajas cómo están las condiciones. Un piloto responde: «Está pegando a muerte». Silencio, y luego vuelve a la carga: «¡A MUERTE!», insistiendo bien. Y justo después añade: «Nivel 2». Así, sin más. Se convirtió en una broma dentro del pôle, porque la expresión «Nivel 2» no encaja en absoluto con lo anterior. Anunciar «Nivel 2» se supone que indica condiciones que se vuelven fuertes o peligrosas, no una lucha por la supervivencia.
 
@@ -35,7 +37,7 @@ A diferencia del WAT, que aspira a ser un marco de lectura semiobjetivo de las c
 
 Comparar este nivel con alguien que tiene más o menos la misma experiencia permite reflexionar sobre la propia sensación de las condiciones y regular el propio nivel de activación, el propio ánimo o el de un piloto cercano. Es una herramienta de entrenador indispensable que animo a utilizar para detectar los momentos de sobreactivación y aquellos en los que los pilotos se desaniman y se vuelven más vulnerables. Oír a un joven piloto con 3 años de experiencia anunciar un nivel de referencia 5 cuando uno mismo está por encima de 7 tras 25 años de experiencia nunca es buena señal, ni en un sentido ni en otro. Como anécdota, esta herramienta nació después de uno de mis peores entrenamientos como entrenador. Anticipé mal una situación aerológica que degeneró cerca de Font-Romeu. Tras una hora larga de lucha encarnizada por no perder de vista a los jóvenes del pôle Espoirs e intentar mostrarles una salida más o menos sana, aterrizo con uno de ellos con viento fuerte, pero fuera de los líos. Me dice:
 
-- «Estaba un poquito fuerte, ¿no?»
+«Estaba un poquito fuerte, ¿no?»
 
 A día de hoy, esa sesión sigue siendo mi nivel 10. Un horror. ¿En qué punto de la escala estaba él? Yo diría 10 también sin dudarlo, pero la supervisión, la juventud y lo demás hicieron que no lo viviera así. En este caso, es importante volver sobre ello y no minimizar, banalizar ni desrealizar lo que ha pasado, porque existe un límite. Y ese día estaba cerca.
 

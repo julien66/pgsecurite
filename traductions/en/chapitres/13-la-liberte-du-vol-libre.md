@@ -39,17 +39,17 @@ The ultimate freedom of paragliding lies in its ability to offer us a journey th
 
 - Enslavement, since the relationship with death is something each person grasps individually. Collective moderation of risk is viewed with suspicion, since everyone wants to be free to perceive risk and its different degrees however they see fit… What looks like madness to one person may be perfectly normal and safe to another. We are close here to the notion of free will, and I would like to share an anecdote about it.
 
-  One night, as I was walking along a sea wall that was off-limits at high tide, with a rough ocean, I was knocked off balance by a couple of very salty breakers. As I beat a retreat, not without difficulty, a lady older than me came to lecture me:
+One night, as I was walking along a sea wall that was off-limits at high tide, with a rough ocean, I was knocked off balance by a couple of very salty breakers. As I beat a retreat, not without difficulty, a lady older than me came to lecture me:
 
-- “Really, are you out of your mind or what? What are you playing at? You can see it’s forbidden!”
+“Really, are you out of your mind or what? What are you playing at? You can see it’s forbidden!”
 
 I can still hear myself replying spontaneously:
 
-- “I’ll die where I like.”
+“I’ll die where I like.”
 
 With great wit, she said:
 
-- “Not on my patch!”
+“Not on my patch!”
 
 As we can see, pilots react very strongly to attempts to moderate their risk-taking. That is because they feel one of their fundamental rights is under attack. Every attempt at safety adjustments or collective agreements that would touch the emancipation, accessibility, release and ultimate freedom of free flight is unbearable, because it symbolises the bird being put in a cage. Free-flying pilots overwhelmingly claim the right to take responsibility themselves, without outside moderation, for their commitment and their risk-taking. They accept prevention messages and training as long as these do not threaten their free will and their ability to engage in their activity in their own way. On the other hand, pilots are wary of forms of collective safety management and of regulations that might, they think, reduce their fundamental freedom to fly or force them to change their individual way of flying.
 

@@ -36,20 +36,20 @@ La liberté ultime du parapente réside dans sa capacité à nous offrir un voya
 - Futilité parce que les transgresseurs se moquent des règles. Ils les dépassent pour effectuer des épreuves plus personnalisées et plus profondes. Le jugement est intime, il vient le plus souvent d’un for intérieur ou plus rarement d’une forme de spiritualité. Dans tous les cas, les lois humaines n’importent que si l’on peut revenir de l’épreuve et c’est par là qu’elles sont secondaires.
 
 - Entrave parce que si l’activité était effectivement complètement aseptisée et sûre, alors elle cesserait instantanément de représenter cette forme ultime de liberté. Sans transgression et sans incertitude, l’esprit originel se dissipe. La sensation d’être libre disparaît. Aucun pilote de ligne ne met en avant la « liberté » offerte par son aéronef.  
-    
+
 - Asservissement puisque le rapport à la mort est une notion qui s’appréhende individuellement. La modération collective des risques est jugée suspecte tant chacun se veut libre de percevoir le risque et ses différents degrés où bon lui semble… Ce qui ressemble à une folie pour l’un peut être tout à fait normal et sûr pour un autre. Nous sommes ici proches de la notion de libre arbitre et je souhaite partager une anecdote à ce sujet.  
-    
-  Une nuit, alors que je me promenais sur une digue interdite à marée haute par un océan agité, je fus déséquilibré par une paire de déferlantes bien salées. Alors que je battais en retraite, non sans mal, une dame plus âgée que moi vint me sermonner :  
-    
-- « Mais enfin, vous êtes inconscient ou quoi ? À quoi jouez-vous ? Vous voyez bien que c’est interdit \! »
+
+Une nuit, alors que je me promenais sur une digue interdite à marée haute par un océan agité, je fus déséquilibré par une paire de déferlantes bien salées. Alors que je battais en retraite, non sans mal, une dame plus âgée que moi vint me sermonner :  
+
+« Mais enfin, vous êtes inconscient ou quoi ? À quoi jouez-vous ? Vous voyez bien que c’est interdit \! »
 
 Je m’entends encore lui répondre spontanément :
 
-- « Je meurs où je veux ».
+« Je meurs où je veux. »
 
 Avec beaucoup de répartie, elle m’a dit : 
 
-- « Pas chez moi \! »
+« Pas chez moi \! »
 
 Nous le voyons, face aux tentatives de modération de leur prise de risque, les réactions des pratiquants sont très vives. C’est qu’ils ont l’impression que l’on s’attaque à un de leurs droits fondamentaux. Toutes les tentatives d’ajustement sécuritaire ou de conventions collectives qui toucheraient l’émancipation, l’accessibilité, l’affranchissement et la liberté ultime du vol libre sont insupportables parce qu’elles symbolisent l’oiseau que l’on met en cage. Les libéristes réclament massivement le droit d’assumer par eux-mêmes et sans modération extérieure leur engagement et leur prise de risque. Ils acceptent les discours préventifs et les actions de formation tant qu’ils ne menacent pas leur libre arbitre et la possibilité de s’investir dans leur activité selon les modalités qui leur sont propres. En revanche, les pilotes se méfient des formes de gestion collective de la sécurité et des réglementations qui pourraient, pensent-ils, réduire leur liberté fondamentale de voler ou les forcer à modifier leurs modalités individuelles de pratique. 
 

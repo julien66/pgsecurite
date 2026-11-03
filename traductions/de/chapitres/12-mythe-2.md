@@ -116,7 +116,8 @@ Die Ausbildung behält darin ihren vollen Platz, hört aber auf, unsere einzige 
 ### Das Modell von James Reason
 
 In den 1990er-Jahren entwickelte James Reason eine Theorie, die unumgänglich geworden ist. Sie ist in unserem Umfeld gut bekannt, und ich bin sicher, dass das folgende Schema dem Leser sofort etwas sagen wird.
-*![](../images/reason-modele-des-plaques.png)*
+*![](../images/reason-modele-des-plaques.png)*  
+*Das Schichtenmodell von James Reason, das sogenannte „Schweizer-Käse-Modell“*
 
 Reason ist einer der ersten Autoren, die eine Methodik des Risikomanagements modelliert haben, indem er sich mit dem befasste, was er „Versagen“ nennt. Er unterschied drei mögliche Quellen:
 

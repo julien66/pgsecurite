@@ -39,17 +39,17 @@ Die äußerste Freiheit des Gleitschirmfliegens liegt in seiner Fähigkeit, uns 
 
 - Knechtschaft, da das Verhältnis zum Tod etwas ist, das jeder für sich erfasst. Die kollektive Begrenzung der Risiken gilt als verdächtig, so sehr will jeder frei sein, das Risiko und seine Abstufungen nach eigenem Gutdünken wahrzunehmen… Was dem einen wie Wahnsinn erscheint, kann für den anderen völlig normal und sicher sein. Wir sind hier nah am Begriff des freien Willens, und ich möchte dazu eine Anekdote erzählen.
 
-  Eines Nachts, als ich bei Flut und aufgewühltem Meer auf einer gesperrten Mole spazieren ging, brachten mich zwei kräftige, salzige Brecher aus dem Gleichgewicht. Als ich mich nicht ohne Mühe zurückzog, kam eine ältere Dame auf mich zu und hielt mir eine Predigt:
+Eines Nachts, als ich bei Flut und aufgewühltem Meer auf einer gesperrten Mole spazieren ging, brachten mich zwei kräftige, salzige Brecher aus dem Gleichgewicht. Als ich mich nicht ohne Mühe zurückzog, kam eine ältere Dame auf mich zu und hielt mir eine Predigt:
 
-- „Also wirklich, sind Sie lebensmüde oder was? Was soll das? Sie sehen doch, dass das verboten ist!“
+„Also wirklich, sind Sie lebensmüde oder was? Was soll das? Sie sehen doch, dass das verboten ist!“
 
 Ich höre mich noch spontan antworten:
 
-- „Ich sterbe, wo ich will.“
+„Ich sterbe, wo ich will.“
 
 Sehr schlagfertig sagte sie zu mir:
 
-- „Nicht bei mir!“
+„Nicht bei mir!“
 
 Wir sehen: Auf Versuche, ihre Risikobereitschaft zu begrenzen, reagieren die Piloten sehr heftig. Sie haben nämlich den Eindruck, man greife eines ihrer Grundrechte an. Alle Versuche sicherheitsbezogener Anpassungen oder kollektiver Vereinbarungen, die die Emanzipation, die Zugänglichkeit, die Loslösung und die äußerste Freiheit des freien Fliegens berühren würden, sind unerträglich, weil sie den Vogel symbolisieren, den man in den Käfig sperrt. Die Gleitschirm- und Drachenflieger fordern massenhaft das Recht, ihren Einsatz und ihre Risikobereitschaft selbst und ohne äußere Begrenzung zu verantworten. Sie akzeptieren Präventionsbotschaften und Ausbildungsmaßnahmen, solange diese ihren freien Willen und die Möglichkeit nicht bedrohen, sich auf ihre ganz eigene Weise in ihre Aktivität einzubringen. Dagegen misstrauen die Piloten Formen des kollektiven Sicherheitsmanagements und Regelungen, die, wie sie glauben, ihre grundlegende Freiheit zu fliegen einschränken oder sie zwingen könnten, ihre individuelle Art des Fliegens zu ändern.
 
