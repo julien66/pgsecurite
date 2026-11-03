@@ -9,3 +9,6 @@ Au service public du sport en France. C’est la position de cadre d’État qui
 À mon patron et directeur technique national Eric Wyss, qui est une source d’inspiration intellectuelle constante depuis bientôt 15 ans de travail commun, en plus d’être un exemple d’expertise, de compétence, de dévouement et d’investissement envers la communauté.
 
 À ma famille, qui me soutient dans les meilleurs et les pires moments tout au long du chemin. Merci de comprendre mes choix et de partager les risques en toute conscience.
+
+À mes enfants, auxquels je dis : "Papa revient toujours" et qui me croient. 
+Je vais continuer de faire de mon mieux.
