@@ -9,3 +9,5 @@ To the Fédération française de vol libre, to its leadership, and especially t
 To my boss and national technical director, Eric Wyss, who has been a constant source of intellectual inspiration over nearly 15 years of working together, as well as an example of expertise, competence, dedication and commitment to the community.
 
 To my family, who support me in the best and worst moments all along the way. Thank you for understanding my choices and for sharing the risks with full awareness.
+
+To my children, to whom I say “Daddy always comes back”, and who believe me. I will keep doing my best.

@@ -10,5 +10,4 @@ Au service public du sport en France. C’est la position de cadre d’État qui
 
 À ma famille, qui me soutient dans les meilleurs et les pires moments tout au long du chemin. Merci de comprendre mes choix et de partager les risques en toute conscience.
 
-À mes enfants, auxquels je dis : "Papa revient toujours" et qui me croient. 
-Je vais continuer de faire de mon mieux.
+À mes enfants, à qui je dis « Papa revient toujours » et qui me croient. Je vais continuer de faire de mon mieux.

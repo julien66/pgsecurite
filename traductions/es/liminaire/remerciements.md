@@ -9,3 +9,5 @@ A la Fédération française de vol libre, a sus dirigentes y muy especialmente 
 A mi jefe y director técnico nacional, Eric Wyss, que es una fuente constante de inspiración intelectual desde hace casi 15 años de trabajo en común, además de un ejemplo de pericia, competencia, dedicación y compromiso con la comunidad.
 
 A mi familia, que me apoya en los mejores y en los peores momentos a lo largo de todo el camino. Gracias por comprender mis decisiones y por compartir los riesgos con plena conciencia.
+
+A mis hijos, a quienes les digo «Papá siempre vuelve» y que me creen. Seguiré haciéndolo lo mejor que pueda.
