@@ -26,6 +26,8 @@ T : Le niveau de turbulence maximal rencontré sur une échelle de 0 à 3\.
 | 2 | Turbulent | Pilotage actif. Entrée et sortie de thermique à piloter, écoulement perturbé. Amplitude de commande profonde. |
 | 3 | Sévère | Incident de vol probable en dépit du pilotage actif. Masse d’air hachée y compris hors ascendances. Réactions réflexes aux amorces d’incidents.  |
 
+*Le niveau de turbulence (T) du WAT*
+
 Ce référentiel de l’air n’est pas parfait et j’engage la communauté à en construire un meilleur. Il mélange des observations objectives avec des ressentis et évidemment une forme de compétence personnelle. Ce qui est sévère pour l’un peut être seulement turbulent pour un autre. Toutefois, en l’absence d’une autre grille de lecture, si j’entends demain un pilote annoncer un WAT : W30, A5, T3, cela m’aidera à rester au sol. Je sais très bien ce que cela représente et je n’ai plus envie de cela en ce moment.  
 C’est en tout cas une indication plus précise que d’entendre dire « c’est un peu fort mais ça le fait » ou « Y’a du plus huit » alors que le vario est encore réglé en instantané. Une anecdote célèbre à ce sujet : je me souviens d’une situation de compétition à Mévouillon du temps où j’étais coach au pôle Espoirs vol libre. Le décollage passe sous le vent du nord alors que nous décollons en face sud et le directeur d’épreuve demande aux pauvres bougres qui sortent dans les basses couches comment sont les conditions. Un pilote répond : « Ça tabasse à mort ». Silence, puis à nouveau il reprend : « À MORT \! » en insistant bien. Et juste après il ajoute : « Niveau 2 ». Juste comme ça. C’est devenu une blague à l’intérieur du pôle parce que l’expression « Niveau 2 » n’est pas du tout adaptée au discours précédent. Annoncer « Niveau 2 » est censé indiquer des conditions devenant fortes ou dangereuses, pas une lutte pour sa survie.
 
@@ -35,7 +37,7 @@ C’est en tout cas une indication plus précise que d’entendre dire « c’e
 
 Comparer ce niveau à quelqu’un qui a à peu près la même expérience permet de réfléchir à son ressenti sur les conditions, réguler son niveau d’activation, son moral ou celui d’un pilote proche. C’est un outil de coach indispensable que j’encourage à utiliser pour détecter les surrégimes et les moments où les pilotes se découragent et deviennent plus vulnérables. Entendre un jeune pilote de 3 ans d’expérience annoncer un niveau référé 5 quand on est soi-même au-dessus de 7 après 25 ans d’expérience n’est jamais bon, ni dans un sens, ni dans l’autre. Pour la petite histoire, cet outil est né après l’un de mes pires entraînements en tant que coach. J’ai mal anticipé une situation aérologique qui a dégénéré près de Font-Romeu. Après une grosse heure de lutte acharnée pour garder le visuel sur les jeunes du pôle Espoirs et tenter de leur montrer une sortie à peu près saine, je me pose avec l’un d’entre eux dans du vent fort mais en dehors des embrouilles. Il me dit : 
 
-- « C’était quand même un petit peu fort, là, non ? » 
+« C’était quand même un petit peu fort, là, non ? » 
 
 À ce jour, cette séance représente toujours mon niveau 10\. Une horreur. À quelle échelle était-il lui-même ? Je dirais 10 aussi sans hésiter, mais l’encadrement, la jeunesse et le reste font qu’il ne l’a pas vécu comme ça. Dans ce cas, c’est important de revenir dessus et de ne pas minimiser, banaliser ou déréaliser ce qui s’est passé parce qu’il existe une limite. Et ce jour-là, elle était proche.
 

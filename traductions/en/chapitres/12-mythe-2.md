@@ -118,7 +118,8 @@ Training keeps its full place, but it stops being our only answer.
 ### James Reason’s model
 
 In the 1990s, James Reason developed a theory that has become essential. It is well known in our world, and I am sure the diagram below will immediately ring a bell for the reader.
-*![](../images/reason-modele-des-plaques.png)*
+*![](../images/reason-modele-des-plaques.png)*  
+*James Reason’s layered model, known as the “Swiss cheese” model (illustrative diagram)*
 
 Reason was one of the first authors to model a risk management method by focusing on what he calls “failures”. He categorised three potential sources:
 

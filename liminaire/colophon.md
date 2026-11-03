@@ -14,5 +14,7 @@ Texte complet de la licence : <https://creativecommons.org/licenses/by-nc-nd/4.
 
 Ce livre a été finalisé avec le concours d’une intelligence artificielle, qui a participé à la rédaction de paragraphes à partir des consignes de l’auteur, à la mise en forme des notes et aux corrections. Les idées, les choix et les éventuelles erreurs restent ceux de l’auteur.
 
+Par commodité, ce livre parle le plus souvent du pilote au masculin. Il s’adresse pourtant à toutes et à tous, quel que soit leur genre.
+
 ISBN : [À COMPLÉTER]  
 Dépôt légal : novembre 2026

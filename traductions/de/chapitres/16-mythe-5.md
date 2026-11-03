@@ -14,8 +14,8 @@ Man muss sich die Mühe machen, Gerald J. S. Wilde[^16] noch einmal zu lesen. Un
 
 Dieser Vergleich zwischen wahrgenommenem Risiko (Block b) und angestrebtem Zielrisiko (Block a) ist im folgenden Diagramm von Gerald J. S. Wilde schematisch dargestellt.
 
-![](../images/wilde-mecanisme-homeostatique.png)
-*Homeostatic mechanism*
+![](../images/wilde-mecanisme-homeostatique.png)  
+*Homöostatischer Mechanismus (Homeostatic mechanism), nach Gerald J. S. Wilde*
 
 
 ### Einige Richtigstellungen

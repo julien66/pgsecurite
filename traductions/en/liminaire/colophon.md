@@ -14,6 +14,8 @@ Full text of the licence: <https://creativecommons.org/licenses/by-nc-nd/4.0/dee
 
 This book was completed with the help of an artificial intelligence, which helped draft paragraphs following the author’s instructions, format the notes and make corrections. The ideas, the choices and any errors remain the author’s own.
 
+For convenience, this book most often refers to the pilot as “he”. It is nonetheless meant for every pilot, whatever their gender.
+
 **Translation.** This English edition is translated from the French original, *Sécurité en parapente. À nos risques et périls ?*. The translation was produced with the assistance of an artificial intelligence. Figures from the French federation (FFVL) and other sources are given exactly as in the original.
 
 Translation reviewed by: [TRANSLATOR TO BE CREDITED]

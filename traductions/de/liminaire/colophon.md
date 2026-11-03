@@ -14,6 +14,8 @@ Vollständiger Lizenztext: <https://creativecommons.org/licenses/by-nc-nd/4.0/de
 
 Dieses Buch wurde mit Unterstützung einer künstlichen Intelligenz fertiggestellt, die nach den Vorgaben des Autors an der Formulierung einzelner Absätze, an der Gestaltung der Anmerkungen und an den Korrekturen mitgewirkt hat. Die Ideen, die Entscheidungen und etwaige Fehler bleiben die des Autors.
 
+Der Einfachheit halber spricht dieses Buch meist in der männlichen Form vom Piloten. Es richtet sich jedoch an alle, unabhängig von ihrem Geschlecht.
+
 **Übersetzung.** Diese deutsche Ausgabe ist eine Übersetzung des französischen Originals *Sécurité en parapente. À nos risques et périls ?*. Die Übersetzung entstand mit Unterstützung einer künstlichen Intelligenz. Die Zahlen des französischen Verbands (FFVL) und anderer Quellen werden unverändert aus dem Original übernommen.
 
 Übersetzung durchgesehen von: [ÜBERSETZER/IN ZU NENNEN]
