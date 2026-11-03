@@ -1,6 +1,6 @@
 # Agradecimientos {.unnumbered}
 
-A Luc Armant, Maxime Bellemin, Mathilde Chivet, Serge Durrant, Alexia Fischer, Jean-Marc Galan, Thomas Senac y Louis Tapper, que leyeron este libro antes de su publicación y me hicieron llegar generosamente sus comentarios e impresiones. Gracias por su tiempo y su amabilidad: este libro es un poco mejor gracias a ustedes.
+A Luc Armant, Maxime Bellemin, Mathilde Chivet, Serge Durrant, Alexia Fischer, Jean-Marc Galan, Thomas Senac, Louis Tapper y Mathieu Verschave, que leyeron este libro antes de su publicación y me hicieron llegar generosamente sus comentarios e impresiones. Gracias por su tiempo y su amabilidad: este libro es un poco mejor gracias a ustedes.
 
 Al servicio público del deporte en Francia. Es mi puesto de técnico deportivo del Estado (*cadre d'État*) lo que permite que una reflexión así sobre el vuelo libre pueda desarrollarse. Tengo la suerte de seguir perteneciendo a la comunidad del vuelo libre al tiempo que puedo salir de ella para mirarla con perspectiva. La autonomía del estatuto de *professeur de sport* es excepcional y contribuye a liberar el tiempo y el dinero necesarios para este paso al lado. Con el tiempo, esta forma de pericia se vuelve cada vez más neutral y desinteresada. Me parece esencial.
 
