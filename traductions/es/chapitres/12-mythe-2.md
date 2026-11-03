@@ -117,7 +117,7 @@ La formación conserva todo su lugar, pero deja de ser nuestra única respuesta.
 
 En los años noventa, James Reason desarrolló una teoría que se ha vuelto ineludible. Es bien conocida en nuestro ambiente, y estoy seguro de que el esquema siguiente le resultará inmediatamente familiar al lector.  
 *![](../images/reason-modele-des-plaques.png)*  
-*El modelo de capas de James Reason, llamado «del queso suizo»*
+*El modelo de capas de James Reason, llamado «del queso suizo» (esquema ilustrativo)*
 
 Reason es uno de los primeros autores en modelizar una metodología de gestión de riesgos interesándose por lo que llama «fallos». Clasificó tres fuentes potenciales:
 

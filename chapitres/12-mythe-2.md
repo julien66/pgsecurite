@@ -118,7 +118,7 @@ La formation y garde toute sa place, mais elle cesse d’être notre seule répo
 
 Dans les années 1990, James Reason a développé une théorie qui est devenue incontournable. Elle est bien connue de notre milieu et je suis certain que le schéma ci-dessous évoquera immédiatement quelque chose au lecteur.  
 *![](../images/reason-modele-des-plaques.png)*  
-*Le modèle des plaques de James Reason, dit « du fromage suisse »*
+*Le modèle des plaques de James Reason, dit « du fromage suisse » (schéma illustratif)*
 
 Reason est l’un des premiers auteurs à modéliser une méthodologie de gestion des risques en s’intéressant à ce qu’il appelle des « défaillances ». Il a catégorisé trois sources potentielles :
 

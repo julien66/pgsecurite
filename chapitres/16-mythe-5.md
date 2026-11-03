@@ -15,7 +15,7 @@ Il faut faire l’effort de relire Gerald J. S. Wilde[^16]. Sans ambiguïté, le
 Ce comparatif entre risque perçu (bloc b) et état de risque cible (bloc a) est schématisé dans le diagramme proposé par Gerald J. S. Wilde ci-dessous. 
 
 ![](../images/wilde-mecanisme-homeostatique.png)  
-*Homeostatic mechanism*
+*Le mécanisme homéostatique (Homeostatic mechanism), d’après Gerald J. S. Wilde*
 
 
 ### Quelques corrections
