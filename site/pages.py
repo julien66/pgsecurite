@@ -101,9 +101,9 @@ def chemin(depuis, vers):
 def bandeau_traductions(langue, style=""):
     """Bandeau annonçant que de vraies traductions sont en cours dans la communauté.
 
-    Affiché en haut de chaque page traduite du site (pas en français) : la page
-    d'accueil, et la lecture en ligne (livre.html), où il est inséré par Pandoc
-    avec un style en ligne.
+    Affiché en haut de la lecture en ligne traduite (livre.html, pas en français),
+    où il est inséré par Pandoc avec un style en ligne. Sur la page d'accueil, le
+    même texte figure sous la présentation (voir page()).
     """
     if not PAGES[langue]["traductions"]:
         return ""
@@ -147,7 +147,14 @@ def page(langue):
         if l != langue
     )
 
-    bandeau = bandeau_traductions(langue)
+    # Sur la page d'accueil, le message sur les traductions est placé sous la
+    # présentation, au même endroit et avec le même style que l'ancien avertissement.
+    avertissement = ""
+    if p["traductions"]:
+        avertissement = (
+            f'      <p class="avertissement-ia">{e(p["traductions"])}'
+            f'<a href="mailto:{CONTACT}">{CONTACT}</a></p>\n'
+        )
 
     # Sur la page française seulement : si la langue du navigateur correspond
     # à une traduction, on la propose dans un bandeau (sans redirection).
@@ -210,14 +217,14 @@ def page(langue):
   <nav class="langues" aria-label="{e(p["navigation"])}">
 {liens_langues}
   </nav>
-{suggestion}{bandeau}  <main>
+{suggestion}  <main>
     <img src="couverture.png" alt="{e(p["image_alt"])}">
     <div>
       <h1>{e(p["titre"])}</h1>
       <p class="sous-titre">{e(p["sous_titre"])}</p>
       <p class="auteur">Julien Garcia</p>
       <p>{e(p["presentation"])}</p>
-      <div class="actions">
+{avertissement}      <div class="actions">
         <a class="principal" href="livre.html" data-goatcounter-click="lecture-en-ligne-{langue}" data-goatcounter-title="{e(p["lire"])} ({langue})">{e(p["lire"])}</a>
         <a href="livre.pdf" download="{e(p["fichier"])}.pdf" data-goatcounter-click="telechargement-pdf-{langue}" data-goatcounter-title="PDF ({langue})">{e(p["pdf"])}</a>
         <a href="livre.epub" download="{e(p["fichier"])}.epub" data-goatcounter-click="telechargement-epub-{langue}" data-goatcounter-title="EPUB ({langue})">{e(p["epub"])}</a>
