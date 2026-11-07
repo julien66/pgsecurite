@@ -1,6 +1,7 @@
 """Génère les pages d'accueil du site, une par langue.
 
 Usage : python3 site/pages.py build/site
+        python3 site/pages.py --bandeau en > bandeau.html
 
 Écrit build/site/index.html (français) et build/site/<langue>/index.html
 pour chaque traduction. Chaque page propose les autres langues, et la page
@@ -26,7 +27,7 @@ PAGES = {
         "pdf": "Télécharger le PDF",
         "epub": "Télécharger l’EPUB",
         "fichier": "Sécurité en parapente - À nos risques et périls",
-        # Pas de message sur les traductions en cours pour la version française.
+        # Pas de bandeau sur les traductions en cours pour la version française.
         "traductions": "",
         "licence": 'Diffusé sous licence <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr">CC BY-NC-ND 4.0</a> : vous pouvez le partager librement en citant l’auteur, sans usage commercial ni modification.',
         "autres": "Ce livre existe aussi en",
@@ -95,6 +96,32 @@ def chemin(depuis, vers):
     """Lien relatif d'une page (racine pour le français) vers une autre."""
     racine = "" if depuis == "fr" else "../"
     return racine + ("" if vers == "fr" else vers + "/")
+
+
+def bandeau_traductions(langue, style=""):
+    """Bandeau annonçant que de vraies traductions sont en cours dans la communauté.
+
+    Affiché en haut de la lecture en ligne traduite (livre.html, pas en français),
+    où il est inséré par Pandoc avec un style en ligne. Sur la page d'accueil, le
+    même texte figure sous la présentation (voir page()).
+    """
+    if not PAGES[langue]["traductions"]:
+        return ""
+    attribut = f' style="{style}"' if style else ""
+    lien = f' style="color: inherit; font-weight: bold;"' if style else ""
+    return (
+        f'  <aside class="traductions" lang="{langue}"{attribut}>\n'
+        f'    <p>{html.escape(PAGES[langue]["traductions"])}'
+        f'<a href="mailto:{CONTACT}"{lien}>{CONTACT}</a></p>\n'
+        f"  </aside>\n"
+    )
+
+
+# Style du bandeau dans livre.html, qui n'utilise pas style.css.
+STYLE_LIVRE = (
+    "border: 2px solid #b8860b; background: #fff8dc; color: #222; "
+    "border-radius: 6px; padding: 0 1em; margin: 0 0 2em; font-size: .95em;"
+)
 
 
 def page(langue):
@@ -213,6 +240,10 @@ def page(langue):
 
 
 def main():
+    # `pages.py --bandeau <langue>` écrit seulement le bandeau, pour livre.html.
+    if sys.argv[1] == "--bandeau":
+        sys.stdout.write(bandeau_traductions(sys.argv[2], STYLE_LIVRE))
+        return
     sortie = sys.argv[1]
     for langue in LANGUES:
         dossier = sortie if langue == "fr" else os.path.join(sortie, langue)
