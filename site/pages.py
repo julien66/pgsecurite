@@ -27,7 +27,8 @@ PAGES = {
         "pdf": "Télécharger le PDF",
         "epub": "Télécharger l’EPUB",
         "fichier": "Sécurité en parapente - À nos risques et périls",
-        "traductions": "Les versions anglaise, allemande et espagnole de ce livre sont pour l’instant des traductions automatiques. De vraies traductions, faites par des pilotes de la communauté, sont en cours : si vous lisez dans l’une de ces langues, vous pouvez aussi attendre cette meilleure version. Pour y participer, écrivez à Julien : ",
+        # Pas de bandeau sur les traductions en cours pour la version française.
+        "traductions": "",
         "licence": 'Diffusé sous licence <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr">CC BY-NC-ND 4.0</a> : vous pouvez le partager librement en citant l’auteur, sans usage commercial ni modification.',
         "autres": "Ce livre existe aussi en",
         "navigation": "Langues",
@@ -100,9 +101,12 @@ def chemin(depuis, vers):
 def bandeau_traductions(langue, style=""):
     """Bandeau annonçant que de vraies traductions sont en cours dans la communauté.
 
-    Affiché en haut de chaque page du site : les pages d'accueil, et la lecture
-    en ligne (livre.html), où il est inséré par Pandoc avec un style en ligne.
+    Affiché en haut de chaque page traduite du site (pas en français) : la page
+    d'accueil, et la lecture en ligne (livre.html), où il est inséré par Pandoc
+    avec un style en ligne.
     """
+    if not PAGES[langue]["traductions"]:
+        return ""
     attribut = f' style="{style}"' if style else ""
     lien = f' style="color: inherit; font-weight: bold;"' if style else ""
     return (
