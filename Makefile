@@ -67,10 +67,8 @@ pdf: couverture
 epub: couverture
 	$(PANDOC) $(OPTIONS) --split-level=1 --epub-cover-image=$(SORTIE)/couverture.png -o $(SORTIE)/livre.epub
 
-# Le bandeau sur les traductions en cours (site/pages.py) est placé en tête de la lecture en ligne.
 html: build
-	python3 site/pages.py --bandeau $(LANGUE) > $(SORTIE)/bandeau.html
-	$(PANDOC) $(OPTIONS) --standalone --embed-resources --toc-depth=3 --include-before-body=$(SORTIE)/bandeau.html -o $(SORTIE)/livre.html
+	$(PANDOC) $(OPTIONS) --standalone --embed-resources --toc-depth=3 -o $(SORTIE)/livre.html
 
 site: all favicon traductions
 	rm -rf build/site
