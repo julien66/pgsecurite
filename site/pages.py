@@ -1,6 +1,7 @@
 """Génère les pages d'accueil du site, une par langue.
 
 Usage : python3 site/pages.py build/site
+        python3 site/pages.py --bandeau en > bandeau.html
 
 Écrit build/site/index.html (français) et build/site/<langue>/index.html
 pour chaque traduction. Chaque page propose les autres langues, et la page
@@ -26,7 +27,7 @@ PAGES = {
         "pdf": "Télécharger le PDF",
         "epub": "Télécharger l’EPUB",
         "fichier": "Sécurité en parapente - À nos risques et périls",
-        "avertissement": "",
+        "traductions": "Les versions anglaise, allemande et espagnole de ce livre sont pour l’instant des traductions automatiques. De vraies traductions, faites par des pilotes de la communauté, sont en cours : si vous lisez dans l’une de ces langues, vous pouvez aussi attendre cette meilleure version. Pour y participer, écrivez à Julien : ",
         "licence": 'Diffusé sous licence <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr">CC BY-NC-ND 4.0</a> : vous pouvez le partager librement en citant l’auteur, sans usage commercial ni modification.',
         "autres": "Ce livre existe aussi en",
         "navigation": "Langues",
@@ -42,7 +43,7 @@ PAGES = {
         "pdf": "Download the PDF",
         "epub": "Download the EPUB",
         "fichier": "Safety in Paragliding - At our own risk and peril",
-        "avertissement": "This translation from French was produced by artificial intelligence and may contain mistakes. If you can help improve it, contact Julien: ",
+        "traductions": "This English version is, for now, a machine translation from French and may contain mistakes. A proper translation by pilots from the community is under way: if you prefer, you can wait for this better version. If you would like to help, contact Julien: ",
         "licence": 'Released under the <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en">CC BY-NC-ND 4.0</a> licence: you may share it freely with credit to the author, with no commercial use and no changes.',
         "autres": "This book is also available in",
         "navigation": "Languages",
@@ -60,7 +61,7 @@ PAGES = {
         "pdf": "PDF herunterladen",
         "epub": "EPUB herunterladen",
         "fichier": "Sicherheit beim Gleitschirmfliegen - Risiko oder Gefahr",
-        "avertissement": "Diese Übersetzung aus dem Französischen wurde von einer künstlichen Intelligenz erstellt und kann Fehler enthalten. Wenn Sie helfen können, sie zu verbessern, schreiben Sie Julien: ",
+        "traductions": "Diese deutsche Fassung ist vorerst eine maschinelle Übersetzung aus dem Französischen und kann Fehler enthalten. Eine echte Übersetzung durch Piloten aus der Gemeinschaft ist in Arbeit: Wenn Sie möchten, können Sie auf diese bessere Fassung warten. Wenn Sie mithelfen möchten, schreiben Sie Julien: ",
         "licence": 'Veröffentlicht unter der Lizenz <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de">CC BY-NC-ND 4.0</a>: Sie dürfen es unter Nennung des Autors frei weitergeben, ohne kommerzielle Nutzung und ohne Änderungen.',
         "autres": "Dieses Buch gibt es auch auf",
         "navigation": "Sprachen",
@@ -78,7 +79,7 @@ PAGES = {
         "pdf": "Descargar el PDF",
         "epub": "Descargar el EPUB",
         "fichier": "Seguridad en parapente - Riesgo o peligro",
-        "avertissement": "Esta traducción del francés ha sido realizada por una inteligencia artificial y puede contener errores. Si puede ayudar a mejorarla, contacte con Julien: ",
+        "traductions": "Por ahora, esta versión en español es una traducción automática del francés y puede contener errores. Una verdadera traducción, hecha por pilotos de la comunidad, está en marcha: si lo prefiere, puede esperar a esta versión mejorada. Si quiere colaborar, escriba a Julien: ",
         "licence": 'Publicado con la licencia <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es">CC BY-NC-ND 4.0</a>: puede compartirlo libremente citando al autor, sin uso comercial ni modificaciones.',
         "autres": "Este libro también está disponible en",
         "navigation": "Idiomas",
@@ -94,6 +95,29 @@ def chemin(depuis, vers):
     """Lien relatif d'une page (racine pour le français) vers une autre."""
     racine = "" if depuis == "fr" else "../"
     return racine + ("" if vers == "fr" else vers + "/")
+
+
+def bandeau_traductions(langue, style=""):
+    """Bandeau annonçant que de vraies traductions sont en cours dans la communauté.
+
+    Affiché en haut de chaque page du site : les pages d'accueil, et la lecture
+    en ligne (livre.html), où il est inséré par Pandoc avec un style en ligne.
+    """
+    attribut = f' style="{style}"' if style else ""
+    lien = f' style="color: inherit; font-weight: bold;"' if style else ""
+    return (
+        f'  <aside class="traductions" lang="{langue}"{attribut}>\n'
+        f'    <p>{html.escape(PAGES[langue]["traductions"])}'
+        f'<a href="mailto:{CONTACT}"{lien}>{CONTACT}</a></p>\n'
+        f"  </aside>\n"
+    )
+
+
+# Style du bandeau dans livre.html, qui n'utilise pas style.css.
+STYLE_LIVRE = (
+    "border: 2px solid #b8860b; background: #fff8dc; color: #222; "
+    "border-radius: 6px; padding: 0 1em; margin: 0 0 2em; font-size: .95em;"
+)
 
 
 def page(langue):
@@ -119,12 +143,7 @@ def page(langue):
         if l != langue
     )
 
-    avertissement = ""
-    if p["avertissement"]:
-        avertissement = (
-            f'      <p class="avertissement-ia">{e(p["avertissement"])}'
-            f'<a href="mailto:{CONTACT}">{CONTACT}</a></p>\n'
-        )
+    bandeau = bandeau_traductions(langue)
 
     # Sur la page française seulement : si la langue du navigateur correspond
     # à une traduction, on la propose dans un bandeau (sans redirection).
@@ -187,14 +206,14 @@ def page(langue):
   <nav class="langues" aria-label="{e(p["navigation"])}">
 {liens_langues}
   </nav>
-{suggestion}  <main>
+{suggestion}{bandeau}  <main>
     <img src="couverture.png" alt="{e(p["image_alt"])}">
     <div>
       <h1>{e(p["titre"])}</h1>
       <p class="sous-titre">{e(p["sous_titre"])}</p>
       <p class="auteur">Julien Garcia</p>
       <p>{e(p["presentation"])}</p>
-{avertissement}      <div class="actions">
+      <div class="actions">
         <a class="principal" href="livre.html" data-goatcounter-click="lecture-en-ligne-{langue}" data-goatcounter-title="{e(p["lire"])} ({langue})">{e(p["lire"])}</a>
         <a href="livre.pdf" download="{e(p["fichier"])}.pdf" data-goatcounter-click="telechargement-pdf-{langue}" data-goatcounter-title="PDF ({langue})">{e(p["pdf"])}</a>
         <a href="livre.epub" download="{e(p["fichier"])}.epub" data-goatcounter-click="telechargement-epub-{langue}" data-goatcounter-title="EPUB ({langue})">{e(p["epub"])}</a>
@@ -210,6 +229,10 @@ def page(langue):
 
 
 def main():
+    # `pages.py --bandeau <langue>` écrit seulement le bandeau, pour livre.html.
+    if sys.argv[1] == "--bandeau":
+        sys.stdout.write(bandeau_traductions(sys.argv[2], STYLE_LIVRE))
+        return
     sortie = sys.argv[1]
     for langue in LANGUES:
         dossier = sortie if langue == "fr" else os.path.join(sortie, langue)
