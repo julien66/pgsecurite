@@ -11,7 +11,7 @@ liminaire/   pages hors chapitres : licence et mentions (au début), glossaire e
 couverture/  la couverture (SVG) et la quatrième de couverture (texte dans quatrieme.txt, photo auteur.jpg)
 site/        le site de lecture : pages.py génère les pages d'accueil des quatre langues (textes dans PAGES), style.css
 notes/       éléments de travail, hors du livre compilé
-traductions/ les éditions anglaise (en/), allemande (de/) et espagnole (es/), et le glossaire terminologique commun
+traductions/ les éditions anglaise (en/), allemande (de/), espagnole (es/) et persane (fa/, en cours), et le glossaire terminologique commun
 metadata.yaml  titre, auteur, langue et mise en page pour Pandoc
 Makefile     commandes de compilation
 ```
@@ -30,8 +30,8 @@ make epub   # build/livre.epub
 make html   # build/livre.html
 make        # les trois
 make site   # build/site/ : page d'accueil, lecture en ligne, PDF et EPUB
-make pdf LANGUE=en   # une traduction : build/en/livre.pdf (de même avec de ou es)
-make traductions     # PDF, EPUB et HTML des trois traductions
+make pdf LANGUE=en   # une traduction : build/en/livre.pdf (de même avec de, es ou fa)
+make traductions     # PDF, EPUB et HTML des quatre traductions
 ```
 
 La couverture est produite à partir de `couverture/couverture.svg` avec `rsvg-convert` (paquet `librsvg`). Elle sert de première page au PDF et de couverture à l'EPUB.
@@ -52,7 +52,7 @@ Le livre est publié sous licence [Creative Commons BY-NC-ND 4.0](https://creati
 
 ## Site de lecture
 
-À chaque envoi sur `main`, GitHub construit un petit site (`build/site/`) : une page d'accueil avec la couverture, le livre à lire en ligne, et les liens pour télécharger le PDF et l'EPUB, en français à la racine et en traduction dans `en/`, `de/` et `es/`.
+À chaque envoi sur `main`, GitHub construit un petit site (`build/site/`) : une page d'accueil avec la couverture, le livre à lire en ligne, et les liens pour télécharger le PDF et l'EPUB, en français à la racine et en traduction dans `en/`, `de/`, `es/` et `fa/`. La page persane est écrite de droite à gauche (`dir="rtl"`) avec la police Vazirmatn, copiée dans `fa/fonts/`.
 
 Chaque page porte un sélecteur de langue en haut à droite et rappelle les autres langues sous les boutons. Chaque page traduite (pas la française) affiche un message dans sa langue, sous la présentation sur la page d'accueil et en bandeau en tête de la lecture en ligne : les traductions actuelles sont automatiques, de vraies traductions par des pilotes de la communauté sont en cours, le lecteur peut attendre cette meilleure version, et l'adresse de contact pour participer. Sur la page française, un lecteur dont le navigateur est réglé en anglais, en allemand ou en espagnol voit un bandeau qui lui propose sa langue ; il n'est jamais redirigé d'office, et le bandeau ne revient plus une fois fermé. Les textes des pages d'accueil sont dans `site/pages.py`.
 

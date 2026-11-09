@@ -1,6 +1,6 @@
 # Traductions
 
-Le livre est traduit en anglais (`en/`), en allemand (`de/`) et en espagnol (`es/`). Le français, à la racine du dépôt, reste la version de référence : une traduction suit toujours le texte français, jamais l'inverse.
+Le livre est traduit en anglais (`en/`), en allemand (`de/`), en espagnol (`es/`) et, pour la première partie, en persan (`fa/`). Le français, à la racine du dépôt, reste la version de référence : une traduction suit toujours le texte français, jamais l'inverse.
 
 ## Organisation
 
@@ -16,6 +16,7 @@ traductions/
     couverture/                 couverture.svg (titre traduit) et quatrieme.txt
   de/  (idem)
   es/  (idem)
+  fa/  (idem, plus fonts/ et deux feuilles de style : voir « Le persan » plus bas)
 ```
 
 Les fichiers gardent **les mêmes noms qu'en français** (`12-mythe-2.md` reste `12-mythe-2.md` en anglais). On retrouve ainsi tout de suite l'original d'un chapitre, et l'ordre de lecture est le même. Les images sont communes : elles restent dans `images/` à la racine et s'appellent toujours `../images/…`.
@@ -30,6 +31,19 @@ make traductions       # les trois langues
 ```
 
 Une traduction en cours se compile quand même : seuls les chapitres déjà présents sont assemblés. Sur GitHub, chaque PR et chaque envoi sur `main` compile aussi les trois traductions (artefact « livre », dossiers `en/`, `de/`, `es/`).
+
+## Le persan
+
+La traduction persane est l’œuvre d’un traducteur bénévole (crédité dans `fa/liminaire/colophon.md`). Elle couvre pour l’instant l’ouverture et la partie 1 (chapitres `00` à `19`) ; les chapitres de la partie 2 s’ajouteront avec les mêmes noms de fichiers. Un encadré en tête du livre (`fa/liminaire/avertissement.md`) le signale au lecteur.
+
+Le persan s’écrit de droite à gauche :
+
+- `fa/metadata.yaml` déclare `lang: fa-IR` et `dir: rtl` ; le PDF est compilé avec LuaLaTeX, dont l’algorithme bidirectionnel place correctement les mots latins, les chiffres et les liens dans le texte persan ;
+- la police est Vazirmatn (licence SIL OFL), fournie dans `fa/fonts/` : le Makefile la rend visible à rsvg-convert et à LuaLaTeX, l’EPUB l’embarque et le site la copie dans `fa/fonts/` ;
+- `fa/livre.css` (lecture en ligne) et `fa/epub.css` (EPUB) mettent le texte de droite à gauche ;
+- `couverture/quatrieme.py` aligne à droite une quatrième de couverture écrite en persan.
+
+Les schémas (Reason, Wilde, voyage du héros) restent les images communes ; leur légende persane détaillée est placée juste en dessous.
 
 ## Règles de traduction
 

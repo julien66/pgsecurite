@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Couverture du livre, au format A5 (148 x 210 mm).
+     Pour changer le titre, le sous-titre ou l'auteur, modifier les textes plus bas.
+     `make couverture` produit build/couverture.png (EPUB, site) et build/couverture.pdf (PDF). -->
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 1480 2100">
+  <defs>
+    <linearGradient id="ciel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#14213d"/>
+      <stop offset="0.45" stop-color="#2b4a73"/>
+      <stop offset="0.75" stop-color="#d98b5f"/>
+      <stop offset="1" stop-color="#f2c38b"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Ciel -->
+  <rect width="1480" height="2100" fill="url(#ciel)"/>
+
+  <!-- Titre (persan, de droite à gauche) -->
+  <g font-family="Vazirmatn" fill="#ffffff" text-anchor="middle" direction="rtl">
+    <text x="740" y="400" font-size="136" font-weight="bold">ایمنی</text>
+    <text x="740" y="540" font-size="104" font-weight="bold">در پاراگلایدر</text>
+    <text x="740" y="740" font-size="54" fill="#f2c38b">آیا مسئولیت خطرهای پرواز</text>
+    <text x="740" y="820" font-size="54" fill="#f2c38b">و پیامدهایشان با خودمان است؟</text>
+  </g>
+  <rect x="640" y="610" width="200" height="4" fill="#f2c38b"/>
+
+  <!-- Parapente, juste suggéré : un croissant arrondi et le pilote -->
+  <g transform="translate(980 1000) rotate(-10)" opacity="0.5">
+    <path d="M -170 30 C -110 -60 110 -60 170 30 C 100 -22 -100 -22 -170 30 Z"
+          fill="#f2d3b3" stroke="#f2d3b3" stroke-width="10" stroke-linejoin="round"/>
+    <circle cx="0" cy="150" r="9" fill="#f2d3b3" fill-opacity="0.8"/>
+  </g>
+
+  <!-- Reliefs -->
+  <path d="M 0 1560 L 180 1430 L 320 1500 L 520 1310 L 700 1450 L 860 1350 L 1060 1500 L 1240 1380 L 1480 1520 L 1480 2100 L 0 2100 Z"
+        fill="#8a5a6b" fill-opacity="0.55"/>
+  <path d="M 0 1700 L 220 1560 L 400 1650 L 640 1480 L 820 1620 L 1020 1530 L 1260 1680 L 1480 1600 L 1480 2100 L 0 2100 Z"
+        fill="#3d3550"/>
+  <path d="M 0 1860 L 300 1740 L 560 1820 L 820 1720 L 1120 1840 L 1480 1760 L 1480 2100 L 0 2100 Z"
+        fill="#1b1a2e"/>
+
+  <!-- Auteur -->
+  <text x="740" y="1990" font-family="Vazirmatn" font-size="60" direction="rtl"
+        fill="#ffffff" text-anchor="middle">ژولین گارسیا</text>
+</svg>

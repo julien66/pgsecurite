@@ -1,0 +1,12 @@
+/* Lecture en ligne en persan : police Vazirmatn, texte de droite à gauche. */
+@font-face { font-family: "Vazirmatn"; font-weight: normal; src: url("fonts/Vazirmatn-Regular.ttf"); }
+@font-face { font-family: "Vazirmatn"; font-weight: bold; src: url("fonts/Vazirmatn-Bold.ttf"); }
+html, body { font-family: "Vazirmatn", "Tahoma", sans-serif; line-height: 1.9; }
+html, body { direction: rtl; text-align: right; }
+em { font-style: normal; }
+a { unicode-bidi: plaintext; }
+code, pre { direction: ltr; unicode-bidi: embed; }
+table { direction: rtl; border-collapse: collapse; margin: 1em auto; }
+th, td { padding: .35em .8em; border-bottom: 1px solid #ccc; text-align: right; vertical-align: top; }
+.legende-figure { font-size: .9em; border-right: 3px solid #b8860b; padding-right: 1em; margin: 0 0 1.5em; }
+.footnote-back { unicode-bidi: isolate; }
