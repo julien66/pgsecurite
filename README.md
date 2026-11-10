@@ -64,6 +64,25 @@ La mise en ligne sur GitHub Pages est désactivée par défaut. Pour l'activer :
 
 Le site sera alors publié à l'adresse `https://julien66.github.io/pgsecurite/`.
 
+## Sous-domaines par langue
+
+Le site est servi par GitHub Pages sur `securite.jugarcia.fr`. GitHub Pages n'accepte qu'un seul nom de domaine par site, donc chaque langue a un sous-domaine court qui redirige vers sa page :
+
+| Adresse | Redirige vers |
+| --- | --- |
+| `safety.jugarcia.fr` | `https://securite.jugarcia.fr/en/` |
+| `sicherheit.jugarcia.fr` | `https://securite.jugarcia.fr/de/` |
+| `seguridad.jugarcia.fr` | `https://securite.jugarcia.fr/es/` |
+| `amniat.jugarcia.fr` (امنیت, « sécurité ») | `https://securite.jugarcia.fr/fa/` |
+
+La suite de l'adresse est conservée (`safety.jugarcia.fr/livre.pdf` mène à `securite.jugarcia.fr/en/livre.pdf`). Les redirections sont faites par l'hébergement web OVH de `jugarcia.fr`, qui fournit aussi le certificat HTTPS :
+
+1. Déposer par FTP le fichier `site/sous-domaines/.htaccess` dans un nouveau dossier `sous-domaines/` de l'hébergement.
+2. Dans l'espace client OVH, **Hébergements > Multisite > Ajouter un domaine ou sous-domaine**, pour chacun des quatre sous-domaines : dossier racine `sous-domaines`, cocher **SSL** et laisser OVH **créer l'entrée DNS** (enregistrements A `5.135.23.164` et AAAA `2001:41d0:301::100`).
+3. Une fois les quatre ajoutés, **Hébergements > Informations générales > Certificat SSL > Régénérer** si le certificat n'inclut pas encore les nouveaux noms.
+
+Chaque page indique `securite.jugarcia.fr` comme adresse de référence (`rel="canonical"` et `hreflang` absolus dans `site/pages.py`), pour que les moteurs de recherche ne voient pas de doublons.
+
 ## Mesure d'audience
 
 Le site peut compter ses visites, les lectures en ligne et les téléchargements du PDF et de l'EPUB avec [GoatCounter](https://www.goatcounter.com) : gratuit pour un usage non commercial, sans cookie et sans données personnelles, donc sans bandeau de consentement.
