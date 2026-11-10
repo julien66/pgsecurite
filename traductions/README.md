@@ -43,7 +43,7 @@ Le persan s’écrit de droite à gauche :
 - `fa/livre.css` (lecture en ligne) et `fa/epub.css` (EPUB) mettent le texte de droite à gauche ;
 - `couverture/quatrieme.py` aligne à droite une quatrième de couverture écrite en persan.
 
-Les schémas (Reason, Wilde, voyage du héros) restent les images communes ; leur légende persane détaillée est placée juste en dessous.
+Les trois schémas (Reason, Wilde, voyage du héros) ont été traduits en persan par le traducteur : ils sont dans `images/fa/`, sous le même nom que les originaux.
 
 ## Règles de traduction
 
