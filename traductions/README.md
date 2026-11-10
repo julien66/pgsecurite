@@ -34,7 +34,7 @@ Une traduction en cours se compile quand même : seuls les chapitres déjà pré
 
 ## Le persan
 
-La traduction persane est l’œuvre d’un traducteur bénévole (crédité dans `fa/liminaire/colophon.md`). Elle couvre tout le livre, glossaire et remerciements compris. Comme ce n’est pas une traduction automatique, elle n’a ni encadré d’avertissement ni message sur le site.
+La traduction persane est l’œuvre de Soheil Barikani et de sa compagnie Cloudbase, crédités dans `fa/liminaire/colophon.md`. Elle couvre tout le livre, glossaire et remerciements compris. Comme ce n’est pas une traduction automatique, elle n’a ni encadré d’avertissement ni message sur le site.
 
 Le persan s’écrit de droite à gauche :
 
