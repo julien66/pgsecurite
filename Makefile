@@ -4,21 +4,24 @@
 #   make html       -> build/livre.html
 #   make couverture -> couverture et quatrième de couverture en PNG et PDF (nécessite rsvg-convert et python3)
 #   make favicon    -> favicons du site dans build/favicon/ (nécessite rsvg-convert et python3)
-#   make site       -> build/site/ : pages d'accueil (FR, EN, DE, ES), lecture en ligne, PDF et EPUB
+#   make site       -> build/site/ : pages d'accueil (FR, EN, DE, ES, FA), lecture en ligne, PDF et EPUB
 #   make            -> le PDF, l'EPUB et le HTML
 #
-# Traductions : ajouter LANGUE=en, LANGUE=de ou LANGUE=es à n'importe quelle
+# Traductions : ajouter LANGUE=en, LANGUE=de, LANGUE=es ou LANGUE=fa à n'importe quelle
 # commande de livre (pdf, epub, html, couverture, all). Les sources sont lues
 # dans traductions/<langue>/ et le résultat va dans build/<langue>/.
 #   make pdf LANGUE=en  -> build/en/livre.pdf
 #   make traductions    -> PDF, EPUB et HTML de chaque traduction
+#
+# Le persan (fa) s'écrit de droite à gauche : son PDF passe par LuaLaTeX et sa
+# police Vazirmatn est lue dans traductions/fa/fonts/ (voir plus bas).
 #
 # Mesure d'audience : `make site GOATCOUNTER=moncode` ajoute GoatCounter
 # (https://moncode.goatcounter.com) à la page d'accueil du site.
 GOATCOUNTER ?=
 
 LANGUE    ?= fr
-LANGUES   := en de es
+LANGUES   := en de es fa
 
 ifeq ($(LANGUE),fr)
 SOURCE    := .
@@ -36,6 +39,21 @@ QUATRIEME := $(firstword $(wildcard $(SOURCE)/couverture/quatrieme.txt) couvertu
 PANDOC    := pandoc
 # Les images sont communes à toutes les langues (images/), appelées en ../images/ depuis chapitres/.
 OPTIONS   := -f markdown+autolink_bare_uris --toc $(SOURCE)/metadata.yaml $(LIMINAIRE) $(CHAPITRES) $(FIN) --resource-path=chapitres --top-level-division=chapter
+MOTEUR    := xelatex
+OPTIONS_EPUB :=
+OPTIONS_HTML :=
+
+# Persan : texte de droite à gauche et police Vazirmatn (traductions/fa/fonts/,
+# licence SIL OFL). Fontconfig cherche les polices dans $(XDG_DATA_HOME)/fonts :
+# rsvg-convert (couverture) et LuaLaTeX (PDF) la trouvent donc sans installation.
+# LuaLaTeX applique l'algorithme bidirectionnel Unicode (babel, bidi=basic), ce qui
+# place correctement les mots latins, les chiffres et les liens dans le texte persan.
+ifeq ($(LANGUE),fa)
+export XDG_DATA_HOME := $(CURDIR)/$(SOURCE)
+MOTEUR       := lualatex
+OPTIONS_EPUB := --css=$(SOURCE)/epub.css --epub-embed-font=$(SOURCE)/fonts/Vazirmatn-Regular.ttf --epub-embed-font=$(SOURCE)/fonts/Vazirmatn-Bold.ttf
+OPTIONS_HTML := --css=$(SOURCE)/livre.css
+endif
 
 all: pdf epub html
 
@@ -62,15 +80,15 @@ favicon: build
 	python3 couverture/ico.py build/favicon/favicon.ico build/favicon/favicon-16.png build/favicon/favicon-32.png build/favicon/favicon-48.png
 
 pdf: couverture
-	$(PANDOC) $(OPTIONS) --pdf-engine=xelatex -o $(SORTIE)/livre.pdf
+	$(PANDOC) $(OPTIONS) --pdf-engine=$(MOTEUR) -o $(SORTIE)/livre.pdf
 
 epub: couverture
-	$(PANDOC) $(OPTIONS) --split-level=1 --epub-cover-image=$(SORTIE)/couverture.png -o $(SORTIE)/livre.epub
+	$(PANDOC) $(OPTIONS) --split-level=1 --epub-cover-image=$(SORTIE)/couverture.png $(OPTIONS_EPUB) -o $(SORTIE)/livre.epub
 
 # Le bandeau sur les traductions en cours (site/pages.py) est placé en tête de la lecture en ligne.
 html: build
 	python3 site/pages.py --bandeau $(LANGUE) > $(SORTIE)/bandeau.html
-	$(PANDOC) $(OPTIONS) --standalone --embed-resources --toc-depth=3 --include-before-body=$(SORTIE)/bandeau.html -o $(SORTIE)/livre.html
+	$(PANDOC) $(OPTIONS) --standalone --embed-resources --toc-depth=3 --include-before-body=$(SORTIE)/bandeau.html $(OPTIONS_HTML) -o $(SORTIE)/livre.html
 
 site: all favicon traductions
 	rm -rf build/site
@@ -79,6 +97,8 @@ site: all favicon traductions
 	cp site/style.css build/couverture.png build/livre.html build/livre.pdf build/livre.epub build/site/
 	cp build/favicon/favicon.ico build/favicon/favicon.svg build/favicon/apple-touch-icon.png build/favicon/icon-192.png build/favicon/icon-512.png site/site.webmanifest build/site/
 	for l in $(LANGUES); do cp build/$$l/couverture.png build/$$l/livre.html build/$$l/livre.pdf build/$$l/livre.epub build/site/$$l/ || exit 1; done
+	mkdir -p build/site/fa/fonts
+	cp traductions/fa/fonts/Vazirmatn-Regular.ttf traductions/fa/fonts/Vazirmatn-Bold.ttf build/site/fa/fonts/
 ifneq ($(GOATCOUNTER),)
 	sed -i 's|<!-- MESURE D.AUDIENCE[^>]*-->|<script data-goatcounter="https://$(GOATCOUNTER).goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>|' build/site/index.html build/site/*/index.html
 endif

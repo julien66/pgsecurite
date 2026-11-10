@@ -13,7 +13,16 @@ import os
 import sys
 
 # Ordre d'affichage du sélecteur de langue.
-LANGUES = ["fr", "en", "de", "es"]
+LANGUES = ["fr", "en", "de", "es", "fa"]
+
+# Langues écrites de droite à gauche : la page reçoit dir="rtl".
+RTL = {"fa"}
+
+
+def direction(langue):
+    """Attribut dir à ajouter à un élément dans cette langue (vide pour le sens habituel)."""
+    return ' dir="rtl"' if langue in RTL else ""
+
 
 PAGES = {
     "fr": {
@@ -87,6 +96,26 @@ PAGES = {
         "suggestion": "Este libro también está disponible en español.",
         "suggestion_lien": "Leerlo en español",
     },
+    "fa": {
+        "nom": "فارسی",
+        "titre": "ایمنی در پاراگلایدر",
+        "sous_titre": "آیا مسئولیت خطرهای پرواز و پیامدهایشان با خودمان است؟",
+        "description": "کتابی از ژولین گارسیا دربارهٔ ایمنی در پاراگلایدر، برای خواندن آنلاین یا دریافت رایگان. ترجمهٔ فارسی.",
+        "image_alt": "جلد کتاب ایمنی در پاراگلایدر: پاراگلایدری بر فراز کوه‌ها در هنگام غروب",
+        "presentation": "این کتاب راهنمای خلبانی نیست. نگاهی است به جامعهٔ پروازی ما و طرز فکرمان دربارهٔ ایمنی، به قلم یک خلبان، مربی و کارشناس بررسی سوانح. کتاب رایگان است و می‌توانید آن را آنلاین بخوانید یا دریافت کنید.",
+        "lire": "خواندن آنلاین",
+        "pdf": "دریافت PDF",
+        "epub": "دریافت EPUB",
+        "fichier": "ایمنی در پاراگلایدر",
+        # Traduction complète, faite par un pilote bénévole : pas de message sur les traductions en cours.
+        "traductions": "",
+        "licence": 'منتشرشده با مجوز <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fa">CC BY-NC-ND 4.0</a>: می‌توانید آن را با ذکر نام نویسنده آزادانه به اشتراک بگذارید، بدون استفادهٔ تجاری و بدون تغییر.',
+        "autres": "این کتاب به این زبان‌ها هم در دسترس است:",
+        "navigation": "زبان‌ها",
+        "suggestion": "این کتاب به فارسی هم در دسترس است.",
+        "suggestion_lien": "خواندن به فارسی",
+        "auteur": "ژولین گارسیا",
+    },
 }
 
 CONTACT = "j.garcia@ffvl.fr"
@@ -110,7 +139,7 @@ def bandeau_traductions(langue, style=""):
     attribut = f' style="{style}"' if style else ""
     lien = f' style="color: inherit; font-weight: bold;"' if style else ""
     return (
-        f'  <aside class="traductions" lang="{langue}"{attribut}>\n'
+        f'  <aside class="traductions" lang="{langue}"{direction(langue)}{attribut}>\n'
         f'    <p>{html.escape(PAGES[langue]["traductions"])}'
         f'<a href="mailto:{CONTACT}"{lien}>{CONTACT}</a></p>\n'
         f"  </aside>\n"
@@ -135,14 +164,14 @@ def page(langue):
     )
 
     liens_langues = "\n".join(
-        f'    <a href="{chemin(langue, l) or "./"}" hreflang="{l}" lang="{l}"'
+        f'    <a href="{chemin(langue, l) or "./"}" hreflang="{l}" lang="{l}"{direction(l)}'
         + (' aria-current="page"' if l == langue else "")
         + f">{PAGES[l]['nom']}</a>"
         for l in LANGUES
     )
 
-    autres = ", ".join(
-        f'<a href="{chemin(langue, l) or "./"}" hreflang="{l}" lang="{l}">{PAGES[l]["nom"]}</a>'
+    autres = ("، " if langue in RTL else ", ").join(
+        f'<a href="{chemin(langue, l) or "./"}" hreflang="{l}" lang="{l}"{direction(l)}>{PAGES[l]["nom"]}</a>'
         for l in LANGUES
         if l != langue
     )
@@ -161,7 +190,7 @@ def page(langue):
     suggestion = ""
     if langue == "fr":
         textes = {
-            l: {"texte": PAGES[l]["suggestion"], "lien": PAGES[l]["suggestion_lien"], "href": l + "/"}
+            l: {"texte": PAGES[l]["suggestion"], "lien": PAGES[l]["suggestion_lien"], "href": l + "/", "dir": "rtl" if l in RTL else "ltr"}
             for l in LANGUES
             if l != "fr"
         }
@@ -186,6 +215,8 @@ def page(langue):
           lien.href = textes[l].href;
           lien.lang = l;
           document.getElementById("suggestion-texte").lang = l;
+          document.getElementById("suggestion").lang = l;
+          document.getElementById("suggestion").dir = textes[l].dir;
           document.getElementById("suggestion").hidden = false;
           document.getElementById("suggestion-fermer").onclick = function () {{
             document.getElementById("suggestion").hidden = true;
@@ -199,7 +230,7 @@ def page(langue):
 """
 
     return f"""<!doctype html>
-<html lang="{langue}">
+<html lang="{langue}"{direction(langue)}>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -222,14 +253,14 @@ def page(langue):
     <div>
       <h1>{e(p["titre"])}</h1>
       <p class="sous-titre">{e(p["sous_titre"])}</p>
-      <p class="auteur">Julien Garcia</p>
+      <p class="auteur">{e(p.get("auteur", "Julien Garcia"))}</p>
       <p>{e(p["presentation"])}</p>
 {avertissement}      <div class="actions">
         <a class="principal" href="livre.html" data-goatcounter-click="lecture-en-ligne-{langue}" data-goatcounter-title="{e(p["lire"])} ({langue})">{e(p["lire"])}</a>
         <a href="livre.pdf" download="{e(p["fichier"])}.pdf" data-goatcounter-click="telechargement-pdf-{langue}" data-goatcounter-title="PDF ({langue})">{e(p["pdf"])}</a>
         <a href="livre.epub" download="{e(p["fichier"])}.epub" data-goatcounter-click="telechargement-epub-{langue}" data-goatcounter-title="EPUB ({langue})">{e(p["epub"])}</a>
       </div>
-      <p class="autres-langues">{e(p["autres"])} {autres}.</p>
+      <p class="autres-langues">{e(p["autres"])} {autres}{"" if langue in RTL else "."}</p>
       <p class="licence">© 2026 Julien Garcia. {p["licence"]}</p>
     </div>
   </main>

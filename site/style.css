@@ -25,3 +25,12 @@ nav.langues a[aria-current="page"] { color: var(--accent); border-bottom-color: 
 .avertissement-ia a { color: var(--accent); }
 .autres-langues { font-size: .9rem; }
 .autres-langues a { color: var(--doux); }
+/* Persan (fa), écrit de droite à gauche : police Vazirmatn (fournie avec le site dans fa/fonts/), pas d'italique ni d'espacement des lettres, filet du message à droite. */
+@font-face { font-family: "Vazirmatn"; src: url("fa/fonts/Vazirmatn-Regular.ttf") format("truetype"); font-weight: normal; font-display: swap; }
+@font-face { font-family: "Vazirmatn"; src: url("fa/fonts/Vazirmatn-Bold.ttf") format("truetype"); font-weight: bold; font-display: swap; }
+:lang(fa), [dir="rtl"] .actions a, [dir="rtl"] .auteur, [dir="rtl"] nav.langues a:not([lang]) { font-family: "Vazirmatn", Tahoma, sans-serif; }
+[dir="rtl"] body { line-height: 1.9; }
+[dir="rtl"] .sous-titre { font-style: normal; }
+[dir="rtl"] .auteur { letter-spacing: 0; text-transform: none; }
+[dir="rtl"] .avertissement-ia { border-left: 0; border-right: 3px solid var(--accent); padding: .4em 1em .4em 0; }
+nav.langues a:lang(fa), .autres-langues a:lang(fa) { font-family: "Vazirmatn", Tahoma, sans-serif; }

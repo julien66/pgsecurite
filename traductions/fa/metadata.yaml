@@ -1,0 +1,46 @@
+---
+# Métadonnées de la traduction (fa). Le persan s'écrit de droite à gauche (dir: rtl) :
+# le PDF est compilé avec LuaLaTeX (babel applique l'algorithme bidirectionnel Unicode,
+# ce qui place correctement les mots latins et les liens dans le texte persan) et avec la
+# police Vazirmatn, fournie dans traductions/fa/fonts/ (licence SIL OFL).
+title: "ایمنی در پاراگلایدر"
+subtitle: "آیا مسئولیت خطرهای پرواز و پیامدهایشان با خودمان است؟"
+author: "ژولین گارسیا (Julien Garcia)"
+rights: "© 2026 Julien Garcia. CC BY-NC-ND 4.0: https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fa"
+lang: fa-IR
+dir: rtl
+page-progression-direction: rtl
+documentclass: book
+classoption:
+  - openany
+papersize: a5
+geometry:
+  - margin=2cm
+mainfont: "Vazirmatn"
+sansfont: "Vazirmatn"
+# Quelques signes absents de Vazirmatn (la flèche ←) sont pris dans DejaVu Sans.
+mainfontfallback:
+  - "DejaVu Sans:mode=harf"
+toc: true
+toc-depth: 2
+toc-title: "فهرست مطالب"
+# Couverture en première page du PDF et quatrième de couverture en dernière page (build/fa/couverture.pdf, produite par `make couverture LANGUE=fa`).
+header-includes:
+  - |
+    ```{=latex}
+    \usepackage{graphicx}
+    \setlength{\emergencystretch}{3em}
+    \usepackage{fancyhdr}
+    \pagestyle{fancy}
+    \fancyhf{}
+    \renewcommand{\chaptermark}[1]{\markboth{#1}{#1}}
+    \renewcommand{\headrulewidth}{0pt}
+    \fancyhead[LE]{\small\thepage\hspace{1.5em}ایمنی در پاراگلایدر}
+    \fancyhead[RO]{\small\nouppercase{\rightmark}\hspace{1.5em}\thepage}
+    \AtBeginDocument{\newgeometry{margin=0pt}\thispagestyle{empty}%
+      \noindent\includegraphics[width=\paperwidth,height=\paperheight]{build/fa/couverture.pdf}%
+      \restoregeometry\clearpage}
+    \AtEndDocument{\clearpage\newgeometry{margin=0pt}\thispagestyle{empty}%
+      \noindent\includegraphics[width=\paperwidth,height=\paperheight]{build/fa/quatrieme.pdf}}
+    ```
+---
