@@ -1,0 +1,24 @@
+# Sous-domaines par langue du site securite.jugarcia.fr
+#
+# À déposer (par FTP) dans le dossier « sous-domaines » de l'hébergement web
+# OVH de jugarcia.fr. Chaque sous-domaine ci-dessous est déclaré en multisite
+# sur ce dossier ; ce fichier renvoie le lecteur vers la page de sa langue,
+# en gardant la suite de l'adresse (safety.jugarcia.fr/livre.pdf ->
+# securite.jugarcia.fr/en/livre.pdf). Voir le README, « Sous-domaines par langue ».
+
+RewriteEngine On
+
+RewriteCond %{HTTP_HOST} ^safety\.jugarcia\.fr$ [NC]
+RewriteRule ^(.*)$ https://securite.jugarcia.fr/en/$1 [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^sicherheit\.jugarcia\.fr$ [NC]
+RewriteRule ^(.*)$ https://securite.jugarcia.fr/de/$1 [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^seguridad\.jugarcia\.fr$ [NC]
+RewriteRule ^(.*)$ https://securite.jugarcia.fr/es/$1 [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^amniat\.jugarcia\.fr$ [NC]
+RewriteRule ^(.*)$ https://securite.jugarcia.fr/fa/$1 [R=301,L]
+
+# Toute autre adresse arrivant ici : page d'accueil en français.
+RewriteRule ^(.*)$ https://securite.jugarcia.fr/ [R=301,L]

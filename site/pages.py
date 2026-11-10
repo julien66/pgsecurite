@@ -18,6 +18,10 @@ LANGUES = ["fr", "en", "de", "es", "fa"]
 # Langues écrites de droite à gauche : la page reçoit dir="rtl".
 RTL = {"fa"}
 
+# Adresse publique du site (GitHub Pages). Les sous-domaines par langue
+# (safety.jugarcia.fr, etc.) redirigent ici : voir site/sous-domaines/.
+SITE = "https://securite.jugarcia.fr/"
+
 
 def direction(langue):
     """Attribut dir à ajouter à un élément dans cette langue (vide pour le sens habituel)."""
@@ -158,9 +162,12 @@ def page(langue):
     racine = "" if langue == "fr" else "../"
     e = html.escape
 
+    # Adresses absolues pour les moteurs de recherche : l'adresse de référence
+    # reste securite.jugarcia.fr, même si le lecteur arrive par un sous-domaine.
     alternates = "\n".join(
-        f'  <link rel="alternate" hreflang="{l}" href="{chemin(langue, l) or "./"}">'
-        for l in LANGUES
+        [f'  <link rel="canonical" href="{SITE}{chemin("fr", langue)}">']
+        + [f'  <link rel="alternate" hreflang="{l}" href="{SITE}{chemin("fr", l)}">' for l in LANGUES]
+        + [f'  <link rel="alternate" hreflang="x-default" href="{SITE}">']
     )
 
     liens_langues = "\n".join(
