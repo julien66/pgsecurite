@@ -107,7 +107,8 @@ PAGES = {
         "pdf": "دریافت PDF",
         "epub": "دریافت EPUB",
         "fichier": "ایمنی در پاراگلایدر",
-        "traductions": "ترجمهٔ فارسی این کتاب هنوز کامل نیست: این نسخه پیش‌درآمد و بخش اول را در بر می‌گیرد و ترجمهٔ بخش دوم در دست انجام است. اگر می‌خواهید در ترجمه یا بازخوانی کمک کنید، با ژولین تماس بگیرید: ",
+        # Traduction complète, faite par un pilote bénévole : pas de message sur les traductions en cours.
+        "traductions": "",
         "licence": 'منتشرشده با مجوز <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fa">CC BY-NC-ND 4.0</a>: می‌توانید آن را با ذکر نام نویسنده آزادانه به اشتراک بگذارید، بدون استفادهٔ تجاری و بدون تغییر.',
         "autres": "این کتاب به این زبان‌ها هم در دسترس است:",
         "navigation": "زبان‌ها",

@@ -1,6 +1,6 @@
 # Traductions
 
-Le livre est traduit en anglais (`en/`), en allemand (`de/`), en espagnol (`es/`) et, pour la première partie, en persan (`fa/`). Le français, à la racine du dépôt, reste la version de référence : une traduction suit toujours le texte français, jamais l'inverse.
+Le livre est traduit en anglais (`en/`), en allemand (`de/`), en espagnol (`es/`) et en persan (`fa/`). Le français, à la racine du dépôt, reste la version de référence : une traduction suit toujours le texte français, jamais l'inverse.
 
 ## Organisation
 
@@ -34,7 +34,7 @@ Une traduction en cours se compile quand même : seuls les chapitres déjà pré
 
 ## Le persan
 
-La traduction persane est l’œuvre d’un traducteur bénévole (crédité dans `fa/liminaire/colophon.md`). Elle couvre pour l’instant l’ouverture et la partie 1 (chapitres `00` à `19`) ; les chapitres de la partie 2 s’ajouteront avec les mêmes noms de fichiers. Un encadré en tête du livre (`fa/liminaire/avertissement.md`) le signale au lecteur.
+La traduction persane est l’œuvre d’un traducteur bénévole (crédité dans `fa/liminaire/colophon.md`). Elle couvre tout le livre, glossaire et remerciements compris. Comme ce n’est pas une traduction automatique, elle n’a ni encadré d’avertissement ni message sur le site.
 
 Le persan s’écrit de droite à gauche :
 

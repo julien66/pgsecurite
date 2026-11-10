@@ -11,7 +11,7 @@ liminaire/   pages hors chapitres : licence et mentions (au début), glossaire e
 couverture/  la couverture (SVG) et la quatrième de couverture (texte dans quatrieme.txt, photo auteur.jpg)
 site/        le site de lecture : pages.py génère les pages d'accueil des quatre langues (textes dans PAGES), style.css
 notes/       éléments de travail, hors du livre compilé
-traductions/ les éditions anglaise (en/), allemande (de/), espagnole (es/) et persane (fa/, en cours), et le glossaire terminologique commun
+traductions/ les éditions anglaise (en/), allemande (de/), espagnole (es/) et persane (fa/), et le glossaire terminologique commun
 metadata.yaml  titre, auteur, langue et mise en page pour Pandoc
 Makefile     commandes de compilation
 ```
