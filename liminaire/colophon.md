@@ -16,5 +16,4 @@ Ce livre a été finalisé avec le concours d’une intelligence artificielle, q
 
 Par commodité, ce livre parle le plus souvent du pilote au masculin. Il s’adresse pourtant à toutes et à tous, quel que soit leur genre.
 
-ISBN : [À COMPLÉTER]  
 Dépôt légal : novembre 2026

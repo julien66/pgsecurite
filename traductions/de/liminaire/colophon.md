@@ -22,5 +22,4 @@ Der Einfachheit halber spricht dieses Buch meist in der männlichen Form vom Pil
 
 Wer einen Fehler oder eine ungeschickte Formulierung findet, ist herzlich eingeladen, eine Korrektur vorzuschlagen: <https://github.com/julien66/pgsecurite>
 
-ISBN: [ZU ERGÄNZEN]  
-Pflichtexemplar: [ZU ERGÄNZEN]
+Pflichtexemplar: November 2026

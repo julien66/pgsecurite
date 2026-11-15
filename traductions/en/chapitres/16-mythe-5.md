@@ -14,7 +14,7 @@ We must make the effort to reread Gerald J. S. Wilde[^16]. Unambiguously, the ba
 
 This comparison between perceived risk (box b) and target risk level (box a) is shown in the diagram proposed by Gerald J. S. Wilde below.
 
-![](../images/wilde-mecanisme-homeostatique.png)  
+![Diagram of Wilde’s homeostatic mechanism: the target level of risk is compared with the perceived risk, the gap drives the adjustment of behaviour, and the resulting accidents feed back, with a delay, into the perceived risk](../images/wilde-mecanisme-homeostatique.png)  
 *Homeostatic mechanism, after Gerald J. S. Wilde*
 
 

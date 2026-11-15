@@ -84,7 +84,7 @@ This does not mean that Antoine Girard’s words lack humility. He acknowledges,
 
 Here I must deal with the submerged part of the iceberg and the reason why I think all the beliefs highlighted in the first part of this book do damage. In 1949, Joseph Campbell published a famous essay in comparative mythology: *The Hero with a Thousand Faces*. In it he posits the existence of a monomyth, a kind of structuring archetype for all the myths and folk tales of our societies. Every author and every era seems systematically to replay the same story, the same “hero’s journey”. Campbell describes the stages of this journey precisely.
 
-*![](../images/voyage-du-heros.png)*
+*![Circular infographic of the hero’s journey after Joseph Campbell, in three phases: separation, initiation and return](../images/voyage-du-heros.png)*
 *Infographic (in French) – The stages of the hero’s journey, courtesy of Florent Salem https\://www\.florentsalem.fr/concept-le-monomythe-de-campbell*
 
 Campbell’s analyses are much debated, but his journey has been taken up by many authors and by all of popular cinema. It is the spitting image of what a paraglider pilot experiences, on the scale of a career as on the scale of a single flight.

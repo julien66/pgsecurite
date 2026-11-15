@@ -22,5 +22,4 @@ Translation reviewed by: [TRANSLATOR TO BE CREDITED]
 
 Readers who spot an error or a clumsy turn of phrase are welcome to suggest a correction: <https://github.com/julien66/pgsecurite>
 
-ISBN: [TO BE COMPLETED]  
-Legal deposit: [TO BE COMPLETED]
+Legal deposit: November 2026

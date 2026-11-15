@@ -84,7 +84,7 @@ Il ne faudrait pas croire pour autant que les propos d’Antoine Girard manquent
 
 Ici je dois traiter de la partie immergée de l’iceberg et la raison pour laquelle je pense que toutes les croyances mises en exergue dans la première partie de cet ouvrage font des dégâts. En 1949, Joseph Campbell a publié un essai de mythologie comparée resté célèbre : *Le Héros aux mille et un visages*. Il y postule l’existence d’un monomythe, sorte d’archétype structurant de l’ensemble des mythes et contes populaires dans nos sociétés. Chaque auteur et chaque époque semblent rejouer systématiquement la même histoire, le même « voyage du héros ». Campbell décrit avec précision les étapes de ce périple.
 
-*![](../images/voyage-du-heros.png)*  
+*![Infographie circulaire du parcours du héros d’après Joseph Campbell, en trois phases : séparation, initiation et retour](../images/voyage-du-heros.png)*  
 *Infographie – Les étapes du parcours du héros avec l’aimable autorisation de Florent Salem https\://www\.florentsalem.fr/concept-le-monomythe-de-campbell*
 
 Les analyses de Campbell sont très discutées, mais son voyage a été repris par de nombreux auteurs et par tout le cinéma à succès. Il ressemble comme deux gouttes d’eau à ce que vit un parapentiste, à l’échelle d’une carrière comme à l’échelle d’un seul vol.
