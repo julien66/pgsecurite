@@ -158,6 +158,10 @@ PAGES = {
 CONTACT = "j.garcia@ffvl.fr"
 
 AUTEUR = "Julien Garcia"
+
+# Validation de la propriété https://securite.jugarcia.fr/ dans Google Search Console
+# (méthode « Balise HTML ») : la balise doit rester sur la page d'accueil française.
+GOOGLE_VERIFICATION = "sATqGry13Z5P-xBdegWyzb-ttpXZZtJkrdLrXSO_ysg"
 LICENCE = "https://creativecommons.org/licenses/by-nc-nd/4.0/"
 
 # Couverture : build/<langue>/couverture.png fait 1600 x 2270 pixels (A5) ; le site
@@ -553,6 +557,8 @@ def page(langue):
   </script>
 """
 
+    verification = f'  <meta name="google-site-verification" content="{GOOGLE_VERIFICATION}">\n' if langue == "fr" else ""
+
     return f"""<!doctype html>
 <html lang="{langue}"{direction(langue)}>
 <head>
@@ -560,7 +566,7 @@ def page(langue):
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{e(p["titre"])}. {e(p["sous_titre"])}</title>
   <meta name="description" content="{e(p["description"])}">
-{alternates}
+{verification}{alternates}
   <link rel="icon" href="{racine}favicon.ico" sizes="32x32">
   <link rel="icon" href="{racine}favicon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="{racine}apple-touch-icon.png">
