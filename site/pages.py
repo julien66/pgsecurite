@@ -302,6 +302,8 @@ def entete_lecture(langue):
     lignes += [
         f'<link rel="icon" href="{racine}favicon.ico" sizes="32x32">',
         f'<link rel="icon" href="{racine}favicon.svg" type="image/svg+xml">',
+        # Google affiche l'icône des résultats à partir d'une image carrée multiple de 48 pixels.
+        f'<link rel="icon" href="{racine}icon-192.png" sizes="192x192" type="image/png">',
         f'<link rel="apple-touch-icon" href="{racine}apple-touch-icon.png">',
         STYLE_BARRE,
     ]
@@ -569,6 +571,7 @@ def page(langue):
 {verification}{alternates}
   <link rel="icon" href="{racine}favicon.ico" sizes="32x32">
   <link rel="icon" href="{racine}favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="{racine}icon-192.png" sizes="192x192" type="image/png">
   <link rel="apple-touch-icon" href="{racine}apple-touch-icon.png">
   <link rel="manifest" href="{racine}site.webmanifest">
   <meta name="theme-color" content="#14213d">
