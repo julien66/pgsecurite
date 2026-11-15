@@ -2,6 +2,7 @@
 * { box-sizing: border-box; }
 body { margin: 0; font-family: "DejaVu Serif", Georgia, serif; background: var(--fond); color: var(--texte); line-height: 1.6; }
 main { max-width: 920px; margin: 0 auto; padding: 48px 16px; display: grid; gap: 40px; grid-template-columns: minmax(0, 300px) 1fr; align-items: center; }
+picture { display: block; }
 img { width: 100%; height: auto; border-radius: 4px; box-shadow: 0 12px 40px rgba(0,0,0,.45); }
 h1 { font-size: 2.2rem; line-height: 1.2; margin: 0 0 .2em; }
 .sous-titre { font-style: italic; font-size: 1.4rem; color: var(--accent); margin: 0 0 .6em; }
@@ -26,11 +27,16 @@ nav.langues a[aria-current="page"] { color: var(--accent); border-bottom-color: 
 .autres-langues { font-size: .9rem; }
 .autres-langues a { color: var(--doux); }
 /* Persan (fa), écrit de droite à gauche : police Vazirmatn (fournie avec le site dans fa/fonts/), pas d'italique ni d'espacement des lettres, filet du message à droite. */
-@font-face { font-family: "Vazirmatn"; src: url("fa/fonts/Vazirmatn-Regular.ttf") format("truetype"); font-weight: normal; font-display: swap; }
-@font-face { font-family: "Vazirmatn"; src: url("fa/fonts/Vazirmatn-Bold.ttf") format("truetype"); font-weight: bold; font-display: swap; }
+@font-face { font-family: "Vazirmatn"; src: url("fa/fonts/Vazirmatn-Regular.woff2") format("woff2"), url("fa/fonts/Vazirmatn-Regular.ttf") format("truetype"); font-weight: normal; font-display: swap; }
+@font-face { font-family: "Vazirmatn"; src: url("fa/fonts/Vazirmatn-Bold.woff2") format("woff2"), url("fa/fonts/Vazirmatn-Bold.ttf") format("truetype"); font-weight: bold; font-display: swap; }
 :lang(fa), [dir="rtl"] .actions a, [dir="rtl"] .auteur, [dir="rtl"] nav.langues a:not([lang]) { font-family: "Vazirmatn", Tahoma, sans-serif; }
 [dir="rtl"] body { line-height: 1.9; }
 [dir="rtl"] .sous-titre { font-style: normal; }
 [dir="rtl"] .auteur { letter-spacing: 0; text-transform: none; }
 [dir="rtl"] .avertissement-ia { border-left: 0; border-right: 3px solid var(--accent); padding: .4em 1em .4em 0; }
 nav.langues a:lang(fa), .autres-langues a:lang(fa) { font-family: "Vazirmatn", Tahoma, sans-serif; }
+/* Page 404 : une ligne par langue. */
+main.introuvable { display: block; }
+.introuvable ul { list-style: none; padding: 0; }
+.introuvable li { margin: .6em 0; color: var(--doux); }
+.introuvable a { color: var(--accent); }

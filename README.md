@@ -83,6 +83,21 @@ La suite de l'adresse est conservée (`safety.jugarcia.fr/livre.pdf` mène à `s
 
 Chaque page indique `securite.jugarcia.fr` comme adresse de référence (`rel="canonical"` et `hreflang` absolus dans `site/pages.py`), pour que les moteurs de recherche ne voient pas de doublons.
 
+## Référencement
+
+`site/pages.py` produit aussi ce qui sert aux moteurs de recherche et aux partages :
+
+- sur chaque page d'accueil et chaque lecture en ligne : titre et description propres, `canonical` et `hreflang` absolus vers les cinq langues, balises Open Graph et Twitter avec une image de partage par langue (`og.png`, 1200 × 630, produite par `make og`) ;
+- sur chaque page d'accueil : les données structurées du livre (JSON-LD `Book`), avec ses formats et ses traductions ;
+- `robots.txt`, `sitemap.xml` (pages d'accueil, lectures en ligne et PDF) et `404.html`.
+
+La lecture en ligne du site (`make html-site`) n'est pas le `livre.html` autonome : ses images sont servies à part en WebP, ce qui la rend environ trois fois plus légère, et une barre en tête mène à l'accueil, au PDF, à l'EPUB et aux autres langues.
+
+Après la mise en ligne, il reste à faire à la main :
+
+1. Dans **Settings > Pages**, cocher **Enforce HTTPS**.
+2. Déclarer le site dans [Google Search Console](https://search.google.com/search-console) et [Bing Webmaster Tools](https://www.bing.com/webmasters) (validation par un enregistrement DNS TXT chez OVH), puis y soumettre `https://securite.jugarcia.fr/sitemap.xml`.
+
 ## Mesure d'audience
 
 Le site peut compter ses visites, les lectures en ligne et les téléchargements du PDF et de l'EPUB avec [GoatCounter](https://www.goatcounter.com) : gratuit pour un usage non commercial, sans cookie et sans données personnelles, donc sans bandeau de consentement.

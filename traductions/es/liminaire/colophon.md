@@ -22,5 +22,4 @@ Traducción revisada por: [TRADUCTOR/A POR ACREDITAR]
 
 Si encuentra un error o una expresión poco afortunada, puede proponer una corrección: <https://github.com/julien66/pgsecurite>
 
-ISBN: [POR COMPLETAR]  
-Depósito legal: [POR COMPLETAR]
+Depósito legal: noviembre de 2026

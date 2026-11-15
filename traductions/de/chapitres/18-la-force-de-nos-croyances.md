@@ -84,7 +84,7 @@ Man sollte daraus jedoch nicht schließen, dass es Antoine Girards Worten an Dem
 
 Hier muss ich den unter Wasser liegenden Teil des Eisbergs behandeln und den Grund, warum ich glaube, dass alle im ersten Teil dieses Buches hervorgehobenen Überzeugungen Schaden anrichten. 1949 veröffentlichte Joseph Campbell einen berühmt gewordenen Essay zur vergleichenden Mythologie: *The Hero with a Thousand Faces* (dt. *Der Heros in tausend Gestalten*). Darin postuliert er die Existenz eines Monomythos, einer Art strukturierendem Archetyp aller Mythen und Volksmärchen unserer Gesellschaften. Jeder Autor und jede Epoche scheinen systematisch dieselbe Geschichte nachzuspielen, dieselbe „Heldenreise“. Campbell beschreibt die Etappen dieser Reise genau.
 
-*![](../images/voyage-du-heros.png)*
+*![Kreisförmige Infografik der Heldenreise nach Joseph Campbell in drei Phasen: Aufbruch, Initiation und Rückkehr](../images/voyage-du-heros.png)*
 *Infografik – Die Etappen der Heldenreise, mit freundlicher Genehmigung von Florent Salem https\://www\.florentsalem.fr/concept-le-monomythe-de-campbell (französisch)*
 
 Campbells Analysen sind stark umstritten, aber seine Reise wurde von vielen Autoren und vom gesamten erfolgreichen Kino aufgegriffen. Sie gleicht wie ein Ei dem anderen dem, was ein Gleitschirmflieger erlebt, im Maßstab einer Laufbahn wie im Maßstab eines einzigen Fluges.

@@ -14,7 +14,7 @@ Hay que hacer el esfuerzo de releer a Gerald J. S. Wilde[^16]. Sin ambigüedad, 
 
 Esta comparación entre el riesgo percibido (bloque b) y el estado de riesgo objetivo (bloque a) aparece esquematizada en el diagrama propuesto por Gerald J. S. Wilde que figura a continuación.
 
-![](../images/wilde-mecanisme-homeostatique.png)  
+![Diagrama del mecanismo homeostático de Wilde: el nivel de riesgo objetivo se compara con el riesgo percibido, la diferencia guía el ajuste del comportamiento, y los accidentes resultantes vuelven con retraso a modificar el riesgo percibido](../images/wilde-mecanisme-homeostatique.png)  
 *Mecanismo homeostático (Homeostatic mechanism), según Gerald J. S. Wilde*
 
 

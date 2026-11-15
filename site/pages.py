@@ -8,8 +8,11 @@ pour chaque traduction. Chaque page propose les autres langues, et la page
 française suggère la traduction qui correspond à la langue du navigateur.
 """
 
+import datetime
 import html
+import json
 import os
+import struct
 import sys
 
 # Ordre d'affichage du sélecteur de langue.
@@ -33,7 +36,13 @@ PAGES = {
         "nom": "Français",
         "titre": "Sécurité en parapente",
         "sous_titre": "À nos risques et périls ?",
-        "description": "Un livre de Julien Garcia sur la sécurité en parapente, à lire en ligne ou à télécharger gratuitement.",
+        "description": "Accidents, statistiques, mythes et culture de la sécurité en parapente : un livre gratuit de Julien Garcia, pilote, entraîneur et enquêteur accidents.",
+        "titre_lecture": "Sécurité en parapente : lire le livre en ligne",
+        "description_lecture": "Lisez gratuitement en ligne Sécurité en parapente, le livre de Julien Garcia sur nos accidents, leurs chiffres et les croyances de notre communauté.",
+        "locale": "fr_FR",
+        "gratuit": "Livre gratuit",
+        "accueil": "Accueil",
+        "introuvable": "Cette page n’existe pas.",
         "image_alt": "Couverture du livre Sécurité en parapente : un parapente au-dessus des montagnes au crépuscule",
         "presentation": "Ce livre n’est pas un manuel de pilotage. C’est un regard sur notre communauté et sur la façon dont elle pense la sécurité, écrit par un pilote, entraîneur et enquêteur sur les accidents. Il est gratuit, à lire en ligne ou à télécharger.",
         "lire": "Lire en ligne",
@@ -50,7 +59,13 @@ PAGES = {
         "nom": "English",
         "titre": "Safety in Paragliding",
         "sous_titre": "At our own risk and peril?",
-        "description": "A book by Julien Garcia on paragliding safety, free to read online or download. English translation.",
+        "description": "Accidents, statistics, myths and safety culture in paragliding: a free book by Julien Garcia, pilot, coach and accident investigator. English translation.",
+        "titre_lecture": "Safety in Paragliding: read the book online",
+        "description_lecture": "Read Safety in Paragliding online for free: Julien Garcia’s book on our accidents, their numbers and the beliefs of our community.",
+        "locale": "en_GB",
+        "gratuit": "Free book",
+        "accueil": "Home",
+        "introuvable": "This page does not exist.",
         "image_alt": "Cover of the book Safety in Paragliding: a paraglider above the mountains at dusk",
         "presentation": "This book is not a flying manual. It is a look at our community and at the way it thinks about safety, written by a pilot, coach and accident investigator. It is free, to read online or download.",
         "lire": "Read online",
@@ -68,7 +83,13 @@ PAGES = {
         "nom": "Deutsch",
         "titre": "Sicherheit beim Gleitschirmfliegen",
         "sous_titre": "Risiko oder Gefahr?",
-        "description": "Ein Buch von Julien Garcia über Sicherheit beim Gleitschirmfliegen, kostenlos online zu lesen oder herunterzuladen. Deutsche Übersetzung.",
+        "description": "Unfälle, Statistiken, Mythen und Sicherheitskultur beim Gleitschirmfliegen: ein kostenloses Buch von Julien Garcia, Pilot, Trainer und Unfallermittler.",
+        "titre_lecture": "Sicherheit beim Gleitschirmfliegen: das Buch online lesen",
+        "description_lecture": "Sicherheit beim Gleitschirmfliegen kostenlos online lesen: das Buch von Julien Garcia über unsere Unfälle, ihre Zahlen und die Überzeugungen unserer Gemeinschaft.",
+        "locale": "de_DE",
+        "gratuit": "Kostenloses Buch",
+        "accueil": "Startseite",
+        "introuvable": "Diese Seite gibt es nicht.",
         "image_alt": "Umschlag des Buches Sicherheit beim Gleitschirmfliegen: ein Gleitschirm über den Bergen in der Abenddämmerung",
         "presentation": "Dieses Buch ist kein Lehrbuch für das Fliegen. Es ist ein Blick auf unsere Gemeinschaft und darauf, wie sie über Sicherheit denkt, geschrieben von einem Piloten, Trainer und Unfallermittler. Es ist kostenlos, online zu lesen oder herunterzuladen.",
         "lire": "Online lesen",
@@ -86,7 +107,13 @@ PAGES = {
         "nom": "Español",
         "titre": "Seguridad en parapente",
         "sous_titre": "¿Riesgo o peligro?",
-        "description": "Un libro de Julien Garcia sobre la seguridad en parapente, gratuito para leer en línea o descargar. Traducción al español.",
+        "description": "Accidentes, estadísticas, mitos y cultura de la seguridad en parapente: un libro gratuito de Julien Garcia, piloto, entrenador e investigador de accidentes.",
+        "titre_lecture": "Seguridad en parapente: leer el libro en línea",
+        "description_lecture": "Lea gratis en línea Seguridad en parapente, el libro de Julien Garcia sobre nuestros accidentes, sus cifras y las creencias de nuestra comunidad.",
+        "locale": "es_ES",
+        "gratuit": "Libro gratuito",
+        "accueil": "Inicio",
+        "introuvable": "Esta página no existe.",
         "image_alt": "Portada del libro Seguridad en parapente: un parapente sobre las montañas al anochecer",
         "presentation": "Este libro no es un manual de pilotaje. Es una mirada sobre nuestra comunidad y sobre la forma en que piensa la seguridad, escrita por un piloto, entrenador e investigador de accidentes. Es gratuito, para leer en línea o descargar.",
         "lire": "Leer en línea",
@@ -104,7 +131,13 @@ PAGES = {
         "nom": "فارسی",
         "titre": "ایمنی در پاراگلایدر",
         "sous_titre": "آیا مسئولیت خطرهای پرواز و پیامدهایشان با خودمان است؟",
-        "description": "کتابی از ژولین گارسیا دربارهٔ ایمنی در پاراگلایدر، برای خواندن آنلاین یا دریافت رایگان. ترجمهٔ فارسی.",
+        "description": "سوانح، آمار، باورهای رایج و فرهنگ ایمنی در پاراگلایدر: کتابی رایگان از ژولین گارسیا، خلبان، مربی و کارشناس بررسی سوانح.",
+        "titre_lecture": "ایمنی در پاراگلایدر: خواندن آنلاین کتاب",
+        "description_lecture": "کتاب «ایمنی در پاراگلایدر» نوشتهٔ ژولین گارسیا را رایگان و آنلاین بخوانید: دربارهٔ سوانح ما، آمارشان و باورهای جامعهٔ پروازی ما.",
+        "locale": "fa_IR",
+        "gratuit": "کتاب رایگان",
+        "accueil": "صفحهٔ اصلی",
+        "introuvable": "این صفحه وجود ندارد.",
         "image_alt": "جلد کتاب ایمنی در پاراگلایدر: پاراگلایدری بر فراز کوه‌ها در هنگام غروب",
         "presentation": "این کتاب راهنمای خلبانی نیست. نگاهی است به جامعهٔ پروازی ما و طرز فکرمان دربارهٔ ایمنی، به قلم یک خلبان، مربی و کارشناس بررسی سوانح. کتاب رایگان است و می‌توانید آن را آنلاین بخوانید یا دریافت کنید.",
         "lire": "خواندن آنلاین",
@@ -123,6 +156,15 @@ PAGES = {
 }
 
 CONTACT = "j.garcia@ffvl.fr"
+
+AUTEUR = "Julien Garcia"
+LICENCE = "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+
+# Couverture : build/<langue>/couverture.png fait 1600 x 2270 pixels (A5) ; le site
+# en affiche une version WebP de 600 pixels de large (couverture.webp, voir le Makefile).
+COUVERTURE_WEBP = (600, 851)
+# Image de partage (Open Graph) : og.png, produite par `pages.py --og`.
+OG = (1200, 630)
 
 
 def chemin(depuis, vers):
@@ -157,18 +199,295 @@ STYLE_LIVRE = (
 )
 
 
+def adresse(langue, fichier=""):
+    """Adresse absolue d'une page du site (fichier vide : page d'accueil de la langue)."""
+    return SITE + chemin("fr", langue) + fichier
+
+
+def balises_partage(langue, fichier=""):
+    """Balises de référencement communes : canonical, hreflang, Open Graph et Twitter.
+
+    Les adresses sont absolues : l'adresse de référence reste securite.jugarcia.fr,
+    même si le lecteur arrive par un sous-domaine. `fichier` vaut "" pour la page
+    d'accueil et "livre.html" pour la lecture en ligne.
+    """
+    p = PAGES[langue]
+    e = html.escape
+    lecture = fichier == "livre.html"
+    titre = p["titre_lecture"] if lecture else f'{p["titre"]}. {p["sous_titre"]}'
+    description = p["description_lecture"] if lecture else p["description"]
+    lignes = [f'<link rel="canonical" href="{adresse(langue, fichier)}">']
+    lignes += [f'<link rel="alternate" hreflang="{l}" href="{adresse(l, fichier)}">' for l in LANGUES]
+    lignes.append(f'<link rel="alternate" hreflang="x-default" href="{adresse("fr", fichier)}">')
+    lignes += [
+        f'<meta property="og:type" content="{"article" if lecture else "book"}">',
+        f'<meta property="og:site_name" content="{e(p["titre"])}">',
+        f'<meta property="og:title" content="{e(titre)}">',
+        f'<meta property="og:description" content="{e(description)}">',
+        f'<meta property="og:url" content="{adresse(langue, fichier)}">',
+        f'<meta property="og:image" content="{adresse(langue, "og.png")}">',
+        f'<meta property="og:image:width" content="{OG[0]}">',
+        f'<meta property="og:image:height" content="{OG[1]}">',
+        f'<meta property="og:image:alt" content="{e(p["image_alt"])}">',
+        f'<meta property="og:locale" content="{p["locale"]}">',
+    ]
+    lignes += [f'<meta property="og:locale:alternate" content="{PAGES[l]["locale"]}">' for l in LANGUES if l != langue]
+    if not lecture:
+        lignes += [
+            f'<meta property="book:author" content="{e(p.get("auteur", AUTEUR))}">',
+            '<meta property="book:release_date" content="2026-11">',
+        ]
+    lignes += [
+        '<meta name="twitter:card" content="summary_large_image">',
+        f'<meta name="twitter:title" content="{e(titre)}">',
+        f'<meta name="twitter:description" content="{e(description)}">',
+        f'<meta name="twitter:image" content="{adresse(langue, "og.png")}">',
+    ]
+    return lignes
+
+
+def donnees_structurees(langue):
+    """Données structurées schema.org (JSON-LD) : le livre, ses formats et ses traductions."""
+    p = PAGES[langue]
+    livre = {
+        "@context": "https://schema.org",
+        "@type": "Book",
+        "@id": adresse(langue) + "#livre",
+        "name": p["titre"],
+        "alternativeHeadline": p["sous_titre"],
+        "description": p["description"],
+        "author": {"@type": "Person", "name": AUTEUR},
+        "inLanguage": langue,
+        "url": adresse(langue),
+        "image": adresse(langue, "couverture.png"),
+        "datePublished": "2026-11",
+        "copyrightYear": 2026,
+        "copyrightHolder": {"@type": "Person", "name": AUTEUR},
+        "license": LICENCE,
+        "isAccessibleForFree": True,
+        "bookFormat": "https://schema.org/EBook",
+        "associatedMedia": [
+            {"@type": "MediaObject", "name": p["lire"], "encodingFormat": "text/html", "contentUrl": adresse(langue, "livre.html")},
+            {"@type": "MediaObject", "name": "PDF", "encodingFormat": "application/pdf", "contentUrl": adresse(langue, "livre.pdf")},
+            {"@type": "MediaObject", "name": "EPUB", "encodingFormat": "application/epub+zip", "contentUrl": adresse(langue, "livre.epub")},
+        ],
+    }
+    if langue == "fr":
+        livre["workTranslation"] = [{"@id": adresse(l) + "#livre"} for l in LANGUES if l != "fr"]
+    else:
+        livre["translationOfWork"] = {"@id": adresse("fr") + "#livre"}
+    texte = json.dumps(livre, ensure_ascii=False, indent=2).replace("</", "<\\/")
+    return f'<script type="application/ld+json">\n{texte}\n</script>'
+
+
+# Barre de navigation en tête de la lecture en ligne du site (livre.html n'utilise pas style.css).
+STYLE_BARRE = """<style>
+nav.barre-site { display: flex; flex-wrap: wrap; gap: .4em 1.2em; align-items: baseline; font-family: "DejaVu Sans", Arial, sans-serif; font-size: .9em; border-bottom: 1px solid #ddd; padding: 0 0 .8em; margin: 0 0 2em; }
+nav.barre-site a { color: #14213d; }
+nav.barre-site .langues { margin-inline-start: auto; display: flex; flex-wrap: wrap; gap: .4em .9em; }
+nav.barre-site .langues a { text-decoration: none; }
+nav.barre-site .langues a[aria-current="page"] { font-weight: bold; text-decoration: underline; }
+img { max-width: 100%; height: auto; }
+</style>"""
+
+
+def entete_lecture(langue):
+    """En-tête (dans <head>) de la lecture en ligne du site : référencement et style de la barre."""
+    lignes = balises_partage(langue, "livre.html")
+    racine = "" if langue == "fr" else "../"
+    lignes += [
+        f'<link rel="icon" href="{racine}favicon.ico" sizes="32x32">',
+        f'<link rel="icon" href="{racine}favicon.svg" type="image/svg+xml">',
+        f'<link rel="apple-touch-icon" href="{racine}apple-touch-icon.png">',
+        STYLE_BARRE,
+    ]
+    return "\n".join(lignes) + "\n"
+
+
+def meta_lecture(langue):
+    """Métadonnées Pandoc de la lecture en ligne du site : titre de l'onglet et description."""
+    p = PAGES[langue]
+    return json.dumps({"pagetitle": p["titre_lecture"], "description-meta": p["description_lecture"]}, ensure_ascii=False)
+
+
+def barre_lecture(langue):
+    """Barre en tête de la lecture en ligne du site : accueil, PDF, EPUB et autres langues."""
+    p = PAGES[langue]
+    e = html.escape
+    langues = " ".join(
+        f'<a href="{chemin(langue, l)}livre.html" hreflang="{l}" lang="{l}"{direction(l)}'
+        + (' aria-current="page"' if l == langue else "")
+        + f">{PAGES[l]['nom']}</a>"
+        for l in LANGUES
+    )
+    return (
+        f'<nav class="barre-site" aria-label="{e(p["titre"])}">\n'
+        f'  <a href="./">{e(p["accueil"])}</a>\n'
+        f'  <a href="livre.pdf" data-goatcounter-click="telechargement-pdf-{langue}">{e(p["pdf"])}</a>\n'
+        f'  <a href="livre.epub" data-goatcounter-click="telechargement-epub-{langue}">{e(p["epub"])}</a>\n'
+        f'  <span class="langues">{langues}</span>\n'
+        f"</nav>\n"
+        "<!-- MESURE D'AUDIENCE : remplacé par le script GoatCounter si la variable GOATCOUNTER est définie -->\n"
+        + bandeau_traductions(langue, STYLE_LIVRE)
+    )
+
+
+def dimensions_png(chemin_png):
+    """Largeur et hauteur d'une image PNG, lues dans son en-tête."""
+    with open(chemin_png, "rb") as f:
+        return struct.unpack(">II", f.read(24)[16:24])
+
+
+def images_lecture(fichier, langue):
+    """Adapte les images de la lecture en ligne du site.
+
+    Pandoc laisse les adresses des sources (../images/x.png, ../images/fa/x.png).
+    Sur le site, les images sont copiées en WebP dans images/ à la racine : depuis
+    une traduction (en/livre.html), ../images/ y mène déjà ; depuis la page
+    française, il faut images/. On ajoute les dimensions (pas de décalage pendant
+    le chargement) et le chargement différé.
+    """
+    import re
+
+    racine = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
+    with open(fichier, encoding="utf-8") as f:
+        texte = f.read()
+
+    def remplacer(m):
+        nom = m.group(1)
+        largeur, hauteur = dimensions_png(os.path.join(racine, "images", nom + ".png"))
+        prefixe = "images/" if langue == "fr" else "../images/"
+        return f'src="{prefixe}{nom}.webp" width="{largeur}" height="{hauteur}" loading="lazy" decoding="async"'
+
+    texte, n = re.subn(r'src="\.\./images/((?:fa/)?[a-z0-9-]+)\.png"', remplacer, texte)
+    with open(fichier, "w", encoding="utf-8") as f:
+        f.write(texte)
+    print(f"{fichier} : {n} image(s)", file=sys.stderr)
+
+
+def image_partage(langue, couverture):
+    """Image de partage 1200 x 630 (Open Graph) en SVG, à convertir avec rsvg-convert.
+
+    Reprend le fond de la couverture : ciel de nuit, montagnes, titre et couverture
+    à côté. Pour le persan, la mise en page est inversée (texte à droite).
+    """
+    import base64
+    import textwrap
+
+    p = PAGES[langue]
+    e = html.escape
+    rtl = langue in RTL
+    with open(couverture, "rb") as f:
+        donnees = base64.b64encode(f.read()).decode()
+    police = "Vazirmatn" if rtl else "DejaVu Serif"
+    sans = "Vazirmatn" if rtl else "DejaVu Sans"
+    # Couverture : 300 x 426, inclinée d'une ombre.
+    cx = 120 if rtl else 780
+    x = 1128 if rtl else 72
+    ancre = "end" if rtl else "start"
+    lignes = textwrap.wrap(p["titre"], 18 if not rtl else 22)
+    taille = 64 if len(lignes) <= 2 else 52
+    y = 200
+    titre = ""
+    for i, ligne in enumerate(lignes):
+        titre += f'<text x="{x}" y="{y}" font-family="{police}" font-weight="bold" font-size="{taille}" fill="#ffffff" text-anchor="{ancre}">{e(ligne)}</text>\n'
+        y += int(taille * 1.15)
+    sous = textwrap.wrap(p["sous_titre"], 34 if not rtl else 40)
+    y += 20
+    sous_titre = ""
+    for ligne in sous[:2]:
+        sous_titre += f'<text x="{x}" y="{y}" font-family="{police}" font-style="{"normal" if rtl else "italic"}" font-size="30" fill="#f0bd84" text-anchor="{ancre}">{e(ligne)}</text>\n'
+        y += 40
+    auteur = p.get("auteur", AUTEUR)
+    if not rtl:
+        auteur = auteur.upper()
+    largeur_pastille = 30 + len(p["gratuit"]) * 15
+    px = x - largeur_pastille if rtl else x
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="{OG[0]}" height="{OG[1]}" viewBox="0 0 {OG[0]} {OG[1]}">
+<defs>
+<linearGradient id="ciel" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#14213d"/><stop offset=".45" stop-color="#1f3355"/><stop offset=".7" stop-color="#2e4a72"/><stop offset=".88" stop-color="#6a6070"/><stop offset="1" stop-color="#c98a64"/>
+</linearGradient>
+<radialGradient id="ombre"><stop offset="0" stop-color="#000" stop-opacity=".5"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="{OG[0]}" height="{OG[1]}" fill="url(#ciel)"/>
+<polygon points="0,440 180,380 330,420 470,360 640,430 820,390 1000,440 1200,400 1200,630 0,630" fill="#9b6f6f" opacity=".85"/>
+<polygon points="0,500 160,460 320,500 520,450 700,510 900,470 1200,520 1200,630 0,630" fill="#3c3350"/>
+<rect y="560" width="{OG[0]}" height="70" fill="#1b1a2e"/>
+<rect x="{px}" y="72" rx="17" width="{largeur_pastille}" height="34" fill="#f0bd84"/>
+<text x="{px + largeur_pastille / 2}" y="96" font-family="{sans}" font-weight="bold" font-size="17" fill="#1b1a2e" text-anchor="middle" letter-spacing="{0 if rtl else 2}">{e(p["gratuit"] if rtl else p["gratuit"].upper())}</text>
+{titre}{sous_titre}<text x="{x}" y="{y + 30}" font-family="{sans}" font-size="20" fill="#e8e4f0" text-anchor="{ancre}" letter-spacing="{0 if rtl else 4}">{e(auteur)}</text>
+<text x="{x}" y="604" font-family="DejaVu Sans" font-weight="bold" font-size="26" fill="#ffffff" text-anchor="{ancre}">securite.jugarcia.fr</text>
+<ellipse cx="{cx + 150}" cy="532" rx="190" ry="26" fill="url(#ombre)"/>
+<image x="{cx}" y="80" width="300" height="426" preserveAspectRatio="xMidYMid slice" xlink:href="data:image/png;base64,{donnees}"/>
+</svg>
+"""
+
+
+def robots():
+    return f"User-agent: *\nAllow: /\n\nSitemap: {SITE}sitemap.xml\n"
+
+
+def plan_du_site():
+    """sitemap.xml : pages d'accueil et lectures en ligne avec leurs versions dans les autres langues, puis les PDF."""
+    jour = datetime.date.today().isoformat()
+    entrees = []
+    for fichier in ["", "livre.html"]:
+        for langue in LANGUES:
+            alternates = "".join(
+                f'\n    <xhtml:link rel="alternate" hreflang="{l}" href="{adresse(l, fichier)}"/>' for l in LANGUES
+            ) + f'\n    <xhtml:link rel="alternate" hreflang="x-default" href="{adresse("fr", fichier)}"/>'
+            entrees.append(f"  <url>\n    <loc>{adresse(langue, fichier)}</loc>\n    <lastmod>{jour}</lastmod>{alternates}\n  </url>")
+    for langue in LANGUES:
+        entrees.append(f"  <url>\n    <loc>{adresse(langue, 'livre.pdf')}</loc>\n    <lastmod>{jour}</lastmod>\n  </url>")
+    return (
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">\n'
+        + "\n".join(entrees)
+        + "\n</urlset>\n"
+    )
+
+
+def page_introuvable():
+    """404.html, servi par GitHub Pages pour toute adresse inconnue, à n'importe quelle profondeur :
+    les liens sont donc absolus."""
+    e = html.escape
+    liens = "\n".join(
+        f'      <li lang="{l}"{direction(l)}>{e(PAGES[l]["introuvable"])} '
+        f'<a href="{adresse(l)}" hreflang="{l}">{e(PAGES[l]["titre"])}</a></li>'
+        for l in LANGUES
+    )
+    return f"""<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>Page introuvable · {e(PAGES["fr"]["titre"])}</title>
+  <link rel="icon" href="{SITE}favicon.ico" sizes="32x32">
+  <link rel="stylesheet" href="{SITE}style.css">
+</head>
+<body>
+  <main class="introuvable">
+    <div>
+      <h1>404</h1>
+      <ul>
+{liens}
+      </ul>
+    </div>
+  </main>
+</body>
+</html>
+"""
+
+
 def page(langue):
     p = PAGES[langue]
     racine = "" if langue == "fr" else "../"
     e = html.escape
 
-    # Adresses absolues pour les moteurs de recherche : l'adresse de référence
-    # reste securite.jugarcia.fr, même si le lecteur arrive par un sous-domaine.
-    alternates = "\n".join(
-        [f'  <link rel="canonical" href="{SITE}{chemin("fr", langue)}">']
-        + [f'  <link rel="alternate" hreflang="{l}" href="{SITE}{chemin("fr", l)}">' for l in LANGUES]
-        + [f'  <link rel="alternate" hreflang="x-default" href="{SITE}">']
-    )
+    # Référencement : canonical, hreflang, Open Graph (balises_partage) et données structurées.
+    alternates = "\n".join("  " + ligne for ligne in balises_partage(langue)) + "\n  " + donnees_structurees(langue).replace("\n", "\n  ")
 
     liens_langues = "\n".join(
         f'    <a href="{chemin(langue, l) or "./"}" hreflang="{l}" lang="{l}"{direction(l)}'
@@ -201,8 +520,6 @@ def page(langue):
             for l in LANGUES
             if l != "fr"
         }
-        import json
-
         suggestion = f"""  <aside class="suggestion" id="suggestion" hidden>
     <div><span id="suggestion-texte"></span> <a id="suggestion-lien" href="#"></a>
     <button type="button" id="suggestion-fermer" aria-label="Fermer">×</button></div>
@@ -256,7 +573,10 @@ def page(langue):
 {liens_langues}
   </nav>
 {suggestion}  <main>
-    <img src="couverture.png" alt="{e(p["image_alt"])}">
+    <picture>
+      <source srcset="couverture.webp" type="image/webp">
+      <img src="couverture.png" alt="{e(p["image_alt"])}" width="{COUVERTURE_WEBP[0]}" height="{COUVERTURE_WEBP[1]}" fetchpriority="high">
+    </picture>
     <div>
       <h1>{e(p["titre"])}</h1>
       <p class="sous-titre">{e(p["sous_titre"])}</p>
@@ -282,12 +602,32 @@ def main():
     if sys.argv[1] == "--bandeau":
         sys.stdout.write(bandeau_traductions(sys.argv[2], STYLE_LIVRE))
         return
+    # Lecture en ligne du site (règle html-site du Makefile).
+    if sys.argv[1] == "--entete":
+        sys.stdout.write(entete_lecture(sys.argv[2]))
+        return
+    if sys.argv[1] == "--meta":
+        sys.stdout.write(meta_lecture(sys.argv[2]))
+        return
+    if sys.argv[1] == "--barre":
+        sys.stdout.write(barre_lecture(sys.argv[2]))
+        return
+    if sys.argv[1] == "--images":
+        images_lecture(sys.argv[2], sys.argv[3])
+        return
+    # `pages.py --og <langue> <couverture.png>` écrit l'image de partage en SVG.
+    if sys.argv[1] == "--og":
+        sys.stdout.write(image_partage(sys.argv[2], sys.argv[3]))
+        return
     sortie = sys.argv[1]
     for langue in LANGUES:
         dossier = sortie if langue == "fr" else os.path.join(sortie, langue)
         os.makedirs(dossier, exist_ok=True)
         with open(os.path.join(dossier, "index.html"), "w", encoding="utf-8") as f:
             f.write(page(langue))
+    for nom, contenu in [("robots.txt", robots()), ("sitemap.xml", plan_du_site()), ("404.html", page_introuvable())]:
+        with open(os.path.join(sortie, nom), "w", encoding="utf-8") as f:
+            f.write(contenu)
 
 
 if __name__ == "__main__":

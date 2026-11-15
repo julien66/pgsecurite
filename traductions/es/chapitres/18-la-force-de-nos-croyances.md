@@ -84,7 +84,7 @@ No hay que pensar, sin embargo, que las palabras de Antoine Girard carecen de hu
 
 Aquí tengo que tratar la parte sumergida del iceberg y la razón por la que creo que todas las creencias destacadas en la primera parte de esta obra hacen daño. En 1949, Joseph Campbell publicó un ensayo de mitología comparada que se hizo célebre: *El héroe de las mil caras*. En él postula la existencia de un monomito, una especie de arquetipo que estructura el conjunto de los mitos y cuentos populares de nuestras sociedades. Cada autor y cada época parecen volver a representar sistemáticamente la misma historia, el mismo «viaje del héroe». Campbell describe con precisión las etapas de este periplo.
 
-*![](../images/voyage-du-heros.png)*  
+*![Infografía circular del viaje del héroe según Joseph Campbell, en tres fases: separación, iniciación y regreso](../images/voyage-du-heros.png)*  
 *Infografía: las etapas del viaje del héroe, por cortesía de Florent Salem https\://www\.florentsalem.fr/concept-le-monomythe-de-campbell*
 
 Los análisis de Campbell están muy discutidos, pero su viaje lo han retomado numerosos autores y todo el cine de éxito. Se parece como dos gotas de agua a lo que vive un parapentista, tanto a la escala de una carrera como a la de un solo vuelo.
