@@ -82,7 +82,7 @@ PAGES = {
     "de": {
         "nom": "Deutsch",
         "titre": "Sicherheit beim Gleitschirmfliegen",
-        "sous_titre": "Risiko oder Gefahr?",
+        "sous_titre": "Auf unsere eigene Gefahr oder beherrschbares Risiko?",
         "description": "Unfälle, Statistiken, Mythen und Sicherheitskultur beim Gleitschirmfliegen: ein kostenloses Buch von Julien Garcia, Pilot, Trainer und Unfallermittler.",
         "titre_lecture": "Sicherheit beim Gleitschirmfliegen: das Buch online lesen",
         "description_lecture": "Sicherheit beim Gleitschirmfliegen kostenlos online lesen: das Buch von Julien Garcia über unsere Unfälle, ihre Zahlen und die Überzeugungen unserer Gemeinschaft.",
@@ -95,7 +95,7 @@ PAGES = {
         "lire": "Online lesen",
         "pdf": "PDF herunterladen",
         "epub": "EPUB herunterladen",
-        "fichier": "Sicherheit beim Gleitschirmfliegen - Risiko oder Gefahr",
+        "fichier": "Sicherheit beim Gleitschirmfliegen - Auf unsere eigene Gefahr oder beherrschbares Risiko",
         "traductions": "Diese deutsche Fassung ist vorerst eine maschinelle Übersetzung aus dem Französischen und kann Fehler enthalten. Eine echte Übersetzung durch Piloten aus der Gemeinschaft ist in Arbeit: Wenn Sie möchten, können Sie auf diese bessere Fassung warten. Wenn Sie mithelfen möchten, schreiben Sie Julien: ",
         "licence": 'Veröffentlicht unter der Lizenz <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de">CC BY-NC-ND 4.0</a>: Sie dürfen es unter Nennung des Autors frei weitergeben, ohne kommerzielle Nutzung und ohne Änderungen.',
         "autres": "Dieses Buch gibt es auch auf",
