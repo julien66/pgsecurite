@@ -6,6 +6,7 @@ Format du texte, un paragraphe par bloc séparé d'une ligne vide :
   # ...  accroche, en gros
   > ...  citation, en italique
   @ ...  quelques mots sur l'auteur, en bas
+  ! ...  mention en pied de page (gratuité, licence), à la place de celle du modèle
   sinon  paragraphe normal
 
 Un texte en persan (ou dans une autre écriture de droite à gauche) est aligné à
@@ -21,6 +22,8 @@ from html import escape
 
 source, sortie = sys.argv[1], sys.argv[2]
 blocs = [b.strip().replace("\n", " ") for b in open(source, encoding="utf-8").read().split("\n\n") if b.strip()]
+mention = next((b[1:].strip() for b in blocs if b.startswith("!")), None)
+blocs = [b for b in blocs if not b.startswith("!")]
 
 X = 170            # marge gauche (marge droite pour un texte de droite à gauche)
 Y0 = 250           # position du premier texte
@@ -85,4 +88,6 @@ while composer() > Y_MAX and k > 0.6:
 modele = open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "quatrieme.svg"), encoding="utf-8").read()
 if RTL:
     modele = modele.replace('font-family="DejaVu Sans" font-size="28" fill="#c9d2e0">Gratuit · Licence', 'font-family="Vazirmatn" font-size="28" fill="#c9d2e0" direction="rtl" unicode-bidi="embed" text-anchor="end">رایگان · مجوز')
+if mention:
+    modele = modele.replace("Gratuit · Licence CC BY-NC-ND 4.0", escape(mention))
 open(sortie, "w", encoding="utf-8").write(modele.replace("<!-- TEXTE -->", "\n  ".join(lignes)))
