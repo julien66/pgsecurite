@@ -30,7 +30,7 @@ Unsere Vorstellungswelt kennt keine Flugstörung und lässt keinen Platz für Un
 
 ### Eine notwendige Rhetorik
 
-Trotz jahrzehntelanger massiver, konkreter und von vielen Willen und Akteuren getragener Sicherheitsbemühungen bleiben die Unfälle. Die Gemeinschaft zählt sie immer noch nicht sehr gut, aber alle wissen es.
+Trotz jahrzehntelanger massiver, konkreter und von vielen Akteuren mit vereinten Kräften getragener Sicherheitsbemühungen bleiben die Unfälle. Die Gemeinschaft zählt sie immer noch nicht sehr gut, aber alle wissen es.
 
 Die erste und natürliche Rechtfertigung, die das Milieu vorbringt, ist zunächst der „Draufgänger“-Effekt. Es stimmt, dass in den ersten Jahren, parallel zu den überall unternommenen didaktischen Bemühungen, unsere Aktivitäten zu lehren, zu öffnen und ihnen ein zuverlässigeres Image zu geben, viele Anfänger sich weiter allein oder mit ihrer Clique ausbildeten. Dieser Brauch ist übrigens immer noch nicht ganz verschwunden, und es besteht kein Zweifel, dass die Unfallwahrscheinlichkeit bei dieser Art von Selbstausbildung weit höher ist als bei professionelleren und betreuten Ansätzen. Viele Probleme wurden so gemeldet, und folgerichtig hat sich der Mythos des Unfalls „durch menschliche Fehler“ verstärkt.
 
