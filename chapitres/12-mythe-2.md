@@ -4,7 +4,7 @@ Les accidents sont dus à des erreurs humaines.[^c-mythe2-ex]
 
 ### Un biais rétrospectif
 
-Tant que le matériel n’est pas directement en cause (ex : la voile ne casse pas), il sera toujours possible a posteriori de rationaliser les fautes commises par un accidenté. C’est d’ailleurs spontanément ce que nous faisons dans nos « débriefings » formels ou informels. À la fin, avec ou sans elle, ce sera toujours la faute de la victime. Sa technique, son analyse, son engagement, le choix de sa voile, sa fatigue, son stress, son placement et surtout ses décisions… Si elle a fini par terre un peu trop durement, c’est bien qu’elle a raté quelque chose à un moment donné, non ?\!  
+Tant que le matériel n’est pas directement en cause (ex. : la voile ne casse pas), il sera toujours possible a posteriori de rationaliser les fautes commises par un accidenté. C’est d’ailleurs spontanément ce que nous faisons dans nos « débriefings » formels ou informels. À la fin, avec ou sans elle, ce sera toujours la faute de la victime. Sa technique, son analyse, son engagement, le choix de sa voile, sa fatigue, son stress, son placement et surtout ses décisions… Si elle a fini par terre un peu trop durement, c’est bien qu’elle a raté quelque chose à un moment donné, non ?\!  
 Notre méthodologie offre là un parfait exemple de biais rétrospectif tel que largement étudié dans la littérature scientifique dès les années 1970 notamment par Daniel Kahneman[^9] (et coll.). Une fois le résultat connu, avec l’utilisation d’un temps long et l’ensemble des éléments à disposition, il sera toujours possible pour un observateur extérieur de rationaliser a posteriori les causes d’un accident afin de les imputer à une erreur humaine. C’est précisément cette méthode qui permet au système de garder de la confiance dans ses propres croyances et notamment le fait que le parapente est une activité sûre dont les risques peuvent être maîtrisés.
 
 ### Des victimes boucs émissaires
@@ -88,7 +88,7 @@ Cette réflexion est ouverte sur des causes individuelles et extra-individuelles
 
 Les erreurs sont une contrainte du système humain, une forme d’écueil impossible à éviter complètement y compris à travers la formation et la connaissance de soi. Il faudrait davantage enrayer l’émergence des pièges les plus significatifs pour les pratiquants. Rassembler les familles d’erreurs partageant la même classe de problème et inventer une protection collective afin que les pratiquants n’aient pas à se soucier de se retrouver dans cette situation.
 
-L’étude des facteurs humains est avant tout l’occasion de comprendre les fonctionnements individuels pour édifier de futures protections collectives / systémiques pour les pratiquants. Former et prévenir est souvent insuffisant pour prémunir les individus de tomber dans les travers de leur propre fonctionnement.
+L’étude des facteurs humains est avant tout l’occasion de comprendre les fonctionnements individuels pour édifier de futures protections collectives / systémiques pour les pratiquants. Former et prévenir est souvent insuffisant pour prémunir les individus contre les travers de leur propre fonctionnement.
 
 | Paradigme | La pratique est sûre et maîtrisable […] ⇔ Les accidents sont dus à des erreurs humaines | La sécurité du pratiquant est engagée en cas d’erreur […] ⇔ Les humains font des erreurs |
 | :---------- | :------------ | :------------ |
