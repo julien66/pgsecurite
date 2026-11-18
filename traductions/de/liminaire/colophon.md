@@ -18,7 +18,7 @@ Der Einfachheit halber spricht dieses Buch meist in der männlichen Form vom Pil
 
 **Übersetzung.** Diese deutsche Ausgabe ist eine Übersetzung des französischen Originals *Sécurité en parapente. À nos risques et périls ?*. Die Übersetzung entstand mit Unterstützung einer künstlichen Intelligenz. Die Zahlen des französischen Verbands (FFVL) und anderer Quellen werden unverändert aus dem Original übernommen.
 
-Übersetzung durchgesehen von: [ÜBERSETZER/IN ZU NENNEN]
+Übersetzung durchgesehen von: Mike Naismith
 
 Wer einen Fehler oder eine ungeschickte Formulierung findet, ist herzlich eingeladen, eine Korrektur vorzuschlagen: <https://github.com/julien66/pgsecurite>
 
