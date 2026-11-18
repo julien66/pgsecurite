@@ -18,7 +18,7 @@ Alles geschieht, als vergäße man, dass das Qualitätssystem vom Hersteller sel
 
 Die Struktur Ihres Schirms wird wahrscheinlich mit dem Laser zugeschnitten, aber immer noch von Hand genäht. Im Wettkampf wissen wir, dass es schwer ist, zwei identische Schirme zu haben. Die kleinsten Details haben Einfluss auf Geschwindigkeit und Verhalten. Und da spreche ich von Herstellern, die die Arbeit machen, die entwerfen, testen und zertifizieren lassen. Nichts verpflichtet sie dazu. In den meisten Ländern der Welt, also außerhalb des deutschsprachigen Marktes (der stärker reguliert ist), verpflichtet nichts einen Hersteller zu irgendetwas. Er kann Entwicklung, Produktion und Tests auslagern und sogar beschließen, seine Ausrüstung überhaupt nicht zertifizieren zu lassen.
 
-Vor nicht allzu langer Zeit sah ich auf Instagram ein Video einer armen Pilotin, die perfekt von einem grasbewachsenen Gipfel startet, 100 m über einer Skipiste gleitet und 50 m über Grund ohne erkennbares Vorzeichen einen totalen Frontklapper bekommt. Sie stürzt ab, ohne sich groß zu verletzen, aber sehr geschockt. Natürlich wird sie in den Kommentaren im Netz ausgiebig gelyncht.
+Vor nicht allzu langer Zeit sah ich auf Instagram ein Video einer armen Pilotin, die perfekt von einem grasbewachsenen Gipfel startet, 100 m über einer Skipiste gleitet und 50 m über Grund ohne erkennbares Vorzeichen einen totalen Frontklapper bekommt. Sie stürzt ab, ohne sich groß zu verletzen, ist aber sehr geschockt. Natürlich wird sie in den Kommentaren im Netz ausgiebig gelyncht.
 
 - „Hättest bremsen sollen…“
 - „Warum hast du nicht gegengesteuert?“
