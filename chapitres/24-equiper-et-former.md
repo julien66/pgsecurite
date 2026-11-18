@@ -47,7 +47,7 @@ Rien de tout cela ne retire leur valeur aux tests. Ils restent une plaque essent
 
 ### Performance, confort, légèreté : ce que le marché a choisi
 
-En quarante ans, la transformation de notre matériel a été spectaculaire. Mais si l’on regarde de près, elle porte presque entièrement sur trois axes : la performance, le confort et la légèreté. Chacun d’eux a été ultra-investi par les constructeurs et largement plébiscité par les pilotes, qui confirment ces directions chaque fois qu’ils achètent, ou non, un produit. La sécurité, elle, n’a presque jamais été un axe à part entière. Elle sert d’argument à tout le monde, mais elle n’a jamais fait vendre.
+En quarante ans, la transformation de notre matériel a été spectaculaire. Mais si l’on regarde de près, elle porte presque entièrement sur trois axes : la performance, le confort et la légèreté. Chacun d’eux a été ultra-investi par les constructeurs et largement plébiscité par les pilotes, qui confirment ces directions à chaque achat. La sécurité, elle, n’a presque jamais été un axe à part entière. Elle sert d’argument à tout le monde, mais elle n’a jamais fait vendre.
 
 Quelques exemples suffisent à le montrer.
 
