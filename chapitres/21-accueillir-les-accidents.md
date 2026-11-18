@@ -80,7 +80,7 @@ La FFVL reste néanmoins l’une des plus avancées au monde sur ces domaines de
 
 Ce qu’il faudrait, c’est une grille qui suive la logique de la TEM (voir « Mythe #2 ») : à côté des erreurs du pilote, des cases pour les menaces de l’environnement, du site, du matériel, de l’organisation et de l’information, et une case pour les parades qui ont manqué ou qui ont fonctionné. Avec cela, on pourrait enfin compter ce que l’on ne fait aujourd’hui que raconter. Et chaque préconisation d’un rapport d’enquête devrait avoir un destinataire, une réponse attendue et une trace publique de ce qui en a été fait. Tout cela demande beaucoup de moyens mais au préalable c’est un changement de conception qu’il nous faut.
 
-### RETEX et base de données accident
+### RETEX et base de données d’accidents
 
 Chaque institution devrait donc se doter d’un système de reporting et de RETEX (Retour d’Expérience). Il manque à la communauté une plateforme numérique strictement publique, gratuite et libre d’accès. Pratiquants, clubs, écoles, professionnels pourraient déclarer un accident et ses circonstances, y compris lorsqu’ils ne sont pas directement concernés par le sinistre (en tant que témoin). Nous devons déculpabiliser nos victimes afin qu’elles acceptent de témoigner avec justesse sur ce qui leur est arrivé.
 
